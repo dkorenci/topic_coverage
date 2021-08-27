@@ -1,0 +1,2045 @@
+SAMPLE_ID: labelingSample_[topicPairs=topicDist_[topics=uspolLabelingFinal[1,1,3]]_[dist=cosine]_[seed=None].pickle]_[sampling=uspolLabelingFinal] 
+
+------------------------------------------
+MATCH: 0
+
+WORDS: van maryland mikulski hollen oklahoma edward fratern retir sae seat barbara chri chapter racist chant
+ 150155 Jeb Bush's emails detail communications with top donors
+ 132324 Rep. Van Hollen says he will run for Mikulski's Senate seat
+ 151019 Jeb Bush's emails detail his relationships with top donors
+ 126583 Maryland senator Barbara Mikulski to leave Congress after 2016 - video
+ 140132 Democratic Representative Donna Edwards to seek Maryland U.S. Senate seat: Washington Post
+ 146915 Mikulski retirement sparks early jockeying in Maryland
+ 150135 Jeb Bush's emails detail communications with top donors
+ 143554 US Rep. Edwards says she will seek Maryland Senate seat
+ 151028 Jeb Bush's emails detail communications with top donors
+ 132260 Rep. Van Hollen says he will run for Mikulski's Senate seat
+ 151027 Jeb Bush's emails detail his relationships with top donors
+ 156603 OU Retains Former Federal Judge To Help With Racist Frat Incident
+ 151020 Jeb Bush's emails detail communications with top donors
+ 150222 Jeb Bush's emails detail his relationships with top donors
+ 150234 Jeb Bush's emails detail his relationships with top donors
+
+WORDS: van maryland mikulski hollen edward seat barbara retir chri czahor donna d-md baltimor progress ethan
+ 126088 Longest Serving Woman in Congress to Retire
+ 125781 Longest Serving Woman in Congress to Retire
+ 132324 Rep. Van Hollen says he will run for Mikulski's Senate seat
+ 132327 Top House Dem Van Hollen Will Run for Senate
+ 126583 Maryland senator Barbara Mikulski to leave Congress after 2016 - video
+ 141568 Sources: Rep. Donna Edwards to seek Maryland Senate seat
+  87829 Jeb Bush Aide Quits Over 'Insensitive Comments'
+ 143554 US Rep. Edwards says she will seek Maryland Senate seat
+ 140965 AP sources: Edwards to seek Maryland Senate seat
+ 146915 Mikulski retirement sparks early jockeying in Maryland
+  87491 New CTO for Jeb Bush PAC Resigns Over 'Insensitive Comments'
+ 143553 Rep. Donna Edwards Jumps In Maryland Senate Race
+ 132260 Rep. Van Hollen says he will run for Mikulski's Senate seat
+  87485 Bush aide resigns after Twitter controversy
+ 140132 Democratic Representative Donna Edwards to seek Maryland U.S. Senate seat: Washington Post
+
+PAIR_ID: 552959
+TID: HcaAdapter_Bme[50]_C[500]_Cme[200]_T[100]_burnin[50]_corpus[us_politics_textperline]_dictionary[us_politics_dict]_rseed[1120261]_text2tokens[whitespace_tokenizer]_type[lda-asym] $$$ 1
+TID: HcaAdapter_Bme[50]_C[1000]_Cme[400]_T[300]_burnin[50]_corpus[us_politics_textperline]_dictionary[us_politics_dict]_rseed[82370265]_text2tokens[whitespace_tokenizer]_type[pyp] $$$ 138
+
+------------------------------------------
+MATCH: 0
+
+WORDS: earnest josh psaki file brief document staff spokeswoman spokesman classifi advis petraeu podesta jen deputi
+ 104302 Obama picks State's Psaki to head White House communications
+ 186705 Delete, erase, shred: enemies of federal record-keepers
+ 104208 Obama picks State's Psaki to head White House communications
+ 162082 U.S. sets new record for denying, censoring government files
+ 186716 Delete, erase, shred: enemies of federal record-keepers
+ 161496 US sets new record for denying, censoring government files
+ 189184 Clinton email dustup latest in 'delete, erase' era of gov't
+ 189202 Clinton email dustup latest in 'delete, erase' era of gov't
+ 104179 Obama picks State's Psaki to head White House communications
+ 104169 Obama picks State's Psaki to head White House communications team
+ 162286 U.S. Sets New Record For Denying, Censoring Government Files
+ 161905 US sets new record for denying federal files under Freedom of Information Act
+ 162274 Obama administration sets new record for denying, censoring government files
+ 105212 Obama picks State's Psaki to be White House communications director
+ 104307 Obama picks Psaki for White House communications role
+
+WORDS: advis anonym team familiar spoke condit discuss sourc discu spokesman avoid alli approach strategist twitter
+ 179759 Clinton campaign to focus on money for primaries
+ 205791 Clinton expected to launch 2016 bid in next 2 weeks, sources say
+ 104956 Rubio facing pressure to run for Senate re-election
+ 216720 Hillary Clinton to announce presidential campaign on Sunday
+ 135870 The Hillary Camp's Rationale for Staying Quiet
+ 134976 Can Clinton live up to pledge to learn from 2008 mistakes?
+ 205706 Clinton to start 2016 bid with focus on voter interaction
+ 135713 Can Clinton live up to pledge to learn from 2008 mistakes?
+ 135689 Can Clinton live up to pledge to learn from 2008 mistakes?
+ 134965 Can Clinton live up to pledge to learn from 2008 mistakes?
+ 205719 Clinton to start 2016 bid with focus on voter interaction
+ 179803 Clinton campaign to focus on money for primaries
+ 216696 Hillary Clinton to announce presidential campaign on Sunday
+ 133122 Clinton emails inject Obama's administration into 2016 fray
+ 133174 Clinton emails inject Obama's administration into 2016 fray
+
+PAIR_ID: 365307
+TID: HcaAdapter_Bme[50]_C[500]_Cme[200]_T[100]_burnin[50]_corpus[us_politics_textperline]_dictionary[us_politics_dict]_rseed[26151085]_text2tokens[whitespace_tokenizer]_type[lda] $$$ 73
+TID: HcaAdapter_Bme[50]_C[500]_Cme[200]_T[200]_burnin[50]_corpus[us_politics_textperline]_dictionary[us_politics_dict]_rseed[34599268]_text2tokens[whitespace_tokenizer]_type[lda] $$$ 30
+
+------------------------------------------
+MATCH: 1
+
+WORDS: greec european greek europ auster debt economi euro bank eu germani crisi minist syriza imf
+  52297 Greek leftists win in a rebuke to austerity
+  66282 Greece Seeks To Reassure Europe As Tensions Rise
+  84003 Merkel: Greece must offer sustainable way to pay debt
+ 113009 Greece On Course For Euro Bailout Extension After Concessions
+  99635 Who's Extorting Whom? It's All About Coercion
+  96954 Can Greece Force a New Deal?
+  96398 Greece Confident Of Agreement Ahead Of Eurozone Negotiations
+  64665 Read The Daily Blog Of Greece's 'Erratic Marxist' Finance Minister Yanis Varoufakis
+  76740 Greece: ECB Kicks Syriza in the Face; Syriza Turns the Other Cheek
+ 121192 The Buck Stops Here - Greece is Fighting to Save Europe
+ 107243 Greek Bailout Update: Greece, Eurozone Strike Debt Deal
+  60033 Obama congratulates new Greek leader on election victory
+  68605 New Greek Leader Softens Rhetoric On Debt Talks With Europe
+ 106247 Germany Softens Tone Ahead Of Crucial Greek Debt Talks
+  82271 Greece's New PM Sets Up EU Clash With Bailout Rejection, Austerity Rollback
+
+WORDS: greec greek debt bailout eurozon auster tsipra syriza euro troika varoufaki merkel europ germani alexi
+  52772 A Break in the Greek Tragedy
+  53507 The Greeks Have Taken Responsibility
+  53782 Why a Referendum on a 'Greek Plan' for Reform Is Now the Best Way Forward
+  65352 Greece's New Finance Minister: 'You Have To Be Prepared To Blow The Whole Thing Up'
+  66282 Greece Seeks To Reassure Europe As Tensions Rise
+  68512 Austerity for the Other Guy
+  76740 Greece: ECB Kicks Syriza in the Face; Syriza Turns the Other Cheek
+  76743 13 Questions: About Greece, Europe, Austerity - And Us
+  82271 Greece's New PM Sets Up EU Clash With Bailout Rejection, Austerity Rollback
+  84003 Merkel: Greece must offer sustainable way to pay debt
+  99713 The Fate of Europe and the World May Rest in Greece
+ 104237 Greece and Europe on the Edge
+ 104774 Socialism or Barbarism? Syriza, Economics, and Democracy
+ 107243 Greek Bailout Update: Greece, Eurozone Strike Debt Deal
+ 156332 'Weimar Greece' and the Future of Europe
+
+PAIR_ID: 1164983
+TID: HcaAdapter_Bme[50]_C[500]_Cme[200]_T[200]_burnin[50]_corpus[us_politics_textperline]_dictionary[us_politics_dict]_rseed[71875193]_text2tokens[whitespace_tokenizer]_type[lda-asym] $$$ 45
+TID: gtar_themes_model $$$ 1
+
+------------------------------------------
+MATCH: 1
+
+WORDS: student test teacher standard common core district parent charter grade kid score teach learn math
+ 132135 GOP education chairman anticipates vote on education bill
+ 116410 White House threatens veto of bill to overhaul education law
+ 203442 NYC familes to boycott state math, reading exams: activists
+ 121852 House Republican leaders scrap education vote
+ 138456 Students Around The Country Are Opting Out Of Tests, Even If State Law Doesn't Allow It
+ 209318 No Child Left Behind Rewrite: Senators' 'Every Child Achieves' Act Empowers State Education Systems, Keeps Annual Testing
+ 145555 New York School District Considers Boycotting State Tests
+ 107137 Testy Over Testing: More Students Snub Standardized Exams
+  94357 Is Obama Trying to Get Around a Big Common Core Complaint?
+ 126870 New Mexico Students Walk Out Over New Tests Contested In US
+  59855 Washington state Dems reject national education standards known as Common Core
+ 115277 House to debate partisan bill to fix No Child Left Behind
+ 126897 Frustrated students walk out over new tests contested in US
+ 121687 Republican Leaders Struggle To Update Education Law
+ 117295 White House threatens to veto GOP effort to overhaul No Child Left Behind
+
+WORDS: student teacher test district parent charter grade teach score kid learn classroom pearson exam standard
+ 209173 Senators Announce Agreement To Update Education Law
+ 116410 White House threatens veto of bill to overhaul education law
+ 209683 U.S. senators propose fix to controversial education law
+ 209218 Senators announce agreement to update No Child Left Behind education law
+ 203442 NYC familes to boycott state math, reading exams: activists
+ 141628 Senators Say They've Made Progress To Update Education Law
+ 209318 No Child Left Behind Rewrite: Senators' 'Every Child Achieves' Act Empowers State Education Systems, Keeps Annual Testing
+ 140964 Senators say they've made progress to update education law
+ 107137 Testy Over Testing: More Students Snub Standardized Exams
+ 132135 GOP education chairman anticipates vote on education bill
+ 163950 GUEST COLUMN: Andrew Cuomo’s plan will fix NY education
+ 115277 House to debate partisan bill to fix No Child Left Behind
+  73174 Teacher Contends N.Y. State Evaluations Fail Accuracy Test
+ 112460 More Conflict Over Cutting Federal Role in Education
+ 117295 White House threatens to veto GOP effort to overhaul No Child Left Behind
+
+PAIR_ID: 641726
+TID: HcaAdapter_Bme[50]_C[500]_Cme[200]_T[100]_burnin[50]_corpus[us_politics_textperline]_dictionary[us_politics_dict]_rseed[1120261]_text2tokens[whitespace_tokenizer]_type[lda-asym] $$$ 66
+TID: HcaAdapter_Bme[50]_C[1000]_Cme[400]_T[300]_burnin[50]_corpus[us_politics_textperline]_dictionary[us_politics_dict]_rseed[82370265]_text2tokens[whitespace_tokenizer]_type[pyp] $$$ 245
+
+------------------------------------------
+MATCH: 0
+
+WORDS: islam muslim terror terrorist extrem radic violent violenc extremist isi religion religi summit pari counter
+ 102789 We Must Never Accept Terrorists 'Lie'
+ 104005 The Fix: The New York Post pulls no punches on President Obama. Like, none.
+ 104565 Obama: ‘Nations need to break the cycle of conflict’
+ 104026 Obama to call on world to focus on roots of ISIS, al Qaeda extremism
+ 102921 Obama Explains Why He Doesn't Use The Term 'Radical Islam' For Islamic State, Al Qaeda
+ 102695 WATCH LIVE: Obama Addresses Summit on Countering Extremism
+ 103031 Obama War On ISIS: Islam, Religion Not Responsible For Terrorism, Says President At White House Summit
+  99665 Biden opens White House summit on violent extremism
+ 101537 Obama to strike inclusive tone in countering extremism speech
+ 102870 Obama: countering violent extremism depends on Muslim support
+ 104353 Obama: Religious Acceptance Key to Combating Extremism
+ 102907 Obama Urges Americans to Keep Calm in Fight Against Violent Extremism
+ 104364 Obama: Notion that West at war with Islam an "ugly lie"
+ 102882 Obama: We're Not at War With Islam
+ 104403 Obama Calls for International Unity in Fight Against Terror, Extremism
+
+WORDS: arrest drug crime agent enforc crimin polic fbi traffick dea suspect cartel mexico mexican properti
+  83633 Neil Armstrong's Secret Bag Of Apollo 11 Mementos Found In A Closet
+ 190548 2 federal agents charged with stealing Bitcoin during Silk Road probe
+ 190712 DEA, Secret Service Agents Accused Of Stealing Bitcoins During Silk Road Investigation
+ 115109 Daniel Rosen, State Department Official, Accused Of Soliciting Sex From Minor
+ 217908 Police In New Mexico Will No Longer Seize Your Property Without Finding You Guilty Of A Crime
+ 115953 State Dept. official busted for soliciting minor for sex
+ 182116 DEA agents went to drug cartel hooker sex parties: report
+ 121742 State Dept. official granted bond on soliciting minor charge
+ 116593 Buzz Aldrin Explains How The U.S. Can Get One Step Closer To Colonizing Mars
+ 190956 Silk Road's Ulbricht Paid Rogue DEA Agent $100K For Investigation Details, Indictment Alleges
+ 117494 State Department official accused of soliciting sex from a minor denied bail
+ 198784 2 federal agents charged with stealing Bitcoin
+ 115099 Senior State Department Official, Daniel Rosen, Jailed For Soliciting Sex From A Minor
+ 115849 US State Department official arrested on suspicion of soliciting a minor
+ 183868 National Briefing | Washington: Report Says Drug Agents Attended Sex Parties
+
+PAIR_ID: 274920
+TID: HcaAdapter_Bme[50]_C[500]_Cme[200]_T[100]_burnin[50]_corpus[us_politics_textperline]_dictionary[us_politics_dict]_rseed[26151085]_text2tokens[whitespace_tokenizer]_type[lda] $$$ 15
+TID: HcaAdapter_Bme[50]_C[500]_Cme[200]_T[100]_burnin[50]_corpus[us_politics_textperline]_dictionary[us_politics_dict]_rseed[26151085]_text2tokens[whitespace_tokenizer]_type[lda] $$$ 46
+
+------------------------------------------
+MATCH: 0.5
+
+WORDS: chicago emanuel mayor garcia giuliani love rahm rudi runoff chuy brought neighborhood illinoi jesu pullman
+ 114989 Chicago Mayor Rahm Emanuel Forced Into April Runoff Election
+ 114903 Chicago Mayor Rahm Emanuel to face April runoff election
+ 209991 Chicago Mayor Rahm Emanuel Wins Second Term in Runoff Vote
+ 209932 Chicago Mayor Rahm Emanuel wins 2nd term in runoff victory
+  91047 Chicago Park District Approves Controversial Land Transfer For Proposed Obama Library Site
+ 114987 Chicago Mayor Rahm Emanuel forced into April runoff election
+ 140806 Location decision for Obama presidential library delayed
+ 117682 AP sources: Obama nonprofit polls Chicagoans on library site
+ 140351 AP sources: Chicago election delays Obama library decision
+ 115193 Emanuel forced into runoff in Chicago mayor's race
+ 117904 AP sources: Obama nonprofit polls Chicagoans on library site
+ 209946 Chicago Mayor Rahm Emanuel Wins Second Term With Runoff Victory
+ 140296 AP sources: Chicago election delays Obama library decision
+ 140626 Sources: Chicago election delays Obama library decision
+ 105152 In Chicago, Obama designates a monument — and boosts Emanuel
+
+WORDS: emanuel garcia chicago runoff mayor rahm jesu alderman chicagoan latino re-elect chuy teacher commission cook
+ 103532 Obama heads to Chicago to designate monument, boost Emanuel
+ 105193 Obama Rallies Votes For Chicago Mayor Rahm Emanuel Ahead Of Election
+ 105299 In Chicago, Obama Endorses Rahm Emanuel and Honors Pullman Workers
+ 113005 Chicago's Mayor Emanuel hopes to avoid run-off in election
+ 113447 Chicago Heads To The Polls As Rahm Emanuel Seeks Second Term
+ 114936 Emanuel forced into runoff against Garcia for Chicago mayor
+ 114943 Chicago Mayoral Race Isn't Over Yet, As Rahm Emanuel Falls Short Of Votes Needed To Avoid Runoff
+ 115480 Emanuel faces runoff in Chicago to stay mayor
+ 116155 Rahm Emanuel: Teachers Union Helps Push Chicago Mayor Rahm Emanuel To Runoff In Re-election Bid
+ 125624 Chicago Mayor Election 2015 Poll: Rahm Emanuel, 'Chuy' Garcia 'Dead Even' In New Survey
+ 190534 The Fix: Here’s shirtless Rahm Emanuel protesting neo-Nazis when he was 18
+ 191056 Chicago Mayor’s Race Reverberates Nationally
+ 192474 Rahm Emanuel aims to defend lead in final mayoral debate
+ 203859 Chicago mayoral runoff: Rahm Emanuel fights to keep African American support
+ 209956 Rahm Emanuel Survives Runoff Election And Wins Second Term As Chicago Mayor
+
+PAIR_ID: 327973
+TID: HcaAdapter_Bme[50]_C[500]_Cme[200]_T[100]_burnin[50]_corpus[us_politics_textperline]_dictionary[us_politics_dict]_rseed[26151085]_text2tokens[whitespace_tokenizer]_type[lda] $$$ 48
+TID: gtar_themes_model $$$ 88
+
+------------------------------------------
+MATCH: 1
+
+WORDS: debt loan borrow treasuri repay payment financi default greec lew greek lender consum ceil financ
+ 140474 Senate leader McConnell promises no default on debt
+ 143124 Obama aims to clamp down on federal student loan servicers
+ 143727 Student Aid Bill Of Rights To Debut: Obama Aims To Make College Debt Payments, Complaints Easier
+ 143190 Obama aims to clamp down on federal student loan servicers
+ 209538 How Hillary Clinton Would Affect the Student Debt Crisis
+ 144991 What Obama's plan means for student loan borrowers
+ 143486 Obama to announce changes for student loan repayment
+ 144807 Obama Announces Changes To Make Repaying Student Loans Easier
+ 137350 Treasury Secretary Lew tells Congress of emergency measures to avoid debt limit
+ 143552 Obama to announce changes for student loan repayment
+ 144425 Obama aims to clamp down on federal student loan servicers
+ 152131 Crackdown on Five Private Student Loan Collection Agencies -- But More Needs to Be Done
+ 144316 Obama Grants New ‘Rights’ for College Borrowers
+ 144491 Obama unveils plan to protect student loan borrowers
+ 143293 Obama aims to clamp down on federal student loan servicers
+
+WORDS: debt loan borrow student consum payment financi treasuri corinthian repay lender default credit rate payday
+ 140474 Senate leader McConnell promises no default on debt
+ 160157 Federal debt limit comes back into force at $18.1 trillion
+ 143124 Obama aims to clamp down on federal student loan servicers
+ 144425 Obama aims to clamp down on federal student loan servicers
+ 143190 Obama aims to clamp down on federal student loan servicers
+ 152305 Lew to Congress: Temporary funding steps taken
+ 127404 FHFA Puts New Rules on Delinquent Loan Sales
+ 144499 Obama aims to clamp down on federal student loan servicers
+ 143486 Obama to announce changes for student loan repayment
+ 144807 Obama Announces Changes To Make Repaying Student Loans Easier
+ 137350 Treasury Secretary Lew tells Congress of emergency measures to avoid debt limit
+ 143552 Obama to announce changes for student loan repayment
+ 129842 Here's when the US could run out of cash: CBO
+ 122690 Education Department Terminates Contracts With Debt Collectors Accused Of Wrongdoing
+ 143293 Obama aims to clamp down on federal student loan servicers
+
+PAIR_ID: 535583
+TID: SklearnNmfTmAdapter_T[100]_corpus[us_politics_textperline]_dictionary[us_politics_dict]_preproc[tf-idf]_rndSeed[24374331]_text2tokens[whitespace_tokenizer] $$$ 89
+TID: HcaAdapter_Bme[50]_C[500]_Cme[200]_T[200]_burnin[50]_corpus[us_politics_textperline]_dictionary[us_politics_dict]_rseed[34599268]_text2tokens[whitespace_tokenizer]_type[lda] $$$ 192
+
+------------------------------------------
+MATCH: 1
+
+WORDS: abort traffick provis languag ban restrict pregnanc anti-abort victim rape incest procedur hyde cornyn fetu
+ 145918 Democrats threaten to block their own bill after finding abortion language
+ 169007 Abortion measure in human trafficking bill shows Republican focus unchanged
+ 162702 Human trafficking bill with anti-abortion addendum stalls in Senate
+ 210942 Kansas bans common second trimester abortion procedure
+ 148120 National Briefing | Washington: Anti-Abortion Provision May Stop Human Trafficking Bill in Senate
+ 145557 GOP Sneaks Anti-Abortion Language Into Bipartisan Human Trafficking Bill
+ 178774 Senate Dems poised to drop objection to 'doc fix' bill
+ 163612 The Abortion Language In The Sex Trafficking Bill Would Make Life Harder For Rape Victims
+ 146232 Reid: Strip abortion from trafficking bill or it fails
+ 145694 Democrats Accuse Senate Republicans of Anti-Abortion Sneak Attack
+ 145114 Abortion Fight Threatens Bill to Crack Down on Human Trafficking
+ 162515 Pro-life groups condemn failure of human trafficking bill
+ 209426 Kansas Becomes First State To Ban Common Form Of Abortion
+ 211915 Rand Paul Refuses To Detail Abortion Position
+ 106546 Kansas Senate Approves Proposed Ban On Abortion Procedure
+
+WORDS: abort anti-abort traffick ban pregnanc amend reproduct rape fetu doctor pro-lif pro-choic parenthood pregnant prevent
+  95567 Gov. Jindal, pro-lifers block Planned Parenthood clinic in New Orleans
+  97982 Republicans' Curious Ideas About Contraception
+ 111809 Anti-Abortion Lawmaker Clearly Doesn't Understand Female Anatomy
+ 119211 House Republicans Slip Anti-Abortion Language Into Education Bill
+ 130118 Scott Walker Pumps Up Anti-Abortion Cred By Backing 20-Week Ban
+ 145557 GOP Sneaks Anti-Abortion Language Into Bipartisan Human Trafficking Bill
+ 163612 The Abortion Language In The Sex Trafficking Bill Would Make Life Harder For Rape Victims
+ 166147 Compromise offered to break Senate deadlock, but deal not assured
+ 166583 Dianne Feinstein Womansplains Why Democrats Aren't Backing Off Fight Over Anti-Abortion Proposal
+ 181118 Arizona lawmakers approve abortion bill, send to governor
+ 184085 Fact Checker: Here’s why the Senate stalemate over the human-trafficking bill is so complex
+ 195579 Arizona orders doctors to misleadingly tell women abortions may be reversible
+ 196287 Women's Reproductive Liberty: A Football in a Match Played By and For Men
+ 211946 Rand Paul: Go Ask the DNC About Abortion
+ 213693 Anti-abortion battleground broadens as US states fight on 'non-medical' grounds
+
+PAIR_ID: 1092516
+TID: SklearnNmfTmAdapter_T[200]_corpus[us_politics_textperline]_dictionary[us_politics_dict]_preproc[tf-idf]_rndSeed[85129645]_text2tokens[whitespace_tokenizer] $$$ 164
+TID: gtar_themes_model $$$ 0
+
+------------------------------------------
+MATCH: 1
+
+WORDS: black civil selma king racial carolina movement bridg african african-american young alabama martin anniversari north
+ 138550 Thousands Flood The Streets Of Selma To Honor Landmark Anniversary Of March
+ 127213 Congress clears bill to award gold medal to Selma marchers
+ 139459 Obama on the "clash of wills" at Selma
+ 138948 Text of Obama's remark at Selma anniversary commemoration
+ 146177 The Selma Speech: Obama's America vs. Giuliani's America
+ 138660 Transcript: Read Full Text of President Barack Obama’s Speech in Selma
+ 138568 Obama arrives in Selma to kick off weekend of commemorations
+ 138701 The Fix: A single photo that tells the powerful story of the 50th anniversary of Selma
+ 138817 Obama Selma Speech Text: Read President's Remarks On Bloody Sunday 50th Anniversary [FULL TEXT]
+ 138686 Transcript of President Obama's Selma Speech
+ 138530 Obama signs law honoring civil rights marchers
+ 138842 Obama Marks a Civil-Rights Turning Point
+ 139623 President Obama's remarks at the 50th anniversary of the Selma to Montgomery marches
+ 138718 Read The Full Transcript Of Obama's Powerful Speech In Selma
+ 138584 Obama arrives in Selma to kick off weekend of commemorations
+
+WORDS: black civil selma king racial johnson movement bridg african-american african anniversari martin alabama young honor
+ 138550 Thousands Flood The Streets Of Selma To Honor Landmark Anniversary Of March
+ 139459 Obama on the "clash of wills" at Selma
+ 138774 Obama in Selma: "Our march is not yet finished"
+ 138948 Text of Obama's remark at Selma anniversary commemoration
+ 146177 The Selma Speech: Obama's America vs. Giuliani's America
+ 138660 Transcript: Read Full Text of President Barack Obama’s Speech in Selma
+ 138568 Obama arrives in Selma to kick off weekend of commemorations
+ 138701 The Fix: A single photo that tells the powerful story of the 50th anniversary of Selma
+ 138817 Obama Selma Speech Text: Read President's Remarks On Bloody Sunday 50th Anniversary [FULL TEXT]
+ 138666 Barack Obama Marks 50th Anniversary Of 'Bloody Sunday' With Powerful Speech In Selma
+ 138686 Transcript of President Obama's Selma Speech
+ 138530 Obama signs law honoring civil rights marchers
+ 139623 President Obama's remarks at the 50th anniversary of the Selma to Montgomery marches
+ 138718 Read The Full Transcript Of Obama's Powerful Speech In Selma
+ 138584 Obama arrives in Selma to kick off weekend of commemorations
+
+PAIR_ID: 45221
+TID: HcaAdapter_Bme[50]_C[500]_Cme[200]_T[50]_burnin[50]_corpus[us_politics_textperline]_dictionary[us_politics_dict]_rseed[87023659]_text2tokens[whitespace_tokenizer]_type[lda] $$$ 26
+TID: HcaAdapter_Bme[50]_C[500]_Cme[200]_T[50]_burnin[50]_corpus[us_politics_textperline]_dictionary[us_politics_dict]_rseed[4551328]_text2tokens[whitespace_tokenizer]_type[lda-asym] $$$ 25
+
+------------------------------------------
+MATCH: 0
+
+WORDS: attorney prosecutor convict trial crimin arrest juri lawyer sentenc crime evid judg prison guilti prosecut
+ 201333 Critics: Orange County DA Needs 'Cleansing With Bleach And Firehoses'
+ 173642 Robbery Victim Held In Rikers Jail For 2 Years Without Being Convicted Of A Crime
+ 137937 Jodi Arias Case: Sole Holdout Juror Given Security After Her Name Was Leaked On Social Media
+ 161722 Former Connecticut Governor Rowland to be sentenced on Wednesday
+  87747 Jodi Arias Cannot Testify In Secret In Sentencing Retrial, Arizona Court Rules
+ 185260 Here's A Simple Timeline Showing Amanda Knox's Complex Legal Saga
+ 163097 Prosecutor accused of misconduct in disputed Texas execution case
+ 134193 Jodi Arias Verdict: No Death Penalty After Jury Hung Again; Second Mistrial For Convicted Murderer Of Travis Alexander
+ 121742 State Dept. official granted bond on soliciting minor charge
+ 146833 Feds aren’t pushing for prison time for Michael Grimm’s ex
+ 117494 State Department official accused of soliciting sex from a minor denied bail
+ 185943 Amanda Knox Verdict: Italian Appeals Court Overturns Murder Conviction
+ 115849 US State Department official arrested on suspicion of soliciting a minor
+ 221768 Jodi Arias Case: Convicted Killer Faces Sentencing In 2008 Murder Of Ex-Boyfriend Travis Alexander
+ 159438 Michael Grimm's ex sentenced to 3 months in prison
+
+WORDS: menendez corrupt indict briberi guilti improp prosecut probe accus bribe contribut donat politician scandal melgen
+ 112013 Aaron Schock, Lawmaker With Lavish Office Decor, Used Taxpayer Funds For Private Planes, Concerts
+ 114223 Sheldon Silver claims he can't get fair trial
+ 137083 New Jersey Senator Bob Menendez to be charged with criminal corruption
+ 137109 Federal Charges Against NJ Dem Could Come This Month: Sources
+ 137119 Criminal Corruption Charges Expected Against New Jersey Senator
+ 137249 Senator Bob Menendez faces federal corruption charges over gifts from donor – reports
+ 137674 U.S. said to ready criminal charges against Sen. Menendez
+ 144833 Three more Pennsylvania legislators charged in corruption sting
+ 196401 New Jersey Sen. Bob Menendez indicted on corruption charges
+ 196481 Sen. Bob Menendez Indicted On Public Corruption Charges
+ 196590 Take Heart, Robert Menendez: These 6 Senators Were Indicted But Later Acquitted
+ 196951 Sen. Menendez on Indictment: 'I Am Not Going Anywhere'
+ 197101 ‘I Am Not Going Anywhere’: Defiant Menendez Says He Will be ‘Vindicated’ From Corruption Charges
+ 197190 Menendez: Prosecutors Are 'Dead Wrong' On Federal Corruption Charges
+ 201416 NJ Sen. Menendez pleads not guilty to gift exchange charges
+
+PAIR_ID: 649994
+TID: HcaAdapter_Bme[50]_C[500]_Cme[200]_T[100]_burnin[50]_corpus[us_politics_textperline]_dictionary[us_politics_dict]_rseed[1120261]_text2tokens[whitespace_tokenizer]_type[lda-asym] $$$ 72
+TID: gtar_themes_model $$$ 109
+
+------------------------------------------
+MATCH: 0
+
+WORDS: nuclear weapon iranian agreement sanction tehran enrich bomb framework uranium centrifug inspect israel regim verifi
+ 207531 Obama says Iran could cut nuke time to near zero in 13 years
+ 198885 What's in the Iran nuclear deal? 6 key points
+ 199221 Highlights of the Iran nuclear deal framework
+ 207532 Obama says Iran could cut nuke time to near zero in 13 years
+ 189423 Centrifuges and enrichment: Get up to speed on Iran nuclear talks
+ 199968 Cirincione: Iran deal historic achievement for U.S. security
+ 199408 What We Know About The Iran Nuclear Deal Framework
+ 198862 Obama: Iran nuclear agreement will make the world safer
+ 211509 Why This Conservative Supports the Iranian Framework
+ 199178 Today's Announcment on Framework for Iran Nuclear Deal
+ 198972 President Obama’s full remarks announcing a ‘framework’ for a nuclear deal with Iran
+ 208504 How long would an Iran nuclear deal last?
+ 202910 Obama Says Iran Agreement Is a ‘Good Deal’
+ 207565 Obama concedes Iran's breakout time for nuclear weapon could be 'almost down to zero' after 13 years
+ 203947 Energy secretary: Iran deal blocks pathways to bomb
+
+WORDS: nuclear israel cheney jewish genocid armenian bomb holocaust regim jew weapon terror enemi netanyahu worldpost
+ 128919 Netanyahu Speech To Congress Full Text: Read Bibi's Entire Remarks On Iran
+ 128918 Netanyahu Purim Speech: Queen Esther Tale Invoked During Congress Iran Address
+ 169417 Weekend Roundup: The Politics of Polarization Always Ends Badly
+ 130382 Excerpts from Netanyahu's speech and rejoinder from Obama
+ 128836 Transcript of Israeli Prime Minister Netanyahu's speech to Congress
+ 128837 Transcript of Israeli Prime Minister Benjamin Netanyahu's Speech to Congress
+  65309 Weekend Roundup: Greece Revolts!
+ 129417 Excerpts from Israeli leader Netanyahu's speech to Congress
+ 107648 Weekend Roundup: From Kalashnikovs to God and Computers -- And Back Again
+ 128671 Full text: Netanyahu’s address to Congress
+ 128893 Transcript: Netanyahu Speech to Congress
+ 202002 Weekend Roundup: Yemen Ignites New Mideast War Within Islam
+  94398 Weekend Roundup: Merkel in the Middle as Post-Cold War Europe Falters
+  80416 Weekend Roundup: ISIS Savagery Taunts the World
+ 128922 Netanyahu Speech To Congress: Best Quotes On Iran, ISIS, Militant Islam And 'Game Of Thrones'
+
+PAIR_ID: 418018
+TID: SklearnNmfTmAdapter_T[100]_corpus[us_politics_textperline]_dictionary[us_politics_dict]_preproc[tf-idf]_rndSeed[24374331]_text2tokens[whitespace_tokenizer] $$$ 8
+TID: HcaAdapter_Bme[50]_C[500]_Cme[200]_T[100]_burnin[50]_corpus[us_politics_textperline]_dictionary[us_politics_dict]_rseed[1120261]_text2tokens[whitespace_tokenizer]_type[lda-asym] $$$ 96
+
+------------------------------------------
+MATCH: 0
+
+WORDS: crimin crime prison sentenc convict drug incarcer offend jail arrest offens reduc popul mandatori societi
+ 194008 Obama commutes 22 prison sentences
+ 193671 Obama commutes 22 drug-related sentences
+ 114720 Obama, lawmakers push for criminal justice reform
+ 200186 Is it time to end the war on crime?
+ 194190 President Obama commutes sentences of 22 drug offenders
+ 193936 Obama Offers Commutations to 22 of 209,155 Federal Prisoners
+ 193694 Obama Commutes Long Sentences of 22 Drug Offenders
+ 173647 U.S. Supreme Court to Review Juvenile Life Sentences
+ 170760 Obama: I'll Use Clemency Power 'More Aggressively'
+ 193566 Obama commutes sentences of 22 people in federal prison
+  73075 Connecticut Governor Proposes Changes to Drug Laws
+ 193751 The Fix: Every Obama pardon and commutation, mapped
+ 193592 Obama commutes sentences of 22 people in federal prison
+ 193752 Obama commutes sentences of 22 drug offenders
+ 193665 Obama Grants Early Release From Prison to 22 Drug Offenders
+
+WORDS: assault sexual campu rape colleg student victim violenc consent crime sex gang expel safe abus
+  72588 Study Shows When The Feds Leave, Colleges Go Back To Underreporting Sex Assaults
+ 103127 Fraternities Might Be 'Scared' Enough To Address Sexual Assault
+ 108600 In 5 Minutes, This Student Destroys Our Double Standards For Men And Women
+ 117756 Cuomo unveils campaign to fight sexual assault at colleges
+ 121550 Scott Walker Budget Deletes College Rape Reporting Requirements
+ 131002 California lawmakers push for 'yes means yes' consent law at high schools
+ 136120 ReThink Review: <i>The Hunting Ground</i> -- Sexual Assault and the Colleges That Won't Stop It
+ 141706 JMU Sued For Punishing Sexual Assault With 'Expulsion After Graduation'
+ 143028 Jameis Winston Sexual Assault Case: FSU Asks Federal Judge To Dismiss Lawsuit Filed By Accuser
+ 152675 Harvard Sued For Allegedly Retaliating Against Professor Who Defended Sexual Assault Survivors
+ 163509 It's Time to Change the Narrative on Sexual Assault in Our High Schools
+ 174363 Charlottesville Police Find No Evidence To Support Alleged UVA Gang Rape
+ 178752 Fraternities Consider Lobbying Congress To Thwart College Rape Investigations
+ 180453 Connecticut lawmaker under fire for sex assault 'party' joke
+ 206366 106 Colleges Are Under Federal Investigation For Sexual Assault Cases
+
+PAIR_ID: 1131232
+TID: HcaAdapter_Bme[50]_C[500]_Cme[200]_T[200]_burnin[50]_corpus[us_politics_textperline]_dictionary[us_politics_dict]_rseed[71875193]_text2tokens[whitespace_tokenizer]_type[lda-asym] $$$ 6
+TID: gtar_themes_model $$$ 125
+
+------------------------------------------
+MATCH: 1
+
+WORDS: water oil ga land drill natur environment alaska area arctic frack industri resourc mine regul
+  55073 Obama Administration to Propose New Offshore Areas for Oil, Gas Drilling
+ 168290 Obama administration tightens rules on chemical disclosure
+  56791 Obama Administration Outlines New Proposal For Offshore Oil And Gas Leasing
+  56003 Obama to propose oil drilling off Atlantic Coast
+  56742 Obama Plan Calls for Oil and Gas Drilling in the Atlantic
+ 168363 Obama administration tightens rules on chemical disclosure
+ 218353 New Sea Drilling Rule Planned, 5 Years After BP Oil Spill
+ 168424 Obama administration announces new fracking rule
+  57197 Obama Proposes Opening Atlantic Ocean to Drilling
+  55223 White House to Propose Allowing Oil Drilling off Atlantic Coast
+ 218480 U.S. To Impose Offshore Drilling Rule: Report
+ 222256 Obama Administration To Propose Offshore Drilling Rules Designed To Prevent Future BP Oil Spill Disasters
+  87879 Arctic Ocean shoal ruled off limits for oil drilling
+ 168541 Obama Administration Unveils New Fracking Rules
+  88313 Chukchi Sea's Hanna Shoal Area Declared Off-Limits To Oil Drilling
+
+WORDS: oil ga drill water alaska land natur arctic sea frack environment regul energi fish wildlif
+ 168290 Obama administration tightens rules on chemical disclosure
+  56791 Obama Administration Outlines New Proposal For Offshore Oil And Gas Leasing
+  56003 Obama to propose oil drilling off Atlantic Coast
+  56742 Obama Plan Calls for Oil and Gas Drilling in the Atlantic
+ 168363 Obama administration tightens rules on chemical disclosure
+  87879 Arctic Ocean shoal ruled off limits for oil drilling
+ 168424 Obama administration announces new fracking rule
+  52625 Obama seeks bigger wilderness designation in Alaska refuge
+  55223 White House to Propose Allowing Oil Drilling off Atlantic Coast
+ 168356 Obama Administration Unveils Federal Fracking Regulations
+ 222256 Obama Administration To Propose Offshore Drilling Rules Designed To Prevent Future BP Oil Spill Disasters
+  57197 Obama Proposes Opening Atlantic Ocean to Drilling
+  52568 Obama Administration Moves to Ban Drilling in Arctic Refuge
+  88313 Chukchi Sea's Hanna Shoal Area Declared Off-Limits To Oil Drilling
+ 218480 U.S. To Impose Offshore Drilling Rule: Report
+
+PAIR_ID: 395493
+TID: HcaAdapter_Bme[50]_C[500]_Cme[200]_T[100]_burnin[50]_corpus[us_politics_textperline]_dictionary[us_politics_dict]_rseed[26151085]_text2tokens[whitespace_tokenizer]_type[lda] $$$ 93
+TID: HcaAdapter_Bme[50]_C[500]_Cme[200]_T[100]_burnin[50]_corpus[us_politics_textperline]_dictionary[us_politics_dict]_rseed[1120261]_text2tokens[whitespace_tokenizer]_type[lda-asym] $$$ 26
+
+------------------------------------------
+MATCH: 1
+
+WORDS: yemen saudi houthi arabia rebel hadi arab strike al yemeni embassi shiit qaeda capit sanaa
+ 219464 Yemen Crisis: Three Saudis Killed, Two Injured In Fighting At Yemeni Border
+ 180991 Obama authorizes some support for Saudi airstrikes in Yemen
+ 184011 Yemen’s President Hadi Leaves Aden For Saudi Arabia As Airstrikes Continue Against Houthis
+ 180773 Saudi Arabia launches airstrikes in Yemen, ambassador says
+  92098 Embassy closure hurts counterterrorism in Yemen: U.S. officials
+  87646 U.S. closes embassy in Yemen over security concerns
+ 180988 Obama authorizes some support for Saudi airstrikes in Yemen
+ 181165 Saudi Arabia launches airstrikes in Yemen, ambassador says
+ 181413 Saudi-led forces strike rebel bases in Yemen as Iran warns of 'dangerous step'
+ 181917 Which Countries Are Part Of Saudi Arabia's Coalition Against Yemen's Houthis?
+ 170357 Yemen: U.S. Forces Evacuate Base As Al Qaeda Seizes City
+ 186539 US Steps Up Aid For Saudi-Led Coalition In Fight Against Houthi Rebels In Yemen
+ 220283 Saudi Arabia Dismisses Iran Calls For Yemen Ceasefire
+ 188389 Saudi ambassador: Conflict in Yemen is not a proxy war with Iran
+ 170363 U.S. forces evacuate Yemen as al-Qaida takes city: officials
+
+WORDS: yemen houthi rebel saudi yemeni sanaa arabia strike hadi shiit aden takeov al-jubeir mansour capit
+ 102615 Emails show sensitive info left exposed after US pullout from Yemen
+ 125840 U.S. ambassador meets Yemen's Hadi in Aden
+ 170287 Yemen Crisis: US Pulls 100 Special Forces From Yemen Air Base - Report
+ 181149 Obama authorizes some support for Saudi airstrikes in Yemen
+ 181191 Saudi Arabia Airstrikes: Oil Prices Soar After Military Operations Begin Against Houthi Rebels In Yemen
+ 181767 Saudi Arabia Leads Air Strikes Against Yemen's Houthi Rebels
+ 181917 Which Countries Are Part Of Saudi Arabia's Coalition Against Yemen's Houthis?
+ 182641 MSNBC's Mika Brzezinski Hounds Josh Earnest: 'Is Yemen Still A Success Story?'
+ 182840 US defends strategy in Yemen and Iraq but diplomats admit: it's a mess
+ 183455 Chaos In Yemen Gives New Fuel To Critics Of Obama's Foreign Policy
+ 186539 US Steps Up Aid For Saudi-Led Coalition In Fight Against Houthi Rebels In Yemen
+ 188502 Conflict in Yemen is not a proxy war: Saudi official
+ 196798 Obama's anti-terror petri dish in chaos
+ 203773 Yemen's Houthis Ready For Talks If Air Strikes Stop, Claims Senior Member
+ 221523 US reportedly steps up involvement in Saudi-led Yemen campaign
+
+PAIR_ID: 1276579
+TID: HcaAdapter_Bme[50]_C[500]_Cme[200]_T[200]_burnin[50]_corpus[us_politics_textperline]_dictionary[us_politics_dict]_rseed[71875193]_text2tokens[whitespace_tokenizer]_type[lda-asym] $$$ 188
+TID: gtar_themes_model $$$ 47
+
+------------------------------------------
+MATCH: 1
+
+WORDS: anim smith dog pet hors peta shelter eleph owner industri cat fur adopt ban ethic
+ 131919 Dogs and Cats Are Being Slaughtered in Maryland. This Law Would Protect Them. PETA is Trying to Kill It.
+ 104606 Georgia Lawmaker Wants To Make Sure Embryos Don't Glow In The Dark
+  76745 PETA Euthanized A Lot Of Animals At Its Shelter In 2014, And No-Kill Advocates Are Not Happy About It
+ 185197 Ethics panel steps up inquiry of Kentucky Rep. Whitfield
+ 212402 Carriage horses have low stress, end the ban: Liam Neeson
+ 111496 Meryl Streep Reenacted 'American Sniper' For Bradley Cooper With A LEGO Oscar
+ 185193 Ethics panel steps up inquiry of Kentucky Rep. Whitfield
+  96297 PETA Hires Lobbyist to Squash Bill That Would Restrain Their Pet Killing
+  70325 While PETA's Kill Rate Rises, VA Senate Bill Aims to Stop It From Slaughtering More Pets
+  54599 Critics Slam Mississippi Bill That Equates Pit Bulls And 'Dangerous Dogs'
+ 182168 Animal Advocates Cheer As Bill Aimed At High-Kill PETA Shelter Is Signed Into Law
+ 104943 Tomorrow Virginia Decides Whether PETA Gets to Continue Killing Pets
+ 111554 PETA's Killing Machine Loses in Landslide 95-2 Vote in Virginia
+  74901 Bill to Prevent PETA From Killing Dogs and Cats Passes in the Virginia Senate, 33-5
+ 185508 Ethics panel steps up inquiry of Kentucky Rep. Whitfield
+
+WORDS: anim peta hors shelter industri eleph beer fur ethic carriag ban zoo breweri welfar dog
+ 185888 U.S. ethics panel probes Kentucky lawmaker over wife's lobbying
+ 122281 PETA Will Be Fined All of $500 For Killing a Little Girl's Dog
+  70325 While PETA's Kill Rate Rises, VA Senate Bill Aims to Stop It From Slaughtering More Pets
+ 122147 Beer battle brewing in Congress as craft producers seek tax break
+ 185197 Ethics panel steps up inquiry of Kentucky Rep. Whitfield
+ 212402 Carriage horses have low stress, end the ban: Liam Neeson
+ 122847 Beer battle brewing in Congress as craft producers seek tax break
+ 185193 Ethics panel steps up inquiry of Kentucky Rep. Whitfield
+  96297 PETA Hires Lobbyist to Squash Bill That Would Restrain Their Pet Killing
+ 131919 Dogs and Cats Are Being Slaughtered in Maryland. This Law Would Protect Them. PETA is Trying to Kill It.
+  80135 Alleged Theft and Killing of Dog by PETA Employees Moves Virginia Attorney General to Create New Legal Unit
+ 104943 Tomorrow Virginia Decides Whether PETA Gets to Continue Killing Pets
+ 111554 PETA's Killing Machine Loses in Landslide 95-2 Vote in Virginia
+  74901 Bill to Prevent PETA From Killing Dogs and Cats Passes in the Virginia Senate, 33-5
+ 185508 Ethics panel steps up inquiry of Kentucky Rep. Whitfield
+
+PAIR_ID: 756287
+TID: HcaAdapter_Bme[50]_C[500]_Cme[200]_T[200]_burnin[50]_corpus[us_politics_textperline]_dictionary[us_politics_dict]_rseed[34599268]_text2tokens[whitespace_tokenizer]_type[lda] $$$ 55
+TID: HcaAdapter_Bme[50]_C[1000]_Cme[400]_T[300]_burnin[50]_corpus[us_politics_textperline]_dictionary[us_politics_dict]_rseed[82370265]_text2tokens[whitespace_tokenizer]_type[pyp] $$$ 263
+
+------------------------------------------
+MATCH: 1
+
+WORDS: cyber cybersecur hacker hack comput data network breach soni cyberattack intellig privaci access technolog target
+  85914 Obama administration to announce new cybersecurity agency
+ 176561 Cyber 'threat-sharing' bill introduced in House
+  92386 Obama Recruits Tech Giants for New Cybersecurity, Info-Sharing Efforts
+  85531 US to establish new cybersecurity agency: Official
+  94797 Obama Wields Executive Power Again: ‘Cyber World Is Sort of the Wild, Wild West’
+  86142 Obama to create new agency to examine cyberthreats
+  85586 U.S. To Create New Cybersecurity Agency: Official
+  69825 Obama Seeks $14 Billion to Boost Cyber Defenses
+ 145561 Sources: State Dept. hack the 'worst ever'
+  92506 Obama huddles with tech execs in San Francisco
+  86352 Privacy experts question Obama's strategy to tackle cyber threats
+ 176504 U.S. House committee introduces 'threat-sharing' cybersecurity bill
+  85798 U.S. Government to Announce New Cyber Threat Center
+ 196030 Obama authorizes sanctions against "malicious cyber actors"
+  86288 Obama to create new agency to examine cyberthreats
+
+WORDS: cybersecur cyber hacker hack network cyberattack breach vulner malici malwar kasperski penetr intellig soni data
+  69825 Obama Seeks $14 Billion to Boost Cyber Defenses
+  85798 U.S. Government to Announce New Cyber Threat Center
+  86288 Obama to create new agency to examine cyberthreats
+  93225 Obama Heads To Silicon Valley To Discuss Hacking Threats With CEOs
+  94486 Obama Urges Tech Companies to Cooperate on Internet Security
+ 102352 Feds pushing companies to act on cyberthreats
+ 126762 Report: Air traffic control system vulnerable to cyberattack
+ 150164 NSA Strongly Suspected In 'Equation Group' Hacks On Russian, Iranian Hard Drives
+ 160403 In the Loop: The latest hot job in the Washington revolving door? Cybersecurity.
+ 166278 Obama Taps Facebook Director to Upgrade White House Technology
+ 177165 House Cybersecurity Bill, 'Protecting Cyber Networks Act,' To Allow Feds To Share Info On Attacks With Private Industry
+ 182939 Breaking: Congress Overwhelmingly Agrees On Something (Cybersecurity), And That Could Be A Problem
+ 195696 Obama targets foreign hackers and state-owned companies over cyber-attacks
+ 209678 Obama aide: White House classified computer system secure
+ 209791 White House Hack Is Proof Russia Is 'Reassembling Its Evil Empire,' Congressman Claims
+
+PAIR_ID: 1103828
+TID: SklearnNmfTmAdapter_T[200]_corpus[us_politics_textperline]_dictionary[us_politics_dict]_preproc[tf-idf]_rndSeed[85129645]_text2tokens[whitespace_tokenizer] $$$ 176
+TID: gtar_themes_model $$$ 49
+
+------------------------------------------
+MATCH: 0
+
+WORDS: treatment drug hiv medic cancer patient diseas prevent mental treat medicin doctor research hospit ill
+  63586 Obama to Unveil Research Initiative Aiming to Develop Tailored Medical Treatments
+  72285 Bill Aimed at Improving Mental Health Treatment for Veterans Passes Senate
+  74324 National Black HIV/AIDS Awareness Day: Reducing HIV Among African American Communities
+  77751 The Danger in Consolidating Cancer Care
+ 101878 Yon Yu: Helping make stockpiled medicines and experimental drugs available during a crisis
+ 111230 Science Be Damned: Americans Prefer Broken Method Of Heroin Treatment, Survey Finds
+ 111749 Idaho lawmakers propose psychologists have ability to prescribe meds
+ 118563 Chirlane McCray: Shattering the mental illness stigma
+ 118775 Outrage of the Month: Health Insurers Find Creative New Way to Discriminate Against Sick Patients by Increasing Drug Costs
+ 132972 Lung Cancer Treatment Using Immune System Wins F.D.A. Approval
+ 144949 Stepping out of the Shadows, Together for Women and Girls
+ 183177 Indiana HIV Outbreak: Scott County Gets Needle-Exchange Program After Governor Declares Emergency
+ 183591 Indiana Gov. Mike Pence Overrides State Law To Authorize Needle-Exchange Program
+ 196632 Why Are These Doctors So Mad? What It Means for You
+ 206447 Protecting the Public From Cancer
+
+WORDS: rubio marco floridian cuban miami bid conant tampa r-fla cuban-american tower launch april reclaim undisclos
+  84334 Rubio nabs key former Romney aide
+ 143068 Marco Rubio, Horatio Alger, and the GOP-Donor Version of Class Warfare
+ 158575 For Marco Rubio, Venezuela matters in 2016
+ 161479 Rubio willing to defy European allies on possible Iran deal
+ 187031 U.S. Senator Rubio could announce White House bid April 13: report
+ 187186 US Senator Rubio Could Announce White House Bid April 13: Report
+ 190935 The Fix: Marco Rubio’s fundraising chops are more impressive than you think
+ 197167 Rubio confirms April 13 announcement in Miami
+ 213188 Marco Rubio, set to launch 2016 campaign, gets a super PAC
+ 214541 Expected Presidential Bid Puts Marco Rubio at Odds With a Mentor, Jeb Bush
+ 217109 Hillary Clinton is stepping all over Marco Rubio’s announcement — or is she?
+ 221586 Five things to know about Marco Rubio
+ 221753 Rubio looks to find his opening in the 2016 Republican field
+ 221874 6 things to know about Marco Rubio
+ 222555 Rubio launches 2016 campaign
+
+PAIR_ID: 1471067
+TID: gtar_themes_model $$$ 59
+TID: gtar_themes_model $$$ 117
+
+------------------------------------------
+MATCH: 0
+
+WORDS: warren elizabeth progress sander street liber massachusett wall berni draft populist vermont moveon movement class
+  74482 Campaign to draft Warren can’t stop, won’t stop
+ 220665 Liberal Groups Respond to Hillary Clinton Campaign Launch
+ 113103 Sen. Elizabeth Warren again denies interest in 2016 bid
+ 126394 The Fix: Bernie Sanders still waiting on that meeting with Hillary Clinton
+ 220581 In video message, progressives tell Hillary Clinton: We’re ‘Ready for Boldness’
+ 210516 Warren keeps imprint on 2016, applauds progressive pledge
+  69593 Sen. Schumer: I’ll bet on Hillary Clinton for 2016
+ 220813 Spokesman: Sanders to decide on presidential run by April 30
+ 220766 Spokesman: Sanders to decide on presidential run by April 30
+ 221688 With Clinton In, Progressives Ramp Up Pressure
+ 192002 Liberal Dems, GOP cling to hope Warren runs for president
+ 191998 Liberal Dems, GOP cling to hope Warren runs for president
+  80650 EXCLUSIVE: WFP considers backing Warren instead of Clinton
+  82429 WFP will back Elizabeth Warren for White House run
+ 106055 Warren: Supporters are 'ready to fight back'
+
+WORDS: homeless shelter street assist sleep economi hud veteran sutton mayor blasio perman de nonprofit resid
+  54839 Historic Winter Storm Is A Real Emergency For New York City's Homeless
+  59564 Mayor Accuses Homeless People Of Meth Use, Closes Park To Get Rid Of Them
+  61889 For one night, trying to make each homeless person count
+  66781 NYC homelss population tops 59K, a record high
+  69018 De Blasio will unveil plan to end veteran homelessness
+  72266 Obama Just Quietly Sent His Chief Of Staff To Count Homeless People In San Francisco
+ 107129 Obama Administration Urges Homeless Shelter Programs To Protect Transgender Residents
+ 119491 Tonya Proctor: Providing help for the homeless
+ 136297 Seattle Missed Its Homelessness Goal. Here's How It Can Do Better
+ 164375 EXCLUSIVE: NYC homeless shelter stays for kids soar
+ 177068 Denver Coffee Shop Hires Homeless Youth, Gives Them Second Chance 'No One Else Would'
+ 186643 How Giving Homes To The Homeless Reduces Homelessness
+ 217815 Origami-Inspired Personal Shelter Provides A Quick Solution For Homeless
+
+PAIR_ID: 770177
+TID: HcaAdapter_Bme[50]_C[500]_Cme[200]_T[200]_burnin[50]_corpus[us_politics_textperline]_dictionary[us_politics_dict]_rseed[34599268]_text2tokens[whitespace_tokenizer]_type[lda] $$$ 66
+TID: gtar_themes_model $$$ 113
+
+------------------------------------------
+MATCH: 0
+
+WORDS: data comput cyber privaci cybersecur hacker hack network intellig technolog breach access target consum softwar
+  98232 US embeds spyware in foreign networks: Kaspersky
+ 176561 Cyber 'threat-sharing' bill introduced in House
+  94793 Obama admits to using simple passwords
+ 195696 Obama targets foreign hackers and state-owned companies over cyber-attacks
+  93057 Obama Order Will Help Firms Get U.S. Cyberthreat Data
+  86100 Obama to create new agency to examine cyberthreats
+  98201 Spyware Embedded by U.S. in Foreign Networks, Security Firm Says
+ 209678 Obama aide: White House classified computer system secure
+  85531 US to establish new cybersecurity agency: Official
+ 176745 'Threat-Sharing' Cyber Bill Introduced in US House
+  86032 Obama to create new agency to examine cyberthreats
+ 176504 U.S. House committee introduces 'threat-sharing' cybersecurity bill
+  85798 U.S. Government to Announce New Cyber Threat Center
+ 195582 Obama Administration Can Now Sanction Foreign Hackers
+  69825 Obama Seeks $14 Billion to Boost Cyber Defenses
+
+WORDS: nsa intellig surveil snowden data spi collect privaci cellphon cyber phone cybersecur edward leak internet
+  72786 Obama reform of spy agency access to phone metadata in question
+  78606 GCHQ Internet Monitoring Was Illegal As It Breached Human Rights Laws: Court
+  84172 Obama acknowledges damage from NSA eavesdropping on Merkel
+  85531 US to establish new cybersecurity agency: Official
+ 105881 NSA reportedly collaborated with Britain to steal cell phone codes
+ 143362 Wikipedia Is Suing The NSA
+ 144549 Wikimedia files lawsuit against NSA
+ 151317 Congress Girds For Patriot Act Fight Over NSA Spying
+ 151318 Here's The Digital Privacy Battle At The Center Of Obama's Big Trade Deal
+ 176561 Cyber 'threat-sharing' bill introduced in House
+ 176823 House unveils cyber bill and signals bipartisan compromise
+ 181934 Apple, Facebook Among Tech Heavyweights Asking Obama To Let Key Patriot Act Provision Expire
+ 188015 Before leak, NSA mulled ending phone program
+ 188358 Tracking US Phone Call Data Had Little Effect On Fighting Terrorism, Internal NSA Critics Said Months Before Edward Snowden Leaks: Report
+ 190023 NSA weighed ending phone program before Snowden leak
+
+PAIR_ID: 1301675
+TID: HcaAdapter_Bme[50]_C[1000]_Cme[400]_T[300]_burnin[50]_corpus[us_politics_textperline]_dictionary[us_politics_dict]_rseed[82370265]_text2tokens[whitespace_tokenizer]_type[pyp] $$$ 24
+TID: gtar_themes_model $$$ 116
+
+------------------------------------------
+MATCH: 1
+
+WORDS: walker wisconsin scott right-to jeb rick protest madison cpac milwauke evolut perri contend recal jindal
+ 142652 Obama criticizes Wisconsin's new 'right-to-work' law
+ 207530 Obama: Walker approach on Iran deal would embolden enemies
+ 153240 Scott Walker says Jeb Bush is 'a name from the past'
+  63046 GOP's Walker, Gearing Up for 2016, Emphasizes His Faith
+ 119905 Walker: Protesters prepared him to confront global terrorism
+  89156 Wisconsin's Walker refuses to answer question on evolution
+  89587 Scott Walker dodges evolution question: 'That's a question a politician shouldn't be involved in' – video
+  72992 Gov. Walker Takes Aim at College Outlays, Professors
+ 153985 Walker's Staff Mum On His Whereabouts On Out-Of-State Trips
+ 210719 'Nothing personal,' White House says of Obama jabs at Walker
+ 108469 Gov. Walker says he doesn't know if Obama loves his country
+ 124656 Scott Walker Changes Position on Immigration as 2016 Nears
+  92468 GOP Contender Walker Draws Wall Street Cash
+ 108462 Gov. Walker says he doesn't know if Obama loves his country
+ 119862 Scott Walker Says He Can Take On ISIS Because He Took On Labor Unions
+
+WORDS: walker wisconsin scott right-to evolut protest recal milwauke club madison growth labor dinner saturday bargain
+ 124443 Wisconsin's Walker: Sure, Obama loves his country
+ 141115 Scott Walker Signs Bill Limiting Union Heft
+ 144370 Usually accessible Walker hasn't taken questions lately
+ 108469 Gov. Walker says he doesn't know if Obama loves his country
+  89334 Scott Walker won’t say whether he believes in evolution
+ 107140 Wisconsin Republicans Plan To Push Right-To-Work Bill Next Week
+  89156 Wisconsin's Walker refuses to answer question on evolution
+ 123290 Wisconsin unions head to state capitol to protest 'right-to-work' law
+ 200901 Walker's Wisconsin still lags nation in job growth
+ 107055 Wisconsin Republicans plan to push right-to-work bill next week
+ 202323 Budget, economy in Wis. complicate Walker's pitch for 2016
+ 141053 Wisconsin Governor Walker signs bill limiting union heft
+ 123584 Thousands Protest Wisconsin's Right-To-Work Bill At The State's Capitol
+ 200888 Walker's Wisconsin still lags nation in job growth
+ 202307 Budget, economy in Wis. complicate Walker's pitch for 2016
+
+PAIR_ID: 106859
+TID: SklearnNmfTmAdapter_T[50]_corpus[us_politics_textperline]_dictionary[us_politics_dict]_preproc[tf-idf]_rndSeed[86936512]_text2tokens[whitespace_tokenizer] $$$ 12
+TID: HcaAdapter_Bme[50]_C[500]_Cme[200]_T[100]_burnin[50]_corpus[us_politics_textperline]_dictionary[us_politics_dict]_rseed[1120261]_text2tokens[whitespace_tokenizer]_type[lda-asym] $$$ 87
+
+------------------------------------------
+MATCH: 0
+
+WORDS: european europ greec greek minist germani british london britain franc german french prime eu auster
+  52297 Greek leftists win in a rebuke to austerity
+  66282 Greece Seeks To Reassure Europe As Tensions Rise
+  84003 Merkel: Greece must offer sustainable way to pay debt
+ 113009 Greece On Course For Euro Bailout Extension After Concessions
+  84025 Merkel: Greece must offer sustainable way to pay debt
+  96398 Greece Confident Of Agreement Ahead Of Eurozone Negotiations
+  64665 Read The Daily Blog Of Greece's 'Erratic Marxist' Finance Minister Yanis Varoufakis
+ 107243 Greek Bailout Update: Greece, Eurozone Strike Debt Deal
+  52772 A Break in the Greek Tragedy
+  60033 Obama congratulates new Greek leader on election victory
+  70852 UN Court: Serbia Did Not Commit Genocide In Croatia During Balkan Wars
+  68605 New Greek Leader Softens Rhetoric On Debt Talks With Europe
+ 106247 Germany Softens Tone Ahead Of Crucial Greek Debt Talks
+  82271 Greece's New PM Sets Up EU Clash With Bailout Rejection, Austerity Rollback
+  90649 Greek PM Tsipras Lays Out His Case As The Clock Ticks On An EU Bailout
+
+WORDS: fed rate economi greec bank greek european growth reserv market inflat central europ unemploy financi
+ 157845 Why the Fed meeting could create fireworks
+  79442 Fed's Lockhart: Inflation, wages still 'worrisome'
+ 178589 Fed's Evans: 'No compelling reason' to hike rates
+ 181725 Fed's Lockhart: Need rate hike midyear or later
+ 112808 Yellen faces grilling on rate policy, transparency
+ 181409 May be time to normalize monetary policy: Fed's Bullard
+ 113290 Yellen: No rate hike for next couple FOMC meetings
+ 121192 The Buck Stops Here - Greece is Fighting to Save Europe
+ 107243 Greek Bailout Update: Greece, Eurozone Strike Debt Deal
+ 192404 Strong case for June rates liftoff, says Fed's Lacker
+ 118171 Bullard: Fed should lose its 'patience' on rates
+ 137027 Fed's Lacker repeats call to hike rates
+ 207147 The Terrible Twos: Central Bank Inflation Targets
+ 163065 The Fed Threatens To Raise Interest Rates, Which Could Be A Big Mistake
+ 121821 Fed's Fischer: Rate rise seen 'sometime this year'
+
+PAIR_ID: 320605
+TID: HcaAdapter_Bme[50]_C[500]_Cme[200]_T[100]_burnin[50]_corpus[us_politics_textperline]_dictionary[us_politics_dict]_rseed[26151085]_text2tokens[whitespace_tokenizer]_type[lda] $$$ 44
+TID: HcaAdapter_Bme[50]_C[500]_Cme[200]_T[100]_burnin[50]_corpus[us_politics_textperline]_dictionary[us_politics_dict]_rseed[1120261]_text2tokens[whitespace_tokenizer]_type[lda-asym] $$$ 59
+
+------------------------------------------
+MATCH: 0.5
+
+WORDS: file lawsuit suit alleg document su complaint lawyer attorney plaintiff violat litig brief deni photo
+  99056 Judge temporarily blocks Obama's immigration executive action
+ 165700 Officials say Paul has not filed paperwork to run for U.S. president
+ 166805 U.S., Texas Meet in Court Over Timeline of Executive Action on Immigration
+  56408 House GOP moves toward possible lawsuit on immigration
+  56543 Boehner opens door to Obama immigration lawsuit
+ 107242 Obama Seeks Stay on Immigration Ruling
+  52577 Split Grows on Obama's Immigrant Tack
+ 146489 Associated Press Sues State Department Over Clinton Records
+ 146466 AP sues State Department, seeking access to Clinton records
+ 146584 AP Sues State Department for Access to Hillary Clinton Emails
+ 146446 AP sues State Department for Hillary Clinton emails
+ 146483 AP sues Hillary Clinton for access to email records
+ 146510 Associated Press Sues State Department to Force Hillary Clinton Email Release
+ 145435 National Briefing | Midwest: Wisconsin: Unions Sue to Stop Law Halting Dues Collection
+  57774 John Boehner Considering Lawsuit Against President Obama Over Immigration Order
+
+WORDS: judg lawsuit appeal file district attorney hanen block lawyer injunct circuit suit su suprem stay
+ 116411 Federal judge rebuffs DOJ bid to unfreeze immigration actions by Wednesday
+ 116537 States given until Tuesday to respond in immigration lawsuit
+ 164372 Hearing set on allegations in immigration lawsuit
+ 114558 States given until Monday to respond in immigration lawsuit
+ 107044 US to seek stay of ruling on Obama immigration action
+ 111150 Feds Ask for Hold on Obama Immigration Action to Be Lifted
+ 114571 States given until Monday to respond in immigration lawsuit
+ 149785 US government asks for end to hold on immigration action
+ 116559 States given until Tuesday to respond in immigration lawsuit
+ 177794 Appeals court sets April hearing on Obama immigration action
+ 149878 Obama administration asks judge to lift freeze on immigration actions
+ 210152 Judge Denies Justice Department's Request To Lift Hold On Obama Immigration Action
+ 111127 US seeks stay of ruling on Obama immigration action
+ 149803 US government asks for end to hold on immigration action
+ 111134 Feds ask judge to lift hold on Obama’s immigration action
+
+PAIR_ID: 1012116
+TID: SklearnNmfTmAdapter_T[200]_corpus[us_politics_textperline]_dictionary[us_politics_dict]_preproc[tf-idf]_rndSeed[85129645]_text2tokens[whitespace_tokenizer] $$$ 82
+TID: HcaAdapter_Bme[50]_C[500]_Cme[200]_T[200]_burnin[50]_corpus[us_politics_textperline]_dictionary[us_politics_dict]_rseed[71875193]_text2tokens[whitespace_tokenizer]_type[lda-asym] $$$ 9
+
+------------------------------------------
+MATCH: 1
+
+WORDS: selma alabama bridg civil anniversari pettu edmund bloodi commemor montgomeri lewi marcher king ala luther
+ 141211 First on CNN: Boehner raised money in California during Selma events
+ 127213 Congress clears bill to award gold medal to Selma marchers
+ 119824 Senate votes to award congressional medal to Selma marchers
+ 138323 Obama Joins Selma Anniversary March
+ 138625 Civil Rights Icon John Lewis Shares Memories And Photos From Selma In This Incredible Series Of Tweets
+ 139731 'Bloody Sunday' Anniversary Commemorated With March Across Selma Bridge
+ 138997 The Fix: Selma, in 7 photos
+ 138550 Thousands Flood The Streets Of Selma To Honor Landmark Anniversary Of March
+ 138461 Obama Selma Speech Live Stream: President Marks 50th Anniversary Of 'Bloody Sunday' In Alabama
+ 139407 Obama Invokes Stonewall, Draws Comparisons Between Civil Rights And LGBT Equality In #Selma50 Speech
+ 138530 Obama signs law honoring civil rights marchers
+ 138719 John Lewis At Selma Anniversary: 'There's Still Work Left To Be Done'
+ 138587 Obama signs law honoring civil rights marchers
+ 138336 Obama To Make Call To Action In Selma Anniversary Visit
+ 138584 Obama arrives in Selma to kick off weekend of commemorations
+
+WORDS: selma young men bridg honor truth fifti lewi love faith will hundr ferguson citizen blood
+ 139157 Finally I Hear a Politician Explain My Country Just the Way I Understand It
+ 138998 ‘The march is not yet over,’ Obama tells crowd at foot of Selma bridge
+ 139459 Obama on the "clash of wills" at Selma
+ 138948 Text of Obama's remark at Selma anniversary commemoration
+ 146177 The Selma Speech: Obama's America vs. Giuliani's America
+ 138817 Obama Selma Speech Text: Read President's Remarks On Bloody Sunday 50th Anniversary [FULL TEXT]
+ 144890 #Selma50, Storytelling Strategies and Social Change
+ 138701 The Fix: A single photo that tells the powerful story of the 50th anniversary of Selma
+ 138700 The Fix: President Obama’s right: Americans vote far less than people in other countries
+ 138660 Transcript: Read Full Text of President Barack Obama’s Speech in Selma
+ 138666 Barack Obama Marks 50th Anniversary Of 'Bloody Sunday' With Powerful Speech In Selma
+ 138686 Transcript of President Obama's Selma Speech
+ 138718 Read The Full Transcript Of Obama's Powerful Speech In Selma
+ 139623 President Obama's remarks at the 50th anniversary of the Selma to Montgomery marches
+ 138939 Obama's America
+
+PAIR_ID: 973098
+TID: SklearnNmfTmAdapter_T[200]_corpus[us_politics_textperline]_dictionary[us_politics_dict]_preproc[tf-idf]_rndSeed[85129645]_text2tokens[whitespace_tokenizer] $$$ 44
+TID: HcaAdapter_Bme[50]_C[1000]_Cme[400]_T[300]_burnin[50]_corpus[us_politics_textperline]_dictionary[us_politics_dict]_rseed[82370265]_text2tokens[whitespace_tokenizer]_type[pyp] $$$ 102
+
+------------------------------------------
+MATCH: 0
+
+WORDS: team bowl super game player nfl footbal leagu sport basebal stadium fan patriot field athlet
+  64999 Seahawks Coach Pete Carroll Has 9/11 Truthers' Support For 2015 Super Bowl
+ 165305 NFL Rookie Chris Borland Explains His Decision To Retire: ‘The Game Is Inherently Dangerous'
+  57545 De Blasio backs Patriots, doesn't buy DeflateGate claims
+ 222495 Emmitt Smith Perfectly Summarizes What Scares So Many Parents About Football
+  64660 NFL's Crotch-Grabbing Fine Should Go To Women's Shelters, Local Charities: Lawmaker
+  67727 President Obama Weighs In On The Seahawks Secondary And Deflategate
+  79112 Chris Paul Criticizes Female Ref After Receiving A Single Technical Foul: ‘This Might Not Be For Her'
+  67691 President Obama Won't Take Sides In This Year's Super Bowl
+  64747 20 Banned Super Bowl Commercials That Never Made It To, Well, The Super Bowl
+ 129930 NFL Champions Steve Weatherford And Sidney Rice To Donate Brains To Science
+  72984 House Bill Would Revoke Washington NFL Team's Trademarks
+  59001 5 Things You Didn't Know About The New England Patriots
+  63887 8 Things You Didn't Know About The Super Bowl, Even If You Watch Every Year
+  53693 NFL Pulls $150 Poster Featuring Marshawn Lynch's Fine-Inducing Crotch Grab After Getting Called Hypocrites
+ 163067 NFL-Affiliated Doctor Says Football Is Safer Than Riding A Bike
+
+WORDS: nfl game team ncaa leagu tournament basketbal player bracket sport footbal coach athlet duke championship
+  60916 Jason Chaffetz wants to end tax exemptions for NFL and NHL
+  64660 NFL's Crotch-Grabbing Fine Should Go To Women's Shelters, Local Charities: Lawmaker
+  89921 America Mourns For The Players Of Jackie Robinson West And Their Lost Little League Championship
+ 113917 Redskins Pull The 'Free Speech' Card Over Canceled Trademark
+ 143508 The Plot To Build An NFL Stadium In Downtown LA Is Officially Dead
+ 159926 The Fix: Jeb Bush says he won’t pander to win the GOP nomination, but his NCAA bracket is pretty kind to Iowa
+ 162437 President Barack Obama picks Kentucky to win NCAA Tournament
+ 162477 Obama's 2015 bracket breakdown: Kentucky to win it all
+ 162516 Obama's annual bracket: Kentucky all the way
+ 163384 Why Jeb Bush's Bracket Has More Madness Than Obama's
+ 165305 NFL Rookie Chris Borland Explains His Decision To Retire: ‘The Game Is Inherently Dangerous'
+ 180752 New York City Students Of Color Are Denied School Sports, Protestors Say
+ 183330 Congressman asks pro sports leagues about their tax-exempt status
+ 185321 Michael Sam: Some Famous Athletes Are Secretly Gay
+ 192171 Why the Sports World Will Crush Opponents of LGBT Rights
+
+PAIR_ID: 1402541
+TID: HcaAdapter_Bme[50]_C[1000]_Cme[400]_T[300]_burnin[50]_corpus[us_politics_textperline]_dictionary[us_politics_dict]_rseed[82370265]_text2tokens[whitespace_tokenizer]_type[pyp] $$$ 196
+TID: gtar_themes_model $$$ 65
+
+------------------------------------------
+MATCH: 0
+
+WORDS: list emili remov terror gala sponsor recommend mention anniversari schriock readi design award embassi add
+ 130136 Hillary Clinton Live Stream At Pro-Choice Emily's List Conference
+ 125387 Emily's List Is Ready for Hillary
+ 176443 US removes dozens of Cuban companies from blacklist
+ 172474 Likely GOP Presidential Candidates Seek Texas Dollars
+  70638 EMILY's List to honor Hillary Clinton
+ 130254 Hillary Clinton: Don't You Want to See a Woman President?
+  71072 Hillary Clinton to headline March event for PAC aimed at electing women
+ 130100 Mikulski Will ‘Give It All I’ve Got’ to Elect More Women to the Senate
+  53881 The Fix: 18 states haven’t nominated a best political reporter yet. Come on people!
+ 113995 Clinton run charges up Emily's List ahead of 2016
+ 129210 The Fix: Hillary Clinton’s e-mails issue casts a big shadow over tonight’s Emily’s List gala
+ 176330 US removes dozens of Cuban companies from blacklist
+  69959 Pentagon Chiefs Expected to Seek Extra Funds
+ 176336 US removes dozens of Cuban companies from blacklist
+ 209404 No decision yet on Cuba, terrorism list: White House
+
+WORDS: pope franci visit vatican pontiff cathol church septemb argentina jesuit moder joint sept boehner earnest
+  62087 Pope Francis Says Pallium Ceremony Will Be Held At Home, Not Rome
+  76664 Pope Francis Child Sex Abuse Letter: Pontiff Orders Bishops To Cooperate With New Church Commission
+  76934 Pope Francis to Address Congress on September 24
+  76949 Boehner: Pope Francis to address Congress on Sept. 24
+  76958 Pope Francis To Speak To Congress In September
+  77009 Pope Francis To Give A Speech To Congress In September
+ 150543 The Pope gives his blessing to campaign finance reform
+ 182010 Pope Francis to visit White House
+ 182030 Obamas to host Pope Francis at White House Sept. 23
+ 182106 Obamas to host Pope Francis on his first US visit
+ 182144 Pope Francis Will Visit the White House
+ 182306 Pope Francis to visit White House Sept. 23
+ 183839 First Draft: Obama and Pope Francis to Meet at White House
+ 197755 The Catholic Vote in America is More Complicated Than It Seems
+ 197756 American Public Has Hugely Positive Views of Pope Francis
+
+PAIR_ID: 1074997
+TID: SklearnNmfTmAdapter_T[200]_corpus[us_politics_textperline]_dictionary[us_politics_dict]_preproc[tf-idf]_rndSeed[85129645]_text2tokens[whitespace_tokenizer] $$$ 145
+TID: gtar_themes_model $$$ 132
+
+------------------------------------------
+MATCH: 1
+
+WORDS: e-mail schweich missouri tom devic jackson phone hancock death spokesman blunt danforth blackberri friend jewish
+ 190391 Spokesman for Missouri Official Who Committed Suicide Is Found Dead
+ 104238 Democrat Jason Kander To Challenge GOP Senator Roy Blunt In Missouri In 2016
+ 130176 National Briefing | Midwest: Missouri: Bullying Denounced at Auditor’s Memorial
+ 194386 National Briefing | Midwest: Missouri: Unemployment Cited in Suicide Note
+ 119416 GovBeat: Missouri auditor Tom Schweich dead of self-inflicted gunshot
+ 191860 Spokesman for Missouri state auditor found dead 1 month after boss killed himself
+ 119757 Missouri Auditor Tom Schweich dead at 54
+ 119587 Missouri Republican dead after apparent suicide
+ 192337 Report: Hillary Clinton Also Used iPad For E-Mail While Secretary of State
+ 166878 GOP Donor Backs Anti-Semitic Claims Of Auditor Who Shot Self
+ 189704 Spokesman kills self 1 month after GOP boss kills self
+ 190220 Spokesman for Missouri state auditor found dead 1 month after boss killed himself
+ 167004 Donor Says Missouri’s Republican Chairman Made Biased Remark
+ 193597 Missouri police play down connection between suicides of two Republicans
+ 190327 GovBeat: Spokesman found dead weeks after Missouri state auditor Tom Schweich’s suicide
+
+WORDS: schweich auditor missouri tom self-inflict jewish wound suicid eulog bulli audit hancock gunshot spenc loui
+ 119416 GovBeat: Missouri auditor Tom Schweich dead of self-inflicted gunshot
+ 119429 Tom Schweich, Missouri Auditor And Gubernatorial Candidate, Dead At Age 54
+ 119478 Missouri state auditor and candidate for governor dies
+ 119587 Missouri Republican dead after apparent suicide
+ 119659 Tom Schweich, Republican Candidate in Missouri, Is Dead at 54
+ 119757 Missouri Auditor Tom Schweich dead at 54
+ 120299 Missouri Candidate for Governor Dies of Apparent Suicide
+ 122837 ​Why would GOP candidate for Missouri governor kill himself?
+ 130232 Danforth Cites Political Bullying in Schweich Eulogy
+ 149698 Missouri Candidate's Suicide Brings Political Nastiness to National Attention
+ 166878 GOP Donor Backs Anti-Semitic Claims Of Auditor Who Shot Self
+ 167004 Donor Says Missouri’s Republican Chairman Made Biased Remark
+ 188893 Missouri Candidate Picks Up Where She Left Off After Rival’s Suicide
+ 193597 Missouri police play down connection between suicides of two Republicans
+ 194386 National Briefing | Midwest: Missouri: Unemployment Cited in Suicide Note
+
+PAIR_ID: 757653
+TID: HcaAdapter_Bme[50]_C[500]_Cme[200]_T[200]_burnin[50]_corpus[us_politics_textperline]_dictionary[us_politics_dict]_rseed[34599268]_text2tokens[whitespace_tokenizer]_type[lda] $$$ 56
+TID: gtar_themes_model $$$ 87
+
+------------------------------------------
+MATCH: 1
+
+WORDS: black civil selma king racial johnson movement bridg african-american african anniversari martin alabama young honor
+ 138550 Thousands Flood The Streets Of Selma To Honor Landmark Anniversary Of March
+ 139459 Obama on the "clash of wills" at Selma
+ 138774 Obama in Selma: "Our march is not yet finished"
+ 138948 Text of Obama's remark at Selma anniversary commemoration
+ 146177 The Selma Speech: Obama's America vs. Giuliani's America
+ 138660 Transcript: Read Full Text of President Barack Obama’s Speech in Selma
+ 138568 Obama arrives in Selma to kick off weekend of commemorations
+ 138701 The Fix: A single photo that tells the powerful story of the 50th anniversary of Selma
+ 138817 Obama Selma Speech Text: Read President's Remarks On Bloody Sunday 50th Anniversary [FULL TEXT]
+ 138666 Barack Obama Marks 50th Anniversary Of 'Bloody Sunday' With Powerful Speech In Selma
+ 138686 Transcript of President Obama's Selma Speech
+ 138530 Obama signs law honoring civil rights marchers
+ 139623 President Obama's remarks at the 50th anniversary of the Selma to Montgomery marches
+ 138718 Read The Full Transcript Of Obama's Powerful Speech In Selma
+ 138584 Obama arrives in Selma to kick off weekend of commemorations
+
+WORDS: selma bridg bloodi alabama commemor anniversari lewi black histor racial african african-american racism racist johnson
+  69761 Lessons from 'Selma'
+ 129510 New Petition Calls On Alabama To Rename Historic Selma Bridge
+ 136778 The Fix: No Republican leaders are going to Selma this weekend. That’s a dumb move.
+ 138291 In Selma, Gathering to Reflect on a Bloody Day in Civil Rights Fight
+ 138584 Obama arrives in Selma to kick off weekend of commemorations
+ 138625 Civil Rights Icon John Lewis Shares Memories And Photos From Selma In This Incredible Series Of Tweets
+ 138660 Transcript: Read Full Text of President Barack Obama’s Speech in Selma
+ 138666 Barack Obama Marks 50th Anniversary Of 'Bloody Sunday' With Powerful Speech In Selma
+ 138719 John Lewis At Selma Anniversary: 'There's Still Work Left To Be Done'
+ 138818 Obama Selma Speech: 'Nonviolent Change Is Possible,' President Says During Bloody Sunday Anniversary
+ 138875 Obama says Selma a living history lesson for his daughters
+ 139731 'Bloody Sunday' Anniversary Commemorated With March Across Selma Bridge
+ 141396 The Story We Don't Tell About Selma
+ 144517 Reflections on Selma
+ 160208 A New Name for the Selma Bridge Is Long Overdue
+
+PAIR_ID: 211986
+TID: HcaAdapter_Bme[50]_C[500]_Cme[200]_T[50]_burnin[50]_corpus[us_politics_textperline]_dictionary[us_politics_dict]_rseed[4551328]_text2tokens[whitespace_tokenizer]_type[lda-asym] $$$ 25
+TID: gtar_themes_model $$$ 12
+
+------------------------------------------
+MATCH: 0.5
+
+WORDS: isi islam terrorist syria terror iraq fighter al milit recruit intellig extremist isil qaeda radic
+ 107942 ISIS name giving terror license to loose, growing network of offshoots
+  87071 US intel officials: 20,000 foreign fighters flock to Syria, Iraq
+ 117102 How Many Americans Have Traveled To Syria To Join ISIS?
+ 127756 US Spy Chief Says 40 Americans Who Returned From Syria Don't Pose Security Threat
+  87780 AP Exclusive: IS militants drawing steady stream of recruits
+ 107221 ISIS name giving terror license to loose, growing network of offshoots
+  88011 ISIS Continues Steady Recruitment As 20,000 Foreign Fighters Join Extremist Groups In Syria, Iraq: Report
+  90109 Intel officials tight-lipped on American militant fighters back in US, admit tracking is difficult
+ 117183 Envoy: Coalition airstrikes have blunted IS momentum in Iraq
+ 102172 Official: U.S. keeping ISIS kill list
+  87460 U.S. officials warn of increase of ISIS foreign fighters
+  89398 Intelligence officials tight lipped on American militant fighters back in US, admit tracking is difficult
+  88563 U.S. officials estimate over 20,000 foreign fighters aiding extremists
+  95576 Islamic State Sprouting Limbs Beyond Mideast
+ 116346 3 Men Arrested in New York City For Allegedly Trying To Join ISIS
+
+WORDS: islam extrem terrorist muslim terror violent isi isil qaeda radic extremist recruit milit violenc fighter
+  61727 W.H.: ISIS a "terrorist group," but Taliban an "armed insurgency"
+  64907 Perhaps We Can Prevent Terrorism
+  76943 Obama Says Terror Committed in Islam’s Name Betrays the Faith
+  77911 ISIS expanding ‘international footprint’ with affiliates in more countries, officials warn
+  89344 Obama: 'Only one option' against ISIS militants
+  99665 Biden opens White House summit on violent extremism
+ 100358 Biden: Societies must offer "affirmative alternative" to extremism
+ 100779 No terror group capable of a 9/11-type attack: Ex-CIA chief
+ 101145 At summit, Obama aims to broaden world approach to extremism
+ 101623 Danish Police Confirm Details Of Copenhagen Attacks
+ 104026 Obama to call on world to focus on roots of ISIS, al Qaeda extremism
+ 104262 Obama Calls for Expansion of Human Rights to Combat Extremism
+ 107942 ISIS name giving terror license to loose, growing network of offshoots
+ 123165 Egypt Court Declares Hamas A 'Terrorist Organization'
+ 187978 Leading Suspect In Tunisia Museum Attack Killed, Prime Minister Says
+
+PAIR_ID: 1315380
+TID: HcaAdapter_Bme[50]_C[1000]_Cme[400]_T[300]_burnin[50]_corpus[us_politics_textperline]_dictionary[us_politics_dict]_rseed[82370265]_text2tokens[whitespace_tokenizer]_type[pyp] $$$ 45
+TID: gtar_themes_model $$$ 31
+
+------------------------------------------
+MATCH: 0
+
+WORDS: isi iraq islam syria iraqi ground milit troop syrian fighter isil coalit jordan aumf assad
+ 112129 Iraqi Sunni Tribes In Anbar Fighting ISIS Say They Need More US Weapons
+ 104980 The US Anti-ISIS Strategy In Iraq’s Anbar Province Is Not Working
+  53396 Kurdish Officials Say They've Nearly Pushed ISIS Out Of Kobani
+  87113 Kayla Jean Mueller Killed By ISIS, Not Jordanian Airstrike, Report Says
+ 189629 Iran claims U.S. drone kills 2 Revolutionary Guard advisers
+ 107606 US Airstrikes In Anbar Hit ISIS Weapons Stores, But Spare Enemy Fighters
+  88268 Text of Obama's letter to lawmakers accompanying war request
+  88597 Obama Asks Congress for Permission to Keep Fighting ISIS
+ 146231 Iraqi forces enter Tikrit as tide shifts in battle with ISIS
+  82162 General Allen: ISIS Burning Of Pilot Backfired, Strengthened Coalition Against Extremist Group
+ 129843 U.S. On The Sidelines In Key Battle Against ISIS In Iraq
+  88314 Obama sends Congress draft war authorization
+ 104872 Turkey, US Sign Deal To Train, Arm Syrian Rebels: US Embassy
+ 148837 Iraqi Troops Clash With ISIS In Battle To Take Back Tikrit
+  82093 Kerry: US 'on the road' to defeating Islamic State terror group
+
+WORDS: jordan islam isi jordanian hostag video pilot mueller milit syria death behead burn kayla captur
+  58343 Jordan ready to swap death-row prisoner for ISIS-held pilot
+  71892 Obama: US seeking to confirm authenticity of video
+  71916 Obama: US seeking to confirm authenticity of video
+  73287 Obama Offers Condolences To Jordan Over Pilot's Death, Vows To 'Redouble' Efforts To Defeat ISIS
+  71882 Obama promises to redouble efforts to defeat ISIS
+  85886 Kayla Mueller's Parents Say They Have Been Notified Of Her Death
+  80604 Parents Of ISIS' American Hostage Appeal To Militant Group As Authorities Await Word On Her Fate
+  58131 Mother makes emotional appeal to Japanese leader to save son
+  79463 US: No evidence backing up IS claim of American's death
+  73157 Obama, Jordanian king vow to continue campaign against ISIS
+  87113 Kayla Jean Mueller Killed By ISIS, Not Jordanian Airstrike, Report Says
+  71977 Obama: Video Showing Apparent Execution Of Jordanian Pilot Shows ISIS's Ideology Is Bankrupt
+  85922 Parents of Kayla Mueller, ISIS Hostage, Confirm She Is Dead
+  71782 Pilot reportedly burned alive by ISIS (GRAPHIC IMAGE)
+  73079 ​Obama, Jordan's King Abdullah vow not to let up against ISIS
+
+PAIR_ID: 605069
+TID: HcaAdapter_Bme[50]_C[500]_Cme[200]_T[100]_burnin[50]_corpus[us_politics_textperline]_dictionary[us_politics_dict]_rseed[1120261]_text2tokens[whitespace_tokenizer]_type[lda-asym] $$$ 39
+TID: HcaAdapter_Bme[50]_C[500]_Cme[200]_T[200]_burnin[50]_corpus[us_politics_textperline]_dictionary[us_politics_dict]_rseed[71875193]_text2tokens[whitespace_tokenizer]_type[lda-asym] $$$ 103
+
+------------------------------------------
+MATCH: 1
+
+WORDS: bergdahl taliban guantanamo prison armi desert detaine bay bow sgt afghanistan swap soldier qatar terrorist
+ 180269 Military charges Bergdahl with desertion after White House calls him prisoner who served with 'honor'
+ 183870 House panel asks White House for documents related to Bergdahl swap
+  56309 Army Sgt. Bowe Bergdahl to be charged with desertion: report
+  56317 Bowe Bergdahl to face desertion charges: NBC
+ 180616 Senator: Pentagon must watch Taliban swapped for Bergdahl
+ 181279 Bergdahl charges revive questions over prisoner swap
+ 183496 House panel asks White House for documents on Bergdahl swap
+ 180735 Bergdahl Desertion Charges Reignite Criticism From Republican Leaders; Boehner, Graham Condemn Prisoner Swap
+ 179902 Bowe Bergdahl Desertion: Army Reportedly To File Charges Against Freed Soldier
+ 179884 Military to charge Bergdahl with desertion
+ 181292 Bergdahl charges revive questions over prisoner swap
+  56640 Bowe Bergdahl To Face Charges of Desertion, Report Says
+ 179864 Bergdahl to be charged with desertion, official says
+  62698 Senator: Taliban detainees have communicated with Haqqani
+ 178595 Five questions on the delay in a decision on Bowe Bergdahl's fate
+
+WORDS: bergdahl taliban bow prison soldier swap desert armi sgt guantanamo afghanistan misbehavior captiv enemi command
+  55886 Bergdahl to be charged with desertion, ex-military intel officer says
+  56309 Army Sgt. Bowe Bergdahl to be charged with desertion: report
+ 179864 Bergdahl to be charged with desertion, official says
+ 179884 Military to charge Bergdahl with desertion
+ 179902 Bowe Bergdahl Desertion: Army Reportedly To File Charges Against Freed Soldier
+ 179943 Report: Sergeant Bowe Bergdahl Charged With Desertion
+ 180154 Where Are The Taliban Five Now? Commanders In Bowe Bergdahl Swap Getting 'Royal Treatment' In Qatar
+ 180223 The Fix: 73 percent wanted criminal charges for Bergdahl
+ 180383 US army charges Bowe Bergdahl with desertion – video
+ 180484 Veterans React To Bowe Bergdahl Desertion Charges, Discuss Possible Punishments
+ 182518 What the US Sacrificed for Bowe Bergdahl Simply Wasn’t Worth It
+ 183496 House panel asks White House for documents on Bergdahl swap
+ 184186 Despite White House spin, the media quickly nailed the Bowe Bergdahl story
+ 188476 Some in Bergdahl's platoon undercut his emerging defense
+ 196569 The Blood Sacrifice of Sergeant Bergdahl
+
+PAIR_ID: 519345
+TID: SklearnNmfTmAdapter_T[100]_corpus[us_politics_textperline]_dictionary[us_politics_dict]_preproc[tf-idf]_rndSeed[24374331]_text2tokens[whitespace_tokenizer] $$$ 77
+TID: gtar_themes_model $$$ 28
+
+------------------------------------------
+MATCH: 1
+
+WORDS: worker labor right-to rauner illinoi employe bargain pension due collect contract employ wage fee sector
+ 112301 Wisconsin hearing on right-to-work bill set for Tuesday
+ 170407 Gov. Bruce Rauner's Anti-Union Proposal Illegal, Illinois Attorney General Says
+  85611 Illinois Gov. Rauner strikes blow against public sector unions, ends forced dues
+  84867 Illinois Gov. Bruce Rauner Blocks Unions From Collecting 'Fair Share' Fees
+ 206022 Unions battle for survival in key strongholds as court cases challenge forced dues
+ 135385 Public Unions Sue Illinois Governor Over Blocking 'Fair Share' Fees
+  94642 National Briefing | Midwest: Illinois: Official Refuses Order to Halt Union Fees
+  87175 Illinois anti-union move unconstitutional: AFL-CIO
+  86892 Gov. Bruce Rauner's Executive Order Stops Mandatory 'Fair Share' Illinois Public Employee Union Fees
+  85522 This new governor moves against unions
+  84935 Illinois Governor Acts to Curb Power of Public Sector Unions
+ 111653 How Right-To-Work Laws Hurt Unions
+ 107055 Wisconsin Republicans plan to push right-to-work bill next week
+ 107140 Wisconsin Republicans Plan To Push Right-To-Work Bill Next Week
+  88310 Both Sides Dig In For Fight Over Illinois Governor's Push To Block Union Dues
+
+WORDS: rauner illinoi employe fee bruce starbuck chicago due fair quinn counti togeth worker municip contribut
+  85611 Illinois Gov. Rauner strikes blow against public sector unions, ends forced dues
+  84867 Illinois Gov. Bruce Rauner Blocks Unions From Collecting 'Fair Share' Fees
+ 135385 Public Unions Sue Illinois Governor Over Blocking 'Fair Share' Fees
+  94642 National Briefing | Midwest: Illinois: Official Refuses Order to Halt Union Fees
+  87175 Illinois anti-union move unconstitutional: AFL-CIO
+  86892 Gov. Bruce Rauner's Executive Order Stops Mandatory 'Fair Share' Illinois Public Employee Union Fees
+ 209624 Illinois Gov. Bruce Rauner Cuts Funds For Indigent Funerals
+  84935 Illinois Governor Acts to Curb Power of Public Sector Unions
+  74703 Illinois governor lays out controversial agenda
+  88310 Both Sides Dig In For Fight Over Illinois Governor's Push To Block Union Dues
+ 218972 Judge Overturns Illinois Governor's Anti-Union Order
+ 173673 Clinton: US needs solutions to income inequality
+ 166991 National Briefing | Midwest: Illinois: Governor Tells Agencies to Divert Union Fees
+ 173679 Clinton: US needs solutions to income inequality
+ 171657 Starbucks Ends ‘Race Together’ Campaign After Accusations Coffee Chain Was Exploiting Police Killings Of Black Males
+
+PAIR_ID: 1240321
+TID: HcaAdapter_Bme[50]_C[500]_Cme[200]_T[200]_burnin[50]_corpus[us_politics_textperline]_dictionary[us_politics_dict]_rseed[71875193]_text2tokens[whitespace_tokenizer]_type[lda-asym] $$$ 139
+TID: HcaAdapter_Bme[50]_C[1000]_Cme[400]_T[300]_burnin[50]_corpus[us_politics_textperline]_dictionary[us_politics_dict]_rseed[82370265]_text2tokens[whitespace_tokenizer]_type[pyp] $$$ 55
+
+------------------------------------------
+MATCH: 0
+
+WORDS: air armi soldier pentagon command train troop navi mission combat aircraft marin deploy guard missil
+ 123392 Captivating Photos Give A Glimpse Into The Lives Of Military Personnel
+ 175613 US Successfully Test Fires Intercontinental Ballistic Missile In California
+ 145712 7 Marines, 4 Soldiers Missing After Helicopter Crashes Near Eglin Air Force Base In Florida Panhandle
+ 160639 U.S. moving ahead on bid to end reliance on Russian rocket engines
+ 161145 Pentagon sets up panel to study electronic warfare requirements
+ 212385 U.S. Marines vow tough review of F-35 combat readiness
+ 195540 These Are The Best Military Photos From March 2015
+ 194650 US To Get Advanced Medium Range Air-to-Air Missiles, Signs $529M Deal With Raytheon
+ 152530 Military Identifies 7 Marines Killed In Florida Helicopter Crash As Investigation Continues
+ 145737 Florida Helicopter Crash: 7 Marines, 4 Soldiers Missing After Crash During Military Exercise
+ 157113 Florida Helicopter Crash: All 11 Remains Recovered, Louisiana National Guard Says
+ 160984 U.S. moving ahead on bid to end reliance on Russian rocket engines
+ 146816 Obama calls for thorough probe into military copter crash
+ 146805 Obama calls for thorough probe into military copter crash
+ 147231 Obama Calls For Probe Into Military Helicopter Crash
+
+WORDS: syrian syria assad rebel refuge islam bashar conflict turkey civil regim train opposit arm al-assad
+ 184012 Bashar Assad Open To Negotiations 'Based On Mutual Respect' With US: Report
+ 105146 US, Turkey Sign Deal To Train Syrian Rebels: US Embassy
+ 154936 John Kerry: U.S. must eventually negotiate with Assad
+  93226 UN Envoy: Assad Must Be Part Of The Solution For Easing Violence In Syria
+  99487 U.S., Turkey to sign Syrian opposition train-and-equip deal in days: official
+ 154716 John Kerry Says That The U.S. Will Have To Negotiate With Syrian President Bashar Al-Assad
+ 134887 Blast In Syria Kills Top Al Qaeda Commander Of Nusra Front: Reports
+ 166822 Kerry condemns reports of Syrian chemical weapons use
+ 154963 Kerry: U.S. increasing efforts to pressure Syria into negotiation
+ 155090 U.S. willing to negotiate with Syria's Assad, Kerry says
+ 156050 Syria Update: Kerry Says Negotiations With Assad's Government Are Necessary For Peace
+ 155332 Kerry Willing to Talk With Syria's Assad
+ 154789 John Kerry says he’s willing to talk with Syrian Pres. Assad
+ 151918 U.S. to send $70 million in non-lethal aid to Syrian opposition: State Department
+ 156254 Syria's Assad Dismisses John Kerry's Remarks On Negotiations
+
+PAIR_ID: 1255458
+TID: HcaAdapter_Bme[50]_C[500]_Cme[200]_T[200]_burnin[50]_corpus[us_politics_textperline]_dictionary[us_politics_dict]_rseed[71875193]_text2tokens[whitespace_tokenizer]_type[lda-asym] $$$ 159
+TID: HcaAdapter_Bme[50]_C[1000]_Cme[400]_T[300]_burnin[50]_corpus[us_politics_textperline]_dictionary[us_politics_dict]_rseed[82370265]_text2tokens[whitespace_tokenizer]_type[pyp] $$$ 222
+
+------------------------------------------
+MATCH: 0
+
+WORDS: walker iowa wisconsin scott perri jindal carson huckabe rick fox hampshir de moin jeb chri
+  74175 Jeb Bush will make his first 2015 visit to Iowa in March
+ 138510 Huckabee calls for tougher immigration oversight
+ 123763 Jindal: GOP leaders in Congress fear repealing health law
+ 138508 GOP's Bush touts outlier immigration vision in leadoff Iowa
+ 101307 Wisconsin Gov. Scott Walker hires New Hampshire advisers for possible 2016 bid
+  73639 Jeb Bush to Make Iowa Debut in March: Report
+ 160676 Iowa GOP criticizes Walker aide who questions state's status
+ 121248 Rick Perry tells CPAC: Obama has made the world less safe
+  86620 Walker group opens office in Iowa, first potential 2016 hopeful to do so
+ 161273 Scott Walker aide resigns over tweets disparaging Iowa caucuses
+ 138498 Huckabee calls for tougher immigration oversight
+ 161248 Walker Aide Liz Mair Resigns After Tweets About Iowa’s Role in Elections Draws Scrutiny
+ 161277 Walker Aide Quits After Questioning Iowa's Role in Campaign
+ 138586 Texas' Perry says states should handle energy subsidies
+ 152807 Mike Huckabee returns to Iowa
+
+WORDS: walker wisconsin scott right-to madison protest milwauke evolut recal jeb reviv contend amnesti bargain wi
+ 142652 Obama criticizes Wisconsin's new 'right-to-work' law
+ 207530 Obama: Walker approach on Iran deal would embolden enemies
+ 153240 Scott Walker says Jeb Bush is 'a name from the past'
+  63046 GOP's Walker, Gearing Up for 2016, Emphasizes His Faith
+ 124370 Wisconsin's Walker: Sure, Obama loves his country
+  89156 Wisconsin's Walker refuses to answer question on evolution
+  89587 Scott Walker dodges evolution question: 'That's a question a politician shouldn't be involved in' – video
+  72992 Gov. Walker Takes Aim at College Outlays, Professors
+ 153985 Walker's Staff Mum On His Whereabouts On Out-Of-State Trips
+ 210719 'Nothing personal,' White House says of Obama jabs at Walker
+ 108469 Gov. Walker says he doesn't know if Obama loves his country
+ 124656 Scott Walker Changes Position on Immigration as 2016 Nears
+  92468 GOP Contender Walker Draws Wall Street Cash
+ 108462 Gov. Walker says he doesn't know if Obama loves his country
+ 182676 Scott Walker Shifts Stance on Immigration at Private Dinner
+
+PAIR_ID: 186436
+TID: HcaAdapter_Bme[50]_C[500]_Cme[200]_T[50]_burnin[50]_corpus[us_politics_textperline]_dictionary[us_politics_dict]_rseed[4551328]_text2tokens[whitespace_tokenizer]_type[lda-asym] $$$ 10
+TID: SklearnNmfTmAdapter_T[100]_corpus[us_politics_textperline]_dictionary[us_politics_dict]_preproc[tf-idf]_rndSeed[24374331]_text2tokens[whitespace_tokenizer] $$$ 12
+
+------------------------------------------
+MATCH: 0
+
+WORDS: corpor tribe settlement exxon professor nativ sharehold environment damag refineri mobil billion indian constitut harvard
+ 158013 New Jersey lawmakers urge judge to reject $225 million Exxon settlement
+ 121402 Chris Christie Settles ExxonMobil Case After Oil Giant Gave RGA Big Cash
+ 130042 Chris Christie's Exxon Settlement To Be Blocked By New Jersey Senators
+ 210057 New Jersey's Christie Defends Blunt Style
+ 144498 Christie calls $225M Exxon Mobil settlement 'really good'
+ 144378 Christie calls $225M Exxon Mobil settlement 'really good'
+ 123280 Chris Christie Backed Law That Lets Him Divert ExxonMobil Settlement From Environmental Cleanup
+ 127533 Under Law, Christie Can Use Exxon Settlement to Help Balance Budget
+ 158055 New Jersey Senate Urges Judge To Reject Chris Christie's ExxonMobil Settlement
+ 121194 Exxon Mobil Settles With New Jersey Over Environmental Damage
+ 183167 New Jersey lawmakers send post-Exxon pollution bill to governor
+ 165703 New Jersey environmental bills move ahead with Exxon deal pending
+ 136376 Hours After Exxon Settlement, Chris Christie Attends Secretive Event Hosted By Exxon-Funded Group
+ 134659 New Jersey's Exxon Settlement Set for More Scrutiny
+ 207086 Laurence Tribe Fights Climate Case Against Star Pupil From Harvard, President Obama
+
+WORDS: donor koch donat pac foundat contribut financ influenc billionair fundrais corpor disclosur contributor lobbi sum
+  52364 Republican hopefuls appear at billionaire Koch retreat
+  54872 GOP donors appear in no hurry to commit to 2016 candidate
+  56559 The Fix: Koch-backed groups intend to spend $889 million in 2016. Here’s how massive that is.
+  58662 Democrats Say Billionaire Koch Brothers Launch 2016 'Electoral Arms Race'
+  58927 How the Koch brothers' $889 million pledge helps Democratic fundraising
+  76904 The Erosion of Democracy
+  82988 Trail to the Chief: What's In A Name ~ PAC Edition
+ 103259 Clinton foundation’s global network overlaps with family’s political base
+ 105959 Hillary Clinton's ties to corporate donors, lobbyists while Secretary of State scrutinized
+ 117590 Clinton Foundation received millions from foreign governments while Hillary was secretary of state, report says
+ 122317 Justice Department ramps up scrutiny of candidates and independent groups
+ 177420 Jeb Bush Returns to the Washington Fund-Raising Well
+ 181417 The Political Kingmaker Nobody Knows
+ 197527 Thanks to Obama, the New World of Campaign Finance Is Unlimited and Undisclosed
+ 215256 Ted Cruz super PACs: A new era of political fundraising
+
+PAIR_ID: 1441012
+TID: HcaAdapter_Bme[50]_C[1000]_Cme[400]_T[300]_burnin[50]_corpus[us_politics_textperline]_dictionary[us_politics_dict]_rseed[82370265]_text2tokens[whitespace_tokenizer]_type[pyp] $$$ 279
+TID: gtar_themes_model $$$ 90
+
+------------------------------------------
+MATCH: 0
+
+WORDS: afghanistan carter troop afghan taliban ghani bergdahl armi pentagon withdraw command hagel prison iraq soldier
+ 109014 US considering slowing down troop withdrawal from Afghanistan
+ 154248 US to keep more troops in Afghanistan than planned, officials say
+ 177105 Obama says 'well worth it' to extend troop levels in Afghanistan
+ 169252 US leaves open chance of Afghan troop presence beyond 2016
+ 153533 Officials: US to keep higher level of troops in Afghanistan
+ 156203 Officials: US to keep more troops in Afghanistan into 2016
+ 156374 U.S. to keep more troops in Afghanistan into 2016
+ 108354 Pentagon chief: US considering slowing exit from Afghanistan
+ 153568 Officials: US to keep higher level of troops in Afghanistan
+ 153986 Report: U.S. To Keep More Troops In Afghanistan Than Planned
+ 177431 White House: US to slow troop withdrawal from Afghanistan
+ 177487 White House: US to slow troop withdrawal from Afghanistan
+ 154490 US to keep more troops in Afghanistan than planned, officials say
+ 175436 Obama, Afghan leader to finalize plan for US troop pullout
+  91552 US commander wants flexibility in Afghanistan troop drawdown
+
+WORDS: carter pentagon armi troop soldier train command combat iraq afghanistan marin arm air deploy mission
+  85810 U.S. Senate panel advances Carter for Secretary for Defense
+  73782 Ashton Carter promises to trim waste at Pentagon
+  65573 Hagel: U.S. Ground Troops Could Be Needed In Iraq
+  73850 Ashton Carter, Obama's Nominee For Defense Secretary, To Brave Senate Confirmation Grilling
+  73550 Obama's Pentagon Nominee To Brave Senate Confirmation Grilling
+  73277 Obama's Pentagon nominee to brave Senate confirmation grilling
+  85819 Senate panel approves Obama's choice for Pentagon chief
+  91665 Senate Confirms Ashton Carter as Pentagon Chief
+  65299 U.S. ground troops could be needed in Iraq: Chuck Hagel
+  65606 Chuck Hagel: US Ground Troops Could Be Needed In Iraq
+  91213 Ashton Carter Expected to Win Senate Approval as Defense Secretary
+  73897 Ashton Carter appears before Senate armed services committee – live
+  91550 Senate approves Carter as new defense secretary
+  65858 Hagel: Ground Troops May Be Needed in Iraq
+  86041 Ashton Carter: Senate panel backs former deputy for defense secretary
+
+PAIR_ID: 394224
+TID: HcaAdapter_Bme[50]_C[500]_Cme[200]_T[100]_burnin[50]_corpus[us_politics_textperline]_dictionary[us_politics_dict]_rseed[26151085]_text2tokens[whitespace_tokenizer]_type[lda] $$$ 92
+TID: HcaAdapter_Bme[50]_C[500]_Cme[200]_T[200]_burnin[50]_corpus[us_politics_textperline]_dictionary[us_politics_dict]_rseed[34599268]_text2tokens[whitespace_tokenizer]_type[lda] $$$ 162
+
+------------------------------------------
+MATCH: 0
+
+WORDS: approach focu direct discuss specif signific engag strategi although goal activ togeth abil risk key
+ 115698 Report: US military no longer able to fight 2 wars at same time
+  56510 How Does Russia See the World?
+  79071 Obama: US must resist urge to 'overreach" abroad
+  88426 Obama's Last National Security Strategy
+  90263 Analysis: Obama's force request could pass Mideast fight on
+  89779 The danger of Obama's military request
+ 149267 Dead Letter: The Senate Intervenes in the Iranian Nuclear Negotiation
+  79097 Obama: US must resist urge to 'overreach" abroad
+  79346 White House to Outline New National Security Strategy
+ 197912 Missing the Forest for the Trees: it's time to shift our focus from Iran's leaders to its youth
+ 217344 Building on Today's Progress for 2016 and Beyond
+  90320 Analysis: Obama's force request could pass Mideast fight on
+ 205854 Bridging the Growing Divide
+ 100234 Why Is America's New Security Strategy to Target China?
+  79554 White House Outlines National Security Strategy
+
+WORDS: constitut interpret violat statut appli standard argument languag professor amend practic establish specif provis principl
+ 194112 John McGinnis and the Originalist Case Against Judicial Restraint
+ 117321 The Government's Loss at the Supreme Court Today May Signal a More Important Win Down the Road
+ 137303 Can Bureaucrats Rewrite Laws? Latest Obamacare Supreme Court Case Could Let Them Do Just That
+ 153356 Rules for saving, providing emails? Not for Congress
+ 201444 GovBeat: How religious freedom laws were praised, then hated, then forgotten, then finally, resurrected
+ 147187 Will 'Avoidance' Lead the Supreme Court to Uphold Obamacare?
+  71069 Obama's budget abandons Race to the Top
+ 152247 Rules for saving, providing emails? Not for Congress
+ 215428 Denying the Dogma of Judicial Deference: A Reply to Carson Holloway (Part I)
+ 141089 Supreme Court to Review Florida's Capital Punishment System
+ 123607 The Supreme Court &amp; Obamacare Round II
+ 132102 Justice Kennedy Gave Us a Window Into His Thinking at the King v. Burwell Argument This Morning-- and It Appears to Be Good News for the Government
+ 104138 Attention Solicitor General: Two More Powerful Arguments Against <em>King v Burwell </em>
+ 128988 US Supreme Court allows 'Amazon tax' challenge
+  68848 Sidebar: Court Decisions That Set No Precedent
+
+PAIR_ID: 209484
+TID: HcaAdapter_Bme[50]_C[500]_Cme[200]_T[50]_burnin[50]_corpus[us_politics_textperline]_dictionary[us_politics_dict]_rseed[4551328]_text2tokens[whitespace_tokenizer]_type[lda-asym] $$$ 24
+TID: HcaAdapter_Bme[50]_C[500]_Cme[200]_T[200]_burnin[50]_corpus[us_politics_textperline]_dictionary[us_politics_dict]_rseed[34599268]_text2tokens[whitespace_tokenizer]_type[lda] $$$ 33
+
+------------------------------------------
+MATCH: 0
+
+WORDS: dinner attend hotel beach guest invit golf weekend travel palm host club schedul resort spring
+  97786 Obama prepares to wrap up California golf weekend
+ 188261 Obama golfs with big money, oil moguls in Florida
+  98470 Obama returns to Washington after California golf weekend
+  96478 More golf for Obama on 2nd day of weekend getaway
+ 188457 Obama golfs in Florida with energy and business titans
+ 100782 In the Loop: Dec. 17 as a Cuban holiday?
+ 188320 Obama golfs with big money, oil moguls in Florida
+  95391 Obama spending long holiday weekend in Southern California
+  95397 Obama spending long holiday weekend in Southern California
+ 186978 Fore! Obama in Florida for weekend golf getaway
+ 186968 Fore! Obama in Florida for weekend golf getaway
+ 100695 In the Loop: Dec. 17 as a Cuban holiday?
+ 210284 Fewer White House state dinner invites under Obama
+ 100054 In the Loop: Lawmakers will help you beat this miserable cold spell — if you help them
+  96508 More golf for Obama on 2nd day of weekend getaway
+
+WORDS: room walk hour street night door old town small outsid wall insid visit along bodi
+ 104532 In the Loop: Rodent feces and flies shut down Labor Department cafeteria
+ 115019 Brooklyn politician proposes bill banning booze cruises
+  85892 73 Years Of Lynchings Documented
+ 157919 This Is How The FBI Created A Terrorist
+ 116358 In the Loop: Flash Sale: ‘Ready for Hillary’ swag now at 40 percent off!
+  71833 Labor Pains
+ 193695 White House: Obama releases military aid to Egypt suspended after 2013 coup
+  87481 NYC Catholics Brace for Parish Mergers
+ 143006 Lawmakers Take Aim At Brightly Colored Laundry Pods
+  86164 Surprise! First lady greets White House tourists
+ 177720 Thousands Of Afghan Women Have Found Refuge In Shelters Funded By West
+ 153337 EXCLUSIVE: Dems' marketing consultant busted in purse theft
+ 138129 Decayed, uninhabitable homes will be Obama’s first view of Selma
+ 117259 Why AWOL Soldiers Are Most At Risk In Canada
+ 117663 'Orphan' Wells Leave States Holding Bag
+
+PAIR_ID: 1356112
+TID: HcaAdapter_Bme[50]_C[1000]_Cme[400]_T[300]_burnin[50]_corpus[us_politics_textperline]_dictionary[us_politics_dict]_rseed[82370265]_text2tokens[whitespace_tokenizer]_type[pyp] $$$ 111
+TID: HcaAdapter_Bme[50]_C[1000]_Cme[400]_T[300]_burnin[50]_corpus[us_politics_textperline]_dictionary[us_politics_dict]_rseed[82370265]_text2tokens[whitespace_tokenizer]_type[pyp] $$$ 176
+
+------------------------------------------
+MATCH: 0
+
+WORDS: black civil selma king racial carolina movement bridg african african-american young alabama martin anniversari north
+ 138550 Thousands Flood The Streets Of Selma To Honor Landmark Anniversary Of March
+ 127213 Congress clears bill to award gold medal to Selma marchers
+ 139459 Obama on the "clash of wills" at Selma
+ 138948 Text of Obama's remark at Selma anniversary commemoration
+ 146177 The Selma Speech: Obama's America vs. Giuliani's America
+ 138660 Transcript: Read Full Text of President Barack Obama’s Speech in Selma
+ 138568 Obama arrives in Selma to kick off weekend of commemorations
+ 138701 The Fix: A single photo that tells the powerful story of the 50th anniversary of Selma
+ 138817 Obama Selma Speech Text: Read President's Remarks On Bloody Sunday 50th Anniversary [FULL TEXT]
+ 138686 Transcript of President Obama's Selma Speech
+ 138530 Obama signs law honoring civil rights marchers
+ 138842 Obama Marks a Civil-Rights Turning Point
+ 139623 President Obama's remarks at the 50th anniversary of the Selma to Montgomery marches
+ 138718 Read The Full Transcript Of Obama's Powerful Speech In Selma
+ 138584 Obama arrives in Selma to kick off weekend of commemorations
+
+WORDS: black racial african-american minor african color civil martin men racism young racist discrimin brown zimmerman
+  76907 Shared Past, Shared Future: Why Black Immigrants Are an Essential Part of the Movement
+  93101 What the FBI Chief Got Right—and Wrong—About Race and Police
+  88926 Addressing the School to Prison Pipeline: Why Education Is the Liberation of Black Youth
+ 114300 Trayvon Martin Family 'Disappointed' In Justice Department George Zimmerman Findings
+  79314 Renisha McBride: Black Women's Lives Matter
+  91515 FBI Director: 'Lazy' Racial Biases May Affect Law Enforcement
+ 119536 Trayvon Martin Remains a Challenge to America
+ 114069 Justice Department Won't Charge Zimmerman in Trayvon Martin's Shooting
+ 155580 Is Post-Racialism an Implicit Bias?
+  67105 Black Future Month: Examining the Current State of Black Lives and Envisioning Where We Go From Here
+ 191776 Why Does Racism Persist?
+  92684 FBI Director James Comey Delivers 'Hard Truths' About Police And Race
+ 117655 Trayvon Martin's Father: Hate Crime 'Bar Is Too High' For Prosecution, Report Says
+  71223 Using Race (Again) in the Struggle for Political Mastery
+  91161 FBI director: US at crossroads on race relations, policing
+
+PAIR_ID: 45950
+TID: HcaAdapter_Bme[50]_C[500]_Cme[200]_T[50]_burnin[50]_corpus[us_politics_textperline]_dictionary[us_politics_dict]_rseed[87023659]_text2tokens[whitespace_tokenizer]_type[lda] $$$ 26
+TID: HcaAdapter_Bme[50]_C[500]_Cme[200]_T[200]_burnin[50]_corpus[us_politics_textperline]_dictionary[us_politics_dict]_rseed[71875193]_text2tokens[whitespace_tokenizer]_type[lda-asym] $$$ 4
+
+------------------------------------------
+MATCH: 0
+
+WORDS: russia ukrain russian european putin europ ukrainian greec germani arm german eastern greek moscow weapon
+ 107477 Biden: Russia can't claim separatists alone behind attacks
+  86923 Obama phones Putin as Ukraine on brink
+  86143 Obama talks to Ukraine leader as US weighs lethal aid
+  82816 Merkel to brief Obama on four-party talks on Ukraine crisis
+  86798 Obama speaks with leaders of Russia, Ukraine ahead of talks
+  86972 Obama phones Russian, Ukrainian leaders ahead of peace talks
+  63308 Moscow, Washington discuss possible Kerry visit to Russia: sources
+  86938 Obama speaks with Putin, Poroshenko
+  60102 Biden: More costs for Russia unless Moscow changes course
+  81516 Biden says Ukrainians 'have a right to defend themselves,' mum on US sending weapons
+  83797 Obama: No decision yet on arming Ukraine
+  95600 Obama talks cease-fire with leaders of Ukraine, Germany
+  87695 Ukraine Crisis: US House Backs $1B Lethal Aid To Ukraine As Obama Warns Putin Ahead Of Minsk Talks
+  86289 Obama talks to Ukraine leader as US weighs lethal aid
+  76139 Kerry Pledges $16.4M After 'Russia's Aggressive Actions'
+
+WORDS: fed rate economi greec bank greek european growth reserv market inflat central europ unemploy financi
+ 157845 Why the Fed meeting could create fireworks
+  79442 Fed's Lockhart: Inflation, wages still 'worrisome'
+ 178589 Fed's Evans: 'No compelling reason' to hike rates
+ 181725 Fed's Lockhart: Need rate hike midyear or later
+ 112808 Yellen faces grilling on rate policy, transparency
+ 181409 May be time to normalize monetary policy: Fed's Bullard
+ 113290 Yellen: No rate hike for next couple FOMC meetings
+ 121192 The Buck Stops Here - Greece is Fighting to Save Europe
+ 107243 Greek Bailout Update: Greece, Eurozone Strike Debt Deal
+ 192404 Strong case for June rates liftoff, says Fed's Lacker
+ 118171 Bullard: Fed should lose its 'patience' on rates
+ 137027 Fed's Lacker repeats call to hike rates
+ 207147 The Terrible Twos: Central Bank Inflation Targets
+ 163065 The Fed Threatens To Raise Interest Rates, Which Could Be A Big Mistake
+ 121821 Fed's Fischer: Rate rise seen 'sometime this year'
+
+PAIR_ID: 48946
+TID: HcaAdapter_Bme[50]_C[500]_Cme[200]_T[50]_burnin[50]_corpus[us_politics_textperline]_dictionary[us_politics_dict]_rseed[87023659]_text2tokens[whitespace_tokenizer]_type[lda] $$$ 28
+TID: HcaAdapter_Bme[50]_C[500]_Cme[200]_T[100]_burnin[50]_corpus[us_politics_textperline]_dictionary[us_politics_dict]_rseed[1120261]_text2tokens[whitespace_tokenizer]_type[lda-asym] $$$ 59
+
+------------------------------------------
+MATCH: 1
+
+WORDS: insur exchang subsidi obamacar coverag afford medicaid cost medicar enrol suprem credit aca premium healthcar
+ 129761 It's on! HHS boss to attend Obamacare court fight
+ 106435 Obamacare Enrollment Reopened For Taxpayers Hit By Mandate Fine
+ 131216 Supreme Court Hears Arguments in Test of Health Care Law
+  88980 Obamacare a bargain? It is for these Americans
+  59867 U.S. government says Obamacare could affect up to 29 percent of taxpayers
+  91743 Last chance to enroll in Obamacare for 2015
+ 131438 Tough questions for Obamacare subsidy challengers
+ 114478 U.S. health official says no fix if Obamacare subsidies thrown out
+ 130745 King v. Burwell Oral Hearings On Affordable Care Act: Key Facts, Arguments, Explanations On Challenge To Obamacare
+ 175429 National Briefing: Many Will Need to Repay Health Subsidies
+ 144353 11.7 Million Americans Have Insurance Under Health Act
+ 114803 Health chief: No plan if Obamacare overruled
+ 115528 Video Feature: King v. Burwell: A Quick Take on a Crucial Case
+ 116748 H&R Block analysis: Most ObamaCare customers paying back portion of subsidies
+ 196109 Few sign up during 'special' Obamacare enrollment
+
+WORDS: insur exchang subsidi coverag afford obamacar medicaid enrol suprem cost aca credit premium healthcar king
+ 106435 Obamacare Enrollment Reopened For Taxpayers Hit By Mandate Fine
+ 129771 Four Words Could Cause Eight Million to Lose Their Insurance
+  59867 U.S. government says Obamacare could affect up to 29 percent of taxpayers
+  91743 Last chance to enroll in Obamacare for 2015
+ 114478 U.S. health official says no fix if Obamacare subsidies thrown out
+  58184 They want Obamacare subsidies, no matter what
+ 102618 Could uninsured Americans get a second chance to avoid a fine?
+ 175429 National Briefing: Many Will Need to Repay Health Subsidies
+ 100666 More Than 11 Million Sign Up for Health Insurance
+ 102051 HHS' Burwell: Consumers 'in line' for Obamacare can still enroll
+ 114070 Many Tax Filers Must Pay Back Portion of Credits Given via Healthcare.gov
+ 144353 11.7 Million Americans Have Insurance Under Health Act
+ 114803 Health chief: No plan if Obamacare overruled
+ 115528 Video Feature: King v. Burwell: A Quick Take on a Crucial Case
+ 196109 Few sign up during 'special' Obamacare enrollment
+
+PAIR_ID: 7207
+TID: HcaAdapter_Bme[50]_C[500]_Cme[200]_T[50]_burnin[50]_corpus[us_politics_textperline]_dictionary[us_politics_dict]_rseed[87023659]_text2tokens[whitespace_tokenizer]_type[lda] $$$ 4
+TID: HcaAdapter_Bme[50]_C[500]_Cme[200]_T[100]_burnin[50]_corpus[us_politics_textperline]_dictionary[us_politics_dict]_rseed[26151085]_text2tokens[whitespace_tokenizer]_type[lda] $$$ 76
+
+------------------------------------------
+MATCH: 0
+
+WORDS: christi jersey walker chri jeb scott wisconsin romney rubio rick perri rand cruz marco mike
+ 105890 Iowans who tried to draft Christie in '12 no longer as eager
+ 106157 Iowa Republican donors not as keen on Chris Christie amid potential 2016 field
+ 172474 Likely GOP Presidential Candidates Seek Texas Dollars
+ 105879 Iowans who tried to draft Christie in '12 no longer as eager
+ 104815 Iowans who tried to draft Christie in '12 no longer as eager
+  72701 Clinton would beat Bush, Christie in Fla. in 2016: poll
+ 103009 Swing State Poll: Hillary Clinton Bests GOP Challengers in Iowa, Colorado and Virginia
+  52565 Christie Joins Crowded GOP Fight for Donors
+ 210228 GOP presidential candidate list expected to grow
+ 196171 Cruz rockets to third in new poll
+ 110061 Christie's Roadshow Yet to Pay Off
+ 104794 Iowans who tried to draft Christie in '12 no longer as eager
+  70149 After Over 315K Votes in Drudge Poll, This Is the Clear Choice for 2016 GOP Presidential Candidate
+  65386 Donors Turn to Bush, Christie as Romney Exits
+  74764 Romney's exit boosts Walker's odds in 2016 New Hampshire presidential primary
+
+WORDS: huckabe arkansa mike profan beyonc iowa fox trashi gosh gravi grit lifestyl caucu music gay
+  57111 Mike Huckabee Has A F*&amp;king Problem With Women Cursing At Work
+  58875 Mike Huckabee says it's "trashy" for women to curse in the workplace
+  59444 Huckabee: Fox News women aren't 'trashy,' but cursing New Yorkers are
+  61479 Megyn Kelly Schools Mike Huckabee About The Reality Of 'Trashy' Women In The Workplace
+  67267 Mike Huckabee won't ever change stance against gay marriage
+  67301 Former Governor Compares Being Gay With Drinking, Swearing or Liking Ballet
+  67347 Mike Huckabee: Gay Marriage Is Like Drinking
+  70773 Poll: Iowa Republicans Side with Obamas After Huckabee's Beyoncé Attack
+  71669 Likely Iowa GOP Caucus Voters On Beyoncé: That Girl Is Poison
+  72767 Huckabee Disputes Bloomberg Politics/DMR Poll Question on Beyoncé
+ 124568 Huckabee: In or out in 2016?
+ 199305 Huckabee supporters launch super PAC
+
+PAIR_ID: 367956
+TID: HcaAdapter_Bme[50]_C[500]_Cme[200]_T[100]_burnin[50]_corpus[us_politics_textperline]_dictionary[us_politics_dict]_rseed[26151085]_text2tokens[whitespace_tokenizer]_type[lda] $$$ 74
+TID: gtar_themes_model $$$ 122
+
+------------------------------------------
+MATCH: 0.5
+
+WORDS: insur exchang subsidi coverag obamacar afford medicaid enrol suprem aca credit healthcar cost premium king
+ 106435 Obamacare Enrollment Reopened For Taxpayers Hit By Mandate Fine
+ 131216 Supreme Court Hears Arguments in Test of Health Care Law
+  59867 U.S. government says Obamacare could affect up to 29 percent of taxpayers
+  91743 Last chance to enroll in Obamacare for 2015
+ 131438 Tough questions for Obamacare subsidy challengers
+ 114478 U.S. health official says no fix if Obamacare subsidies thrown out
+ 128596 Who Is David King? Lead Plaintiff In King v. Burwell Supreme Court Case Challenging Affordable Care Act
+ 130745 King v. Burwell Oral Hearings On Affordable Care Act: Key Facts, Arguments, Explanations On Challenge To Obamacare
+ 129771 Four Words Could Cause Eight Million to Lose Their Insurance
+ 102051 HHS' Burwell: Consumers 'in line' for Obamacare can still enroll
+  58184 They want Obamacare subsidies, no matter what
+ 144353 11.7 Million Americans Have Insurance Under Health Act
+ 114803 Health chief: No plan if Obamacare overruled
+ 196109 Few sign up during 'special' Obamacare enrollment
+ 114832 Congress Is Told Administration Has No Remedy for a Ruling Against Health Law
+
+WORDS: enrol healthcar insur period deadlin sign-up coverag penalti consum exchang premium obamacar marketplac uninsur applic
+ 100885 Health-Law Enrollees: 11.4 Million
+  98921 ObamaCare exchanges weigh extending deadline for insurance sign-ups
+ 100735 Obamacare Signups Top 11 Million In Second Year, White House Says
+  57014 Obamacare Nears Major Goal With One Month To Go
+ 100762 Some 11.4 Million Americans Have Enrolled In Obamacare: White House
+ 100676 Some 11.4 million Americans have enrolled in Obamacare: White House
+  56918 Obamacare sign-ups hit 9.5M, topping goal
+  95030 Tick, tock: No drama for Obamacare deadline
+ 100881 Obama Cites Health Plan Tally of 11.4 Million
+ 102051 HHS' Burwell: Consumers 'in line' for Obamacare can still enroll
+  96114 Snag affecting health law sign-ups gets a fix
+ 144353 11.7 Million Americans Have Insurance Under Health Act
+ 100680 White House Says Obamacare Signups in 2015 Top 11 Million
+  99241 Obamacare 2015: National Health Insurance Enrollment Above Expectations, But States Fall Short
+  97483 Health Care Enrollment: Obamacare Website Glitches Prompt Some States To Extend Deadlines
+
+PAIR_ID: 219468
+TID: HcaAdapter_Bme[50]_C[500]_Cme[200]_T[50]_burnin[50]_corpus[us_politics_textperline]_dictionary[us_politics_dict]_rseed[4551328]_text2tokens[whitespace_tokenizer]_type[lda-asym] $$$ 30
+TID: SklearnNmfTmAdapter_T[200]_corpus[us_politics_textperline]_dictionary[us_politics_dict]_preproc[tf-idf]_rndSeed[85129645]_text2tokens[whitespace_tokenizer] $$$ 94
+
+------------------------------------------
+MATCH: 0
+
+WORDS: societi cours democraci moral cultur freedom realiti liber valu natur inde citizen truth fear centuri
+ 101999 Is War Unavoidable and Whose War Is It Anyway?
+ 142228 Good Stories Well Told: How a Movie Producer Approaches Diplomacy
+ 116728 Populism Sounds Good, but It Always Ends Badly
+ 150696 Hypocrites, Flip-floppers and Phony Patriots
+ 179588 Cruz Control in Reverse
+ 148780 Choose Your Own Enlightenment
+ 205273 America’s Progressive Foreign Policy Imperils Her Survival
+  97221 George Washington Quotes: 15 Inspirational Sayings To Celebrate The President’s 283rd Birthday
+  97220 George Washington Farewell Address Full Text: Senate Tradition Calls For Historic Speech To Be Read On President's Birthday
+ 131290 Bibi's Talk: The 51st State Is Heard From
+  86341 Hope and Struggle
+ 191776 Why Does Racism Persist?
+ 109705 The Three Stooges of the Grand Obstructionist Party
+ 150728 Hypocrites, Flip-floppers and Phony Patriots
+  93714 Double Standards in Our Foreign Policy -- and That's Just the Way It Is
+
+WORDS: liber battl alli victori strategi opposit politician divid oppon approach emerg moment shift unlik leadership
+ 144366 Monkey Cage: More proof that Republicans are from Mars and Democrats are from Venus
+ 180910 House Passes $3.8 Trillion Fiscal 2016 GOP Budget
+ 107799 Jeb Bush Finds Name Something to Build On
+ 116246 Bipartisan Coalition to Press for Criminal Justice Overhaul
+ 221024 Clinton's Double-Edged Foreign Policy Legacy
+ 141610 GOP Senators Thrust Themselves Into Iran Talks
+ 160025 House GOP Bloc Threatens Pacific Trade Deal
+  78249 GOP's Immigration Strategy Is at Risk
+ 108470 Democrats Find Party Ignored Down-Ballot Races
+  88634 Emerging Hillary Clinton Team Shows Signs Of Disquiet - NYTimes.com
+ 155291 What Pacific Trade Deal Would---and Wouldn't---Do
+ 204409 Democrats Rethink Social Security Strategy
+ 206247 Why the GOP Is Hillary Clinton's Ally
+ 201631 Political Memo: Parties Trade Places in Culture Wars Over Rights Measures
+ 133785 The Slow Suicide of Mexico's Left
+
+PAIR_ID: 252025
+TID: HcaAdapter_Bme[50]_C[500]_Cme[200]_T[100]_burnin[50]_corpus[us_politics_textperline]_dictionary[us_politics_dict]_rseed[26151085]_text2tokens[whitespace_tokenizer]_type[lda] $$$ 0
+TID: HcaAdapter_Bme[50]_C[1000]_Cme[400]_T[300]_burnin[50]_corpus[us_politics_textperline]_dictionary[us_politics_dict]_rseed[82370265]_text2tokens[whitespace_tokenizer]_type[pyp] $$$ 101
+
+------------------------------------------
+MATCH: 0
+
+WORDS: afghanistan intellig carter troop afghan pentagon cia ghani terrorist terror taliban iraq pakistan tortur withdraw
+ 109014 US considering slowing down troop withdrawal from Afghanistan
+ 154248 US to keep more troops in Afghanistan than planned, officials say
+ 153533 Officials: US to keep higher level of troops in Afghanistan
+  65606 Chuck Hagel: US Ground Troops Could Be Needed In Iraq
+ 156203 Officials: US to keep more troops in Afghanistan into 2016
+ 156374 U.S. to keep more troops in Afghanistan into 2016
+ 108354 Pentagon chief: US considering slowing exit from Afghanistan
+ 153568 Officials: US to keep higher level of troops in Afghanistan
+  65299 U.S. ground troops could be needed in Iraq: Chuck Hagel
+ 153986 Report: U.S. To Keep More Troops In Afghanistan Than Planned
+ 177487 White House: US to slow troop withdrawal from Afghanistan
+ 108692 US considering slowing down troop withdrawal from Aghanistan
+ 154490 US to keep more troops in Afghanistan than planned, officials say
+ 108013 New Defense Secretary Ashton Carter makes first Afghanistan visit
+ 108036 New Pentagon chief Ash Carter visits Afghanistan
+
+WORDS: pac donor fundrais super donat contribut financ adelson billionair leadership readi financi jeb attend wealthi
+ 189361 How would-be presidents raise campaign cash
+ 128418 The top GOP donors and bundlers in Texas
+ 211490 Network of Cruz super PACs boasts big haul
+ 149545 Christie allies launch super PAC
+  94186 Jeb Bush's War Chest Far Outpacing Field Of GOP Contenders
+ 213229 Marco Rubio, set to launch 2016 campaign, gets a super PAC
+ 214313 Ted Cruz super PACs claim to have raised $31 million
+ 213188 Marco Rubio, set to launch 2016 campaign, gets a super PAC
+ 113240 Jeb Bush to Invite Big Donors to Meet Likely Campaign Team
+ 149334 Once the sideshows, super PACs now at the forefront of presidential runs
+ 130685 Awash in cash, Bush asks donors to limit gifts to $1 million – for now
+ 215256 Ted Cruz super PACs: A new era of political fundraising
+ 159531 Top Republican strategists in talks to join Jeb Bush’s super PAC
+ 213766 On the cusp of a 2016 bid, Marco Rubio gets a super PAC
+ 134853 The Fix: Just how much money is Jeb Bush going to raise?
+
+PAIR_ID: 12694
+TID: HcaAdapter_Bme[50]_C[500]_Cme[200]_T[50]_burnin[50]_corpus[us_politics_textperline]_dictionary[us_politics_dict]_rseed[87023659]_text2tokens[whitespace_tokenizer]_type[lda] $$$ 7
+TID: HcaAdapter_Bme[50]_C[500]_Cme[200]_T[200]_burnin[50]_corpus[us_politics_textperline]_dictionary[us_politics_dict]_rseed[34599268]_text2tokens[whitespace_tokenizer]_type[lda] $$$ 37
+
+------------------------------------------
+MATCH: 0
+
+WORDS: billion medicar fiscal deficit trillion save cost payment revenu cap balanc project rate domest fix
+  69207 How Obama would spend your money in 2016, agency by agency
+  69226 Obama Budget Would Target Overseas Earnings to Fund Transportation
+  67009 Obama budget includes overseas profit tax to fund infrastructure
+  70634 Some highlights of Obama's 2016 spending plan
+  68116 Some highlights of Obama's 2016 spending plan
+  69228 How Obama would spend your money in 2016, agency by agency
+  67985 In new budget, Obama proposing 14 percent tax on overseas profits to fund infrastructure projects
+  73392 Obama claim of $1.8 trillion deficit cuts open to question
+  68297 Obama to Detail Nearly $4 Trillion Budget
+  68117 Obama sending $4 trillion spending plan to Congress
+  67553 Some highlights of proposals in Obama's new spending plan
+  67507 Some highlights of proposals in Obama's new spending plan
+  70678 Some highlights of Obama's 2016 spending plan
+  73388 Obama claim of $1.8 trillion deficit cuts open to question
+  67425 Obama to propose 14 percent tax on overseas corporate profits
+
+WORDS: firm financi fee client transact equiti industri invest sale market cash profit stock contract billion
+  72526 The Most Economical, Most Sensible, and Most Overlooked Housing Market Reform
+  77045 Political Donors Grumble Over Fees Paid to Consultants
+  98560 2016ers could face a bumpy road to Wall Street cash
+ 110510 Administration aims for better financial advice
+ 126780 Dark Money Casts a Sinister Shadow Across the Land
+ 144428 Study: Financial Tax Would Pay Off Big
+ 160272 SEC Examinations Director Raises Eyebrows With Flattery Of Private Equity
+ 161880 Rahm Emanuel's Housing Agency Sitting On Hundreds Of Millions Of Dollars With Massive Waitlist
+ 162939 Shareholder Proposal To Break Up Bank Of America Wins SEC Approval: EXCLUSIVE
+ 166567 EXCLUSIVE: Sen. Hannon secured $65G to hospital tied to firm
+ 171965 Companies Profiting The Most From War
+ 201944 Why I Ditched My Credit Cards for Cash
+ 211944 Pension Fund Investigator Launches Kickstarter Campaign To Probe Rhode Island Pension System
+
+PAIR_ID: 621903
+TID: HcaAdapter_Bme[50]_C[500]_Cme[200]_T[100]_burnin[50]_corpus[us_politics_textperline]_dictionary[us_politics_dict]_rseed[1120261]_text2tokens[whitespace_tokenizer]_type[lda-asym] $$$ 51
+TID: gtar_themes_model $$$ 74
+
+------------------------------------------
+MATCH: 0.5
+
+WORDS: guy thought someon mayb everyon anyth ever ye els bad noth everyth probabl pretti sort
+ 150078 The Fix: Charlie Rangel’s bike isn’t getting him very far
+ 168534 The Fix: Hillary Clinton is worried about America’s ‘fun deficit.’ Just how far behind are we?
+ 133868 An Open Letter to My Students: I Am Sorry for What I Am About to Do to You
+ 217112 Now That Hillary Clinton Is Announcing, Here's What I'd Ask Her
+ 220504 Waiting for Hillary brings out best and worst on Twitter
+ 111495 Cracked's Honest Jewelry Commercial Is What Every Jewelry Buyer Needs To See
+ 149584 Hillary's Blackberry and 2016
+ 174284 What's Wrong with this Picture?
+ 220856 The Fix: Fix contest: We have a winner (weird campaign launch notwithstanding)!
+ 211872 The Fix: Julia Louis-Dreyfus hates the ‘Clinton thumb’
+ 221190 Lupica: Hillary Clinton needs more than star power
+ 130703 Watch Cartoon Hillary Clinton Responding to E-mails Today
+  91299 Obama: 'Can I Live?'
+ 160018 The Fix: Everyone, please stop making Aaron Schock puns. Now.
+ 151626 Slogans That Hillary Clinton Will Never Use
+
+WORDS: cours probabl politician ye mayb noth bad perhap anyth sort ever everyon els pretti anyon
+ 189374 Trail To The Chief: 2016 Perks Of Being A Wallflower Edition
+ 214949 The Fix: Why I can’t count out Chris Christie just yet
+  98935 Trail To The Chief: Hollywood For Ugly People Edition
+ 111495 Cracked's Honest Jewelry Commercial Is What Every Jewelry Buyer Needs To See
+  68698 Paul Ryan’s Most Shameless Lie Ever -- NYMag
+ 221875 The Fix: John Oliver defends the IRS, gets Michael Bolton to sing about it
+ 140431 Trail To The Chief: The Non-Existent Democratic Bench If Hillary Doesn't Run Edition
+ 140160 Hillary Clinton's no front-runner
+ 147041 Why Hillary Is Not Imploding
+  86232 The Fix: President Obama lied about gay marriage. This is why we’re cynical.
+ 169735 Hillary’s Eternal Quest for Relatability
+  91299 Obama: 'Can I Live?'
+ 160018 The Fix: Everyone, please stop making Aaron Schock puns. Now.
+ 117901 Own Goal
+ 211872 The Fix: Julia Louis-Dreyfus hates the ‘Clinton thumb’
+
+PAIR_ID: 837244
+TID: HcaAdapter_Bme[50]_C[500]_Cme[200]_T[200]_burnin[50]_corpus[us_politics_textperline]_dictionary[us_politics_dict]_rseed[34599268]_text2tokens[whitespace_tokenizer]_type[lda] $$$ 122
+TID: HcaAdapter_Bme[50]_C[1000]_Cme[400]_T[300]_burnin[50]_corpus[us_politics_textperline]_dictionary[us_politics_dict]_rseed[82370265]_text2tokens[whitespace_tokenizer]_type[pyp] $$$ 217
+
+------------------------------------------
+MATCH: 1
+
+WORDS: death lethal oklahoma inject penalti drug inmat suprem fire punish squad method row prison georgia
+  54149 Oklahoma to ask Supreme Court to postpone executions
+  94911 In close vote, Utah House OKs firing-squad proposal
+  94141 Utah inches closer to resurrecting firing squad as GOP leaders pass key vote
+  55012 Oklahoma Asks Supreme Court to Delay Executions
+ 148118 National Briefing | Rockies: Utah: Governor Is Sent Bill to Restore Executions by Firing Squad as a Backup
+  94643 National Briefing | Rockies: Utah: House Votes to Reinstate Death by Firing Squad
+  84649 Oklahoma Considers Gas Chamber For Future Executions
+ 146149 Utah Firing Squad Execution Bill: Governor's Stance Unclear
+ 130177 National Briefing | Plains: Oklahoma: House Approves Executions by Gas
+  95304 Firing Squad Execution Bill Passes Utah House, Heads To Senate Amid Debate Over Lethal Injections
+ 174986 Utah Firing Squad Execution Update: Gov. Gary Herbert Signs Lethal Injection Alternative
+ 145410 Utah Passes Bill Allowing Execution by Firing Squad
+ 128969 Plan for Oklahoma nitrogen gas executions advances after house vote
+ 175105 National Briefing | Rockies: Utah: Governor Signs Law Allowing Firing Squads
+ 145162 Utah lawmakers vote to become only state to allow firing squad
+
+WORDS: oklahoma lethal inject drug death fire squad method inmat penalti utah suprem nitrogen glossip punish
+  54149 Oklahoma to ask Supreme Court to postpone executions
+  94911 In close vote, Utah House OKs firing-squad proposal
+  94141 Utah inches closer to resurrecting firing squad as GOP leaders pass key vote
+ 175376 Utah gov signs bill allowing firing squad
+ 145410 Utah Passes Bill Allowing Execution by Firing Squad
+ 175105 National Briefing | Rockies: Utah: Governor Signs Law Allowing Firing Squads
+ 146149 Utah Firing Squad Execution Bill: Governor's Stance Unclear
+ 130177 National Briefing | Plains: Oklahoma: House Approves Executions by Gas
+ 166909 Utah Gov. Gary Herbert 'Leaning Toward' Firing Squad Bill For Executions
+  95304 Firing Squad Execution Bill Passes Utah House, Heads To Senate Amid Debate Over Lethal Injections
+ 174986 Utah Firing Squad Execution Update: Gov. Gary Herbert Signs Lethal Injection Alternative
+ 174926 Utah Governor Signs Law Reinstating Firing Squad As Backup Execution Method
+ 128969 Plan for Oklahoma nitrogen gas executions advances after house vote
+  94643 National Briefing | Rockies: Utah: House Votes to Reinstate Death by Firing Squad
+ 145162 Utah lawmakers vote to become only state to allow firing squad
+
+PAIR_ID: 792853
+TID: HcaAdapter_Bme[50]_C[500]_Cme[200]_T[200]_burnin[50]_corpus[us_politics_textperline]_dictionary[us_politics_dict]_rseed[34599268]_text2tokens[whitespace_tokenizer]_type[lda] $$$ 85
+TID: HcaAdapter_Bme[50]_C[1000]_Cme[400]_T[300]_burnin[50]_corpus[us_politics_textperline]_dictionary[us_politics_dict]_rseed[82370265]_text2tokens[whitespace_tokenizer]_type[pyp] $$$ 4
+
+------------------------------------------
+MATCH: 0
+
+WORDS: christi trip london evolut trade mission jersey visit chri travel kingdom vaccin scienc theori politician
+  95106 Likely GOP Presidential Candidates Ride Bumpy Learning Curve For 2016 Race
+  71510 Chris Christie calls for compassionate approach to drug addicts
+  89161 Wisconsin's Walker refuses to answer question on evolution
+  89325 Walker Talks Trade in UK But Brushes Away 2016, ISIS, Evolution Questions
+  97138 Bumpy learning curve for likely candidates in 2016 race
+  89156 Wisconsin's Walker refuses to answer question on evolution
+  97114 Bumpy learning curve for likely candidates in 2016 race
+  89587 Scott Walker dodges evolution question: 'That's a question a politician shouldn't be involved in' – video
+  89201 Scott Walker Dodges Question On Whether He Believes In Evolution
+  95144 Likely candidates ride bumpy learning curve for 2016 race
+  97605 Potential 2016 Presidential Candidates Face A Big Learning Curve
+  74456 New Jersey Governor Christie ducks media after vaccination comments
+  74678 Christie's trip to UK largely avoids topic of foreign policy
+  90319 Wisconsin's Walker the latest 2016 prospect with a UK hiccup
+  74667 Christie's trip to UK largely avoids topic of foreign policy
+
+WORDS: christi jersey chri pension camden break town trenton incent newark bridg sandi hall georg norcross
+ 205506 Christie to kick off town hall series in New Hampshire
+  94616 Chris Christie Close To Starting Super PAC: Report
+ 159046 Chris Christie, Camden and the 'comeback': politics as usual in New Jersey
+ 209679 At town hall, teacher urges Gov. Christie to tone it down
+ 158442 Christie's Camden tax breaks reward political insiders
+ 158450 Christie's Camden tax breaks reward political insiders
+ 111982 Court Rules N.J. Gov. Chris Christie Must Make Promised Pension Payment
+ 158421 NJ Gov. Christie's tax breaks reward political insiders
+ 166806 New interviews, subpoena in Christie bridge investigation
+ 159033 Christie's Camden tax breaks reward New Jersey insiders
+ 158890 Christie's Camden tax breaks reward political insiders
+ 158910 Christie's Camden tax breaks reward political insiders
+ 111887 Court Strikes Down Chris Christie's Plan To Cut Pension Contributions
+ 209664 At town hall, teacher urges Gov. Christie to tone it down
+ 158414 NJ Gov. Christie's tax breaks reward political insiders
+
+PAIR_ID: 1191239
+TID: HcaAdapter_Bme[50]_C[500]_Cme[200]_T[200]_burnin[50]_corpus[us_politics_textperline]_dictionary[us_politics_dict]_rseed[71875193]_text2tokens[whitespace_tokenizer]_type[lda-asym] $$$ 77
+TID: HcaAdapter_Bme[50]_C[500]_Cme[200]_T[200]_burnin[50]_corpus[us_politics_textperline]_dictionary[us_politics_dict]_rseed[71875193]_text2tokens[whitespace_tokenizer]_type[lda-asym] $$$ 122
+
+------------------------------------------
+MATCH: 1
+
+WORDS: incom economi class inequ poverti poor wage growth rate earn rich wealthi wealth household corpor
+  75402 Are We Past the Point of No Return When It Comes to Inequality?
+ 191672 The Rise of the Working Poor and the Non-Working Rich
+ 101626 No, The Rich Have Not Gotten Poorer Since The Financial Crisis
+ 150398 Democrats Answer the False Choice of Growth Versus Redistribution With Inclusive Prosperity
+ 114869 Social Security Policy Responses to Inequality
+  53298 This Map Reveals Just How Unequal The So-Called Recovery Is
+  53299 Voodoo Trickle Down Be Damned
+ 143696 Federal tax code unfair to the super wealthy
+ 147134 Thomas Piketty Calls Out Republican 'Hypocrisy' On Income Inequality
+  74187 Jeb Bush to Pitch Economic Message in Detroit
+ 106667 Obama: No accident economy improving under his watch
+ 152392 Tax Policy: Will Hillary Clinton Follow Democrats on Capital Gains?
+  98659 Incomes and Outcomes: Inequality Has Actually Not Risen Since the Financial Crisis
+ 104166 Middle class stagnation: What Obama plans to do
+ 157068 Sen. Sanders' Bold Plan to Expand Social Security
+
+WORDS: incom inequ class poverti poor rich wealthi wealth household earn gap middle-class credit earner progress
+  58909 Robin Hood in Reverse
+  91973 The California Chasm: A Look At Income Inequality In The Golden State
+ 191672 The Rise of the Working Poor and the Non-Working Rich
+ 106049 President Obama to GOP: Stop copying me on economy
+ 101626 No, The Rich Have Not Gotten Poorer Since The Financial Crisis
+ 212136 The Middle Class Is Doing Worse Than You Think
+  54499 Obama Has Set The Parameters For 2016: Middle-Class Economics vs. Trickle-Down Economics
+ 143696 Federal tax code unfair to the super wealthy
+ 188676 Candidates and Wealthy Are Aligned on Inequality
+  98659 Incomes and Outcomes: Inequality Has Actually Not Risen Since the Financial Crisis
+ 164491 Poll: Little change in desire for action on inequality
+  93522 Income Inequality: States Consider Increasing Taxes on Poor, Cutting Them on Affluent
+  53692 Joe Scarborough: Hillary Clinton Leads The 'Most Elite,' 'Gatsby-Like Existence' Of Any Politician
+ 220701 Hillary Clinton says she's running for president in 2016
+ 157068 Sen. Sanders' Bold Plan to Expand Social Security
+
+PAIR_ID: 578863
+TID: HcaAdapter_Bme[50]_C[500]_Cme[200]_T[100]_burnin[50]_corpus[us_politics_textperline]_dictionary[us_politics_dict]_rseed[1120261]_text2tokens[whitespace_tokenizer]_type[lda-asym] $$$ 20
+TID: SklearnNmfTmAdapter_T[200]_corpus[us_politics_textperline]_dictionary[us_politics_dict]_preproc[tf-idf]_rndSeed[85129645]_text2tokens[whitespace_tokenizer] $$$ 89
+
+------------------------------------------
+MATCH: 0
+
+WORDS: rate unemploy data averag drop higher growth economi low lower popul declin gain compar percentag
+ 136138 US added 295,000 jobs in February as unemployment rate dips to 5.5 percent
+ 136343 February Jobs Report: First Impressions
+  79099 The Fix: The group that’s seen the slowest unemployment recovery under Obama? Black Americans.
+  79413 The January Jobs Report in Pictures
+ 136973 The February Jobs Report in Pictures
+  78895 U.S. Economy Added 257,000 Jobs in January; Unemployment Rate at 5.7%
+ 191479 Obama Approval Ratings For 7th Year Top George W. Bush's So Far
+ 146652 Lindsey Graham, Reince Priebus Try To Temper Latest Jobs Report
+  78825 U.S. Adds 257,000 Jobs In January; Unemployment Rate Rises To 5.7 Percent
+  78896 Encouraging Signs: This Is a Great Jobs Report Across the Board
+ 136324 The Jobs Report: Job Growth Was Fantastic Last Month. So Why Aren’t Wages Rising More?
+ 176106 Federal Eye: Veterans unemployment rate drops to lowest point since 2008
+ 104171 Applications for US unemployment aid plummet to 283,000
+ 136230 U.S. economy added 295,000 jobs in February
+ 181081 Here's Yet Another Sober Reminder We're Not Living In A Post-Racial Society
+
+WORDS: cost market billion price dollar per estim industri averag product total buy sale rate small
+ 208188 The Fix: 8 amazing things you can buy at Rand Paul’s online store — including, for some reason, flip-flops
+  98016 The Drug That Is Bankrupting America
+  56559 The Fix: Koch-backed groups intend to spend $889 million in 2016. Here’s how massive that is.
+  76804 The Fix: Axelrod says Obama predicted the iPhone boom. Here’s how much money he could have made off it.
+  53778 Health Insurers' Stock Soars as They Dump Small Business Customers
+ 171965 Companies Profiting The Most From War
+ 107527 3 Reasons Why Americans Should Be Cautious of $2 Gas Prices
+ 165348 Pentagon projects drop in cost of Lockheed F-35
+ 195615 Calendar Impact Hurts March U.S. Auto Sales
+  64021 US economy slows to 2.6 percent growth in fourth quarter
+ 126695 GovBeat: Low gas prices: Great for Florida, terrible for Alaska
+ 144161 Think tank says U.S. farm bill payments to peak with 2015 crop
+ 111722 An Under-Examined Angle on Money-in-Politics: 'Winner-Take-All' Elections
+  75863 Gambling sales down 2% in New York state
+ 112581 Fact Checker: Key report in battle over car dealer sales is bizarrely outdated
+
+PAIR_ID: 485478
+TID: SklearnNmfTmAdapter_T[100]_corpus[us_politics_textperline]_dictionary[us_politics_dict]_preproc[tf-idf]_rndSeed[24374331]_text2tokens[whitespace_tokenizer] $$$ 54
+TID: HcaAdapter_Bme[50]_C[500]_Cme[200]_T[100]_burnin[50]_corpus[us_politics_textperline]_dictionary[us_politics_dict]_rseed[1120261]_text2tokens[whitespace_tokenizer]_type[lda-asym] $$$ 97
+

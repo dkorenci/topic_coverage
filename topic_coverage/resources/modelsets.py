@@ -1,0 +1,7 @@
+djurdjaBuild1 = '/datafast/topic_coverage/docker_modelbuild/djurdja_build1/'
+#uspolLabelingBuild = '/datafast/topic_coverage/docker_modelbuild/paramset_lab_uspol/'
+uspolLabelingBuild = '/datafast/topic_coverage/docker_modelbuild/paramset_lab_uspol_remapped/'
+uspolLabelingBuildAlda ='/datafast/topic_coverage/docker_modelbuild/paramset_lab_uspol_alda/'
+phenoLabelingBuild = '/datafast/topic_coverage/docker_modelbuild/paramset_lab_pheno/'
+testDockerBuild = '/datafast/topic_coverage/modelbuild/b52_test_modelbuild/'
+prodModelsBuild = '/datafast/topic_coverage/docker_modelbuild/prodbuild'

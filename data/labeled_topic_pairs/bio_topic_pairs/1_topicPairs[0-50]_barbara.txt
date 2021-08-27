@@ -1,0 +1,350 @@
+------------------------------------------
+MATCH: 1
+WORDS: nitrogenfix diazotroph nifh nif nitrogenas toluen unicellular denitrif pudica rhizospher hair sever microflora soildwel cultivar
+WORDS: nitrogenfix symbiosi fixat toluen protect legum rhizobia nitrogenas australia actinorhiz degrad denitrif suppli acid kind
+PAIR_ID: 987352
+TID: SklearnNmfTmAdapter_T[200]_corpus[pheno_corpus1]_dictionary[pheno_dict1]_preproc[tf-idf]_rndSeed[81437211]_text2tokens[whitespace_tokenizer] $$$ 104
+TID: pheno_reftopics_docs $$$ 36
+------------------------------------------
+MATCH: 1
+WORDS: infect endocard caus patient blood pathogen valv abscess bacteremia mening gramposit tract heart arthriti septic
+WORDS: infect endocard caus patient blood valv bacteremia pathogen arthriti septic mening septicemia heart periton prosthet
+PAIR_ID: 1211771
+TID: HcaAdapter_Bme[50]_C[500]_Cme[200]_T[200]_burnin[50]_corpus[pheno_corpus1]_dictionary[pheno_dict1]_rseed[48755696]_text2tokens[whitespace_tokenizer]_type[lda-asym] $$$ 189
+TID: HcaAdapter_Bme[50]_C[1000]_Cme[400]_T[300]_burnin[50]_corpus[pheno_corpus1]_dictionary[pheno_dict1]_rseed[64821483]_text2tokens[whitespace_tokenizer]_type[pyp] $$$ 287
+------------------------------------------
+MATCH: 0
+WORDS: gramposit nonmotil sporeform anaerob rodshap chemoorganotroph mycol wall nonpathogen coccusshap thick endocard skin pathogen alkaliphil
+WORDS: motil flagella flagellum glide polar rod rodshap peritrich stalk shape flagel flagellar curv anaerob chemotaxi
+PAIR_ID: 118783
+TID: SklearnNmfTmAdapter_T[50]_corpus[pheno_corpus1]_dictionary[pheno_dict1]_preproc[tf-idf]_rndSeed[29738306]_text2tokens[whitespace_tokenizer] $$$ 22
+TID: SklearnNmfTmAdapter_T[50]_corpus[pheno_corpus1]_dictionary[pheno_dict1]_preproc[tf-idf]_rndSeed[29738306]_text2tokens[whitespace_tokenizer] $$$ 42
+------------------------------------------
+MATCH: 0
+WORDS: china kei chines beij agricultur reserv peopl engin republ acid sun high suppli tianjin effici
+WORDS: china kei chines beij agricultur peopl republ high reserv sun suppli assai engin highest effici
+PAIR_ID: 797596
+TID: HcaAdapter_Bme[50]_C[500]_Cme[200]_T[200]_burnin[50]_corpus[pheno_corpus1]_dictionary[pheno_dict1]_rseed[83020774]_text2tokens[whitespace_tokenizer]_type[lda] $$$ 119
+TID: HcaAdapter_Bme[50]_C[500]_Cme[200]_T[200]_burnin[50]_corpus[pheno_corpus1]_dictionary[pheno_dict1]_rseed[48755696]_text2tokens[whitespace_tokenizer]_type[lda-asym] $$$ 147
+------------------------------------------
+MATCH: 0
+WORDS: china engin agricultur reserv chines kei beij assai mutant chemic effici stress gel republ upregul
+WORDS: soil rhizospher pathogen biocontrol antifung fungal agricultur metabolit antibiot antagonist acid phenazin secondari antimicrobi growthpromot
+PAIR_ID: 84198
+TID: SklearnNmfTmAdapter_T[50]_corpus[pheno_corpus1]_dictionary[pheno_dict1]_preproc[tf-idf]_rndSeed[29738306]_text2tokens[whitespace_tokenizer] $$$ 0
+TID: HcaAdapter_Bme[50]_C[1000]_Cme[400]_T[300]_burnin[50]_corpus[pheno_corpus1]_dictionary[pheno_dict1]_rseed[64821483]_text2tokens[whitespace_tokenizer]_type[pyp] $$$ 174
+------------------------------------------
+MATCH: 0
+WORDS: heme biochemistri fe chem chemistri ligand redox spectroscopi proton kinet absorpt reduc intermedi xrai bound
+WORDS: biochemistri chemistri catalyt chem kinet purifi acid stabil crystal intermedi catalyz ligand reduc chemic ion
+PAIR_ID: 1126976
+TID: HcaAdapter_Bme[50]_C[500]_Cme[200]_T[200]_burnin[50]_corpus[pheno_corpus1]_dictionary[pheno_dict1]_rseed[48755696]_text2tokens[whitespace_tokenizer]_type[lda-asym] $$$ 69
+TID: HcaAdapter_Bme[50]_C[1000]_Cme[400]_T[300]_burnin[50]_corpus[pheno_corpus1]_dictionary[pheno_dict1]_rseed[64821483]_text2tokens[whitespace_tokenizer]_type[pyp] $$$ 152
+------------------------------------------
+MATCH: 0.5
+WORDS: mycelium aerial spore septat hypha multicellular germin metabolit coval mycelia secondari bound mk9 unusu scab
+WORDS: aerial mycelium spore hypha soil metabolit antibiot mycelia secondari gramposit veget septat myceli germin subord
+PAIR_ID: 918734
+TID: SklearnNmfTmAdapter_T[200]_corpus[pheno_corpus1]_dictionary[pheno_dict1]_preproc[tf-idf]_rndSeed[81437211]_text2tokens[whitespace_tokenizer] $$$ 33
+TID: pheno_reftopics_docs $$$ 4
+------------------------------------------
+MATCH: 0
+WORDS: megaplasmid replicon psyma psymb biosynthesi solvent chromid synteni thienamycin cephamycin haloarcha styren unusu wilt essenti
+WORDS: spore mycelium aerial soil hypha antibiot metabolit secondari wall vesicl veget mycelia gramposit compost myceli
+PAIR_ID: 984148
+TID: SklearnNmfTmAdapter_T[200]_corpus[pheno_corpus1]_dictionary[pheno_dict1]_preproc[tf-idf]_rndSeed[81437211]_text2tokens[whitespace_tokenizer] $$$ 101
+TID: HcaAdapter_Bme[50]_C[1000]_Cme[400]_T[300]_burnin[50]_corpus[pheno_corpus1]_dictionary[pheno_dict1]_rseed[64821483]_text2tokens[whitespace_tokenizer]_type[pyp] $$$ 40
+------------------------------------------
+MATCH: 0
+WORDS: assai sensit rapid realtim discrimin polymeras neg diagnost primer vitro convent reliabl commerci specimen effici
+WORDS: infect antibodi antigen serum assai sera serolog sensit immun blood diagnosi diagnost titer infecti high
+PAIR_ID: 1082593
+TID: HcaAdapter_Bme[50]_C[500]_Cme[200]_T[200]_burnin[50]_corpus[pheno_corpus1]_dictionary[pheno_dict1]_rseed[48755696]_text2tokens[whitespace_tokenizer]_type[lda-asym] $$$ 13
+TID: HcaAdapter_Bme[50]_C[1000]_Cme[400]_T[300]_burnin[50]_corpus[pheno_corpus1]_dictionary[pheno_dict1]_rseed[64821483]_text2tokens[whitespace_tokenizer]_type[pyp] $$$ 205
+------------------------------------------
+MATCH: 0
+WORDS: infect patient caus endocard abscess pathogen hospit blood bacteremia antibiot yearold surgeri valv tract mening
+WORDS: infect sexual women genit men transmit pregnanc tract femal male patient urogenit sex caus urethr
+PAIR_ID: 270825
+TID: HcaAdapter_Bme[50]_C[500]_Cme[200]_T[100]_burnin[50]_corpus[pheno_corpus1]_dictionary[pheno_dict1]_rseed[48690284]_text2tokens[whitespace_tokenizer]_type[lda] $$$ 19
+TID: HcaAdapter_Bme[50]_C[500]_Cme[200]_T[100]_burnin[50]_corpus[pheno_corpus1]_dictionary[pheno_dict1]_rseed[18003930]_text2tokens[whitespace_tokenizer]_type[lda-asym] $$$ 76
+------------------------------------------
+MATCH: 0
+WORDS: infect women vagin chlamydi genit tract sexual pregnanc vaginosi transmit caus femal urogenit pregnant men
+WORDS: infect patient pulmonari lung treatment nontubercul caus therapi respiratori pathogen nocardiosi medicin drug diagnosi sputum
+PAIR_ID: 50281
+TID: HcaAdapter_Bme[50]_C[500]_Cme[200]_T[50]_burnin[50]_corpus[pheno_corpus1]_dictionary[pheno_dict1]_rseed[14658896]_text2tokens[whitespace_tokenizer]_type[lda] $$$ 30
+TID: HcaAdapter_Bme[50]_C[500]_Cme[200]_T[100]_burnin[50]_corpus[pheno_corpus1]_dictionary[pheno_dict1]_rseed[48690284]_text2tokens[whitespace_tokenizer]_type[lda] $$$ 47
+------------------------------------------
+MATCH: 0
+WORDS: infect patient pulmonari lung nontubercul drug treatment caus pathogen nocardiosi therapi respiratori diagnosi sputum medicin
+WORDS: infect endocard caus patient blood valv bacteremia pathogen arthriti septic mening septicemia heart periton prosthet
+PAIR_ID: 639481
+TID: HcaAdapter_Bme[50]_C[500]_Cme[200]_T[100]_burnin[50]_corpus[pheno_corpus1]_dictionary[pheno_dict1]_rseed[18003930]_text2tokens[whitespace_tokenizer]_type[lda-asym] $$$ 85
+TID: HcaAdapter_Bme[50]_C[1000]_Cme[400]_T[300]_burnin[50]_corpus[pheno_corpus1]_dictionary[pheno_dict1]_rseed[64821483]_text2tokens[whitespace_tokenizer]_type[pyp] $$$ 287
+------------------------------------------
+MATCH: 0
+WORDS: virul averag invas lpxtg lancefield illumina motif rpob follow caus pangenom pipelin ident error streptococc
+WORDS: virul pathogen operon locu fimbrial adhesin loci autotransport t3ss absent biosynthesi prophag ident toxin sever
+PAIR_ID: 1209032
+TID: HcaAdapter_Bme[50]_C[500]_Cme[200]_T[200]_burnin[50]_corpus[pheno_corpus1]_dictionary[pheno_dict1]_rseed[48755696]_text2tokens[whitespace_tokenizer]_type[lda-asym] $$$ 185
+TID: HcaAdapter_Bme[50]_C[1000]_Cme[400]_T[300]_burnin[50]_corpus[pheno_corpus1]_dictionary[pheno_dict1]_rseed[64821483]_text2tokens[whitespace_tokenizer]_type[pyp] $$$ 138
+------------------------------------------
+MATCH: 0
+WORDS: pathogen virul catfish aquat aquacultur caus immun fisheri shellfish seawat inject mortal seafood quorum ocean
+WORDS: tickborn pathogen virul rickettsiosi infect patient erythrocyt europ epidem immun bacteremia lesion borreliosi femal farm
+PAIR_ID: 786896
+TID: HcaAdapter_Bme[50]_C[500]_Cme[200]_T[200]_burnin[50]_corpus[pheno_corpus1]_dictionary[pheno_dict1]_rseed[83020774]_text2tokens[whitespace_tokenizer]_type[lda] $$$ 109
+TID: pheno_reftopics_docs $$$ 40
+------------------------------------------
+MATCH: 0
+WORDS: spore sporul germin gramposit veget soil endospor toxin heat food sporeform enterotoxin poison pxo1 thienamycin
+WORDS: spore crystal sporul toxic polysaccharid agricultur chemic extracellular coat effici oxygen highli accumul motil ferment
+PAIR_ID: 566714
+TID: HcaAdapter_Bme[50]_C[500]_Cme[200]_T[100]_burnin[50]_corpus[pheno_corpus1]_dictionary[pheno_dict1]_rseed[18003930]_text2tokens[whitespace_tokenizer]_type[lda-asym] $$$ 28
+TID: pheno_reftopics_docs $$$ 66
+------------------------------------------
+MATCH: 0
+WORDS: ectoin betain salt salin compat nacl accumul high stress prolin synthesi osmot cholin moder osmolyt
+WORDS: thermophil thermost acid high mesophil optimum stabil starch industri optim stabl moder valu compost purifi
+PAIR_ID: 1133764
+TID: HcaAdapter_Bme[50]_C[500]_Cme[200]_T[200]_burnin[50]_corpus[pheno_corpus1]_dictionary[pheno_dict1]_rseed[48755696]_text2tokens[whitespace_tokenizer]_type[lda-asym] $$$ 78
+TID: HcaAdapter_Bme[50]_C[1000]_Cme[400]_T[300]_burnin[50]_corpus[pheno_corpus1]_dictionary[pheno_dict1]_rseed[64821483]_text2tokens[whitespace_tokenizer]_type[pyp] $$$ 91
+------------------------------------------
+MATCH: 1
+WORDS: carbon dioxid hydrogen calvinbensonbassham photosystem oxygen unicellular autotroph absorb quantiti monoxid releas chemolithoautotroph metabol inorgan
+WORDS: carbon dioxid unicellular photosystem calvinbensonbassham oxygen absorb quantiti releas autotroph hydrogen monoxid photosynthesi inorgan chlorophyl
+PAIR_ID: 128661
+TID: SklearnNmfTmAdapter_T[50]_corpus[pheno_corpus1]_dictionary[pheno_dict1]_preproc[tf-idf]_rndSeed[29738306]_text2tokens[whitespace_tokenizer] $$$ 28
+TID: SklearnNmfTmAdapter_T[100]_corpus[pheno_corpus1]_dictionary[pheno_dict1]_preproc[tf-idf]_rndSeed[45801663]_text2tokens[whitespace_tokenizer] $$$ 63
+------------------------------------------
+MATCH: 0
+WORDS: streptococc infect virul caus pathogen invas skin sever patient pharyng acid superantigen throat pathogenesi stss
+WORDS: blood infect pathogen reservoir patient lous scratch erythrocyt bacteremia endocard lesion bacillari endotheli t4ss angiomatosi
+PAIR_ID: 784045
+TID: HcaAdapter_Bme[50]_C[500]_Cme[200]_T[200]_burnin[50]_corpus[pheno_corpus1]_dictionary[pheno_dict1]_rseed[83020774]_text2tokens[whitespace_tokenizer]_type[lda] $$$ 107
+TID: HcaAdapter_Bme[50]_C[500]_Cme[200]_T[200]_burnin[50]_corpus[pheno_corpus1]_dictionary[pheno_dict1]_rseed[48755696]_text2tokens[whitespace_tokenizer]_type[lda-asym] $$$ 54
+------------------------------------------
+MATCH: 0
+WORDS: infect women neonat pregnanc preterm pregnant infant genit tract birth matern fluid reproduct infertil gestat
+WORDS: patient infect nontubercul lung pulmonari treatment medicin respiratori drug therapi caus korea sputum fibrosi cystic
+PAIR_ID: 815212
+TID: HcaAdapter_Bme[50]_C[500]_Cme[200]_T[200]_burnin[50]_corpus[pheno_corpus1]_dictionary[pheno_dict1]_rseed[83020774]_text2tokens[whitespace_tokenizer]_type[lda] $$$ 135
+TID: HcaAdapter_Bme[50]_C[500]_Cme[200]_T[200]_burnin[50]_corpus[pheno_corpus1]_dictionary[pheno_dict1]_rseed[48755696]_text2tokens[whitespace_tokenizer]_type[lda-asym] $$$ 43
+------------------------------------------
+MATCH: 1
+WORDS: periodont dental dentistri plaqu caviti pathogen anaerob gingiv saliva tooth children health teeth patient salivari
+WORDS: periodont dental dentistri plaqu caviti gingiv tooth children saliva pathogen health anaerob teeth patient salivari
+PAIR_ID: 31989
+TID: HcaAdapter_Bme[50]_C[500]_Cme[200]_T[50]_burnin[50]_corpus[pheno_corpus1]_dictionary[pheno_dict1]_rseed[14658896]_text2tokens[whitespace_tokenizer]_type[lda] $$$ 19
+TID: HcaAdapter_Bme[50]_C[500]_Cme[200]_T[100]_burnin[50]_corpus[pheno_corpus1]_dictionary[pheno_dict1]_rseed[48690284]_text2tokens[whitespace_tokenizer]_type[lda] $$$ 15
+------------------------------------------
+MATCH: 0
+WORDS: island spi1 spi2 excis ident pertain epidem daniel health uropathogen multilocu deliveri immedi harbor born
+WORDS: toluen benzen ethylbenzen btex biodegrad xylen benzoat monooxygenas groundwat phenol dioxygenas contamin phenylalanin hydrocarbon chlorat
+PAIR_ID: 947702
+TID: SklearnNmfTmAdapter_T[200]_corpus[pheno_corpus1]_dictionary[pheno_dict1]_preproc[tf-idf]_rndSeed[81437211]_text2tokens[whitespace_tokenizer] $$$ 63
+TID: SklearnNmfTmAdapter_T[200]_corpus[pheno_corpus1]_dictionary[pheno_dict1]_preproc[tf-idf]_rndSeed[81437211]_text2tokens[whitespace_tokenizer] $$$ 189
+------------------------------------------
+MATCH: 0
+WORDS: infect pathogen macrophag caus virul replic tularemia surviv infecti sever gramneg vacuol phagosom death america
+WORDS: respiratori infect lung children tract caus cough airwai pulmonari pathogen nasal chronic sever toxin acut
+PAIR_ID: 374408
+TID: HcaAdapter_Bme[50]_C[500]_Cme[200]_T[100]_burnin[50]_corpus[pheno_corpus1]_dictionary[pheno_dict1]_rseed[48690284]_text2tokens[whitespace_tokenizer]_type[lda] $$$ 89
+TID: HcaAdapter_Bme[50]_C[500]_Cme[200]_T[100]_burnin[50]_corpus[pheno_corpus1]_dictionary[pheno_dict1]_rseed[18003930]_text2tokens[whitespace_tokenizer]_type[lda-asym] $$$ 24
+------------------------------------------
+MATCH: 1
+WORDS: dechlorin chlorin ethen dehalogenas dehalogen trichloroethen groundwat contamin vinyl tetrachloroethen chlorid halogen bioremedi pollut dehalorespir
+WORDS: dechlorin ethen engin chlorid vinyl probe civil microcosm chlorin cisdc valu ident sediment highli metabol
+PAIR_ID: 444965
+TID: SklearnNmfTmAdapter_T[100]_corpus[pheno_corpus1]_dictionary[pheno_dict1]_preproc[tf-idf]_rndSeed[45801663]_text2tokens[whitespace_tokenizer] $$$ 38
+TID: HcaAdapter_Bme[50]_C[1000]_Cme[400]_T[300]_burnin[50]_corpus[pheno_corpus1]_dictionary[pheno_dict1]_rseed[64821483]_text2tokens[whitespace_tokenizer]_type[pyp] $$$ 252
+------------------------------------------
+MATCH: 0
+WORDS: bacteriochlorophyl pigment light chlorosom anoxygen carotenoid photosynthesi bchl dark chlorophyl lightharvest photoheterotroph photoautotroph antenna harvest
+WORDS: bacteriochlorophyl photosystem photosynthesi chlorophyl oxygen cyclic unicellular ovoid light intens effici mutant regulatori pigment dark
+PAIR_ID: 160068
+TID: SklearnNmfTmAdapter_T[50]_corpus[pheno_corpus1]_dictionary[pheno_dict1]_preproc[tf-idf]_rndSeed[29738306]_text2tokens[whitespace_tokenizer] $$$ 47
+TID: pheno_reftopics_docs $$$ 27
+------------------------------------------
+MATCH: 0
+WORDS: carbon autotroph fixat rubisco cycl chemolithoautotroph dioxid carboxylas thiosulf heterotroph metabol sulfuroxid carboxysom inorgan bisphosph
+WORDS: autotroph replic fixat metabol aggreg depend nitrat baltic chemoheterotroph photoheterotroph acetogen dark deeper dens geotherm
+PAIR_ID: 1295428
+TID: HcaAdapter_Bme[50]_C[1000]_Cme[400]_T[300]_burnin[50]_corpus[pheno_corpus1]_dictionary[pheno_dict1]_rseed[64821483]_text2tokens[whitespace_tokenizer]_type[pyp] $$$ 135
+TID: pheno_reftopics_docs $$$ 59
+------------------------------------------
+MATCH: 0
+WORDS: prei predat predatori cycl stalk bud attack nucleoid gramneg pole mother swarmer holdfast replic daughter
+WORDS: dog canin kennel veterinari pathogenesi sanguineu pyoderma pet vole household zoonot virb sialidas mammalian male
+PAIR_ID: 541023
+TID: HcaAdapter_Bme[50]_C[500]_Cme[200]_T[100]_burnin[50]_corpus[pheno_corpus1]_dictionary[pheno_dict1]_rseed[18003930]_text2tokens[whitespace_tokenizer]_type[lda-asym] $$$ 9
+TID: SklearnNmfTmAdapter_T[200]_corpus[pheno_corpus1]_dictionary[pheno_dict1]_preproc[tf-idf]_rndSeed[81437211]_text2tokens[whitespace_tokenizer] $$$ 79
+------------------------------------------
+MATCH: 0.5
+WORDS: nitrit nitrat nitrogen denitrif ammonium reductas denitrifi ammoniaoxid nitrif cycl nitrifi nitric n2o nitrou carbon
+WORDS: denitrif nitrat nitrit reductas nitrou nitric subsurfac monophosph ribulos seawat operon sulfid reduc capabl ion
+PAIR_ID: 1159924
+TID: HcaAdapter_Bme[50]_C[500]_Cme[200]_T[200]_burnin[50]_corpus[pheno_corpus1]_dictionary[pheno_dict1]_rseed[48755696]_text2tokens[whitespace_tokenizer]_type[lda-asym] $$$ 113
+TID: pheno_reftopics_docs $$$ 86
+------------------------------------------
+MATCH: 0
+WORDS: acid symbiot metabol reduc parasit essenti biosynthesi symbiosi secondari freeliv synthesi moran mutualist reproduct synthes
+WORDS: parasit symbiot mutualist symbiosi mountain immun adult infect hostassoci reproduct antibiot harbor gland transmit midgut
+PAIR_ID: 220385
+TID: HcaAdapter_Bme[50]_C[500]_Cme[200]_T[50]_burnin[50]_corpus[pheno_corpus1]_dictionary[pheno_dict1]_rseed[80648481]_text2tokens[whitespace_tokenizer]_type[lda-asym] $$$ 36
+TID: HcaAdapter_Bme[50]_C[500]_Cme[200]_T[200]_burnin[50]_corpus[pheno_corpus1]_dictionary[pheno_dict1]_rseed[83020774]_text2tokens[whitespace_tokenizer]_type[lda] $$$ 92
+------------------------------------------
+MATCH: 0.5
+WORDS: tandem contig caus florida heartwat repetit silico variat multicopi depth multipl edg raw separ caribbean
+WORDS: contig caus optic silico illumina repetit raw tandem multicopi depth verif error variat amplicon subcultur
+PAIR_ID: 678803
+TID: HcaAdapter_Bme[50]_C[500]_Cme[200]_T[200]_burnin[50]_corpus[pheno_corpus1]_dictionary[pheno_dict1]_rseed[83020774]_text2tokens[whitespace_tokenizer]_type[lda] $$$ 17
+TID: HcaAdapter_Bme[50]_C[1000]_Cme[400]_T[300]_burnin[50]_corpus[pheno_corpus1]_dictionary[pheno_dict1]_rseed[64821483]_text2tokens[whitespace_tokenizer]_type[pyp] $$$ 137
+------------------------------------------
+MATCH: 0
+WORDS: pathogen aquat seawat seafood aquacultur shellfish hemolysin quorum fisheri inject ocean immun clam coral vibriosi
+WORDS: pathogen infect glander caus aerosol infecti chronic weapon acut high inhal treatment antibiot bioterror fatal
+PAIR_ID: 1080170
+TID: HcaAdapter_Bme[50]_C[500]_Cme[200]_T[200]_burnin[50]_corpus[pheno_corpus1]_dictionary[pheno_dict1]_rseed[48755696]_text2tokens[whitespace_tokenizer]_type[lda-asym] $$$ 10
+TID: HcaAdapter_Bme[50]_C[1000]_Cme[400]_T[300]_burnin[50]_corpus[pheno_corpus1]_dictionary[pheno_dict1]_rseed[64821483]_text2tokens[whitespace_tokenizer]_type[pyp] $$$ 251
+------------------------------------------
+MATCH: 1
+WORDS: patient infect fibrosi lung cystic pulmonari nontubercul treatment respiratori pathogen sputum chronic caus therapi transplant
+WORDS: cystic fibrosi patient lung infect antibiot pathogen opportunist chronic therapi gramneg immunocompromis multipl mortal melioidosi
+PAIR_ID: 824698
+TID: HcaAdapter_Bme[50]_C[500]_Cme[200]_T[200]_burnin[50]_corpus[pheno_corpus1]_dictionary[pheno_dict1]_rseed[83020774]_text2tokens[whitespace_tokenizer]_type[lda] $$$ 143
+TID: pheno_reftopics_docs $$$ 41
+------------------------------------------
+MATCH: 1
+WORDS: virul streptococc invas motif capsul spacer averag lpxtg ident lancefield caus uniqu acid ecovar multipl
+WORDS: virul sortas averag lpxtg invas motif caus pathogen uniqu follow ident lancefield blood multipl streptococc
+PAIR_ID: 563168
+TID: HcaAdapter_Bme[50]_C[500]_Cme[200]_T[100]_burnin[50]_corpus[pheno_corpus1]_dictionary[pheno_dict1]_rseed[18003930]_text2tokens[whitespace_tokenizer]_type[lda-asym] $$$ 26
+TID: HcaAdapter_Bme[50]_C[500]_Cme[200]_T[200]_burnin[50]_corpus[pheno_corpus1]_dictionary[pheno_dict1]_rseed[83020774]_text2tokens[whitespace_tokenizer]_type[lda] $$$ 35
+------------------------------------------
+MATCH: 0
+WORDS: antibiot metabolit biosynthesi secondari biosynthet polyketid synthas ferment peptid metabol synthesi nonribosom soil rifamycin chemic
+WORDS: toxin insecticid toxic entomopathogen pest kill cry crop agricultur crystal soil pathogen larval protect pesticid
+PAIR_ID: 651098
+TID: HcaAdapter_Bme[50]_C[500]_Cme[200]_T[100]_burnin[50]_corpus[pheno_corpus1]_dictionary[pheno_dict1]_rseed[18003930]_text2tokens[whitespace_tokenizer]_type[lda-asym] $$$ 95
+TID: HcaAdapter_Bme[50]_C[500]_Cme[200]_T[200]_burnin[50]_corpus[pheno_corpus1]_dictionary[pheno_dict1]_rseed[83020774]_text2tokens[whitespace_tokenizer]_type[lda] $$$ 59
+------------------------------------------
+MATCH: 0
+WORDS: infect women vagin chlamydi genit tract sexual pregnanc vaginosi transmit caus femal urogenit pregnant men
+WORDS: infect patient caus treatment diagnosi antibiot blood sever pain bite ill acut sign skin usual
+PAIR_ID: 50439
+TID: HcaAdapter_Bme[50]_C[500]_Cme[200]_T[50]_burnin[50]_corpus[pheno_corpus1]_dictionary[pheno_dict1]_rseed[14658896]_text2tokens[whitespace_tokenizer]_type[lda] $$$ 30
+TID: HcaAdapter_Bme[50]_C[500]_Cme[200]_T[100]_burnin[50]_corpus[pheno_corpus1]_dictionary[pheno_dict1]_rseed[18003930]_text2tokens[whitespace_tokenizer]_type[lda-asym] $$$ 5
+------------------------------------------
+MATCH: 0
+WORDS: ferment engin ethanol metabol chemic biomass butanol glucos industri hydrogen xylos biofuel batch effici high
+WORDS: pili pilu pilin appendag locu extracellular twitch mutant essenti multipl toxin antitoxin receptor sortas high
+PAIR_ID: 213247
+TID: HcaAdapter_Bme[50]_C[500]_Cme[200]_T[50]_burnin[50]_corpus[pheno_corpus1]_dictionary[pheno_dict1]_rseed[80648481]_text2tokens[whitespace_tokenizer]_type[lda-asym] $$$ 31
+TID: HcaAdapter_Bme[50]_C[1000]_Cme[400]_T[300]_burnin[50]_corpus[pheno_corpus1]_dictionary[pheno_dict1]_rseed[64821483]_text2tokens[whitespace_tokenizer]_type[pyp] $$$ 109
+------------------------------------------
+MATCH: 0
+WORDS: motil wall flagella gramneg free cycl surviv shape caus circular capabl layer nutrient usual metabol
+WORDS: motil flagella polar flagellum swim synthesi flagellar swarm sever cyanophycin motor microscopi rotat light chemotaxi
+PAIR_ID: 174115
+TID: HcaAdapter_Bme[50]_C[500]_Cme[200]_T[50]_burnin[50]_corpus[pheno_corpus1]_dictionary[pheno_dict1]_rseed[80648481]_text2tokens[whitespace_tokenizer]_type[lda-asym] $$$ 6
+TID: HcaAdapter_Bme[50]_C[1000]_Cme[400]_T[300]_burnin[50]_corpus[pheno_corpus1]_dictionary[pheno_dict1]_rseed[64821483]_text2tokens[whitespace_tokenizer]_type[pyp] $$$ 127
+------------------------------------------
+MATCH: 0
+WORDS: infect patient fibrosi cystic melioidosi lung pathogen caus antibiot chronic glander tropic australia thailand soil
+WORDS: patient hospit immunocompromis suffer therapi diabet health pulmonari individu kenya ear catalaseposit indwel resort serolog
+PAIR_ID: 635053
+TID: HcaAdapter_Bme[50]_C[500]_Cme[200]_T[100]_burnin[50]_corpus[pheno_corpus1]_dictionary[pheno_dict1]_rseed[18003930]_text2tokens[whitespace_tokenizer]_type[lda-asym] $$$ 82
+TID: SklearnNmfTmAdapter_T[200]_corpus[pheno_corpus1]_dictionary[pheno_dict1]_preproc[tf-idf]_rndSeed[81437211]_text2tokens[whitespace_tokenizer] $$$ 12
+------------------------------------------
+MATCH: 0
+WORDS: veterinari infect vaccin pathogen medicin avian farm flock poultri caus porcin assai lesion antibodi agricultur
+WORDS: antibodi antigen infect serum assai sera serolog monoclon blot blood western epitop crossreact immunoblot immun
+PAIR_ID: 221792
+TID: HcaAdapter_Bme[50]_C[500]_Cme[200]_T[50]_burnin[50]_corpus[pheno_corpus1]_dictionary[pheno_dict1]_rseed[80648481]_text2tokens[whitespace_tokenizer]_type[lda-asym] $$$ 37
+TID: HcaAdapter_Bme[50]_C[500]_Cme[200]_T[100]_burnin[50]_corpus[pheno_corpus1]_dictionary[pheno_dict1]_rseed[18003930]_text2tokens[whitespace_tokenizer]_type[lda-asym] $$$ 51
+------------------------------------------
+MATCH: 0
+WORDS: infect immun innat protect pathogen macrophag receptor vitro neutrophil vivo medicin infecti epitheli inflamm defens
+WORDS: infect caus treatment antibiot blood usual spread sever death peopl sign skin immun diagnosi typic
+PAIR_ID: 1166179
+TID: HcaAdapter_Bme[50]_C[500]_Cme[200]_T[200]_burnin[50]_corpus[pheno_corpus1]_dictionary[pheno_dict1]_rseed[48755696]_text2tokens[whitespace_tokenizer]_type[lda-asym] $$$ 122
+TID: HcaAdapter_Bme[50]_C[1000]_Cme[400]_T[300]_burnin[50]_corpus[pheno_corpus1]_dictionary[pheno_dict1]_rseed[64821483]_text2tokens[whitespace_tokenizer]_type[pyp] $$$ 188
+------------------------------------------
+MATCH: 1
+WORDS: nitrogen fixat symbiot nitrogenas symbiosi rhizobia nif nitrogenfix diazotroph legum heterocyst nifh rhizobi soil replicon
+WORDS: symbiot symbiosi replicon rhizobia megaplasmid nitrogen legum soybean soil fixat nitrogenfix rhizobi inocul psyma psymb
+PAIR_ID: 241823
+TID: HcaAdapter_Bme[50]_C[500]_Cme[200]_T[100]_burnin[50]_corpus[pheno_corpus1]_dictionary[pheno_dict1]_rseed[48690284]_text2tokens[whitespace_tokenizer]_type[lda] $$$ 0
+TID: HcaAdapter_Bme[50]_C[500]_Cme[200]_T[100]_burnin[50]_corpus[pheno_corpus1]_dictionary[pheno_dict1]_rseed[18003930]_text2tokens[whitespace_tokenizer]_type[lda-asym] $$$ 49
+------------------------------------------
+MATCH: 1
+WORDS: hyperthermophil stetter irregular optim thermost hydrotherm heat crenarchaeon geotherm diamet vulcano smoker itali iceland philippin
+WORDS: hyperthermophil archaeal hydrotherm vent heterotroph hydrogenas optim deepsea metabol optimum depth chemolithoautotroph cycl guayma transport
+PAIR_ID: 908656
+TID: SklearnNmfTmAdapter_T[200]_corpus[pheno_corpus1]_dictionary[pheno_dict1]_preproc[tf-idf]_rndSeed[81437211]_text2tokens[whitespace_tokenizer] $$$ 23
+TID: pheno_reftopics_docs $$$ 103
+------------------------------------------
+MATCH: 0.5
+WORDS: infect witch broom pathogen phloem caus florida sever agricultur stunt distinct chip papaya metabol econom
+WORDS: infect pathogen caus wilt xylem seed crop vessel spread rot agricultur econom pierc soil surviv
+PAIR_ID: 1293307
+TID: HcaAdapter_Bme[50]_C[1000]_Cme[400]_T[300]_burnin[50]_corpus[pheno_corpus1]_dictionary[pheno_dict1]_rseed[64821483]_text2tokens[whitespace_tokenizer]_type[pyp] $$$ 131
+TID: HcaAdapter_Bme[50]_C[1000]_Cme[400]_T[300]_burnin[50]_corpus[pheno_corpus1]_dictionary[pheno_dict1]_rseed[64821483]_text2tokens[whitespace_tokenizer]_type[pyp] $$$ 244
+------------------------------------------
+MATCH: 1
+WORDS: ferment acid lactic chees food dairi starter sourdough wine milk industri ripen spoilag high tradit
+WORDS: lactic chees food ferment milk probiot starter beer bacteriocin spoilag kimchi lactobacilli dairi flavor industri
+PAIR_ID: 334599
+TID: HcaAdapter_Bme[50]_C[500]_Cme[200]_T[100]_burnin[50]_corpus[pheno_corpus1]_dictionary[pheno_dict1]_rseed[48690284]_text2tokens[whitespace_tokenizer]_type[lda] $$$ 61
+TID: pheno_reftopics_docs $$$ 81
+------------------------------------------
+MATCH: 1
+WORDS: infect respiratori lung caus tract pathogen airwai chronic pulmonari sever inflamm cough nasal neutrophil acut
+WORDS: respiratori cough whoop toxin tract vaccin infect infant acellular caus children pertactin lipid lung fha
+PAIR_ID: 785174
+TID: HcaAdapter_Bme[50]_C[500]_Cme[200]_T[200]_burnin[50]_corpus[pheno_corpus1]_dictionary[pheno_dict1]_rseed[83020774]_text2tokens[whitespace_tokenizer]_type[lda] $$$ 108
+TID: HcaAdapter_Bme[50]_C[500]_Cme[200]_T[200]_burnin[50]_corpus[pheno_corpus1]_dictionary[pheno_dict1]_rseed[48755696]_text2tokens[whitespace_tokenizer]_type[lda-asym] $$$ 56
+------------------------------------------
+MATCH: 0.5
+WORDS: china kei reserv agricultur republ engin suppli korea chines japan beij high effici acid food
+WORDS: china kei chines beij agricultur peopl republ high reserv sun suppli assai engin highest effici
+PAIR_ID: 211531
+TID: HcaAdapter_Bme[50]_C[500]_Cme[200]_T[50]_burnin[50]_corpus[pheno_corpus1]_dictionary[pheno_dict1]_rseed[80648481]_text2tokens[whitespace_tokenizer]_type[lda-asym] $$$ 30
+TID: HcaAdapter_Bme[50]_C[500]_Cme[200]_T[200]_burnin[50]_corpus[pheno_corpus1]_dictionary[pheno_dict1]_rseed[48755696]_text2tokens[whitespace_tokenizer]_type[lda-asym] $$$ 147
+------------------------------------------
+MATCH: 0.5
+WORDS: soil nitrogen abund carbon ocean sediment sludg wastewat divers nitrit reactor ammonium high cycl treatment
+WORDS: nitrit nitrat nitrogen denitrif ammonium reductas denitrifi ammoniaoxid nitrif cycl nitrifi nitric n2o nitrou carbon
+PAIR_ID: 9372
+TID: HcaAdapter_Bme[50]_C[500]_Cme[200]_T[50]_burnin[50]_corpus[pheno_corpus1]_dictionary[pheno_dict1]_rseed[14658896]_text2tokens[whitespace_tokenizer]_type[lda] $$$ 5
+TID: HcaAdapter_Bme[50]_C[500]_Cme[200]_T[200]_burnin[50]_corpus[pheno_corpus1]_dictionary[pheno_dict1]_rseed[48755696]_text2tokens[whitespace_tokenizer]_type[lda-asym] $$$ 113
+------------------------------------------
+MATCH: 0
+WORDS: infect patient caus endocard abscess pathogen hospit blood bacteremia antibiot yearold surgeri valv tract mening
+WORDS: pathogen virul macrophag infect tularemia caus replic plagu infecti america surviv vacuol phagosom gramneg death
+PAIR_ID: 270892
+TID: HcaAdapter_Bme[50]_C[500]_Cme[200]_T[100]_burnin[50]_corpus[pheno_corpus1]_dictionary[pheno_dict1]_rseed[48690284]_text2tokens[whitespace_tokenizer]_type[lda] $$$ 19
+TID: HcaAdapter_Bme[50]_C[500]_Cme[200]_T[200]_burnin[50]_corpus[pheno_corpus1]_dictionary[pheno_dict1]_rseed[83020774]_text2tokens[whitespace_tokenizer]_type[lda] $$$ 43
+------------------------------------------
+MATCH: 0
+WORDS: leptospirosi meningococc pathogen mening carriag invas infect caus kidnei vaccin carrier zealand urin pasteur microscop
+WORDS: infect patient hospit antibiot pathogen nosocomi bacteremia taiwan caus antimicrobi carbapenem cathet imipenem multidrugresist blood
+PAIR_ID: 532231
+TID: HcaAdapter_Bme[50]_C[500]_Cme[200]_T[100]_burnin[50]_corpus[pheno_corpus1]_dictionary[pheno_dict1]_rseed[18003930]_text2tokens[whitespace_tokenizer]_type[lda-asym] $$$ 2
+TID: HcaAdapter_Bme[50]_C[1000]_Cme[400]_T[300]_burnin[50]_corpus[pheno_corpus1]_dictionary[pheno_dict1]_rseed[64821483]_text2tokens[whitespace_tokenizer]_type[pyp] $$$ 190
+------------------------------------------
+MATCH: 0
+WORDS: antibodi antigen infect serum assai sera serolog blood sensit monoclon inocul immun titer western reactiv
+WORDS: antibodi antigen microscopi blot western purifi acid serum monoclon vivo immunoblot react stain immunofluoresc vitro
+PAIR_ID: 1182176
+TID: HcaAdapter_Bme[50]_C[500]_Cme[200]_T[200]_burnin[50]_corpus[pheno_corpus1]_dictionary[pheno_dict1]_rseed[48755696]_text2tokens[whitespace_tokenizer]_type[lda-asym] $$$ 145
+TID: HcaAdapter_Bme[50]_C[1000]_Cme[400]_T[300]_burnin[50]_corpus[pheno_corpus1]_dictionary[pheno_dict1]_rseed[64821483]_text2tokens[whitespace_tokenizer]_type[pyp] $$$ 62
+------------------------------------------
+MATCH: 1
+WORDS: crystal catalyt biochemistri chem chemistri xrai dimer kinet mutant stabil bound ligand spectroscopi acta biophys
+WORDS: crystal catalyt biochemistri xrai bound ctermin mutant loop dimer chemistri ntermin acta space ligand stabil
+PAIR_ID: 126365
+TID: SklearnNmfTmAdapter_T[50]_corpus[pheno_corpus1]_dictionary[pheno_dict1]_preproc[tf-idf]_rndSeed[29738306]_text2tokens[whitespace_tokenizer] $$$ 26
+TID: HcaAdapter_Bme[50]_C[1000]_Cme[400]_T[300]_burnin[50]_corpus[pheno_corpus1]_dictionary[pheno_dict1]_rseed[64821483]_text2tokens[whitespace_tokenizer]_type[pyp] $$$ 182

@@ -1,0 +1,66 @@
+******* Overview and general notes *******
+
+The data of the experiments' is contained in three sources.
+The first is the data/ folder containing data annotations and reference topics in txt format.
+The second are the phenotype_context and the gtar_context packages 
+that contain the code and data for construction of the corpora 
+and the related resources, and for exporting them as pytopia contexts. 
+The third source is the cloud data repository containing other resources
+such as pre-built topic models, for which the download urls are provided.
+Some of these resources are referenced and described in the code.readme.txt
+
+Throughout the code, several synonyms are used for news and biological resources, these are:
+biological dataset: pheno, phenotype
+news dataset: uspol (us politics), gtar (getting the agenda right) 
+
+The data is distributed under the CC BY 4.0 license - https://creativecommons.org/licenses/by/4.0/
+
+
+******** Text Corpora ********
+
+Due to copyright restrictions, corpora texts are provided in a preprocessed form and each text is represented a bag-of-tokens.
+Corpus is a txt file with a single text per line, and corpora are represented as TextPerLineCorpus objects.
+These files are 'us_politics_textPerLine_tokenized.txt' and 'pheno_corpus1.txt'.
+
+Code locations:
+Construction of the news reference corpus: gtar_context.corpus_context
+Construction of the phenotype corpus: phenotype_context.phenotype_corpus.construct_corpus
+
+
+******** Reference Topics ********
+
+Reference topics represented in a human-readable can be found in data/reference_topics folder.
+
+In code, both sets of reference topics are packaged as topic model objects, 
+since these topics do not differ, on the level of representation, from the topics of topic models.
+They are represented as ArtifTopicModel objects, and ArtifTopicModel is a subclass of generic TopicModel class.
+
+Code locations:
+Construction of the news reference topics: gtar_context.semantic_topics.construct_model
+Construction of the biological reference topics: phenotype_context.phenotype_topics.construct_model
+
+
+******** Topic Models ********
+
+Building of topic models relies heaviliy on the facilities of the pytopia framework (pytopia package).
+This includes building of intermediary resources (such as indexes and tf-idf representations) 
+and caching of built resources (including the built topic models).
+
+All of the models used in the experiments are made available as serialized pytopia resources:
+Main set of topic models - https://puh.srce.hr/s/D4iqmJAKMBTBG4w
+Extended set of topic models (for stability experiment) - https://puh.srce.hr/s/azeQPAi3wB4cggz
+To use these models, the 'topic_models_folder' and 'topic_models_extended' variables in topic_coverage.settings
+must be set to the locations of the folders containing downloaded models.
+
+Alternatively, to build topic models from scratch, use the code below and 
+configure the cache folders for intermediary resources (see [todo] settings_template.py).
+Locations of the model building code:
+- topic_coverage.modelbuild package
+contains all the code used for model building
+- topic_coverage.modelbuild.modelbuild_docker_v1 module
+entry point for running a build via command line, it is not neccessary to run it in a docker container
+paramset 'paramset_prod' corresponds to the main set of topic models used throughout the paper
+paramset 'paramset_prod_numt' corresponds to the extended set of topic models used in stability experiments
+- topic_coverage.modelbuild.modelbuild_docker_v1.buildModels method
+interface method for model building
+

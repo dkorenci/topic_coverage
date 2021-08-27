@@ -1,0 +1,7 @@
+.idea
+.idea/*
+*.pyc
+topic_coverage/settings.py
+pylog
+*.pdf
+.cache

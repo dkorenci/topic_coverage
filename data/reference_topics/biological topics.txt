@@ -1,0 +1,1905 @@
+TOPIC 0 ; WORDS: secondari metabolit mycelium antibiot spore aerial soil avermectin pharmaceut industri
+hamap_Bacillus_amyloliquefaciens__(1390) potent liquefi amylas industri extracellular fukumoto infest soil
+hamap_Streptomyces_venezuelae__(54571) soil diffus homogen manner varieti liquid sporul reduc heterogen inevit
+hamap_Streptomyces_pratensis__(1169025) soil secondari metabolit antibiot multicellular spore germin
+PMCArticles_Streptomyces_avermitilis__(33903) avermectin veterinari medicin averag
+hamap_Streptomyces_avermitilis__(33903) secondari metabolit avermectin commerci veterinari medicin
+hamap_Streptomyces_scabies__(1930) histor pathogen caus scab scab visibl lesion veget scab usual alter
+hamap_Streptomyces_bingchenggensis__(379067) china soil harbin china largest milbemycin commerci
+hamap_Streptomyces_hygroscopicus_jinggangensis__(1912) soil secondari metabolit antibiot multicellular spore germin
+hamap_Myxococcus_stipitatus__(83455) myxospor place cellfre stalk rich secondari metabolit sever antibiot cytotox secondari metabolit
+hamap_Salinispora_tropica__(168695) coars beach sand bahama distinct resid ocean sediment
+hamap_Streptomyces_griseus__(1911) soil secondari metabolit antibiot multicellular spore germin
+wikipedia_Sodalis_glossinidius__(63612) microaerophil secondari
+hamap_Streptomyces_coelicolor__(1902) secondari metabolit
+hamap_Streptosporangium_roseum__(2001) gramposit veget garden soil aerial mycelium mycelium redbrown yellowbrown glucos arabinos
+hamap_Bacillus_amyloliquefaciens_plantarum__(1390) plantassoci stimul secondari metabolit suppress soilborn pathogen unexpect
+
+TOPIC 1 ; WORDS: rumen bovin rumin cattl degrad anaerob succin toxic acid goat
+PMCArticles_Pasteurella_multocida_Pm70__(747) avian circular operon
+hamap_Methanobrevibacter_ruminantium__(83816) rumin bovin rumen fecal pollut rumin
+wikipedia_Actinobacillus_succinogenes__(67854) succin acidproduc bovin rumen anaerob pleomorph gramneg rod
+hamap_Slackia_heliotrinireducens__(84110) nonmotil anaerob metabol gramposit rumen australia degrad cleavag toxic
+microbewiki_Synergistes jonesii__(2754) rumen hawaiian goat gramneg rodshap diamet
+hamap_Prevotella_ruminicola__(839) anaerob hemicellulos bovin rumen rumen degrad wall polysaccharid peptid
+hamap_Selenomonas_ruminantium_lactilytica__(971) motil gastrointestin tract rumin stain gramneg doubl bilay crescent
+hamap_Streptococcus_pasteurianus__(197614) nonmotil gramposit vari pathogen gramposit fece
+wikipedia_Fibrobacter_succinogenes__(833) cellulolyt rumen cattl glucan starch glucos choic rumen acet succin
+hamap_Wolinella_succinogenes__(844) bovin rumen pathogen virul
+wikipedia_Synergistes jonesii__(2754) rumen degrad toxic anaerob gramneg rodshap
+PMCArticles_Pasteurella_multocida_36950__(747) conjug multiresist bovin conjug
+wikipedia_Treponema bryantii__(163) anaerob rumen cow
+PMCArticles_Pasteurella_multocida_HN06__(747) toxigen etiolog caus econom toxigen
+hamap_Methanosarcina_barkeri__(2208) anaerob mud freshwat lake lago itali rumen cattl rumen
+
+TOPIC 2 ; WORDS: vaccin immun antibodi infect protect efficaci tetanu lung farm antigen
+microbewiki_Bordetella_pertussis_1__(520) efficaci vaccin infant vulner vaccin advanc individu stem assumpt infant notic attent infant increasingli misdiagnosi older individu sensit diagnosi
+pubmedSearch_Mycoplasma_crocodyli__(50052) sick sign antibodi blood smear valu infect uninfect high infect uncommon
+pubmedSearch_Brucella_ovis__(236) 
+pubmedSearch_Anaplasma_centrale__(769) cattl immun vaccin parasit erythrocyt constraint protect vaccin immun amplicon vaccin
+microbewiki_Bordetella_pertussis__(520) gramneg encapsul immotil spore virul toxin adenyl cyclas toxin
+pubmedSearch_Brucella_abortus__(235) 
+pubmedSearch_Ehrlichia_ruminantium__(779) vaccin rumin heartwat caus convent vaccin heartwat sodium azid immedi inject fastidi timeconsum
+PMCArticles_Anaplasma_centrale__(769) attenu vaccin centuri virul markedli narrow
+microbewiki_Caulobacter_crescentus__(155892) rodshap singlecel fresh soil flourish nutrient gramneg dimorph cycl benefici swim
+pubmedSearch_Brucella_suis__(29461) 
+PMCArticles_Spiroplasma_syrphidicola__(216945) sister sever wellknown pathogen newli highli rep
+pubmedSearch_Mycoplasma_hyopneumoniae__(2099) herd veterinari medicin veterinari medicin minnesota
+PMCArticles_Spiroplasma_chrysopicola__(216933) sister sever wellknown pathogen newli
+PMCArticles_Thermococcus_nautili__(195522) viral vesicl anaerob hyperthermophil deepsea hydrotherm vent
+microbewiki_Caulobacter_crescentus_1__(155892) nonpathogen aquat gramneg layer slayer wall slayer abund multipl highest nonpathogen high foreign high varieti therapi vaccin cytokin fusion desir
+
+TOPIC 3 ; WORDS: ethanol ferment acet lactat succin sugar pyruv glucos sucros alcohol
+hamap_Acetobacter_pasteurianus__(438) acet acid tradition ferment food vinegar japan acet acid instabl
+wikipedia_Clostridium_acetobutylicum__(1488) commerci valuabl weizmann chaim weizmann
+hamap_Oenococcus_oeni__(1247) lactic acid mash anaerob acid alcohol toler lactic acid malolact
+hamap_Acetobacterium_woodii__(33952) anaerob gramposit sediment pond inlet hole ovalshap short rod motil subtermin flagella
+wikipedia_Clostridium_phytofermentans__(66219) anaerob rodshap gramposit spheric spore ethanol acet carbon dioxid hydrogen ferment cellulos polygalacturon acid
+hamap_Syntrophobacter_fumaroxidans__(119484) syntroph propionateoxid anaerob granular sludg propion syntroph cocultur hydrogen
+microbewiki_Zymomonas_mobilis__(542) rod shape gramneg sugar rich usual vari high ethanol granular layer
+hamap_Rhodoferax_ferrireducens_T118__(192843) gramneg motil short rod polar flagellum optim donor fe
+wikipedia_Clostridium_thermocellum__(1515) anaerob thermophil cellulolyt ethanologen capabl cellulos ethanol biomass usabl
+hamap_Acidaminococcus_fermentans__(905) anaerob gramneg gut acid lactat fumar malat succin citrat pyruv
+wikipedia_Saccharophagus_degradans__(86304) newli
+hamap_Eubacterium_limosum__(1736) acetogen gramposit anaerob high synthesi carbon monoxid acet butyr ethanol
+wikipedia_Clostridium_ljungdahlii__(1538) anaerob rodshap motil endosporeform gramposit ferment synga ethanol acet cathod
+hamap_Syntrophomonas_wolfei__(863) specialist evolutionarili syntroph hydrogen anaerob shortchain satur fatti acid carbon acet propion
+wikipedia_Streptomyces cattleya__(29303) gramposit cephamycin penicillin thienamycin biosynthesi antibacteri
+
+TOPIC 4 ; WORDS: aerial mycelium spore hypha soil metabolit antibiot mycelia secondari gramposit
+wikipedia_Streptomyces venezuelae__(54571) soildwel gramposit hypha perfus ground aerial hypha soil
+hamap_Streptomyces_venezuelae__(54571) soil diffus homogen manner varieti liquid sporul reduc heterogen inevit
+hamap_Bacillus_amyloliquefaciens__(1390) potent liquefi amylas industri extracellular fukumoto infest soil
+wikipedia_Saccharopolyspora spinosa__(60894) sugar mill pale yellowish aerial hypha spore encas spore sheath
+hamap_Streptomyces_avermitilis__(33903) secondari metabolit avermectin commerci veterinari medicin
+hamap_Streptomyces_bingchenggensis__(379067) china soil harbin china largest milbemycin commerci
+hamap_Streptomyces_hygroscopicus_jinggangensis__(1912) soil secondari metabolit antibiot multicellular spore germin
+hamap_Myxococcus_stipitatus__(83455) myxospor place cellfre stalk rich secondari metabolit sever antibiot cytotox secondari metabolit
+hamap_Streptomyces_pratensis__(1169025) soil secondari metabolit antibiot multicellular spore germin
+hamap_Salinispora_tropica__(168695) coars beach sand bahama distinct resid ocean sediment
+hamap_Streptomyces_griseus__(1911) soil secondari metabolit antibiot multicellular spore germin
+hamap_Streptomyces_scabies__(1930) histor pathogen caus scab scab visibl lesion veget scab usual alter
+hamap_Streptomyces_coelicolor__(1902) secondari metabolit
+hamap_Streptosporangium_roseum__(2001) gramposit veget garden soil aerial mycelium mycelium redbrown yellowbrown glucos arabinos
+hamap_Bacillus_amyloliquefaciens_plantarum__(1390) plantassoci stimul secondari metabolit suppress soilborn pathogen unexpect
+
+TOPIC 5 ; WORDS: symbiosi replicon nitrogen nitrogenfix streptomycinresist actinorhiz cycl suppli enterobacterium adhesin
+hamap_Methylobacterium_radiotolerans__(31998) methylotroph nonhalophil nitrogen symbiosi legum rhizobia methanol
+hamap_Azorhizobium_caulinodans__(7) microsymbiont tropic legum stem nif rhizobia
+wikipedia_Sinorhizobium_meliloti__(382) gramneg nitrogenfix symbiot legum legum symbiosi
+PMCArticles_Candidatus_Tremblaya_princeps_PCIT__(189385) metabol nest symbiosi
+hamap_Methylovorus_MP688__(887061) methylotroph expens onecarbon methanol carbon biocatalyst methanol commerci valuabl
+wikipedia_Azorhizobium_caulinodans__(7) nitrogenfix symbiosi
+hamap_Methylobacillus_flagellatus__(405) rodshap motil methylotroph methanol methylamin carbon
+hamap_Methylobacterium_4_46__(426117) methylotroph nonhalophil nitrogen symbiosi legum rhizobia methanol
+PMCArticles_Candidatus_Moranella_endobia_PCIT__(1048758) metabol nest symbiosi
+PMCArticles_Candidatus_Moranella_endobia_PCVAL__(1048758) plenti symbiot suit symbiosi metabol capabl essenti coexist secondari
+wikipedia_Nostoc_punctiforme__(272131) nonlimit nutrit veget nutrient heterocyst akinet hormogonia
+microbewiki_Desulfomonile_tiedjei_1__(2358) circular symbiosi biogeochem virul patient
+PMCArticles_Candidatus_Tremblaya_princeps_PCVAL__(189385) unusu nest endosymbiosi harbor gammaproteobacteri
+microbewiki_Desulfomonile_tiedjei__(2358) anaerob capabl autotroph sulfat thiosulf acceptor pyruv sulfat benzoat sulfat
+wikipedia_Methylobacterium_nodulans__(114616) methylotroph legum nitrogenfix
+
+TOPIC 6 ; WORDS: hydrogenotroph nacl optimum sakai moder gramneg mesophil flagellum singli sheathlik
+hamap_Methanocaldococcus_infernus__(67760) autotroph thermophil archaeum deepsea hydrotherm chimnei midatlant ridg depth heavili flagel shape motil
+wikipedia_Pseudomonas_fulva__(47880) gramneg grain paddi rodshap motil polar place
+hamap_Pyrococcus_yayanosii__(1008460) piezophil anaerob hyperthermophil deepsea hydrotherm ashadz midatlant ridg depth highli motil irregular diamet
+hamap_Marivirga_tractuosa__(1006) gramneg beach sand south coast vietnam optimum
+hamap_Desulfurobacterium_thermolithotrophum__(64160) thermophil anaerob autotroph sulphurreduc gramposit deepsea hydrotherm chimnei midatlant ridg singli highli
+hamap_Glaciecola_nitratireducens__(300231) rodshap motil gramneg seawat island south korea optimum salt
+hamap_Natronobacterium_gregoryi__(44930) alkaliphil chemoorganotroph coloni pigment nacl optimum
+pubmedSearch_Methanothermobacter tenebrarum__(680118) hydrogenotroph thermophil takahashi
+hamap_Haloferax_volcanii__(2246) moder bottom sediment dead volcani dead
+hamap_Desulfohalobium_retbaense__(45663) anaerob moder sulfatereduc gramneg sediment hypersalin lake incomplet ethanol pyruv lactat acet sulfat
+wikipedia_Opitutus_terrae__(107709) anaerob paddi soil epithet coccusshap motil flagellum
+hamap_Caldisericum_exile__(693075) anaerob thermophil gramneg hot spring prefectur japan multicellular
+pubmedSearch_Methanocella arvoryzae__(1175445) hydrogenotroph soil sakai subsurfac advanc sugar team japan
+hamap_Thermobispora_bispora__(2006) thermophil gramposit decai manur optimum
+wikipedia_Methanocella_paludicola__(570267) methaneproduc paddi soil mesophil hydrogenotroph
+
+TOPIC 7 ; WORDS: rhizospher nitrogenfix nitrogen replicon gramneg soil protect methanol anaerob agricultur
+PMCArticles_Methanocella_arvoryzae__(1175445) greenhous methan pure reason
+PMCArticles_Candidatus_Methylomirabilis_oxyfera__(671143) anaerob denitrifi transcrib wellestablish methan dinitrogen
+wikipedia_Azoarcus tolulyticus__(34027) nitrogenfix degrad toluen
+microbewiki_Flagellimonas eckloniae__(346185) mesophil gramneg rod carotenoid pigment island korea island korea octob
+wikipedia_Herbaspirillum_seropedicae__(964) endophyt diazotroph nitrogenfix sugar cane pineappl potent
+wikipedia_Methylobacterium_nodulans__(114616) methylotroph legum nitrogenfix
+PMCArticles_Exiguobacterium_MH3__(1399115) rhizospher toler
+PMCArticles_Methanosarcina_mazei_Tuc01__(2209) archaeal brazilian
+wikipedia_Klebsiella oxytoca__(571) gramneg rodshap slightli melezitos hydroxybutyr
+wikipedia_Mesorhizobium_ciceri__(39645) gramneg nitrogenfix motil
+PMCArticles_Methanoculleus_bourgensis__(83986) sewag sludg reactor fed renew capabl synthes methan
+wikipedia_Azospirillum brasilense__(192) nitrogenfix rhizospher sever
+microbewiki_Joostella marina__(453852) bright neg
+PMCArticles_Methanosarcina_mazei_Go1__(2209) ferment acet methylamin methanol methan carbon dioxid methylamin acet methan ear
+microbewiki_Rahnella_aquatilis__(34038) gramneg rodshap fresh soil specimen abund diseasecaus
+
+TOPIC 8 ; WORDS: goat mastiti mycoplasm polyarthr cow chlamydi cbpp pathogen serolog conjunct
+microbewiki_Mycoplasma yeatsii__(51365) neg carbon glucos mannos sterol arginin don decompos
+PMCArticles_Streptococcus_agalactiae_2603__serotype_V__(1311) broth discard wash resuspend
+PMCArticles_Streptococcus_agalactiae_A909__serotype_Ia__(1311) effici inexpens revolution pathogen vaccin drive pathogenesi
+PMCArticles_Streptococcus_agalactiae_138spar__(1311) virul antibiot gramposit caus
+PMCArticles_Mycoplasma_putrefaciens_Mput9231__(2123) etiolog contagi goat etiolog contagi goat
+PMCArticles_Mycoplasma_californicum__(2113) sever mycoplasm bovin mastiti antigen
+wikipedia_Streptococcus_dysgalactiae__(1334) caus mastiti cow goat polyarthr
+PMCArticles_Mycoplasma_putrefaciens_KS1__(2123) titanium washington loui contig amplifi
+wikipedia_Chlamydia pecorum__(85991) serolog pathogen divers caus reproduct infertil urinari tract death chlamydiosi infecti chlamydi
+PMCArticles_Streptococcus_agalactiae_2_22__serotype_Ib__(1311) favor constraint septicemia mening neonat
+wikipedia_Mycoplasma_capricolum__(2095) pathogen goat cow
+wikipedia_Treponema bryantii__(163) anaerob rumen cow
+PMCArticles_Streptococcus_agalactiae_ILRI005__(1311) caus camel abscess camel
+PMCArticles_Streptococcus_agalactiae_GD201008_001__serotype_Ia__(1311) pathogen caus meningoenceph china opportun piscin pathogen tropism
+PMCArticles_Streptococcus_agalactiae_138P__(1311) antigen vaccin gramposit pathogen caus mening
+
+TOPIC 9 ; WORDS: vertic alkaliphil bacteriom sharpshoot agreement transmit nymph egg abdomen bacteriocyt
+PMCArticles_Bacillus_pseudofirmus__(79885) 
+hamap_Acidianus_hospitalis__(563177) conjug archaeaspecif conjug apparatu
+hamap_Bacillus_clausii__(79880) alkaliphil laundri deterg sporeform motil rod coloni margin
+hamap_Gallibacterium_anatis__(750) gramneg nonmotil rodshap respiratori tract reproduct tract
+hamap_Mycoplasma_synoviae__(2109) caus respiratori tract synov inflamm fowl pheasant
+hamap_Rickettsia_bellii_OSU_85_389__(33990) embryon egg pool unf adult veget june america
+hamap_Vibrio_parahaemolyticus_serotype_O3_K6__(670) caus gastroenter high seafood consumpt inhabit estuarin suit plankton freeswim sessil
+hamap_Bacillus_pseudofirmus__(79885) rigor malat cycl plai alkaliphil
+PMCArticles_Oceanobacillus_iheyensis__(182710) iheya ridg unexpect capabl alkaliphil halotoler deepsea sediment
+hamap_Renibacterium_salmoninarum__(1646) gramposit rodshap caus kidnei bkd bkd farm dual mode
+pubmedSearch_Candidatus_Carsonella_ruddii__(114186) vertic transmit clark moran harbor
+PMCArticles_Bacillus_halodurans__(86665) alkaliphil
+hamap_Brachyspira_intermedia__(84377) usual intestin commerci farm pathogen caus diarrhea slow
+hamap_Bacillus_halodurans__(86665) gramposit rodshap alkaliphil commerci alkaliphil brought industri
+hamap_Rickettsia_bellii__(33990) america transovari transmit
+
+TOPIC 10 ; WORDS: benzen toluen degrad aromat hydrocarbon phenol benzoat biodegrad pollut acceptor
+hamap_Cupriavidus_pinatubonensis__(248026) degrad chloroaromat pollut bioremedi polyhydroxyalkano chemolithoautotroph
+wikipedia_Dechloromonas_aromatica__(259537) neg anaerob potomac river sludg midatlant coast soil degrad benzen
+hamap_Pseudoxanthomonas_spadix__(415229) degrad btex sediment situ degrad btex soil
+wikipedia_Azoarcus tolulyticus__(34027) nitrogenfix degrad toluen
+wikipedia_Pseudomonas_mendocina__(300) gramneg caus opportunist nosocomi hospitalacquir infect infect endocard spondylodisc bioremedi degrad toluen
+hamap_Alicycliphilus_denitrificans__(179636) gramneg sewag sludg degrad benzen chlorat home
+hamap_Halobacterium_salinarum__(2242) chemoorganotroph degrad salin reach satur optim high salin
+hamap_Arthrobacter_chlorophenolicus__(85085) gramposit capabl miner sever phenol chlorophenol phenol carbon mesophil psychrophil
+hamap_Dechloromonas_aromatica__(259537) pure benzen absenc oxygen aromat toluen benzoat chlorobenzo benzen contamin
+hamap_Desulfobacula_toluolica__(28223) aromat compounddegrad sulfatereduc gramneg mud shape viral attack high plastic
+wikipedia_Tolumonas auensis__(43948) neg rod toluen phenylalanin
+hamap_Tolumonas_auensis__(43948) nonmotil gramneg anox sediment freshwat lake toluen phenylalanin phenylacet phenol tyrosin
+pubmedSearch_Owenweeksia hongkongensis__(253245) sig orangepig seawat held
+hamap_Aromatoleum_aromaticum__(551760) freshwat soil uniqu degrad toluen ethylbenzen anaerob absenc nitrogen fixat separ
+microbewiki_Sphingomonas_wittichii_RW1__(160791) mention rod shape flagellum motil dioxin dioxygenas dioxin oxygen atom
+
+TOPIC 11 ; WORDS: smallest intein extrachromosom freeliv ocean biosynthet parasit invad acid transport
+pubmedSearch_Mahella_australiensis__(252966) intein charact intein sever intein diverg
+PMCArticles_Candidatus_Pelagibacter_ubique__(198252) heterotroph ocean smallest smallest
+hamap_Mycoplasma_putrefaciens__(2123) virul incomplet uniqu putrid odor
+hamap_Mycoplasma_agalactiae__(2110) smallest viabl wall massiv parasit invad
+hamap_Mycoplasma_hominis__(2098) swab smallest freeliv pathogen
+wikipedia_Candidatus Carsonella ruddii__(114186) endosymbiot smallest characteris endosymbiosi endosymbiosi
+hamap_Mycoplasma_conjunctivae__(45361) etiolog infecti keratoconjunct goat european alp sever
+hamap_Candidatus_Phytoplasma_mali__(37692) caus econom europ sever impair symptomat
+wikipedia_Kytococcus_sedentarius__(1276) dwell polyketid antibiot opportunist pathogen acid
+hamap_Candidatus_Phytoplasma_australiense__(59748) grapevin south australia reduc reduc
+hamap_Onion_yellows_phytoplasma__(100379) extrachromosom
+hamap_Parabacteroides_distasonis__(823) gut gut
+hamap_Candidatus_Pelagibacter_ubique__(198252) heterotroph ocean smallest freeliv biosynthet
+wikipedia_Kocuria_rhizophila__(72000) soil dwell industri antimicrobi food smallest
+hamap_Aster_yellows_witches_broom_phytoplasma__(229545) diverg gramposit pathogen caus sever stunt witch broom econom
+
+TOPIC 12 ; WORDS: bioluminesc gramneg nonmotil biodegrad reliabl antarct flora plaqu depend toxic
+hamap_Pasteurella_multocida__(747) nonmotil gramneg
+wikipedia_Citrobacter_rodentium__(67825) gramneg
+wikipedia_Cellvibrio_japonicus__(155077) gramneg soil
+hamap_Haemophilus_ducreyi__(730) etiolog chancroid endem
+wikipedia_Sutterella wadsworthensis__(40545) gramneg
+wikipedia_Rhodocyclus gelatinosus__(28068) gramneg
+microbewiki_Photobacterium_phosphoreum__(659) bioluminesc light gut metabolit bioluminesc prei attract predat
+wikipedia_Nitrobacter_hamburgensis__(912) gramneg
+wikipedia_Gemmatimonas_aurantiaca__(173480) gramneg polyphosphateaccumul gramneg rodshap replic bud
+wikipedia_Nitrobacter_winogradskyi__(913) gramneg nitriteoxid
+microbewiki_Vibrio_fischeri__(668) oxidaseposit gramneg wall lipopolysaccharid periplasm space peptidoglycan layer
+wikipedia_Erwinia_pyrifoliae__(79967) gramneg phytopathogen asian caus necrot
+wikipedia_Photobacterium leiognathi__(553611) gramneg bioluminesc
+wikipedia_Methylobacterium_extorquens__(408) gramneg
+wikipedia_Neorickettsia_sennetsu__(951) gramneg caus ehrlichiosi
+
+TOPIC 13 ; WORDS: blight fire shoot pathogen japan hypersensit levan crop virul invad
+PMCArticles_Erwinia_tasmaniensis__(338565) circular epiphyt fire blight asian shoot
+hamap_Erwinia_Ejp617__(215689) pathogen nonpathogen japan caus shoot blight highli fire blight caus
+hamap_Erwinia_billingiae__(182337) epiphyt epiphyt antagonist fire blight devast
+pubmedSearch_Erwinia_billingiae__(182337) accumul high acid sensit acid fire blight slice reduc slice pretreat neutral propion acid propion acid solubl orchard fire
+hamap_Pantoea_vagans__(470934) gramneg enterobacteri epiphyt jonathan biocontrol regist canada blight commerci
+wikipedia_Pseudomonas savastanoi__(29438) gramneg pathogen infect varieti pathovar follow worker prove
+pubmedSearch_Erwinia Ejp617__(215689) conclud pathogen japan pathogen distinct
+hamap_Xanthomonas_oryzae__(347) gramneg caus blight blight cultivar highli
+wikipedia_Xanthomonas_campestris__(339) caus varieti purifi commerci highmolecularweight polysaccharid xanthan gum
+PMCArticles_Erwinia_Ejp617__(215689) pathogen caus shoot blight japan japan valuabl
+hamap_Erwinia_tasmaniensis__(338565) pathogen nonpathogen nonpathogen australia circular
+wikipedia_Xanthomonas_oryzae__(347) pathovar
+wikipedia_Burkholderia_glumae__(337) gramneg soil panicl blight seedl blight sheath rot panicl blight
+microbewiki_Erwinia_amylovora__(552) neg anaerob rod shape motil peritrich flagella motil neg vogesproskau gelatin hydrolysi releas glucos
+wikipedia_Pseudomonas_syringae__(317) rodshap gramneg polar flagella pathogen infect pathovar
+
+TOPIC 14 ; WORDS: soybean legum max rhizobia fastgrow symbiosi fixat nitrogenfix agronom chines
+pubmedSearch_Burkholderia_phymatum__(148447) sig effici nitrogenfix jame young
+wikipedia_Lactobacillus_delbrueckii__(1584) max lent ferment industri
+wikipedia_Sinorhizobium fredii__(380) fastgrow soybean max china
+pubmedSearch_Mesorhizobium opportunistum__(593909) sig reev
+PMCArticles_Bradyrhizobium_ORS_278__(114615) soybean rhizobi soil symbiot partner legum occasion stem nitrogenfix
+pubmedSearch_Sinorhizobium_fredii__(380) sulfat china essenti rhizobia sulfat
+PMCArticles_Sinorhizobium_fredii_NGR234__(380) uniqu nitrogenfix legum microsymbiont essenti
+pubmedSearch_Mesorhizobium australicum__(536018) sig reev
+PMCArticles_Sinorhizobium_fredii_USDA_257__(380) symbiot nitrogenfix high strikingli
+pubmedSearch_Rhizobium_NGR234__(380) hydrophob regulatori regulatori
+hamap_Bradyrhizobium_diazoefficiens__(1355477) rhizobia soybean max soybean florida purpos
+hamap_Thermotoga_neapolitana__(2337) hyperthermophil smoker itali vast quantiti hydrogen batch
+hamap_Rhizobium_NGR234__(380) gramneg nitrogenfix soil rhizobia nitrogen symbiosi
+hamap_Rhizobium_fredii__(380) fastgrow rhizobi chines soil agronom advanc soybean cultivar soybean
+PMCArticles_Sinorhizobium_fredii_HH103__(380) fastgrow rhizobi legum soybean legum indetermin
+
+TOPIC 15 ; WORDS: buruli chancroid ulcer mycolacton endem toxin infect plaqu lesion spleen
+hamap_Pasteurella_multocida__(747) nonmotil gramneg
+hamap_Corallococcus_coralloides__(184914) gramneg
+hamap_Deinococcus_proteolyticus__(55148) nonmotil gramposit spheric coloni mrad radiat
+hamap_Haemophilus_ducreyi__(730) etiolog chancroid endem
+microbewiki_Mycobacterium_ulcerans__(1809) slow doubl inhabit aquat herbivor aquat stain neutral
+microbewiki_Haemophilus_ducreyi__(730) gramneg rodshap anaerob nonmotil pathogen cytoleth distend toxin hemolysin cope
+pubmedSearch_Mycobacterium liflandii__(261524) tandem adult predatori reliabl
+hamap_Psychrobacter_arcticus__(334543) gramneg nonmotil rod cold antarct soil sediment deep siberian permafrost
+hamap_Beutenbergia_cavernae__(84757) microaerophil gramposit cave soil china nonmotil nonspor
+hamap_Bacteroides_thetaiotaomicron__(818) gramneg anaerob intestin
+hamap_Streptococcus_gordonii__(1302) nonmotil gramposit vari pathogen plaqu multispeci tooth dental plaqu caviti gun
+pubmedSearch_Mycobacterium_ulcerans__(1809) aquat health ivoir
+hamap_Aggregatibacter_aphrophilus__(732) gramneg flora healthi individu etiolog infecti endocard caus gramneg nonpathogen
+hamap_Burkholderia_mallei__(13373) etiolog glander fatal reservoir occasion transmit inhal break skin pathogen
+hamap_Francisella_noatunensis_orientalis__(657445) nonmotil rodshap gramneg pathogen uncertain pathogen
+
+TOPIC 16 ; WORDS: pyren naphthalen polycycl anthracen aromat hydrocarbon degrad sediment pacif carcinogen
+hamap_Polaromonas_naphthalenivorans__(216465) gramneg freshwat sediment capabl degrad
+hamap_Mycobacterium_Spyr1__(1804) gramposit acidfast pleomorph nonmotil rod distinct mycol acid slowgrow notori caus
+pubmedSearch_Mycobacterium_vanbaalenii__(110539) divers
+microbewiki_Mycobacterium_vanbaalenii__(110539) acidfast stain gramposit thick wall stain gramneg thin wall rodshap nonmotil nonsporul
+pubmedSearch_Advenella kashmirensis__(310575) polycycl aromat hydrocarbondegrad engin tianjin tianjin china
+hamap_Mycobacterium_vanbaalenii__(110539) oilcontamin sediment degrad pyren polycycl aromat hydrocarbon degrad biphenyl naphthalen anthracen fluoranthen phenanthren
+PMCArticles_Mycobacterium_gilvum_Spyr1__(1804) newli creosot contamin greec pyren carbon capabl degrad
+hamap_Achromobacter_xylosoxidans__(85698) anaerob nonmotil gramposit soil contamin polychlorin biphenyl chlorobenzo carbon xenobiot
+pubmedSearch_Cycloclasticus P1__(385025) kei ocean peopl republ china deepsea sediment pacif ocean uniqu degrad pyren polycycl aromat hydrocarbon degrad consortium deepsea sediment pacif kei
+hamap_Mycobacterium_gilvum__(1804) river sediment degrad polycycl aromat hydrocarbon aromat hydrocarbon pyren carbon degrad phenanthren
+PMCArticles_Cycloclasticus_P1__(385025) deepsea sediment pacif ocean uniqu degrad pyren polycycl aromat hydrocarbon degrad
+hamap_Cycloclasticus_P1__(385025) gramposit deepsea sediment pacif ocean pyren pyren naphthalen biphenyl
+hamap_Burkholderia_xenovorans__(36873) largest degrad pcbcontain landfil york team electr
+hamap_Alteromonas_SN2__(715451) heterotroph gramneg crude oilcontamin flat situ degrad polycycl aromat hydrocarbon crude oilcontamin sediment
+hamap_Mycobacterium_gilvum_Spyr1__(1804) gramposit acidfast pleomorph nonmotil rod distinct mycol acid slowgrow notori caus
+
+TOPIC 17 ; WORDS: brucellosi infect transmit vaccin pathogen reproduct infertil male macrophag zoonot
+microbewiki_Brucella_canis__(36855) neg usual flagella motil optimum optimum caus brucellosi
+microbewiki_Brucella_melitensis__(29459) caus brucellosi fatal zoonot multipl pathogen goat caus fertil young
+PMCArticles_Brucella_canis_HSK_A52141__(36855) caus canin brucellosi infertil male dog femal dog
+wikipedia_Brucella_ovis__(236) neg coccobacillu caus ovin brucellosi notifi transmit stabl infect caus sever inflamm
+wikipedia_Dichelobacter_nodosus__(870) beveridg dewhirst gramneg anaerob polar caus ovin foot rot lone
+PMCArticles_Brucella_suis_2__(29461) europ portug
+pubmedSearch_Anaplasma_centrale__(769) cattl immun vaccin parasit erythrocyt constraint protect vaccin immun amplicon vaccin
+PMCArticles_Brucella_suis_ZW043__(29461) bovin zimbabw assai
+PMCArticles_Brucella_canis_SVA13__(36855) canin brucellosi veterinari caus pathogen
+PMCArticles_Brucella_suis_1330__(29461) caus porcin brucellosi loci
+wikipedia_Brucella_melitensis__(29459) neg coccobacillu caus ovin brucellosi infect cattl transmit stabl zoonot caus
+wikipedia_Brucella_abortus__(235) stimul light photochem inact mutant histidin kinas photoreceptor virul depriv wavelength drop
+pubmedSearch_Mycoplasma_crocodyli__(50052) sick sign antibodi blood smear valu infect uninfect high infect uncommon
+PMCArticles_Brucella_suis_VBI22__(29461) bovin milk caus brucellosi infect sever cattl dog caus
+microbewiki_Brucella_suis__(29461) gramneg capsul flagella nonmotil lipopolysaccharid
+
+TOPIC 18 ; WORDS: faec sporeform gramposit rodshap capabl rod gramneg gramvari microflora gastrointestin
+wikipedia_Thermacetogenium phaeum__(85874) anaerob thermophil syntroph acetateoxid gramposit sporeform rodshap
+wikipedia_Bacillus_halodurans__(86665) rodshap gramposit motil sporeform soil uniqu
+wikipedia_Clostridium stercorarium__(1510) cellulolyt thermophil anaerob sporeform rodshap
+microbewiki_Parabacteroides_distasonis__(823) faec anaerob sporeform nonmotil gramneg rod
+wikipedia_Thermoanaerobacter_mathranii__(583357) thermophil anaerob sporeform iceland hot spring optim stain gramvari
+wikipedia_Desulfitobacterium dehalogenans__(36854) dechlorin chlorophenol anaerob motil gramposit rodshap
+wikipedia_Desulfitobacterium_hafniense__(49338) anaerob sporeform capabl dechlorin chlorophenol rodshap
+wikipedia_Brevibacillus_brevis__(1393) gramposit sporeform soil air decai infecti antibiot gramposit
+wikipedia_Thermoanaerobacter_brockii__(29323) stain gramposit nonsporeform spore surviv heat
+wikipedia_Bacillus_clausii__(79880) rodshap gramposit motil sporeform soil probiot symbiot respiratori infect
+wikipedia_Clostridium_kluyveri__(1534) anaerob motil gramposit
+pubmedSearch_Slackia_heliotrinireducens__(84110) fatti acid dimethyl acet
+wikipedia_Streptomyces cattleya__(29303) gramposit cephamycin penicillin thienamycin biosynthesi antibacteri
+wikipedia_Lactobacillus_sakei__(1599) heterofer place alcohol lactic acid sugar biochemistri bacteriocin
+wikipedia_Clostridium_cellulolyticum__(1521) anaerob motil gramposit
+
+TOPIC 19 ; WORDS: ectoin salin salt mutant optimum betain moder synthes cope stress
+wikipedia_Coprothermobacter_proteolyticus__(35786) thermophil ferment tanneri wast cattl manur rodshap stain gramneg gramposit optimum
+microbewiki_Chromohalobacter_Salexigens__(158080) flexibl salt ion salt potassium ammonium chemoorganotroph varieti salin optimum
+PMCArticles_Halobacillus_halophilus__(1570) gramposit moder strict anion chlorid synthes multitud compat switch osmolyt salin
+wikipedia_Aeropyrum_pernix__(56636) extremophil sediment coast japan
+wikipedia_Deinococcus_geothermalis__(68909) orangepig coloni optimum radiationresist space mission launch
+PMCArticles_Pseudomonas_syringae_B728a__(317) pathovar econom pathogen
+wikipedia_Natronobacterium pharaonis__(2257) free redirect alkaliphil thrive optimum salin optimum
+wikipedia_Leuconostoc_mesenteroides__(1245) ferment salin sucros dextran linkag
+PMCArticles_Marinobacter_hydrocarbonoclasticus_ATCC_49840__(2743) interfac hydrophob carbon interfac overcom
+wikipedia_Marinitoga piezophila__(149715) rodshap anaerob chemoorganotroph sulfurreduc motil stain gramneg optim
+wikipedia_Amphibacillus xylanus__(1449) diamet anaerob sever multitud stem multipl metabol path
+microbewiki_Halorhodospira_halophila__(1053) gramneg
+PMCArticles_Pelagibacterium_halotolerans__(531813) halotoler seawat east china
+wikipedia_Pyrococcus_abyssi__(29292) hyperthermophil deepsea hydrotherm vent north fiji basin anaerob gramneg coccusshap highli motil optimum
+PMCArticles_Halomonas_elongata__(2746) thrive high salin synthes accumul compat ectoin ectoin highli accord salt pictur metabol
+
+TOPIC 20 ; WORDS: ocean coastal plankton inorgan suspend abund pacif seawat sargasso heterotroph
+hamap_Shigella_boydii_serotype_18__(621) yearold boi virul vitro invas hela
+hamap_Shigella_boydii_serotype_4__(621) gramneg nonsporul anaerob caus dysenteri shigellosi highli invas rectum trigger inflammatori
+hamap_Synechococcus_CC9311__(64471) coastal edg depth nitrat light light light ocean
+PMCArticles_Synechococcus_CC9311__(64471) coastal coastal aquat typic highli ocean
+hamap_Ruegeria_pomeroyi__(89184) coastal ocean lithoheterotroph inorgan heterotrophi harbor
+hamap_Rickettsia_parkeri__(35792) gulf coast infect yearold coastal
+hamap_Jannaschia_CCS1__(290400) pacif coastal lownutri seawat motil slowli bacteriochlorophyl dark
+hamap_Vibrio_parahaemolyticus_serotype_O3_K6__(670) caus gastroenter high seafood consumpt inhabit estuarin suit plankton freeswim sessil
+PMCArticles_Ruegeria_pomeroyi__(89184) essenti ocean food catalyst biogeochem heterotroph
+pubmedSearch_cyanobacterium_UCYN_A__(713887) unicellular nitrogenfix ocean high symbiot nitrogenfix nitrogen fixat unicellular coastal nifh distinct distinct symbiosi
+hamap_Vibrio_furnissii__(29494) freeliv estuarin acut gastroenter
+pubmedSearch_Candidatus_Puniceispirillum_marinum__(767892) abund infect harbor polymeras dnaj methanesulfon monooxygenas
+microbewiki_Candidatus_Pelagibacter_ubique__(198252) equival smallest selfrepl free heterotroph
+PMCArticles_Synechococcus_WH8102__(84588) unicellular chlorophyl biomass carbon fixat ocean megabas
+hamap_Vibrio_anguillarum__(55601) caus vibriosi haemorrhag septicemia fresh brackish pacif coast
+
+TOPIC 21 ; WORDS: ferment spoilag lactic kimchi korean tradit food heterofer acid veget
+pubmedSearch_Leuconostoc carnosum__(1252) bacteriocin bacteriocin immun dedic interrupt
+wikipedia_Lactobacillus kefiranofaciens__(267818) homofer rodshap lactic acid grain
+PMCArticles_Pediococcus_claussenii__(187452) breweri contamin ropi chosen beer
+pubmedSearch_Leuconostoc_kimchii__(136609) extracellular polysaccharid tradit ferment pulqu beverag
+hamap_Leuconostoc_kimchii__(136609) gramposit kimchi tradit korean ferment food antimicrobi lactic acid probiot dextran sucros
+pubmedSearch_Leuconostoc_gasicomitatum__(1244) reclassif comb emend
+hamap_Leuconostoc_C2__(979982) kimchi tradit ferment food korean ferment varieti veget season ingredi powder salt kimchi healthpromot
+hamap_Halalkalicoccus_jeotgali__(413810) nonmotil gramvari jeotgal tradit korean ferment seafood
+wikipedia_Pediococcus halophilus__(51669) lactic acid ferment soi sauc sauc salt
+hamap_Leuconostoc_citreum__(33964) kimchi ferment kimchi tradit korean dish ferment cabbag veget spice kimchi ferment
+microbewiki_Lactobacillus_brevis__(1580) lactic acid gramposit spore metabol ferment hexos sugar lactic acid lactic acid todai
+hamap_Weissella_koreensis__(165096) anaerob nonsporeform heterofer gramposit chines cabbag kimchi short rod taper shape singli
+pubmedSearch_Weissella_koreensis__(165096) oid ferment high rapidli ferment caus infect carbohydr transport hydrolysi lactat ferment
+hamap_Leuconostoc_carnosum__(1252) kimchi gramposit chines cabbag kimchi
+microbewiki_Pediococcus_pentosaceus__(1255) industri starter ferment food meat veget chees antimicrobi bacteriocin
+
+TOPIC 22 ; WORDS: unicellular photosystem photosynthesi ocean fixat carbon tropic coastal subtrop phytoplankton
+pubmedSearch_Croceibacter_atlanticus__(313588) ocean republ korea sargasso uniqu infect
+microbewiki_Rhodobacter_sphaeroides__(1063) rodshap gramneg photoheterotroph metabol divers capabl mode rep
+microbewiki_Synechococcus_elongatus__(32046) freshwat unicellular bluegreen photosynthesi rodshap
+pubmedSearch_Thermosipho_melanesiensis__(46541) 
+PMCArticles_Synechococcus_WH8102__(84588) unicellular chlorophyl biomass carbon fixat ocean megabas
+pubmedSearch_cyanobacterium_UCYN_A__(713887) unicellular nitrogenfix ocean high symbiot nitrogenfix nitrogen fixat unicellular coastal nifh distinct distinct symbiosi
+microbewiki_Anabaena azollae__(1164) multicellular distinct circular photoautotroph veget oxygen photosynthesi typic
+microbewiki_Microcystis_aeruginosa__(1126) unicellular plankton freshwat vesicl buoyanc hollow optim light
+PMCArticles_Cyanobacterium_UCYN_A__(713887) nitrogen fixat carbon flux ocean unicellular tropic subtrop
+microbewiki_Gloeobacter_violaceus__(33072) rodshap unicellular calcar rock switzerland gramneg photoautotroph aquat stain distinctli
+pubmedSearch_Candidatus_Puniceispirillum_marinum__(767892) abund infect harbor polymeras dnaj methanesulfon monooxygenas
+microbewiki_Trichodesmium_erythraeum__(1206) congreg larger coloni bloom nake ey
+PMCArticles_Thermosynechococcus_elongatus__(146786) circular proteinencod
+PMCArticles_Cyanothece_ATCC_51142__(43989) unicellular nitrogen fixat fill unicellular
+PMCArticles_Synechococcus_elongatus_PCC_6301__(32046) berkelei circular sever
+
+TOPIC 23 ; WORDS: subsurfac sulfatereduc piezophil aquif groundwat metal radionuclid deep heavi wast
+pubmedSearch_Thermoanaerobacter kivui__(2325) probe probe
+pubmedSearch_Rhodanobacter denitrificans__(666685) contamin aquif ocean atmospher florida
+wikipedia_Desulfovibrio alaskensis__(58180) sulfatereduc biochemistri reduc radionuclid heavi metal uranium chromium
+wikipedia_Syntrophobacter_fumaroxidans__(119484) syntroph propionatedegrad sulfatereduc
+pubmedSearch_Rahnella_Y9602__(741091) hazard emiss subsurfac emiss pet manner sensit situ subsurfac soil pet subsurfac uranium contamin soil uranium phosphat precipit soil column pack
+wikipedia_Desulfovibrio_vulgaris__(881) gramneg sulfatereduc sulfurreduc
+wikipedia_Desulfovibrio piezophilus__(879567) sulfatereduc piezophil
+wikipedia_Desulfomonile tiedjei__(2358) anaerob dehalogen sulfatereduc gramneg nonmotil nonsporeform rodshap
+pubmedSearch_Geobacter_bemidjiensis__(225194) extracellular metal respir fuel
+wikipedia_Desulfovibrio_magneticus__(184917) sulfatereduc magnetit
+wikipedia_Desulfohalobium_retbaense__(45663) sulfatereduc motil nonsporul rodshap polar flagella
+wikipedia_Desulfobacterium_autotrophicum__(2296) mesophil sulfatereduc
+wikipedia_Desulfobulbus_propionicus__(894) sulfatereduc ellipsoid lemonshap decompos fatti acid propion
+PMCArticles_Desulfovibrio_aespoeensis__(182210) mesophil hydrogenotroph sulfatereduc subsurfac aquif rock island southeastern bacter
+wikipedia_Desulfosporosinus orientis__(1563) soil wetland acid drainag sediment
+
+TOPIC 24 ; WORDS: sludg wastewat reactor bioreactor kei mesophil sewag effluent industri biomass
+microbewiki_Nitrobacter_hamburgensis__(912) nitriteoxid capabl metabol nitrogen nitrit soil freshwat
+hamap_Beijerinckia_indica__(533) watersolubl extracellular polysaccharid biopolym textil oil industri
+hamap_Methanosarcina_mazei__(2209) ferment acet methylamin methanol methan carbon dioxid
+hamap_Methylococcus_capsulatus__(414) exploit largescal commerci ferment
+hamap_Methanosaeta_thermophila__(2224) anaerob thermophil anaerob anaerob sediment anaerob sludg metabol acet methan reduc methyl
+pubmedSearch_Anaerolinea_thermophila__(167964) sludg distinct anaerob bulk bulk sludg situ hybrid healthi sludg granul
+hamap_Methanothermobacter_marburgensis__(145263) thermophil anaerob sewag sludg synthesi coenzym
+hamap_Methylomonas_methanica__(421) methanotroph gramneg estuari irish carbon methan methylotroph methylotroph
+hamap_Methanosarcina_barkeri__(2208) anaerob mud freshwat lake lago itali rumen cattl rumen
+hamap_Methylacidiphilum_infernorum__(511746) acidophil methanotroph geotherm north zealand methanotroph divers
+wikipedia_Bacillus infernus__(38072) thermophil anaerob deep terrestri subsurfac depth basin
+hamap_Methanosaeta_harundinacea__(301375) anaerob sludg reactor wastewat beij china rodshap nonmotil singli high
+hamap_Methanocella_paludicola__(570267) mesophil hydrogenotroph anaerob propionatedegrad paddi soil abund ubiquit
+wikipedia_Chryseobacterium greenlandensis__(345663) ultramicrobacteria period lowtemperatur highpressur nutrientpoor surviv block
+wikipedia_Herminiimonas_arsenicoxydans__(204773) ultramicrobacteria industri sludg oxidis toxic chemic arsen
+
+TOPIC 25 ; WORDS: anox sediment ground nonmotil reclassifi naphthalen plankton gramneg rod acet
+wikipedia_Leptospirillum ferriphilum__(178606) acid drainag south commerci biooxid tank oper
+pubmedSearch_Pirellula_staleyi__(125) sig
+wikipedia_Aeropyrum_pernix__(56636) extremophil sediment coast japan
+wikipedia_Sphingomonas aromaticivorans__(48935) aromat compounddegrad gramneg nonsporeform nonmotil rodshap sediment
+wikipedia_Polaromonas_naphthalenivorans__(216465) gramneg oxidas catalaseposit nonsporeform nonmotil contamin freshwat sediment
+wikipedia_Methylomonas_methanica__(421) gramneg carbon methan metabol methanotrophi lake pond freshwat sediment ground motil rodshap
+wikipedia_Nitrosopumilus_maritimus__(338192) seawat pure ubiquit ocean
+microbewiki_Paludibacter_propionicigenes__(185300) anox ricefield soil japan propionateproduc anaerob gramneg nonmotil rod coloni agar
+wikipedia_Paenibacillus_polymyxa__(1406) gramposit capabl nitrogen soil sediment intestin
+wikipedia_Thiomargarita namibiensis__(90373) gramneg ocean sediment continent shelf largest diamet attain
+wikipedia_Magnetospirillum magnetotacticum__(188) typic shallow fresh sediment
+pubmedSearch_Tolumonas_auensis__(43948) toluen phenylacet phenylalanin glucos phenol tyrosin
+wikipedia_Desulfosporosinus orientis__(1563) soil wetland acid drainag sediment
+wikipedia_Shewanella_sediminis__(271097) hexahydro1 sediment psychrophil rodshap
+wikipedia_Methanosarcina_acetivorans__(2214) versatil methan divers oil trash dump deepsea hydrotherm vent oxygendeplet sediment beneath bed
+
+TOPIC 26 ; WORDS: prophag instanc variat newli diverg transpos rearrang america contig toxin
+pubmedSearch_Syntrophobotulus_glycolicus__(51197) prophag prophag prophag newli
+PMCArticles_Chlamydophila_caviae__(83557) fourth
+PMCArticles_Corynebacterium_diphtheriae_241__(1717) endocard ident housekeep variat
+PMCArticles_Corynebacterium_diphtheriae_NCTC_13129__(1717) gramposit nonspor nonmotil pleomorph rod potent exotoxin toxin caus
+hamap_Leptospira_biflexa_serovar_Patoc__(172) stream separ pasteur
+hamap_Mycoplasma_mobile__(2118) tench freshwat instanc aquat
+hamap_Neorickettsia_risticii__(950) potomac acut sever fatal ingest aquat encyst
+PMCArticles_Corynebacterium_ulcerans_809__(65058) elderli woman fatal pulmonari infect nasal asymptomat dog circular
+hamap_Mycobacterium_ulcerans__(1809) buruli counti uganda buruli ulcer buruli ulcer devast necrot subcutan buruli ulcer skin
+hamap_Bradyrhizobium_ORS_278__(114615) stem aquat legum
+PMCArticles_Liberibacter_crescens__(1273132) gramneg rodshap mountain papaya chip
+hamap_Opitutus_terrae__(107709) divers terrestri aquat paddi soil peat bog soil anox terrestri
+PMCArticles_Helicobacter_cinaedi_PAGU611__(213) 
+PMCArticles_Corynebacterium_ulcerans_0102__(65058) toxin prophag prophag caus ill lysogen tox
+PMCArticles_Helicobacter_cinaedi_ATCC_BAA_847__(213) pathogen caus cellul bacteremia diagnosi pathogen drug
+
+TOPIC 27 ; WORDS: bacteriochlorophyl photosystem photosynthesi chlorophyl oxygen cyclic unicellular ovoid light intens
+wikipedia_Chlorobium_chlorochromatii__(337090) gramneg nonmotil short ring chlorosom wall chlorosom light harvest pigment bacteriochlorophyl bacteriochlorophyl
+microbewiki_Nostoc_flagelliforme__(1178) carbon dioxid metabol photosynthesi dark respir nitrogen fixat terrestri highest slightli desicc
+pubmedSearch_Bradyrhizobium_ORS_278__(114615) photosystem synthesi anoxygen oxygen apparatu effici cyclic mutant photosystem synthesi bacteriochlorophyl mutant photosystem synthesi
+pubmedSearch_Thermosynechococcus_elongatus__(146786) robust mutant hope mutant obligatori phototrophi axial histidin ligand
+wikipedia_Chlorobium_tepidum__(1097) anaerob thermophil zealand gramneg nonmotil rod bacteriochlorophyl chlorosom
+microbewiki_Synechococcus_elongatus__(32046) freshwat unicellular bluegreen photosynthesi rodshap
+microbewiki_Anabaena azollae__(1164) multicellular distinct circular photoautotroph veget oxygen photosynthesi typic
+pubmedSearch_Acaryochloris_marina__(155978) acceptor photosystem chlorophyl spectroscopi japan uniqu
+wikipedia_Erythrobacter_litoralis__(39960) bacteriochlorophyl acontain
+microbewiki_Rhodobacter_sphaeroides__(1063) rodshap gramneg photoheterotroph metabol divers capabl mode rep
+wikipedia_Roseobacter litoralis__(42443) pinkpig bacteriochlorophyl spheroidenon synthes bacteriochlorophyl anaerob ovoid rodshap motil subpolar flagella
+microbewiki_Microcystis_aeruginosa__(1126) unicellular plankton freshwat vesicl buoyanc hollow optim light
+microbewiki_Gloeobacter_violaceus__(33072) rodshap unicellular calcar rock switzerland gramneg photoautotroph aquat stain distinctli
+microbewiki_Trichodesmium_erythraeum__(1206) congreg larger coloni bloom nake ey
+wikipedia_Rhodospirillum_rubrum__(1085) colorless exhaust oxygen immedi photosynthesi apparatu bacteriochlorophyl carotenoid photosynthesi repress photosynthesi
+
+TOPIC 28 ; WORDS: spring hot yellowston moder bacteriochlorophyl aggreg antenna oxic chlorosom alkalin
+hamap_Chlorobium_tepidum__(1097) gramneg hot spring zealand thermophil optim multipl bacteriochlorophyl carotenoid uniqu
+hamap_Rhodothermus_marinus__(29549) validli chemoorganotroph optim
+hamap_Caldilinea_aerophila__(133453) neutral hot spring slightli pinkish glossi irregular coloni stain gramneg
+hamap_Desulfurococcus_mucosus__(2275) thermophil anaerob hot solfatar spring iceland high dose ioniz radiat
+hamap_Pyrobaculum_neutrophilum__(70771) anaerob hyperthermophil hot spring iceland capabl autotroph donor hydrogen acceptor optimum
+hamap_Meiothermus_ruber__(277) thermophil gramposit hot spring
+hamap_Dictyoglomus_thermophilum__(14) gramneg anaerob thermophil slightli alkalin hot spring hot spring prefectur japan optimum
+hamap_Thermodesulfobacterium_geofontis__(1295609) anaerob thermophil gramneg hot spring yellowston gold
+hamap_Alicyclobacillus_acidocaldarius_acidocaldar__(405212) acidophil thermophil gramposit acid hot spring yellowston heat acid stabl amylas
+hamap_Thermoanaerobacter_mathranii__(583357) anaerob thermophil gramposit hot spring iceland optimum
+microbewiki_Candidatus_Chloracidobacterium_thermophilum__(458033) yellowston hot spring collabor
+hamap_Hydrogenobaculum_Y04AAS1__(380749) terrestri thermoacidophil chemolithoautotroph obsidian pool yellowston terrestri hot spring optim hydrogen
+hamap_Caldivirga_maquilingensis__(76887) hyperthermophil rodshap acid hot spring philippin optim optim
+hamap_Acidothermus_cellulolyticus__(28049) moder thermophil cellulolyt acid hot spring northern yellowston wyom
+hamap_Acidimicrobium_ferrooxidans__(53635) moder thermophil acidophil gramposit hot spring runoff iceland ferrou iron ferric iron optim
+
+TOPIC 29 ; WORDS: sulphur acidophil reduc metal fe donor optimum chemoorganotroph carbon moder
+wikipedia_Sulfolobus_tokodaii__(111955) thermophil acidophil
+wikipedia_Acidobacterium_capsulatum__(33075) acidophil chemoorganotroph menaquinon gramneg mesophil nonsporeform capsul saccharolyt rodshap motil peritrich flagella
+pubmedSearch_Desulfurobacterium_thermolithotrophum__(64160) 
+microbewiki_Desulfuromonas_acetoxidans__(891) rodshap neg predominantli sediment surviv fresh strict anaerob varieti donor acet ethanol propanol butanol
+wikipedia_Sulfobacillus acidophilus__(53633) moder thermophil gramposit acidophil
+wikipedia_Thiomonas arsenitoxydans__(426114) gramneg moder acidophil nonsporeform rodshap motil arsenit
+pubmedSearch_Acidianus_hospitalis__(563177) surpris
+pubmedSearch_Metallosphaera_cuprina__(1006005) rot carbon metabol sulfuroxid kei chines beij china kei
+wikipedia_Ferroplasma acidiphilum__(74969) acidophil autotroph ferrou ironoxid mesophil mesophil optimum optim
+wikipedia_Acidithiobacillus_caldus__(33059) short rodshap gramneg motil polar flagellum wall typic gramneg wall
+wikipedia_Acidithiobacillus_ferrooxidans__(920) autotroph acidophil mesophil occasion depend highli motil nonmotil high heterogen
+wikipedia_Acidimicrobium_ferrooxidans__(53635) moder thermophil acidophil
+microbewiki_Pelobacter_carbinolicus__(19) rod shape mesophil flagella movement aquat mesophil moder hot cold usual iron
+wikipedia_Thiomonas_intermedia__(926) gramneg moder acidophil oxidis sewag pipe hamburg
+pubmedSearch_Methanothermococcus_okinawensis__(155863) 
+
+TOPIC 30 ; WORDS: sauc lactic soi salt ferment acid homofer juic diacetyl sugar
+wikipedia_Lactococcus_lactis__(1358) gramposit chees famou aliv treatment
+wikipedia_Lactobacillus_helveticus__(1587) rodshap swiss chees emment chees style chees cheddar
+wikipedia_Lactobacillus kefiranofaciens__(267818) homofer rodshap lactic acid grain
+microbewiki_Oenococcus_oeni__(1247) anaerob oxygen respir ferment wine surviv acid toler ethanol
+microbewiki_Lactobacillus_johnsonii__(33959) resid intestin anaerob gramposit rodlik shape spore gastrointestin tract
+microbewiki_Weissella_koreensis__(165096) predomin lactic acid kimchi tradit korean food gramposit
+wikipedia_Sphingomonas_wittichii__(160791) river metabolis dibenzopdioxin acid
+microbewiki_Lactobacillus_casei__(1582) mesophil rod shape nonspor nonmotil anaerob cytochrom raw ferment
+wikipedia_Oenococcus_oeni__(1247) gramposit
+wikipedia_Pediococcus halophilus__(51669) lactic acid ferment soi sauc sauc salt
+microbewiki_Lactobacillus_brevis__(1580) lactic acid gramposit spore metabol ferment hexos sugar lactic acid lactic acid todai
+hamap_Tetragenococcus_halophilus__(51669) lactic acid gramposit sugar thick juic ferment soi sauc sauc salt sauc
+microbewiki_Pediococcus damnosus__(51663) ferment food gramposit anaerob metabol sugar carbohydr ferment short
+wikipedia_Psychroflexus torquis__(57029) psychrophil synthes polyunsatur fatti acid eicosapentaeno acid arachidon acid
+microbewiki_Pediococcus_pentosaceus__(1255) industri starter ferment food meat veget chees antimicrobi bacteriocin
+
+TOPIC 31 ; WORDS: appendag nearest distinct rich resembl nutrient mediterranean flagellar polar ovoid
+PMCArticles_Corallococcus_coralloides__(184914) culmin distinct
+pubmedSearch_Pelagibacterium halotolerans__(531813) neighbor valu chemotaxonom
+PMCArticles_Lactococcus_lactis_cremoris_A76__(1358) dairi chees contigu island
+wikipedia_Muricauda_ruestringensis__(111501) anaerob appendag north nearest
+PMCArticles_Hirschia_baltica__(2724) strike unusu mode
+pubmedSearch_Hirschia_baltica__(2724) distinct separ
+PMCArticles_Lactococcus_lactis_KLDS__(1358) probiot xinjiang china
+pubmedSearch_Glaciecola nitratireducens__(300231) uniqu
+PMCArticles_Lactococcus_lactis_cremoris_SK11__(1358) lactic acidproduc plai kei ferment food beverag divers lactic acid
+PMCArticles_Lactococcus_lactis_cremoris_NZ9000__(1358) lactic acid unexpect behavior
+PMCArticles_Myxococcus_stipitatus__(83455) starvat synthesi secondari metabolit highli distinct
+wikipedia_Rickettsia_conorii__(781) gramneg caus boutonneus mediterranean kenya indian
+PMCArticles_Lactococcus_lactis_NCDO_2118__(1358) probiot lactic acid sugar lactic acid ferment chees yogurt butter wine food
+wikipedia_Mariprofundus ferrooxydans__(314344) neutrophil chemolithotroph gramneg oxidis ferrou ferric iron
+pubmedSearch_Muricauda_ruestringensis__(111501) deep valu
+
+TOPIC 32 ; WORDS: acidophil thermophil thermoacidophil heterotroph dissimilatori gramposit ferrou bioleach ferric pyrit
+wikipedia_Acidobacterium_capsulatum__(33075) acidophil chemoorganotroph menaquinon gramneg mesophil nonsporeform capsul saccharolyt rodshap motil peritrich flagella
+wikipedia_Sulfolobus_tokodaii__(111955) thermophil acidophil
+wikipedia_Sulfobacillus acidophilus__(53633) moder thermophil gramposit acidophil
+wikipedia_Thiomonas arsenitoxydans__(426114) gramneg moder acidophil nonsporeform rodshap motil arsenit
+microbewiki_Thermoplasma_volcanium__(50339) heterotroph nutrient surviv acid high depend anaerob anaerob
+microbewiki_Thermoplasma_acidophilum__(2303) thermophil heterotroph acidophil favor selfheat coal refus pile solfatara
+microbewiki_Acidithiobacillus_ferrooxidans__(920) neg rod shape deep cave acid drainag coal wast acidophil thrive optim insolubl metal solubl
+microbewiki_Ferroplasma_acidarmanus__(97393) aquat stream drain iron iron mountain stream harsh high metabol
+wikipedia_Acidithiobacillus_caldus__(33059) short rodshap gramneg motil polar flagellum wall typic gramneg wall
+wikipedia_Ferroplasma acidiphilum__(74969) acidophil autotroph ferrou ironoxid mesophil mesophil optimum optim
+wikipedia_Acidimicrobium_ferrooxidans__(53635) moder thermophil acidophil
+pubmedSearch_Acidimicrobium_ferrooxidans__(53635) ironoxid ironoxid acidophil heterotroph thermophil
+pubmedSearch_Sulfobacillus acidophilus__(53633) oxygenas reductas gramposit moder thermophil bioengin south peopl republ china kei
+wikipedia_Thiomonas_intermedia__(926) gramneg moder acidophil oxidis sewag pipe hamburg
+microbewiki_Metallosphaera_sedula__(43687) highli thermoacidophil unusu toler heavi metal pyrit coal awar combust coal
+
+TOPIC 33 ; WORDS: sporeform gramposit nonmotil rodshap motil decai dental caviti plaqu monoxid
+hamap_Sphaerobacter_thermophilus__(2057) thermophil gramposit thermophil sewag sludg
+hamap_Geodermatophilus_obscurus__(1861) gramposit desert soil rock monument caus damag
+wikipedia_Bacillus_halodurans__(86665) rodshap gramposit motil sporeform soil uniqu
+hamap_Bacillus_licheniformis__(1402) gramposit sporeform soil industri antibiot consum
+microbewiki_Parabacteroides_distasonis__(823) faec anaerob sporeform nonmotil gramneg rod
+hamap_Meiothermus_ruber__(277) thermophil gramposit hot spring
+hamap_Halobacteroides_halobius__(42422) anaerob gramposit dead sediment israel gold
+hamap_Leifsonia_xyli__(1575) gramposit caus ratoon stunt
+wikipedia_Thermacetogenium phaeum__(85874) anaerob thermophil syntroph acetateoxid gramposit sporeform rodshap
+hamap_Listeria_seeligeri_serovar_1_2b__(1640) gramposit motil anaerob nonpathogen soil
+hamap_Listeria_innocua_serovar_6a__(1642) gramposit motil anaerob pathogen
+hamap_Propionibacterium_propionicum__(1750) gramposit
+hamap_Thermobispora_bispora__(2006) thermophil gramposit decai manur optimum
+wikipedia_Lactobacillus_sakei__(1599) heterofer place alcohol lactic acid sugar biochemistri bacteriocin
+hamap_Solibacillus_silvestris__(76853) rodshap peritrich flagel gramposit
+
+TOPIC 34 ; WORDS: acidophil thermophil pyrit bioleach drainag sewag coal leach refus metal
+hamap_Sphaerobacter_thermophilus__(2057) thermophil gramposit thermophil sewag sludg
+hamap_Methanothermobacter_marburgensis__(145263) thermophil anaerob sewag sludg synthesi coenzym
+wikipedia_Sulfolobus_tokodaii__(111955) thermophil acidophil
+hamap_Sulfurihydrogenibium_YO3AOP1__(436114) thermophil hydrogen reduc
+wikipedia_Sulfobacillus acidophilus__(53633) moder thermophil gramposit acidophil
+wikipedia_Thiomonas arsenitoxydans__(426114) gramneg moder acidophil nonsporeform rodshap motil arsenit
+microbewiki_Ferroplasma_acidarmanus__(97393) aquat stream drain iron iron mountain stream harsh high metabol
+hamap_Methanosaeta_thermophila__(2224) anaerob thermophil anaerob anaerob sediment anaerob sludg metabol acet methan reduc methyl
+hamap_Thermoplasma_volcanium__(50339) gramneg thermophil wall coal refus pile solfatara optimum anaerob
+hamap_Anaerolinea_thermophila__(167964) anaerob nonsporeform multicellular gramneg thermophil granular sludg anaerob sludg reactor
+wikipedia_Acidimicrobium_ferrooxidans__(53635) moder thermophil acidophil
+hamap_Thermus_thermophilus__(274) thermophil halotoler japan optim
+wikipedia_Thiomonas_intermedia__(926) gramneg moder acidophil oxidis sewag pipe hamburg
+hamap_Thermobispora_bispora__(2006) thermophil gramposit decai manur optimum
+hamap_Geobacillus_kaustophilus__(1462) thermophil deepsea sediment mariana trench optim
+
+TOPIC 35 ; WORDS: symbiosi island nativ dispens circular australia bacteriocyt distinct respir lipopolysaccharid
+wikipedia_Mesorhizobium_ciceri__(39645) gramneg nitrogenfix motil
+wikipedia_Azoarcus tolulyticus__(34027) nitrogenfix degrad toluen
+wikipedia_Herbaspirillum_seropedicae__(964) endophyt diazotroph nitrogenfix sugar cane pineappl potent
+wikipedia_Methylobacterium_nodulans__(114616) methylotroph legum nitrogenfix
+hamap_Burkholderia_thailandensis__(57975) thailand soil saprophyt pathogen virul
+wikipedia_Azorhizobium_caulinodans__(7) nitrogenfix symbiosi
+hamap_Shigella_flexneri_serotype_X__(623) chines surveil china
+hamap_Bacillus_subtilis__(1423) epiphyt tongu strong inhibitori caus rot devot
+wikipedia_Cupriavidus_taiwanensis__(164546) gramneg nitrogenfix indetermin pudica
+wikipedia_Atelocyanobacterium thalassa__(713887) nonphotosynthet nitrogenfix oxygenproduc photosystem apparatu carboxysom calvin tricarboxyl acid cycl
+PMCArticles_Bradyrhizobium_diazoefficiens_USDA_110__(1355477) symbiot circular averag
+wikipedia_Tolumonas auensis__(43948) neg rod toluen phenylalanin
+microbewiki_Desulfomonile_tiedjei_1__(2358) circular symbiosi biogeochem virul patient
+microbewiki_Desulfomonile_tiedjei__(2358) anaerob capabl autotroph sulfat thiosulf acceptor pyruv sulfat benzoat sulfat
+hamap_Bacillus_subtilis_spizizenii__(1423) legaci workhors prototroph streptomycinresist modern
+
+TOPIC 36 ; WORDS: nitrogenfix symbiosi fixat toluen protect legum rhizobia nitrogenas australia actinorhiz
+wikipedia_Mesorhizobium_ciceri__(39645) gramneg nitrogenfix motil
+hamap_Gluconacetobacter_diazotrophicus__(33996) acidtoler brazil endophyt symbiot
+wikipedia_Azoarcus tolulyticus__(34027) nitrogenfix degrad toluen
+hamap_Pseudomonas_stutzeri__(316) diazotroph gramneg rhizospher cultivar varieti occupi divers opportunist
+wikipedia_Methylobacterium_nodulans__(114616) methylotroph legum nitrogenfix
+hamap_Rahnella_Y9602__(741091) anaerob nitrogenfix gramneg usual fresh intestin microflora
+hamap_Rhizobium_loti__(381) 
+wikipedia_Azorhizobium_caulinodans__(7) nitrogenfix symbiosi
+hamap_Pseudomonas_stutzeri_A1501__(316) inocul paddi china wildtyp
+wikipedia_Cupriavidus_taiwanensis__(164546) gramneg nitrogenfix indetermin pudica
+wikipedia_Atelocyanobacterium thalassa__(713887) nonphotosynthet nitrogenfix oxygenproduc photosystem apparatu carboxysom calvin tricarboxyl acid cycl
+hamap_Rhizobium_meliloti__(382) gramneg nitrogenfix soil symbiosi replicon
+hamap_Aromatoleum_aromaticum__(551760) freshwat soil uniqu degrad toluen ethylbenzen anaerob absenc nitrogen fixat separ
+hamap_Sinorhizobium_meliloti__(382) bavaria releas autochthon outcompet releas
+microbewiki_Frankia_alni__(1859) nitrogen actinorhiz symbiot suppli nitrogen nitrogen
+
+TOPIC 37 ; WORDS: rot crop econom phytopathogen unclear commerci wilt revis blackleg stem
+PMCArticles_Dickeya_dadantii_3937__(204038) plantpathogen enterobacterium rot econom
+wikipedia_Pseudomonas_fulva__(47880) gramneg grain paddi rodshap motil polar place
+wikipedia_Sulfurimonas_autotrophica__(202747) thiosulfateoxid mesophil short rod motil polar flagellum
+wikipedia_Dichelobacter_nodosus__(870) beveridg dewhirst gramneg anaerob polar caus ovin foot rot lone
+hamap_Dickeya_dadantii__(204038) opportunist pathogen caus wilt blight pathogen batteri pectinas wall catabol glucos
+hamap_Burkholderia_glumae__(337) caus grain seedl rot wilt crop grain rot china japan vietnam philippin infect panicl
+PMCArticles_Pectobacterium_carotovorum_PCC_21__(554) plantpathogen enterobacterium rot commerci
+hamap_Pectobacterium_carotovorum__(554) rod shape pathogen gramneg caus rot
+hamap_Pectobacterium_atrosepticum__(29471) pathogen nonpathogen commerci pathogen temper caus blackleg rot
+PMCArticles_Pectobacterium_SCC3193__(1166016) caus rot blackleg econom crop
+hamap_Pectobacterium_wasabiae__(55208) pathogen gramneg causal rot econom pathogen crop
+wikipedia_Helicobacter cinaedi__(213) revis caus cellul bacteremia immunocompromis
+hamap_Dickeya_dadantii_Ech703__(204038) anaerob phytopathogen caus rot crop rot wilt
+wikipedia_Aeromonas culicicola__(654) gramneg oxidas catalaseposit gramneg polar flagellum midgut femal
+hamap_Pectobacterium_SCC3193__(1166016) caus rot blackleg econom crop stem finnish
+
+TOPIC 38 ; WORDS: toxin crystal insecticid gut spore pest entomopathogen kill sporul competitor
+PMCArticles_Pseudomonas_entomophila__(312306) entomopathogen ingest kill
+hamap_Magnetococcus_MC_1__(1124597) gramneg obligatori microaerophil thiosulf sulfid autotroph carbon sour
+hamap_Magnetospirillum_magneticum__(84159) gramneg anaerob respiratori nitrat anaerob acceptor fe membranebound ferric reductas
+hamap_Bacillus_thuringiensis_finitimus__(1428) paraspor crystal usual forespor separ spore sporul paraspor crystal
+wikipedia_Treponema azotonutricium__(150829) gut
+microbewiki_Bacillus_thuringiensis__(1428) gramposit thick wall peptidoglycan acid sugar wall plasma periplasm space essenti biosynthesi protect
+wikipedia_segmented filamentous bacteria__(49118) actual sever ileum intestin epithelium helper intriguingli
+wikipedia_Treponema primitia__(88058) gut
+hamap_Bacillus_thuringiensis__(1428) amen engin thick wall layer reduc effici wildtyp high
+PMCArticles_Clostridium_botulinum_A3_Loch_Maree__(1491) clostridi potent neurotoxin neurotoxin bont caus longlast fatal acid variat bont categor
+wikipedia_Methanobrevibacter_smithii__(2173) predomin gut plai effici polysaccharid sugar consum ferment singlecel
+hamap_Bacillus_thuringiensis_konkukian__(1428) gramposit sporeform pathogen biopesticid commerci agricultur endogen crystal
+wikipedia_Wigglesworthia_glossinidia__(51229) gramneg gut aksoi
+hamap_Lysinibacillus_sphaericus__(1421) mesophil sporeform china commerci larvicid china mosquitocid
+PMCArticles_Clostridium_botulinum_A_ATCC_3502__(1491) heterogen gramposit distinct neurotoxin poison toxin caus botul sever
+
+TOPIC 39 ; WORDS: gastric gastriti spiralshap biopsi microaerophil cheetah spiral lymphoma ureaseposit yearold
+hamap_Bifidobacterium_animalis_lactis_AD011__(28025) probiot fecal healthi breastf infant inhabit gut high immunomodulatori toler gastric acid
+wikipedia_Campylobacter lari__(201) nalidix acidresist thermophil microaerophil
+wikipedia_Helicobacter_felis__(214) pathogen gastric gramneg microaerophil ureaseposit spiralshap
+hamap_Helicobacter_mustelae__(217) gastric pathogen ferret typic helic bipolar flagella virtual endem ferret
+hamap_Helicobacter_cinaedi__(213) bacteremia
+hamap_Helicobacter_cetorum__(138563) ureaseposit cetacean subord captiv pacif ocean periplasm fiber bipolar
+wikipedia_Persephonella_marina__(309805) thermophil hydrogenoxid microaerophil deepsea hydrotherm vent chemolithoautotroph microaerophil motil rodshap gramneg nonsporul
+hamap_Helicobacter_felis__(214) microaerophil ureaseposit spiralshap stomach dog rigid spiralshap gramneg spiral
+hamap_Helicobacter_pylori__(210) microaerophil gramneg slowgrow spiralshap flagel caus chronic infect gastric chronic
+hamap_Helicobacter_acinonychis__(212) caus sever gastriti cheetah aros
+hamap_Helicobacter_bizzozeronii__(56877) tightli coil spiral dog occasion gastric biopsi patient finnish march biopsi yearold woman wit
+PMCArticles_Helicobacter_bizzozeronii__(56877) gastric gastric biopsi yearold
+wikipedia_Sodalis_glossinidius__(63612) microaerophil secondari
+hamap_Bifidobacterium_animalis__(28025) anaerob gramposit fece irregular rodshap nonmotil nonspor optimum
+wikipedia_Helicobacter_acinonychis__(212) cheetah gastriti kind gramneg spiralshap
+
+TOPIC 40 ; WORDS: tickborn pathogen virul rickettsiosi infect patient erythrocyt europ epidem immun
+wikipedia_Methanothermus_fervidus__(2180) thermophil rodshap envelop layer thick pseudomurein sacculu envelop
+hamap_Erwinia_pyrifoliae_Ep1_96__(79967) pathogen asian korea pathogen pathogen
+hamap_Burkholderia_thailandensis__(57975) thailand soil saprophyt pathogen virul
+hamap_Burkholderia_gladioli__(28095) opportunist pathogen pathogen cystic fibrosi patient sheath south korea
+hamap_Acidovorax_avenae__(80867) pathogen pathogen corn pathogen
+hamap_Pectobacterium_atrosepticum__(29471) pathogen nonpathogen commerci pathogen temper caus blackleg rot
+PMCArticles_Rickettsia_slovaca_13_B__(35794) pathogen virul
+hamap_Erwinia_billingiae__(182337) epiphyt epiphyt antagonist fire blight devast
+hamap_Pectobacterium_wasabiae__(55208) pathogen gramneg causal rot econom pathogen crop
+hamap_Listeria_innocua_serovar_6a__(1642) gramposit motil anaerob pathogen
+hamap_Liberibacter_crescens__(1273132) peduncl tropic hybrid mountain papaya puerto rico sign papaya papaya
+hamap_Wolinella_succinogenes__(844) bovin rumen pathogen virul
+hamap_Erwinia_pyrifoliae__(79967) newli pathogen caus fire blight asian eastern asia caus fire blight essenti indistinguish infect shoot
+wikipedia_Rickettsia_massiliae__(35791) tickborn pathogen
+hamap_Francisella_noatunensis_orientalis__(657445) nonmotil rodshap gramneg pathogen uncertain pathogen
+
+TOPIC 41 ; WORDS: cystic fibrosi patient lung infect antibiot pathogen opportunist chronic therapi
+wikipedia_Bordetella_avium__(521) gramneg nonfer motil patient respiratori cystic fibrosi bordetellosi
+PMCArticles_Burkholderia_cenocepacia_DWS_37E_2__(95486) pathogen biowarfar infect cystic fibrosi patient
+hamap_Burkholderia_multivorans__(87883) correctli polyphas metabol versatil
+hamap_Burkholderia_ambifaria__(152480) soil rhizospher
+hamap_Stenotrophomonas_maltophilia__(40324) opportunist pathogen deltoid endophyt
+wikipedia_Burkholderia_vietnamiensis__(60552) opportunist pathogen patient cystic fibrosi immunocompromis ill aminoglycosid polymyxin
+hamap_Burkholderia_gladioli__(28095) opportunist pathogen pathogen cystic fibrosi patient sheath south korea
+wikipedia_Burkholderia_multivorans__(87883) rodshap caus colonis lung cystic fibrosi
+hamap_Burkholderia_cenocepacia__(95486) agricultur soil puls gel electrophoresi multilocu
+hamap_Burkholderia_JV3__(40324) correctli polyphas metabol versatil
+hamap_Burkholderia_vietnamiensis__(60552) rhizospher patient trichloroethen cooxid
+PMCArticles_Burkholderia_cenocepacia_J2315__(95486) epidem pathogen cystic fibrosi patient infect lung cystic fibrosi patient caus complic treatment infect problemat
+hamap_Burkholderia_383__(482957) correctli polyphas metabol versatil
+wikipedia_Burkholderia contaminans__(488447) gramneg cystic fibrosi patient caus biliari
+wikipedia_Burkholderia_cenocepacia__(95486) gramneg caus opportunist pathogen infect patient cystic fibrosi chronic granulomat fatal cystic
+
+TOPIC 42 ; WORDS: mare metriti contagi stallion vener semen urethr vagin infect sexual
+pubmedSearch_Streptococcus_equi__(1336) 
+pubmedSearch_Mycoplasma_capricolum__(2095) polysaccharid nuclear homopolym
+pubmedSearch_Mycoplasma_mycoides__(2102) surviv dilut semen goat buck sperm fe
+pubmedSearch_Taylorella_equigenitalis__(29575) warmblood
+pubmedSearch_Mycoplasma_leachii__(2105) nuclear homopolym glucan monoclon antibodi
+pubmedSearch_Taylorella asinigenitalis__(84590) caus vener transmit infect nonpathogen infect mare sign vagin cervic endometr
+PMCArticles_Mycoplasma_putrefaciens_Mput9231__(2123) etiolog contagi goat etiolog contagi goat
+pubmedSearch_Marinomonas posidonica__(936476) sig
+PMCArticles_Mycoplasma_leachii_PG50__(2105) bovin pathogen contagi bovin cbpp blight cattl cbpp endem etiolog
+PMCArticles_Mycoplasma_putrefaciens_KS1__(2123) titanium washington loui contig amplifi
+PMCArticles_Taylorella_asinigenitalis_14_45__(84590) contagi metriti vener industri caus
+microbewiki_Taylorella_equigenitalis_MCE9__(29575) nonmotil microaerophil gramneg sexual transmit infect contagi metriti inflammatori sexual transmit gender circular averag gramneg
+pubmedSearch_Mycoplasma_agalactiae__(2110) surviv dilut semen goat buck sperm fe
+PMCArticles_Taylorella_equigenitalis_MCE9__(29575) caus contagi metriti caus contagi metriti sexual transmit infect
+PMCArticles_Taylorella_asinigenitalis_MCE3__(84590) diagram
+
+TOPIC 43 ; WORDS: staphylococci staphylococc methicillin urinari coagulaseneg vancomycin glycopeptid methicillinresist multidrugresist tract
+hamap_Staphylococcus_aureus__(1280) caus hospitalacquir infect toxin superantigen caus uniqu entiti staphylococc scarlet typic communityacquir
+pubmedSearch_Staphylococcus_haemolyticus__(1283) caus infect opportunist opportunist pathogen bacter
+hamap_Aerococcus_urinae__(1376) urinari tract urinari tract pathogen caus infect elderli patient predispos prostat hyperplasia urethr diabet mellitu malign
+pubmedSearch_Macrococcus_caseolyticus__(69966) staphylococc cassett infect tokyo japan
+hamap_Gallibacterium_anatis__(750) gramneg nonmotil rodshap respiratori tract reproduct tract
+microbewiki_Staphylococcus_saprophyticus__(29385) gramposit coagulaseneg caus women uncompl urinari tract infect pathogen
+microbewiki_Staphylococcus_haemolyticus__(1283) virul staphylococci threat health facil
+hamap_Gardnerella_vaginalis__(2702) anaerob gramvari sexual transmit vaginosi lactobacilli high
+pubmedSearch_Staphylococcus_carnosus__(1281) mutant reduc hydrophob hpi caus hydrophob hydrophob chromatographi confin hydrophob ntermin ntermin
+hamap_Verrucosispora_maris__(1003110) deep sediment japan depth uniqu polycycl polyketid antibiot inhibitor paraaminobenzo acid biosynthet
+microbewiki_Staphylococcus_epidermidis__(1282) gramposit coagulaseneg staphylococci typic skin infect cathet implant caus infect
+pubmedSearch_Staphylococcus warneri__(1292) penicillin antimicrobi follow erythromycin
+hamap_Macrococcus_caseolyticus__(69966) meat sugar acid metabol plethora virul
+pubmedSearch_Staphylococcus_saprophyticus__(29385) 
+hamap_Staphylococcus_haemolyticus__(1283) multidrugresist skin methicillin glycopeptid antibiot teicoplanin vancomycin blood caus septicemia periton
+
+TOPIC 44 ; WORDS: virul island capsul invas transport attenu hemolysin toxin vitro hyaluronidas
+hamap_Shigella_boydii_serotype_18__(621) yearold boi virul vitro invas hela
+hamap_Shigella_boydii_serotype_4__(621) gramneg nonsporul anaerob caus dysenteri shigellosi highli invas rectum trigger inflammatori
+hamap_Brucella_abortus_1_9_941__(235) virul cattl high sever
+hamap_Brucella_abortus_biovar_1__(235) brucellosi infecti sever caus sever acut undul
+hamap_Legionella_pneumophila__(446) caus legionnair fatal legion convent fresh industri
+hamap_Staphylococcus_saprophyticus__(29385) caus uncompl urinari tract infect young middleag women urin specimen harbor
+hamap_Rickettsia_africae__(35788) caus tickbit sfg rickettsiosi infecti tourism caribbean infect
+hamap_Mycoplasma_crocodyli__(50052) exud polyarthr caus acut lethal infect pathogen
+hamap_Mycoplasma_gallisepticum__(2096) chronic respiratori infecti sinus econom attenu older
+hamap_Brucella_abortus__(235) spontan attenu buck underli caus virul caus bovin brucellosi enorm
+hamap_Wolinella_succinogenes__(844) bovin rumen pathogen virul
+hamap_Lactococcus_garvieae__(1363) methanotroph virul gramneg yellowtail sign lactococcosi pathogen caus fatal haemorrhag septicaemia
+microbewiki_Desulfomonile_tiedjei_1__(2358) circular symbiosi biogeochem virul patient
+hamap_Legionella_pneumophila_serogroup_1__(446) recurr follow dispens island virul
+microbewiki_Desulfomonile_tiedjei__(2358) anaerob capabl autotroph sulfat thiosulf acceptor pyruv sulfat benzoat sulfat
+
+TOPIC 45 ; WORDS: nocardiosi subord pulmonari immunocompromis chronic saprophyt gramposit cutan infect divers
+wikipedia_Nocardia_farcinica__(37329) pathogen caus
+wikipedia_Mycobacterium chubuense__(1800) gramposit high guanin cytosin
+microbewiki_Nocardia_asteroides__(1824) drug ident
+wikipedia_Haliangium_ochraceum__(80816) moder sever sessil dens pack
+hamap_Leptospira_biflexa_serovar_Patoc__(172) stream separ pasteur
+PMCArticles_Corallococcus_coralloides__(184914) culmin distinct
+hamap_Nocardia_farcinica__(37329) gramposit soil saprophyt caus nocardiosi acut subacut chronic infecti cutan pulmonari nervou
+microbewiki_Nocardia_cyriacigeorgica__(135487) gramposit acidfast resid soil coloni patient chronic bronchiti
+wikipedia_Nocardia asteroides__(1824) caus nocardiosi sever pulmonari infect immunocompromis
+PMCArticles_Myxococcus_stipitatus__(83455) starvat synthesi secondari metabolit highli distinct
+wikipedia_Nocardia brasiliensis__(37326) high guanin cytosin caus nocardiosi
+hamap_Burkholderia_thailandensis__(57975) thailand soil saprophyt pathogen virul
+wikipedia_Rhodococcus_opacus__(37919) moder chemolithotroph
+hamap_Nocardia_cyriacigeorgica__(135487) nocardiosi north america place fourth washington
+microbewiki_Nocardia brasiliensis__(37326) gramposit coloni columbia blood agar columbia blood agar blood hemolyt pathogen
+
+TOPIC 46 ; WORDS: borreliosi infect pathogen tickborn antigen antibodi lous neurolog transmit immun
+wikipedia_Borrelia_bissettii__(64897) pathogen borreliosi
+pubmedSearch_Borrelia_turicatae__(142) averag ident
+wikipedia_Borrelia crocidurae__(29520) bergei
+microbewiki_Anaplasma_phagocytophilum__(948) gramneg micromet diamet pathogen replic vacuol microcoloni antigen
+wikipedia_Leptospira_borgpetersenii__(174) pathogen
+hamap_Borrelia_garinii__(29519) borreliosi neurolog
+microbewiki_Rickettsia_conorii__(781) gramneg highli sever
+hamap_Borrelia_crocidurae__(29520) 
+microbewiki_Rickettsia_rickettsii__(783) rodshap caus rocki mountain rmsf transmit bite period contamin cut skin wound fece
+pubmedSearch_Borrelia_recurrentis__(44449) averag ident
+pubmedSearch_Borrelia_hermsii__(140) antigen immun porin antigen proteinac memori immun divers pathogen multipl antigen unexpect benefit
+pubmedSearch_Borrelia crocidurae__(29520) 
+microbewiki_Borrelia_afzelii__(29518) caus distinct skin infect diagnos skin infect follow inflammatori
+microbewiki_Ehrlichia_chaffeensis__(945) bare skin expos infect southern
+pubmedSearch_Borrelia_duttonii__(40834) averag ident
+
+TOPIC 47 ; WORDS: flora vagin tract vaginosi reproduct dental periton genitourinari epitheli genit
+hamap_Klebsiella_variicola__(244366) cut bring fungal garden
+wikipedia_Mycoplasma_hominis__(2098) smallest freeliv wall stain vagina vagin flora
+wikipedia_Gardnerella_vaginalis__(2702) anaerob gramvari rod anaerob vaginosi women vagin microflora resid anaerob
+PMCArticles_Streptococcus_oralis__(1303) caviti pathogen
+wikipedia_Lactobacillus_gasseri__(1596) vagin flora
+pubmedSearch_Lactobacillus_crispatus__(47770) milk lactobacilli peptid desir nitrogen milk nutriti peptid lactobacilli
+hamap_Staphylococcus_epidermidis__(1282) 
+wikipedia_Veillonella_parvula__(29466) flora periodont dental infect
+hamap_Klebsiella_oxytoca__(571) butanediol dxylos
+hamap_Aggregatibacter_aphrophilus__(732) gramneg flora healthi individu etiolog infecti endocard caus gramneg nonpathogen
+hamap_Leptotrichia_buccalis__(40542) anaerob aerotoler saccharolyt older gramneg younger gramposit anaerob aerotoler
+hamap_Streptococcus_oralis__(1303) caviti flora respiratori tract
+PMCArticles_Gallibacterium_anatis__(750) periton flora avian caus periton salping
+pubmedSearch_Gardnerella_vaginalis__(2702) purpos etiolog bulgarian patient risk thousand hundr women antimicrobi therapi
+hamap_Bacteroides_fragilis__(817) gramneg rod flora opportunist pathogen sever gastrointestin surgeri extraintestin infect abscess
+
+TOPIC 48 ; WORDS: psychrotoler nearest flat glucos chlorid gramneg flagella rodshap rest biospher
+pubmedSearch_Polaromonas_JS666__(296591) feed stock quantiti engin nativ redox highli fusion butanol maximum butanol butanol
+microbewiki_Herminiimonas_glaciei__(523788) essenti
+microbewiki_Marivirga_tractuosa__(1006) rodshap gramneg pigment nonspor mesophil optimum antibiot motil
+wikipedia_Rhodoferax_ferrireducens__(192843) psychrotoler mud
+pubmedSearch_Alteromonas SN2__(715451) easi sediment korea opposit south mediterranean depth beach synteni preserv flexibl island actual preserv synteni sediment metabol
+pubmedSearch_Polaromonas vacuolata__(37448) phospholipid fatti acid hybrid
+microbewiki_Chryseobacterium_greenlandense__(345663) newli psychrotoler deep glacier gramneg nonflagel rodshap averag optim
+microbewiki_Methanocaldococcus_infernus__(67760) thermophil optim optimum nonpathogen
+microbewiki_Halorhabdus_utahensis__(146826) salin nacl optimum glucos xylos fructos uniqu
+wikipedia_Bacillus_weihenstephanensis__(86662) soildwel gramposit rodshap hemolyt psychrotoler
+pubmedSearch_Cupriavidus pinatubonensis__(248026) hybrid
+microbewiki_Pseudomonas_mendocina__(300) neg polar monotrich flagel rod shape
+microbewiki_Staphylococcus_muscae__(1294) shape gramposit micromet diamet spore usual irregularli shape clump coloni slightli convex circular smooth grayish usual
+pubmedSearch_Polaromonas_naphthalenivorans__(216465) nitrogen fixat contamin sediment gramneg
+microbewiki_Spirochaeta_americana__(159291) extremophil highli alkalin anaerob lake inhabit high salt believ harsh lake
+
+TOPIC 49 ; WORDS: alkaliphil sodiumdepend halotoler proton transloc salin optim extremophil depth basin
+wikipedia_Oceanobacillus_iheyensis__(182710) deepsea depth halotoler alkaliphil
+hamap_Bacillus_pseudofirmus__(79885) rigor malat cycl plai alkaliphil
+PMCArticles_Bacillus_pseudofirmus__(79885) 
+hamap_Bacillus_clausii__(79880) alkaliphil laundri deterg sporeform motil rod coloni margin
+hamap_Oceanobacillus_iheyensis__(182710) gramposit rodshap motil peritrich flagella sporeform alkaliphil halotoler optimum nacl deepsea
+wikipedia_Desulfonatronovibrio hydrogenovorans__(53245) alkaliphil sulfatereduc motil sodiumdepend
+pubmedSearch_Desulfonatronovibrio hydrogenovorans__(53245) bioenerget alkaliphil sulfatereduc metabol alkaliphil sulfatereduc
+wikipedia_Bacillus_pseudofirmus__(79885) anaerob alkaliphil endosporeform
+microbewiki_Natronomonas_Pharaonis__(2257) haloalkaliphil sensit high magnesium nacl soda lake egypt kenya soda
+PMCArticles_Oceanobacillus_iheyensis__(182710) iheya ridg unexpect capabl alkaliphil halotoler deepsea sediment
+pubmedSearch_Spirochaeta americana__(159291) neighbour hybrid
+wikipedia_Bacillus_selenitireducens__(85683) lake respir oxyanion selenium arsen sporeform rodshap alkaliphil
+wikipedia_Clostridium_ljungdahlii__(1538) anaerob rodshap motil endosporeform gramposit ferment synga ethanol acet cathod
+PMCArticles_Bacillus_halodurans__(86665) alkaliphil
+hamap_Bacillus_halodurans__(86665) gramposit rodshap alkaliphil commerci alkaliphil brought industri
+
+TOPIC 50 ; WORDS: radiat ioniz desicc repair radiationresist irradi withstand coloni dose spheric
+hamap_Deinococcus_maricopensis__(309887) radiationresist gramposit desert soil high dose ioniz radiat
+hamap_Deinococcus_radiodurans__(1299) gramposit redpig nonmotil ioniz radiat hydrogen peroxid radiationresist
+hamap_Deinococcus_gobiensis__(502394) nonmotil spheric redpig anaerob gramposit sand layer cold desert xinjiang china toler
+hamap_Deinococcus_proteolyticus__(55148) nonmotil gramposit spheric coloni mrad radiat
+microbewiki_Deinococcus_radiodurans_1__(1299) ground meat dose radiat hazard radiat withstand radiat kill latin berri withstand radiat varieti soil fece mesophil circular virul multipl
+microbewiki_Kineococcus_radiotolerans__(131568) catalaseposit oxidaseneg averag motil flagella thick extracellular polym shell abund
+hamap_Desulfurococcus_mucosus__(2275) thermophil anaerob hot solfatar spring iceland high dose ioniz radiat
+hamap_Pyrococcus_furiosus__(2261) sand volcano motil flagella anaerob capabl
+hamap_Deinococcus_geothermalis__(68909) radiat moder thermophil mesophil ioniz irradi
+pubmedSearch_Jannaschia_CCS1__(290400) acta grant radiat crystal ntermin ligand ctermin zinc broader
+hamap_Thermococcus_gammatolerans__(187878) obligatori anaerob heterotroph hyperthermophil hydrotherm chimnei midatlant ridg basin
+microbewiki_Deinococcus_deserti__(310783) obligatori chemoorganoheterotroph metabol capabl divers carbohydr metabol glycolysi gluconeogenesi pentos
+microbewiki_Deinococcus_radiodurans__(1299) redpig nonmotil spheric resili radiat light hydrogen peroxid damag oregon
+hamap_Kineococcus_radiotolerans__(131568) highlevel radioact wast savannah river south
+hamap_Deinococcus_deserti__(310783) radiationresist sand layer sahara radiat radiat desicc effici repair heavi
+
+TOPIC 51 ; WORDS: permafrost siberian psychrophil cold antarct nonmotil ocean vacuol flexibl methanol
+pubmedSearch_Methanogenium frigidum__(62970) 
+microbewiki_Exiguobacterium_sibiricum__(332410) freeliv psychrotroph nonsporul rod shape edg shape vari yelloworang motil peritrich flagella
+wikipedia_Methanosphaera stadtmanae__(2317) free redirect nonmotil gramposit sphericalshap hydrogen reduc methanol methan cytochrom intestin
+pubmedSearch_Shewanella_sediminis__(271097) gramneg rodshap predomin fatti acid
+microbewiki_Pseudoalteromonas_haloplanktis__(228) curv rod shape psychrophil reclassifi assai
+microbewiki_Psychromonas_ingrahamii__(357794) gramneg rodshap nonmotil respiratori ferment metabol moder salt salt
+microbewiki_Colwellia_psychrerythraea__(28229) psychrophil gramneg anaerob rodshap pigment depict rodshap flagella motil
+microbewiki_Methanococcoides_burtonii__(29291) extremophil love cold bottom lake oxygen averag situ annual optim
+pubmedSearch_Psychroflexus torquis__(57029) psychrophil ecosystem food agricultur australia highli
+pubmedSearch_Psychromonas_ingrahamii__(357794) driven phosphat psychrophil serin hydroxymethyltransferas itali serin hydroxymethyltransferas phosphat
+pubmedSearch_Pseudoalteromonas_haloplanktis__(228) solubl chemic itali solubl experienc
+wikipedia_Methanosaeta concilii__(2223) archaeum disput anaerob gramneg nonmotil rodshap flat enclos sheath
+pubmedSearch_Colwellia_psychrerythraea__(28229) uniqu polysaccharid psychrophil mimick polar
+wikipedia_Psychrobacter_cryohalolentis__(330922) jeotgal tradit korean ferment seafood gramneg nonmotil siberian permafrost
+wikipedia_Psychrobacter_arcticus__(334543) jeotgal tradit korean ferment seafood gramneg nonmotil siberian permafrost
+
+TOPIC 52 ; WORDS: haloarchaea hypersalin archaeal seafood nacl satur saltern ion alkalin salt
+PMCArticles_Haloarcula_hispanica_ATCC_33960__(51589) unusu barrier archaeal metabol
+PMCArticles_Haloferax_volcanii__(2246) amber jonathan badger daniel pfeiffer
+microbewiki_Haloquadratum_walsbyi__(293091) pond magnesium chlorid brine steril biomass thrive
+microbewiki_Desulfonatronovibrio_hydrogenovorans__(53245) welladapt alkaliphil sulfatereduc capabl high salin alkalin salin soda lake lithoheterotroph
+pubmedSearch_Nanoarchaeum_equitans__(160232) merg biophys
+PMCArticles_Salinibacter_ruber_DSM_13855__(146919) satur brine physic demand surviv repeatedli saltern crystal
+pubmedSearch_Methanothermus_fervidus__(2180) chem chemic synthesi archaeal chemistri indian sever nlink glycoprotein
+microbewiki_Natronomonas_Pharaonis__(2257) haloalkaliphil sensit high magnesium nacl soda lake egypt kenya soda
+pubmedSearch_Cenarchaeum_symbiosum__(46770) taxon high high protozoa
+microbewiki_Haloarcula_Marismortui__(2238) dead high salin oxygen solubl high light intens archaeal thrive sever
+PMCArticles_Haloarcula_hispanica_N601__(51589) magnesium optic taiwan orient contig
+pubmedSearch_Halalkalicoccus_jeotgali__(413810) archaeal divers soil lake mexico uncharacter
+PMCArticles_Halalkalicoccus_jeotgali__(413810) seafood south korea
+pubmedSearch_Caldivirga_maquilingensis__(76887) sulfid quinon oxidoreductas ding biochemistri urbana sulfid quinon oxidoreductas ubiquit multipl sulfid
+PMCArticles_Halopiger_xanaduensis__(387343) sediment salt lake
+
+TOPIC 53 ; WORDS: deepsea piezophil pressur depth hydrostat hydrotherm ridg midatlant optim atmospher
+PMCArticles_Desulfovibrio_piezophilus__(879567) deni
+hamap_Colwellia_psychrerythraea__(28229) sediment maximum subzero swim sugar deepsea pressur coldact
+hamap_Borrelia_bissettii__(64897) caus bound surviv cycl switch invertebr bite indispens
+hamap_Marinitoga_piezophila__(149715) thermophil anaerob piezophil chemoorganotroph sulfurreduc gramneg deepsea hydrotherm chimnei depth eastpacif
+wikipedia_Syntrophobacter_fumaroxidans__(119484) syntroph propionatedegrad sulfatereduc
+hamap_Pyrococcus_yayanosii__(1008460) piezophil anaerob hyperthermophil deepsea hydrotherm ashadz midatlant ridg depth highli motil irregular diamet
+hamap_Acetobacter_pasteurianus__(438) acet acid tradition ferment food vinegar japan acet acid instabl
+hamap_Photobacterium_profundum__(74109) piezophil high pressur depth pressur amen manipul circular
+wikipedia_Desulfovibrio piezophilus__(879567) sulfatereduc piezophil
+wikipedia_Desulfomonile tiedjei__(2358) anaerob dehalogen sulfatereduc gramneg nonmotil nonsporeform rodshap
+wikipedia_Desulfonatronovibrio hydrogenovorans__(53245) alkaliphil sulfatereduc motil sodiumdepend
+hamap_Borrelia_afzelii__(29518) caus bound surviv cycl switch invertebr bite indispens
+wikipedia_Desulfobulbus_propionicus__(894) sulfatereduc ellipsoid lemonshap decompos fatti acid propion
+wikipedia_Desulfobacterium_autotrophicum__(2296) mesophil sulfatereduc
+hamap_Halorhodospira_halophila__(1053) gramneg
+
+TOPIC 54 ; WORDS: salin optimum hypersalin salt oil moder nacl optim extremophil ectoin
+wikipedia_Oceanobacillus_iheyensis__(182710) deepsea depth halotoler alkaliphil
+hamap_Methanohalophilus_mahii__(2176) sediment salt lake coloni cream pale circular trap gase anaerob sediment wit
+wikipedia_Natronobacterium pharaonis__(2257) free redirect alkaliphil thrive optimum salin optimum
+hamap_Halopiger_xanaduensis__(387343) neutrophil sediment lake salin lake mongolia china nonmotil pleomorph rodshap
+pubmedSearch_Polymorphum gilvum__(991904) crude oil degrad salin soil tang engin engin beij
+hamap_Natrialba_magadii__(13769) haloalkaliphil thrive high salt high extremophil lake magadi kenya thrive alkalin hypersalin nacl
+hamap_Halobacterium_salinarum__(2242) chemoorganotroph degrad salin reach satur optim high salin
+hamap_Halanaerobium_hydrogeniformans__(656519) anaerob salt lake utah divers salin oil interfac hypersalin sediment
+hamap_Glaciecola_nitratireducens__(300231) rodshap motil gramneg seawat island south korea optimum salt
+hamap_Salinibacter_ruber__(146919) brightli redpig motil rodshap gramneg saltern crystal pond mallorca optim salt salt
+microbewiki_Chromohalobacter_Salexigens__(158080) flexibl salt ion salt potassium ammonium chemoorganotroph varieti salin optimum
+hamap_Salinibacter_ruber_DSM_13855__(146919) gramneg heterotroph motil redpig high carotenoid coexist coloni
+wikipedia_Desulfonatronovibrio hydrogenovorans__(53245) alkaliphil sulfatereduc motil sodiumdepend
+hamap_Haloferax_volcanii__(2246) moder bottom sediment dead volcani dead
+hamap_Halobacillus_halophilus__(1570) rodshap motil endosporeform gramposit moder optim nacl toler nacl
+
+TOPIC 55 ; WORDS: phosphoru wastewat polyphosph treatment sludg acet accumul bioreactor phosphat polyp
+hamap_Delftia_acidovorans__(80866) nonhalophil gramneg soil acetamid delft soil sediment sludg crude oil
+hamap_Gemmatimonas_aurantiaca__(173480) rodshap motil gramneg batch reactor oper phosphoru wastewat
+pubmedSearch_Candidatus_Accumulibacter_phosphatis__(327160) phosphoru civil engin kong kong
+pubmedSearch_Microlunatus_phosphovorus__(29405) inorgan phosphat transport metabol deterior
+hamap_Methylophaga_nitratireducenticrescens__(754476) moder gramneg denitrif bioreactor wastewat rod thick periplasm space motil polar flagel
+microbewiki_Candidatus_Accumulibacter_phosphatis__(327160) wast wast effluent contributor pollut caus excess nutrient algal bloom
+hamap_Nitrobacter_hamburgensis__(912) rodshap motil lithoautotroph nitrit nitrat nitrif ubiquit
+hamap_Microlunatus_phosphovorus__(29405) sludg accumul polyp phosphoru weight gramposit coccusshap
+hamap_Haliscomenobacter_hydrossis__(2350) rod thin visibl
+hamap_Acholeplasma_laidlawii__(2148) soil compost wastewat bovin goat ovin porcin capabl novo biosynthesi carotenoid
+hamap_Paenibacillus_mucilaginosus__(61624) silic gramposit biogeochem cycl potassium phosphoru soil agricultur bioleach wastewat treatment degrad insolubl
+microbewiki_Comamonas_badia__(265291) neg rodshap highli motil polar flagellum sludg factori sludg japan
+hamap_Parachlamydia_acanthamoebae__(83552) uniqu biphas cycl infecti elementari veget noninfecti reticul sever pneumon
+hamap_Candidatus_Accumulibacter_phosphatis__(327160) polyphosphateaccumul gramneg phosphoru wastewat treatment phosphoru wastewat eutroph excess nutrient
+hamap_Methylophaga_frappieri__(754477) moder gramneg denitrif bioreactor wastewat rod thick periplasm space motil polar flagel
+
+TOPIC 56 ; WORDS: xylanas xylan cellulas hydrolysi flagellin glucos xylos pectin degrad polysaccharid
+pubmedSearch_Jonesia_denitrificans__(43674) purif xylanas algeria
+hamap_Methanosarcina_acetivorans__(2214) thrive uniqu multicellular largest archaeal motil
+pubmedSearch_Cellulomonas_flavigena__(1711) extracellular glucos βglucosidas
+hamap_Chlamydophila_psittaci__(83554) pathogen psittacosi gramneg infect avian cattl goat
+hamap_Bacteroides_vulgatus__(821) gut gut
+microbewiki_Staphylothermus_marinus__(2280) hyperthermophil heat sediment beach vulcano island itali smoker ocean floor rich optimum
+pubmedSearch_Xylanimonas_cellulosilytica__(186189) 
+microbewiki_Dictyoglomus_thermophilum__(14) light grei anaerob thermophil rodshap slightli alkalin hot spring japan hot spring bed zealand russia
+hamap_Edwardsiella_ictaluri__(67780) septicemia catfish econom catfish largest aquacultur industri
+hamap_Sorangium_cellulosum__(56) anaerob gramneg largest
+hamap_Burkholderia_xenovorans__(36873) largest degrad pcbcontain landfil york team electr
+hamap_Cellulomonas_flavigena__(1711) chemoorganotroph gramposit cellulas xylanas biomass degrad fuel
+pubmedSearch_Dictyoglomus_thermophilum__(14) extremophil xylanas ntermin disulfid bridg ionic liquid enzymat chemic
+hamap_Bacillus_weihenstephanensis__(86662) nonpathogen gramposit typic psychrophil soil phylogen forest
+hamap_Xylanimonas_cellulosilytica__(186189) chemoorganotroph gramposit decai abund cellulas xylanas
+
+TOPIC 57 ; WORDS: polyhydroxyalkano accumul carbon polyest synthesi phosphoru storag polym stabil metabol
+pubmedSearch_Microlunatus_phosphovorus__(29405) inorgan phosphat transport metabol deterior
+hamap_Natronomonas_moolapensis__(416273) neutrophil optim solar saltern solar saltern australia gramneg motil vari short rod flat
+hamap_Pedobacter_saltans__(151895) gramneg soil inabl
+hamap_Ramlibacter_tataouinensis__(94132) chemoorganotroph soil soil tataouin tunisia veget motil rod diamet divid
+pubmedSearch_Candidatus_Accumulibacter_phosphatis__(327160) phosphoru civil engin kong kong
+microbewiki_Rickettsia_prowazekii__(782) caus epidem centuri howard transmit fece bite
+hamap_Haloferax_mediterranei__(2252) poli seawat evapor pond alicant metabol effici
+hamap_Cupriavidus_pinatubonensis__(248026) degrad chloroaromat pollut bioremedi polyhydroxyalkano chemolithoautotroph
+microbewiki_Ralstonia_eutropha__(106590) gramneg nonspor gramneg stain gramposit stain gramneg pathogen motil
+hamap_Legionella_pneumophila__(446) caus legionnair fatal legion convent fresh industri
+hamap_Microlunatus_phosphovorus__(29405) sludg accumul polyp phosphoru weight gramposit coccusshap
+hamap_Legionella_pneumophila_serogroup_1__(446) recurr follow dispens island virul
+hamap_Haloarcula_hispanica__(51589) solar saltern unusu
+microbewiki_Thermus_thermophilus_1__(274) circular megaplasmid high denatur megaplasmid stabl stabil denatur heat chemic reagent mesophil appeal industri industri optimum
+microbewiki_Thermus_thermophilus__(274) repair mut mut purifi mut stabl
+
+TOPIC 58 ; WORDS: fe anod electrod electr fuel acceptor fumar respir acet succin
+wikipedia_Geothrix fermentans__(44676) rodshap anaerob diamet singli aquat sediment aquif anaerob chemoorganotroph
+pubmedSearch_Acidovorax_ebreus__(721785) benefit miner encrust nitrit accumul profici catalyz induct fe oxidoreductas upregul periplasm redoxact fe
+wikipedia_Leptothrix_cholodnii__(34029) fe
+microbewiki_Shewanella_oneidensis__(70863) gramneg anaerob predominantli deep anaerob resid soil lipoprotein cytochrom mtrc omca cytochrom
+microbewiki_Geothrix fermentans__(44676) ident metabol rodshap neg nonmotil singli optimum
+microbewiki_Geobacter_sulfurreducens__(35554) exploit bioremedi capabl carbon cycl precipit solubl metal electr insolubl
+microbewiki_Shewanella_oneidensis_1__(70863) gramneg typic rod shape diamet anaerob sediment swim polar flagellum modern hybrid distinct mild reduc inorgan respir respir metal
+microbewiki_Bacillus_stratosphericus__(293386) atmospher desert soil deep estuari endosporeform withstand unfavour permit
+wikipedia_Shewanella_frigidimarina__(56812) antarct eicosapentaeno acid anaerob dissimilatori fe motil rod shape
+pubmedSearch_Geothrix fermentans__(44676) 
+pubmedSearch_Calditerrivibrio_nitroreducens__(477976) thermophil gramneg nitratereduc electr capabl sato engin tokyo tokyo japan exploit
+wikipedia_Geobacter_metallireducens__(28232) gramneg metalreduc strict anaerob sever shortchain fatti acid alcohol monoaromat fe acceptor
+wikipedia_Geobacter_bemidjiensis__(225194) fe reduc gramneg slightli curv rodshap motil monotrich flagella
+wikipedia_Shewanella_putrefaciens__(24) gramneg anaerob sandston mexico anaerob reduc iron manganes metabol
+wikipedia_Ralstonia_eutropha__(106590) gramneg soil metabol hydrogenas regulatori hydrogenas membranebound hydrogenas solubl hydrogenas solubl hydrogenas typic anaerob nif
+
+TOPIC 59 ; WORDS: autotroph replic fixat metabol aggreg depend nitrat baltic chemoheterotroph photoheterotroph
+wikipedia_Coprothermobacter_proteolyticus__(35786) thermophil ferment tanneri wast cattl manur rodshap stain gramneg gramposit optimum
+wikipedia_Deferribacter_desulfuricans__(197162) nitrat arsenatereduc thermophil deepsea hydrotherm vent anaerob heterotroph thermophil
+wikipedia_Anaerolinea_thermophila__(167964) thermophil gramneg nonsporeform
+wikipedia_Sulfolobus_tokodaii__(111955) thermophil acidophil
+wikipedia_Methanothermobacter_marburgensis__(145263) thermophil autotroph
+wikipedia_Caldisericum exile__(693075) suffici distinct place thermophil
+PMCArticles_Methanocaldococcus_jannaschii__(2190) replic
+wikipedia_Pelotomaculum_thermopropionicum__(110500) anaerob thermophil syntroph propionateoxid
+wikipedia_Thermotoga_lettingae__(177758) thermophil anaerob nonsporeform motil gramneg
+wikipedia_Caldilinea aerophila__(133453) thermophil gramneg nonsporeform
+wikipedia_Desulfurobacterium_thermolithotrophum__(64160) autotroph sulphurreduc deepsea hydrotherm vent thermophil anaerob gramneg motil rodshap
+wikipedia_Bacillus infernus__(38072) thermophil anaerob deep terrestri subsurfac depth basin
+wikipedia_Symbiobacterium_thermophilum__(2734) symbiot thermophil depend cocultur gramneg
+wikipedia_Syntrophothermus_lipocalidus__(86170) thermophil syntroph anaerob utilis isobutyr tgbc1t
+wikipedia_Chloroflexus_aggregans__(152260) thermophil dens aggreg
+
+TOPIC 60 ; WORDS: nitrogenfix symbiosi fixat rhizospher rhizobia replicon nitrogenas divers australia actinorhiz
+hamap_Pseudomonas_stutzeri_A1501__(316) inocul paddi china wildtyp
+pubmedSearch_Burkholderia_phymatum__(148447) sig effici nitrogenfix jame young
+hamap_Gluconacetobacter_diazotrophicus__(33996) acidtoler brazil endophyt symbiot
+pubmedSearch_Mesorhizobium opportunistum__(593909) sig reev
+hamap_Pseudomonas_stutzeri__(316) diazotroph gramneg rhizospher cultivar varieti occupi divers opportunist
+hamap_Rahnella_Y9602__(741091) anaerob nitrogenfix gramneg usual fresh intestin microflora
+hamap_Rhizobium_loti__(381) 
+hamap_Frankia_alni__(1859) alder canada nitrogenfix symbiosi alder
+hamap_Sinorhizobium_meliloti__(382) bavaria releas autochthon outcompet releas
+wikipedia_Cupriavidus_taiwanensis__(164546) gramneg nitrogenfix indetermin pudica
+PMCArticles_Agrobacterium_H13_3__(861208) soil rhizospher flagellum motil chemotaxi
+wikipedia_Azospirillum brasilense__(192) nitrogenfix rhizospher sever
+hamap_Aromatoleum_aromaticum__(551760) freshwat soil uniqu degrad toluen ethylbenzen anaerob absenc nitrogen fixat separ
+hamap_Rhizobium_meliloti__(382) gramneg nitrogenfix soil symbiosi replicon
+microbewiki_Frankia_alni__(1859) nitrogen actinorhiz symbiot suppli nitrogen nitrogen
+
+TOPIC 61 ; WORDS: glide motil motor pigment pathogen starch trichom move diamet gill
+wikipedia_Thioploca araucae__(40752) continent shelf coloni multicellular glide trichom diamet enclos sheath thin peripher
+PMCArticles_Flavobacterium_johnsoniae__(986) glide glide motil
+microbewiki_Haliangium_ochraceum__(80816) rodshap motil glide pale diamet accord greek vessel pale
+PMCArticles_Cytophaga_hutchinsonii__(985) cellulolyt soil circular
+PMCArticles_Flavobacterium_psychrophilum_JIP02_86__(96345) virul pathogen circular
+wikipedia_Anaeromyxobacter_dehalogenans__(161493) anaerob slender gramneg rod bright pigment glide motil sporelik
+microbewiki_Mycoplasma_mobile__(2118) glide motil speed fast glide motil smooth transloc solid
+microbewiki_Mycoplasma_pulmonis__(2107) smallest circular
+PMCArticles_Mycoplasma_mobile__(2118) divers pathogen piscin
+PMCArticles_Pedobacter_saltans__(151895) 
+PMCArticles_Capnocytophaga_ochracea__(1018) 
+wikipedia_Zobellia galactanovorans__(63186) mesophil nonflagel glide coloni
+wikipedia_Herpetosiphon giganteus__(65) glide motil
+PMCArticles_Flavobacterium_indicum__(312277) warm spring warm spring
+PMCArticles_Flavobacterium_columnare__(996) gramneg rodshap motil highli pathogen caus freshwat
+
+TOPIC 62 ; WORDS: paddi anox bog toluen divers oxic flagellum acet polar ferment
+microbewiki_Opitutus_terrae__(107709) diamet motil flagellum chin agar coloni unpig granular diplococci flagellum rod
+wikipedia_Pseudomonas_fulva__(47880) gramneg grain paddi rodshap motil polar place
+pubmedSearch_Pirellula_staleyi__(125) sig
+hamap_Nocardiopsis_alba__(53437) gramposit gut healthi inhibitori indigen pathogen
+hamap_Methanococcoides_burtonii__(29291) anaerob slightli archeon anox hypolimnion lake bestcharacter psychrophil methylotroph motil
+hamap_Paludibacter_propionicigenes__(185300) anaerob chemoorganotroph propionateproduc gramneg anox ricefield soil japan rodshap slightli taper
+hamap_Saccharomonospora_viridis__(1852) hot compost europ soil japan irish peat bog depth unusu gramneg
+microbewiki_Anabaena azollae__(1164) multicellular distinct circular photoautotroph veget oxygen photosynthesi typic
+hamap_Opitutus_terrae__(107709) divers terrestri aquat paddi soil peat bog soil anox terrestri
+pubmedSearch_Tolumonas_auensis__(43948) toluen phenylacet phenylalanin glucos phenol tyrosin
+hamap_Tolumonas_auensis__(43948) nonmotil gramneg anox sediment freshwat lake toluen phenylalanin phenylacet phenol tyrosin
+wikipedia_Opitutus_terrae__(107709) anaerob paddi soil epithet coccusshap motil flagellum
+hamap_Thiomonas_intermedia__(926) moder acidophil sulfuroxid gramneg sewag pipe hamburg carbon dioxid degrad tetrathion oxic anox
+wikipedia_Methanothermococcus okinawensis__(155863) thermophil methaneproduc deepsea hydrotherm vent western pacif ocean highli motil irregular polar bundl flagella
+wikipedia_Methanocella_paludicola__(570267) methaneproduc paddi soil mesophil hydrogenotroph
+
+TOPIC 63 ; WORDS: disproportion mesophil thiosulf metabol sulfatereduc acceptor extent operon acid donor
+wikipedia_Ethanoligenens_harbinense__(253239) anaerob gramposit nonsporeform mesophil motil regular rod
+wikipedia_Clostridium_cellulovorans__(1493) anaerob mesophil sporeform cellulolyt gramneg nonmotil rod oblong spore notion
+wikipedia_Acidobacterium_capsulatum__(33075) acidophil chemoorganotroph menaquinon gramneg mesophil nonsporeform capsul saccharolyt rodshap motil peritrich flagella
+wikipedia_Desulfocapsa sulfexigens__(65555) mesophil anaerob gramneg disproportion thiosulf
+wikipedia_Sulfurimonas_autotrophica__(202747) thiosulfateoxid mesophil short rod motil polar flagellum
+PMCArticles_Hyperthermus_butylicus__(54248) sulfurreduc peptid ferment neutrophil hyperthermophil neutrophil anaerob archaeal circular
+wikipedia_Advenella kashmirensis__(310575) chemolithotroph mesophil neutrophil soil temper orchard kashmir reclassifi
+pubmedSearch_Desulfocapsa sulfexigens__(65555) sig deltaproteobacterium disproportion inorgan
+wikipedia_Ferroplasma acidiphilum__(74969) acidophil autotroph ferrou ironoxid mesophil mesophil optimum optim
+wikipedia_Streptococcus_mitis__(28037) mesophil alphahemolyt inhabit mouth anaerob catalas neg caus endocard surviv
+PMCArticles_Pyrococcus_abyssi__(29292) archaeal replic
+wikipedia_Desulfobacterium_autotrophicum__(2296) mesophil sulfatereduc
+PMCArticles_Thermococcus_barophilus__(55802) hyperthermophil anaerob heterotroph carboxydotroph euryarchaeon deep hydrotherm vent midatlant ridg depth piezophili
+wikipedia_Zobellia galactanovorans__(63186) mesophil nonflagel glide coloni
+wikipedia_Methanocella_paludicola__(570267) methaneproduc paddi soil mesophil hydrogenotroph
+
+TOPIC 64 ; WORDS: methylotroph methanol formaldehyd pinkpig methylamin methylotrophi carbon dehydrogenas cycl onecarbon
+hamap_Methylotenera_versatilis__(1055487) methylotroph gramneg degrad carboncarbon promin methanol methylamin ubiquit freshwat acid
+microbewiki_Methylobacillus_flagellatus__(405) circular accord tricarboxyl acid cycl cycl failur
+hamap_Methylobacterium_radiotolerans__(31998) methylotroph nonhalophil nitrogen symbiosi legum rhizobia methanol
+wikipedia_Methylobacterium_nodulans__(114616) methylotroph legum nitrogenfix
+hamap_Methylovorus_glucosetrophus__(266009) methylotroph degrad gramneg lake washington constitu carbon nitrogen cycl
+wikipedia_Methylibium_petroleiphilum__(105560) methyl tertbutyl methylotroph gramneg rodshap motil nonpig
+hamap_Methanosarcina_mazei__(2209) ferment acet methylamin methanol methan carbon dioxid
+hamap_Methylobacillus_flagellatus__(405) rodshap motil methylotroph methanol methylamin carbon
+hamap_Methylovorus_MP688__(887061) methylotroph expens onecarbon methanol carbon biocatalyst methanol commerci valuabl
+wikipedia_Methanomethylovorans hollandica__(101192) methylotroph dimethyl sulfid methanethiol anaerob
+hamap_Methylomonas_methanica__(421) methanotroph gramneg estuari irish carbon methan methylotroph methylotroph
+wikipedia_Methylobacterium_populi__(223967) pinkpig methylotroph deltoid
+hamap_Methylotenera_mobilis__(359408) methylotroph degrad gramneg lake washington constitu
+wikipedia_Methanohalophilus_mahii__(2176) methylotroph
+PMCArticles_Methylobacillus_flagellatus__(405) methylotrophi polyphylet methylotrophi methan methanol methyl amin biogen atmospher constitu methanotroph methylotroph
+
+TOPIC 65 ; WORDS: methan methanogenesi acet methanol dioxid greenhous carbon monooxygenas sewag sludg
+hamap_Methanosaeta_concilii__(2223) acet methanogenesi
+hamap_Methanohalophilus_mahii__(2176) sediment salt lake coloni cream pale circular trap gase anaerob sediment wit
+PMCArticles_Methylocystis_SC2__(187303) methanotroph highli pollut aquif particul methan monooxygenas methan kinet
+microbewiki_Methanothermobacter_thermautotrophicus__(145262) gramposit pseudomurein pseudomurein peptidoglycan wall chemic
+PMCArticles_Methylocella_silvestris__(199596) methanotroph acid forest soil methanotroph methan onecarbon
+microbewiki_Methylococcus_capsulatus__(414) methylotroph gramneg shape multipl oxygen necess surviv thermophil optim
+hamap_Methanococcus_maripaludis__(39152) motil mesophil optima optimum anaerob rapidli hydrogenotroph
+hamap_Methanosphaera_stadtmanae__(2317) archaeal thrive intestin methanol pectin degrad anaerob intestin inhabit methan
+hamap_Methanocella_conradii__(1175444) chines soil optimum acet methanol methyl
+microbewiki_Methanosarcina_acetivorans__(2214) methaneproduc sediment sediment jolla
+hamap_Methanoculleus_marisnigri__(2198) anaerob sediment freshwat sediment
+hamap_Thermacetogenium_phaeum__(85874) anaerob thermophil syntroph acetateoxid gramposit thermophil anaerob reactor wast sporeform rodshap
+PMCArticles_Methanosarcina_mazei_Go1__(2209) ferment acet methylamin methanol methan carbon dioxid methylamin acet methan ear
+hamap_Methanosaeta_harundinacea__(301375) anaerob sludg reactor wastewat beij china rodshap nonmotil singli high
+PMCArticles_Methanosarcina_mazei_Tuc01__(2209) archaeal brazilian
+
+TOPIC 66 ; WORDS: spore crystal sporul toxic polysaccharid agricultur chemic extracellular coat effici
+microbewiki_Clostridium_septicum__(1504) highli pathogen varieti toxin toxin toxin potent toxin nontraumat gangren gangren lifethreaten destruct edema
+hamap_Magnetococcus_MC_1__(1124597) gramneg obligatori microaerophil thiosulf sulfid autotroph carbon sour
+microbewiki_Methanobrevibacter_Smithii__(2173) anaerob healthi adult gut ecosystem gut obes lean
+microbewiki_Clostridium_botulinum__(1491) rodshap soil effici lowoxygen
+hamap_Magnetospirillum_magneticum__(84159) gramneg anaerob respiratori nitrat anaerob acceptor fe membranebound ferric reductas
+hamap_Bacillus_thuringiensis_finitimus__(1428) paraspor crystal usual forespor separ spore sporul paraspor crystal
+microbewiki_Bacillus_thuringiensis__(1428) gramposit thick wall peptidoglycan acid sugar wall plasma periplasm space essenti biosynthesi protect
+pubmedSearch_Desulfuromonas acetoxidans__(891) transit metal superoxid dismutas reduc superoxid dismutas antioxid defens catalyz superoxid h2o2 transit metal
+pubmedSearch_Jannaschia_CCS1__(290400) acta grant radiat crystal ntermin ligand ctermin zinc broader
+hamap_Bacillus_thuringiensis__(1428) amen engin thick wall layer reduc effici wildtyp high
+hamap_Bacillus_atrophaeus__(1452) decad spore surviv motil highli pathogen
+hamap_Bacillus_thuringiensis_konkukian__(1428) gramposit sporeform pathogen biopesticid commerci agricultur endogen crystal
+hamap_Geobacillus_thermoglucosidasius__(1426) hyperthermophil sporul gramposit rodshap motil gold
+hamap_Lysinibacillus_sphaericus__(1421) mesophil sporeform china commerci larvicid china mosquitocid
+microbewiki_Clostridium_botulinum_1__(1491) gramposit rod shape anaerob neurotoxin paralyz junction toxin toxin toxin toxin toxin sporul endospor dormant sever contamin food favor anaerob
+
+TOPIC 67 ; WORDS: legum symbiosi rhizobia stem fixat nitrogenfix soybean methylotroph replicon atmospher
+hamap_Methylobacterium_radiotolerans__(31998) methylotroph nonhalophil nitrogen symbiosi legum rhizobia methanol
+hamap_Azorhizobium_caulinodans__(7) microsymbiont tropic legum stem nif rhizobia
+wikipedia_Sinorhizobium_meliloti__(382) gramneg nitrogenfix symbiot legum legum symbiosi
+PMCArticles_Bradyrhizobium_ORS_278__(114615) soybean rhizobi soil symbiot partner legum occasion stem nitrogenfix
+wikipedia_Methylobacterium_nodulans__(114616) methylotroph legum nitrogenfix
+hamap_Burkholderia_phymatum__(148447) french guiana broader
+wikipedia_Rhizobium_leguminosarum__(384) approv emend
+hamap_Methylobacillus_flagellatus__(405) rodshap motil methylotroph methanol methylamin carbon
+PMCArticles_Sinorhizobium_fredii_NGR234__(380) uniqu nitrogenfix legum microsymbiont essenti
+hamap_Methylovorus_MP688__(887061) methylotroph expens onecarbon methanol carbon biocatalyst methanol commerci valuabl
+PMCArticles_Sinorhizobium_fredii_USDA_257__(380) symbiot nitrogenfix high strikingli
+wikipedia_Burkholderia_phymatum__(148447) capabl symbiot nitrogen fixat legum
+microbewiki_Desulfomonile_tiedjei_1__(2358) circular symbiosi biogeochem virul patient
+PMCArticles_Sinorhizobium_fredii_HH103__(380) fastgrow rhizobi legum soybean legum indetermin
+microbewiki_Desulfomonile_tiedjei__(2358) anaerob capabl autotroph sulfat thiosulf acceptor pyruv sulfat benzoat sulfat
+
+TOPIC 68 ; WORDS: alkan oil crude hydrocarbon degrad oilcontamin bioremedi monooxygenas oildegrad biodegrad
+hamap_Delftia_acidovorans__(80866) nonhalophil gramneg soil acetamid delft soil sediment sludg crude oil
+hamap_Amycolicicoccus_subflavus__(639313) heterotroph gramposit crude oilpollut soil china hydrocarbon degrad
+hamap_Polaromonas_naphthalenivorans__(216465) gramneg freshwat sediment capabl degrad
+hamap_Pseudoxanthomonas_spadix__(415229) degrad btex sediment situ degrad btex soil
+hamap_Mycobacterium_vanbaalenii__(110539) oilcontamin sediment degrad pyren polycycl aromat hydrocarbon degrad biphenyl naphthalen anthracen fluoranthen phenanthren
+hamap_Cupriavidus_pinatubonensis__(248026) degrad chloroaromat pollut bioremedi polyhydroxyalkano chemolithoautotroph
+hamap_Gordonia_polyisoprenivorans__(84595) rubberdegrad rubber degrad gramposit soil rubber foul
+hamap_Polymorphum_gilvum__(991904) gramneg crude oilpollut salin soil china crude oil carbon extracellular longchain alkan
+hamap_Mycobacterium_chubuense__(1800) estuarin sediment sydnei australia ethen monooxygenas biocatalysi bioremedi solubl
+PMCArticles_Alcanivorax_dieselolei__(285091) oilcontamin china effici degrad alkan alkan
+PMCArticles_Amycolicicoccus_subflavus__(639313) crude oilpollut soil crude oilpollut soil china newli
+PMCArticles_Cycloclasticus_P1__(385025) deepsea sediment pacif ocean uniqu degrad pyren polycycl aromat hydrocarbon degrad
+microbewiki_Alcanivorax_borkumensis__(59754) nutrient phosphoru nitrogen oilcontamin phosphoru nitrogen thrive optim
+hamap_Mycobacterium_rhodesiae__(36814) zimbabw patient lung soil estuarin sediment georg hall sydnei australia degrad polycycl aromat
+hamap_Alteromonas_SN2__(715451) heterotroph gramneg crude oilcontamin flat situ degrad polycycl aromat hydrocarbon crude oilcontamin sediment
+
+TOPIC 69 ; WORDS: sulfatereduc sulfat dissimilatori sulfit acceptor sulfid validli thrive donor acidophil
+PMCArticles_Desulfosporosinus_orientis__(1563) sulfatereduc
+wikipedia_Syntrophobacter_fumaroxidans__(119484) syntroph propionatedegrad sulfatereduc
+PMCArticles_Desulfovibrio_vulgaris_Hildenborough__(881) metabol sulfatereduc econom biocorros metal infrastructur bioremedi toxic metal ion
+PMCArticles_Desulfovibrio_vulgaris_DP4__(881) sulfatereduc deltaproteobacterium heavi lake sediment high synteni
+wikipedia_Desulfovibrio_vulgaris__(881) gramneg sulfatereduc sulfurreduc
+PMCArticles_Desulfosporosinus_meridiei__(79209) sulfatereduc sulfat reduc typic thrive
+wikipedia_Desulfovibrio piezophilus__(879567) sulfatereduc piezophil
+wikipedia_Desulfomonile tiedjei__(2358) anaerob dehalogen sulfatereduc gramneg nonmotil nonsporeform rodshap
+wikipedia_Desulfonatronovibrio hydrogenovorans__(53245) alkaliphil sulfatereduc motil sodiumdepend
+wikipedia_Desulfovibrio_magneticus__(184917) sulfatereduc magnetit
+pubmedSearch_Desulfocapsa sulfexigens__(65555) sig deltaproteobacterium disproportion inorgan
+wikipedia_Desulfohalobium_retbaense__(45663) sulfatereduc motil nonsporul rodshap polar flagella
+wikipedia_Desulfobulbus_propionicus__(894) sulfatereduc ellipsoid lemonshap decompos fatti acid propion
+wikipedia_Desulfobacterium_autotrophicum__(2296) mesophil sulfatereduc
+PMCArticles_Desulfosporosinus_acidiphilus__(885581) sulfatereduc sulfat reduc typic thrive terrestri degrad
+
+TOPIC 70 ; WORDS: leprosi brazil nerv patient dapson immun infect biopsi health multidrug
+microbewiki_Mycobacterium_leprae__(1769) leprosi leprosi health leprosi leprosi brazil congo
+PMCArticles_Candidatus_Liberibacter_asiaticus_gxpsy__(34021) circular
+PMCArticles_Vibrio_cholerae_O1_biovar_El_Tor_N16961__(666) neg circular vast
+PMCArticles_Candidatus_Liberibacter_asiaticus_psy62__(34021) destruct spread phloemlimit infect
+PMCArticles_Vibrio_cholerae_MJ_1236__(666) alter
+PMCArticles_Vibrio_cholerae_IEC224__(666) fail ferment sucros amazon defect sucros marker latin epidem
+PMCArticles_Rickettsia_canadensis_McKiel__(788) twothird thailand patient high synteni distinct
+microbewiki_Mycobacterium_leprae_1__(1769) chronic infecti leprosi gerhard februari norwegian physician leprosi gramposit rodshap acidfast skin nerv respiratori tract
+PMCArticles_Vibrio_cholerae_M66_2__(666) caus erupt south asia pandem pandem invertebr antigen divers
+PMCArticles_Mycobacterium_leprae_TN__(1769) leprosi chronic neurolog infect pathogen tubercl doubl
+PMCArticles_Mycobacterium_leprae_Br4923__(1769) massiv shape pathogen caus leprosi brazil convent
+pubmedSearch_Mycobacterium_leprae__(1769) progenitor stem pathogen migratori immunomodulatori spread sophist manipul plastic
+PMCArticles_Vibrio_cholerae_LMA3984_4__(666) multipl displac polymeras amplifi sever prove cultureindepend manner
+pubmedSearch_Mycobacterium rhodesiae__(36814) cyst rapidli kill
+PMCArticles_Vibrio_cholerae_O1_2010EL_1786__(666) absent island centuri began fall pulsedfield gel electrophoresi return
+
+TOPIC 71 ; WORDS: tooth dental caviti plaqu endocard children gum teeth lesion canal
+hamap_Prevotella_melaninogenica__(28132) anaerob blackpig rodshap inhabit caviti periodont virul neuraminidas collagenas immunoglobulin phospholipas
+hamap_Porphyromonas_gingivalis__(837) gramneg anaerob secondari caviti periodont caus tooth industri chronic inflammatori periodontium
+microbewiki_Streptococcus_mutans__(1309) gramposit mouth thrive metabol kind carbohydr acid mouth acid mouth
+hamap_Prevotella_intermedia__(28131) blackpig gramneg anaerob periodont healthi endodont infect canal infect apic periodont
+hamap_Cryptobacterium_curtum__(84163) asaccharolyt opportunist pathogen caviti dental infect periodont inflamm abscess anaerob short
+hamap_Haemophilus_parainfluenzae__(729) inhabit respiratori tract infrequ opportunist pathogen slowli caus endocard children caus infect bacteremia abscess periton
+hamap_Mycoplasma_synoviae__(2109) caus respiratori tract synov inflamm fowl pheasant
+hamap_Tannerella_forsythia__(28112) pathogen periodont inflamm damag tooth nutrition fastidi periodont pathogen
+hamap_Streptococcus_intermedius__(1338) pathogen patient periodont fatal purul infect
+hamap_Streptococcus_gordonii__(1302) nonmotil gramposit vari pathogen plaqu multispeci tooth dental plaqu caviti gun
+pubmedSearch_Streptococcus sobrinus__(1310) corros portug corros
+hamap_Treponema_denticola__(158) caviti periodont inflamm gum preced bone resorpt tooth
+microbewiki_Streptococcus_mutans_1__(1309) gramposit shape anaerob caviti contributor tooth decai decai health individu mesophil cariogen break sugar acid superfici tooth coat tooth
+hamap_Veillonella_parvula__(29466) nonfer anaerob gramposit flora genitourinari respiratori intestin tract
+hamap_Aggregatibacter_actinomycetemcomitans_serotype_C__(714) gramneg aggress periodont typic resid caviti caus etiolog
+
+TOPIC 72 ; WORDS: uranium bioremedi subsurfac remedi contamin metal miner pollut toxic capabl
+hamap_Enterobacter_638__(399742) deltoid endophyt endophyt harm
+hamap_Dehalococcoides_ethenogenes__(61435) catabol sever toxic chlorin aromat aliphat dechlorin situ contamin dechlorin
+hamap_Achromobacter_xylosoxidans__(85698) anaerob nonmotil gramposit soil contamin polychlorin biphenyl chlorobenzo carbon xenobiot
+pubmedSearch_Rahnella_Y9602__(741091) hazard emiss subsurfac emiss pet manner sensit situ subsurfac soil pet subsurfac uranium contamin soil uranium phosphat precipit soil column pack
+PMCArticles_Rahnella_Y9602__(741091) contamin subsurfac soil capabl uranium phosphat miner phosphatas
+hamap_Dehalogenimonas_lykanthroporepellens__(552810) anaerob dechlorin gramneg groundwat superfund clean contamin hazard baton roug
+hamap_Dehalococcoides_BAV1__(61435) anaerob dechlorin chlorin ethen vinyl chlorid innocu ethen inorgan
+hamap_Serratia_proteamaculans__(28151) endophyt oligosaccharid
+hamap_Mycobacterium_chubuense__(1800) estuarin sediment sydnei australia ethen monooxygenas biocatalysi bioremedi solubl
+hamap_Acidovorax_ebreus__(721785) anaerob iron uranium nitrat remedi uranium contamin home
+hamap_Desulfitobacterium_hafniense__(49338) anaerob dehalogen sporeform gramposit municip sludg chlororespir dehalogen varieti aromat alkyl chlorin chlorin phenol
+hamap_Dehalococcoides_VS__(61435) anaerob freeliv sediment subsurfac gramneg streamlin unusu vinyl chlorid proven carcinogen abund groundwat pollut
+PMCArticles_Shewanella_oneidensis__(70863) bioremedi divers respiratori capabl multicompon transport
+hamap_Burkholderia_xenovorans__(36873) largest degrad pcbcontain landfil york team electr
+hamap_Dehalococcoides_GT__(61435) anaerob chemolithotroph gramposit widespread groundwat contamin chlorin ethen dechlorin tetrachloroethen trichloroethen toxic
+
+TOPIC 73 ; WORDS: blackleg rot stem unclear pathogen econom crop humid xylanas spiralshap
+hamap_Pectobacterium_wasabiae__(55208) pathogen gramneg causal rot econom pathogen crop
+PMCArticles_Pectobacterium_atrosepticum_SCRI1043__(29471) pathogen sever pathogen pathogen enterobacterium
+hamap_Herbaspirillum_seropedicae__(964) spiralshap herbac spontan streptomycin mutant brazil atmospher
+hamap_Stigmatella_aurantiaca__(41) gramneg rot bark cycl motil adventur motil switch
+hamap_Dickeya_dadantii__(204038) opportunist pathogen caus wilt blight pathogen batteri pectinas wall catabol glucos
+hamap_Burkholderia_glumae__(337) caus grain seedl rot wilt crop grain rot china japan vietnam philippin infect panicl
+hamap_Pectobacterium_carotovorum__(554) rod shape pathogen gramneg caus rot
+hamap_Pectobacterium_atrosepticum__(29471) pathogen nonpathogen commerci pathogen temper caus blackleg rot
+PMCArticles_Pectobacterium_atrosepticum_21A__(29471) uniqu
+PMCArticles_Pectobacterium_SCC3193__(1166016) caus rot blackleg econom crop
+hamap_Pectobacterium_SCC3193__(1166016) caus rot blackleg econom crop stem finnish
+hamap_Microbacterium_testaceum__(2033) endophyt resid caus degrad short lacton gramneg
+hamap_Pantoea_ananatis__(553) pathogen caus sever food crop
+wikipedia_Pectobacterium_atrosepticum__(29471) pathogen caus blackleg
+hamap_Dickeya_dadantii_Ech703__(204038) anaerob phytopathogen caus rot crop rot wilt
+
+TOPIC 74 ; WORDS: bioaugment wastewat wast degrad biodegrad treatment carbon metabol max averag
+wikipedia_Comamonas_testosteroni__(285) gramneg soil bioaugment industri byproduct
+wikipedia_Lactobacillus_delbrueckii__(1584) max lent ferment industri
+pubmedSearch_Methanosaeta_concilii__(2223) methan methan acet sulfat reduc ethanol reserv
+PMCArticles_Acinetobacter_oleivorans__(1148157) ubiquit soil aquat sediment pathogen capabl degrad varieti pollut
+pubmedSearch_Desulfobacca_acetoxidans__(60893) probe consortium sulfidogen reactor
+pubmedSearch_Methanosaeta_thermophila__(2224) acclimat band oper band fade transit
+wikipedia_Candidatus Carsonella ruddii__(114186) endosymbiot smallest characteris endosymbiosi endosymbiosi
+PMCArticles_Rhodococcus_pyridinivorans__(103816) bioaugment degrad bioaugment treatment wastewat
+pubmedSearch_Ethanoligenens_harbinense__(253239) effici high strength synthet wastewat ethanol ferment hydrogen effici chemic oxygen demand effici reach dark ferment acet solubl dark ferment effluent
+wikipedia_Klebsiella oxytoca__(571) gramneg rodshap slightli melezitos hydroxybutyr
+wikipedia_Kytococcus_sedentarius__(1276) dwell polyketid antibiot opportunist pathogen acid
+pubmedSearch_Candidatus Brocadia anammoxidans__(174632) ammonium nitrit anammox anammox nitrit ethanol methanol
+pubmedSearch_Methanoculleus bourgensis__(83986) recruit ferment highli wet ferment
+pubmedSearch_Microvirgula aerodenitrificans__(57480) 
+wikipedia_Kocuria_rhizophila__(72000) soil dwell industri antimicrobi food smallest
+
+TOPIC 75 ; WORDS: fungal antifung phenazin biocontrol rot chitinas pathogen agricultur crop cyanid
+wikipedia_Bacillus chlororaphis__(587753) soil inocul agricultur biocontrol fungal pathogen phenazin antibiot
+wikipedia_Lactobacillus_buchneri__(1581) gramposit nonspor anaerob rod heterofer lactic acid acet acid ferment biochemistri inocul stabil silag
+wikipedia_Herbaspirillum_seropedicae__(964) endophyt diazotroph nitrogenfix sugar cane pineappl potent
+wikipedia_Streptomyces neyagawaensis__(42238) antibiot isoflavon antifung antibiot
+microbewiki_Pseudomonas_chlororaphis__(587753) biocontrol damp hot seedl greenhous veget reduc elimin caus
+wikipedia_Pseudomonas_putida__(303) gramneg rodshap soil place lend patent patent disput
+PMCArticles_Pseudomonas_brassicacearum_DF41__(930166) gramneg soil suppress fungal pathogen
+wikipedia_Saccharopolyspora_erythraea__(1836) macrolid antibiot erythromycin cytochrom biosynthesi antibiot macrolid
+wikipedia_Rhodococcus_rhodochrous__(1829) soil inocul agricultur rod oxidas neg catalas
+PMCArticles_Pseudomonas_brassicacearum_NFM421__(930166) twostep sanger genoscop circular averag submit
+wikipedia_Paenibacillus_polymyxa__(1406) gramposit capabl nitrogen soil sediment intestin
+wikipedia_Collimonas fungivorans__(158899) antifung
+wikipedia_Bacillus_pumilus__(1408) gramposit sporeform soil spore mutant high stress light exposur desicc
+PMCArticles_Pseudomonas_chlororaphis_PA23__(587753) pacif pipelin contigu
+microbewiki_Collimonas fungivorans__(158899) antifung
+
+TOPIC 76 ; WORDS: tetanu toxin spore botul toxoid neonat muscl neurotoxin wound novyint
+pubmedSearch_Clostridium_tetani__(1513) tetanu lockjaw caus toxin usual transmit contamin wound tetanu healthi yearold woman trauma tetanu vaccin immunoglobulin
+hamap_Bacillus_licheniformis__(1402) gramposit sporeform soil industri antibiot consum
+pubmedSearch_Clostridium_botulinum__(1491) sever avian botul caus place dam reservoir
+microbewiki_Clostridium_tetani__(1513) sporeform caus tetanu foster ubiquit soil fecal cook survei
+microbewiki_Clostridium_septicum__(1504) highli pathogen varieti toxin toxin toxin potent toxin nontraumat gangren gangren lifethreaten destruct edema
+microbewiki_Clostridium_botulinum__(1491) rodshap soil effici lowoxygen
+hamap_Clostridium_tetani__(1513) anaerob sporeform soil intestin caus tetanu centuri
+hamap_Clostridium_perfringens__(1502) rodshap gramposit anaerob spore intestin feral spore soil sediment fecal
+microbewiki_Clostridium_novyi__(1542) pathogen anaerob absenc air free oxygen oxygen lethal toxin pathogen reput soil manur
+microbewiki_Lysinibacillus_sphaericus_C3-41__(1421) soil gramposit mesophil rodshap harsh dormant endospor heat chemic ultraviolet light spore viabl
+microbewiki_Myxococcus_xanthus__(34) soil hunt swarm soil prei pack releas nutrient metabol
+microbewiki_Clostridium_tetani_1__(1513) rodshap shape stain sporul anaerob ferment anaerob toler oxygen tetanu spore wound germin move flagella flagella peritrich flagella assort soil
+microbewiki_Clostridium_acetobutylicum__(1488) gramposit soil dwell mesophil optim saccharolyt break sugar
+microbewiki_Bacillus_anthracis__(1392) gramposit rodshap soil mesophil anaerob anaerob essenti nutrient carbon
+microbewiki_Clostridium_botulinum_1__(1491) gramposit rod shape anaerob neurotoxin paralyz junction toxin toxin toxin toxin toxin sporul endospor dormant sever contamin food favor anaerob
+
+TOPIC 77 ; WORDS: subsurfac geochem deep aquif depth sulfat sulfatereduc bioremedi groundwat metal
+pubmedSearch_Thermoanaerobacter kivui__(2325) probe probe
+PMCArticles_Rhodanobacter_denitrificans__(666685) contamin terrestri subsurfac denitrifi nitratereduc sewag sludg capabl denitrif
+microbewiki_Candidatus_desulforudis_audaxviator__(471827) journei latin bold subterranean team south gold depth deep gold groundwat exce anox sever nutrient defici rod shape gramposit motil sporul sulfat
+pubmedSearch_Rahnella_Y9602__(741091) hazard emiss subsurfac emiss pet manner sensit situ subsurfac soil pet subsurfac uranium contamin soil uranium phosphat precipit soil column pack
+PMCArticles_Rahnella_Y9602__(741091) contamin subsurfac soil capabl uranium phosphat miner phosphatas
+microbewiki_Oceanobacillus_iheyensis__(182710) circular japan
+pubmedSearch_Rhodanobacter denitrificans__(666685) contamin aquif ocean atmospher florida
+pubmedSearch_Geobacter_lovleyi__(313985) unusu edward fe georgia drive
+pubmedSearch_Geobacter_bemidjiensis__(225194) extracellular metal respir fuel
+pubmedSearch_Nitratiruptor_SB155_2__(387092) extremophil deepsea vent coevolut subsurfac advanc sugar team japan kanagawa japan predomin deepsea hydrotherm vent ecosystem infect deepsea vent
+pubmedSearch_Sulfurovum_NBC37_1__(387093) hydrogenoxid chemolithoautotroph deepsea hydrotherm vent chimnei emend fisheri hokkaido japan manag hokkaido japan fisheri hokkaido japan subsurfac
+microbewiki_Desulfonatronovibrio_hydrogenovorans__(53245) welladapt alkaliphil sulfatereduc capabl high salin alkalin salin soda lake lithoheterotroph
+PMCArticles_Desulfovibrio_aespoeensis__(182210) mesophil hydrogenotroph sulfatereduc subsurfac aquif rock island southeastern bacter
+microbewiki_Bacillus_infernus__(38072) thermophil halotoler slightli alkaliphil denot optim
+pubmedSearch_Sulfuricurvum_kujiense__(148813) capabl reduc crude oil geochem reservoir depth oil transit oil sand biodegrad
+
+TOPIC 78 ; WORDS: ehrlichiosi monocyt granulocyt macrophag anaplasmosi transmit pathogen whitetail replic fatigu
+hamap_Ehrlichia_chaffeensis__(945) vectorborn pathogen caus ehrlichiosi depend hematophag reservoir lone star whitetail
+microbewiki_Rickettsia_conorii__(781) gramneg highli sever
+microbewiki_Mycobacterium tuberculosis__(1773) acid fast dye peptidoglycan acid fast
+wikipedia_Ehrlichia_canis__(944) caus ehrlichiosi canin pathogen promin southern south america asia
+wikipedia_Ehrlichia_chaffeensis__(945) gramneg zoonot pathogen transmit lone star caus monocyt ehrlichiosi
+microbewiki_Mycoplasma_capricolum__(2095) gramposit lung pleural fluid cholesterol
+wikipedia_Neorickettsia_sennetsu__(951) gramneg caus ehrlichiosi
+microbewiki_Rickettsia_rickettsii__(783) rodshap caus rocki mountain rmsf transmit bite period contamin cut skin wound fece
+hamap_Anaplasma_phagocytophilum__(948) vectorborn pathogen caus ehrlichiosi depend hematophag reservoir transmit caus granulocyt
+microbewiki_Neorickettsia_sennetsu__(951) infecti japan infect eat improperli cook raw accord invad
+microbewiki_Ehrlichia_canis__(944) rod shape gramneg transmit dog sanguineu resid microcoloni vacuol monocyt macrophag
+microbewiki_Borrelia_afzelii__(29518) caus distinct skin infect diagnos skin infect follow inflammatori
+hamap_Neorickettsia_sennetsu__(951) vectorborn pathogen caus ehrlichiosi reservoir caus ehrlichiosi infecti fe
+microbewiki_Anaplasma_phagocytophilum__(948) gramneg micromet diamet pathogen replic vacuol microcoloni antigen
+microbewiki_Ehrlichia_chaffeensis__(945) bare skin expos infect southern
+
+TOPIC 79 ; WORDS: prei predatori predat attack flagellum feed bdelloplast chemotaxi island motil
+wikipedia_Bdellovibrio_bacteriovorus__(959) move separ cycl parasit
+wikipedia_Deinococcus_geothermalis__(68909) orangepig coloni optimum radiationresist space mission launch
+microbewiki_Bdellovibrio_bacteriovorus__(959) curv highli motil gramneg soil sewag aquat
+PMCArticles_Bdellovibrio_bacteriovorus_Tiberius__(959) synten aquat
+wikipedia_Myxococcus_xanthus__(34) gramneg rodshap predatori saprophyt swarm coloni coloni sever behavior
+PMCArticles_Micavibrio_aeruginosavorus_EPB__(349221) lytic prei attack elimin remnant
+PMCArticles_Micavibrio_aeruginosavorus_ARL_13__(349221) predat plai predat divers predatori
+PMCArticles_Bacteriovorax_marinus__(97084) terrestri predatori deltaproteobacterium terrestri predatori
+microbewiki_Saprospira_grandis__(1008) gramneg multicellular motil swim glide uniqu carotenoid
+wikipedia_Micavibrio aeruginosavorus__(349221) predatori invad periplasm space prei feed predatori
+pubmedSearch_Bdellovibrio_bacteriovorus__(959) switch intrins disord chicago chicago america
+pubmedSearch_Micavibrio aeruginosavorus__(349221) predat predat plai
+PMCArticles_Bdellovibrio_bacteriovorus_HD100__(959) predatori gramneg invad consum gramneg prei plethora paralog tran
+PMCArticles_Candidatus_Midichloria_mitochondrii__(234827) diverg uniqu flagellar cytochrom oxidas
+wikipedia_Streptomyces cattleya__(29303) gramposit cephamycin penicillin thienamycin biosynthesi antibacteri
+
+TOPIC 80 ; WORDS: japan paddi anox gramneg rod mesophil bog agricultur denitrif reclassifi
+hamap_Pseudomonas_fulva__(47880) paddi japan
+hamap_Frateuria_aurantia__(81475) gramneg japan
+hamap_Pseudomonas_stutzeri__(316) diazotroph gramneg rhizospher cultivar varieti occupi divers opportunist
+hamap_Gluconacetobacter_medellinensis__(1177712) gramneg vinegar japan
+microbewiki_Paludibacter_propionicigenes__(185300) anox ricefield soil japan propionateproduc anaerob gramneg nonmotil rod coloni agar
+wikipedia_Advenella kashmirensis__(310575) chemolithotroph mesophil neutrophil soil temper orchard kashmir reclassifi
+hamap_Opitutus_terrae__(107709) divers terrestri aquat paddi soil peat bog soil anox terrestri
+hamap_Pseudogulbenkiania_NH8B__(748280) denitrif respiratori nitrat nitrit reduc gaseou soil emiss crop denitrif
+wikipedia_Pseudomonas_fulva__(47880) gramneg grain paddi rodshap motil polar place
+hamap_Thermus_thermophilus__(274) thermophil halotoler japan optim
+wikipedia_Opitutus_terrae__(107709) anaerob paddi soil epithet coccusshap motil flagellum
+hamap_Pseudomonas_stutzeri_A1501__(316) inocul paddi china wildtyp
+hamap_Methanocella_paludicola__(570267) mesophil hydrogenotroph anaerob propionatedegrad paddi soil abund ubiquit
+pubmedSearch_Pseudogulbenkiania NH8B__(748280) denitrifi engin hokkaido hokkaido japan agricultur strong denitrif
+wikipedia_Methanocella_paludicola__(570267) methaneproduc paddi soil mesophil hydrogenotroph
+
+TOPIC 81 ; WORDS: lactic chees food ferment milk probiot starter beer bacteriocin spoilag
+microbewiki_Lactobacillus_brevis__(1580) lactic acid gramposit spore metabol ferment hexos sugar lactic acid lactic acid todai
+microbewiki_Brevibacterium_linens__(1703) soil uniqu skin caus foot odor uniqu chees chees
+microbewiki_Pediococcus_pentosaceus__(1255) industri starter ferment food meat veget chees antimicrobi bacteriocin
+PMCArticles_Lactobacillus_helveticus_CNRZ32__(1587) lactic acid chees bioactiv peptid milk reduc bitter
+microbewiki_Lactobacillus_casei__(1582) mesophil rod shape nonspor nonmotil anaerob cytochrom raw ferment
+pubmedSearch_Pediococcus claussenii__(187452) transcriptom breweri beer medicin canada lactic acid beer spoil
+microbewiki_Lactobacillus_delbrueckii__(1584) nonpathogen food industri yogurt milk veget chees dairi industri starter
+PMCArticles_Lactobacillus_helveticus_H10__(1587) tradit ferment milk china
+PMCArticles_Corynebacterium_variabile__(1727) chees chees ripen flavor microflora chees
+PMCArticles_Lactobacillus_helveticus_DPC_4571__(1587) gut lactobacilli dairi lactobacilli kei
+microbewiki_Lactobacillus_acidophilus__(1579) commerci probiot health probiot adequ health benefit
+PMCArticles_Arthrobacter_arilaitensis__(256701) chees
+microbewiki_Pediococcus damnosus__(51663) ferment food gramposit anaerob metabol sugar carbohydr ferment short
+microbewiki_Streptococcus_thermophilus__(1308) essenti lactic acid commerci purpos milk chees dairi thermophil gramposit optim capabl
+PMCArticles_Lactobacillus_helveticus_R0052__(1587) commerci probiot commerci probiot uniqu
+
+TOPIC 82 ; WORDS: meat raw ferment fresh food sausag bacteriocin staphylococc lactic nutrient
+PMCArticles_Rahnella_aquatilis_CIP_\=_ATCC_33071__(34038) drink drink soil freshwat food nutrient food bioremedi illumina illumina titanium contig titanium illumina illumina high follow illumina error contig
+wikipedia_Staphylococcus_carnosus__(1281) coagulaseneg highest staphylococc
+PMCArticles_Streptococcus_macedonicus__(59310) food ferment dairi ferment greek
+microbewiki_Listeria_monocytogenes__(1639) listeriosi overt sever mortal
+microbewiki_Listeria_innocua__(1642) soil food surviv high salt rodshap gramposit
+PMCArticles_Lactobacillus_sakei__(1599) lactic acid fresh meat ferment meat biopreserv food circular
+microbewiki_Lactobacillus_sakei__(1599) gramposit anaerob fresh meat valuabl ferment meat preserv storag fresh meat predomin
+PMCArticles_Zymomonas_mobilis_ATCC_10988__(542) taxon rigor ethanolproduc ferment mexico
+wikipedia_Ornithobacterium rhinotracheale__(28251) spread vertic zoonosi germ sign
+microbewiki_Lactobacillus_gasseri__(1596) anaerob gramposit fall lactic acid rod shape nonsporeform typic gastrointestin tract ferment
+wikipedia_Leuconostoc_gasicomitatum__(1244) meat
+wikipedia_Leuconostoc carnosum__(1252) meat
+PMCArticles_Rahnella_aquatilis_HX2__(34038) 
+wikipedia_Lactobacillus_sakei__(1599) heterofer place alcohol lactic acid sugar biochemistri bacteriocin
+microbewiki_Pediococcus_pentosaceus__(1255) industri starter ferment food meat veget chees antimicrobi bacteriocin
+
+TOPIC 83 ; WORDS: heterocyst fixat veget aquat carbon toxic motil dioxid high capabl
+hamap_Nostoc_PCC_7120__(103690) heterocyst metabol highli fixat dinitrogen nitrogen defici heterocyst veget
+PMCArticles_Nostoc_PCC_7120__(103690) 
+hamap_Candidatus_Amoebophilus_asiaticus__(281120) highli divers
+hamap_Chlamydophila_psittaci__(83554) pathogen psittacosi gramneg infect avian cattl goat
+hamap_Serratia_proteamaculans__(28151) endophyt oligosaccharid
+hamap_Halanaerobium_hydrogeniformans__(656519) anaerob salt lake utah divers salin oil interfac hypersalin sediment
+hamap_Bacillus_atrophaeus__(1452) decad spore surviv motil highli pathogen
+hamap_Helicobacter_acinonychis__(212) caus sever gastriti cheetah aros
+hamap_Opitutus_terrae__(107709) divers terrestri aquat paddi soil peat bog soil anox terrestri
+hamap_Methanosphaerula_palustris__(475088) anaerob rich wetland york highli sensit soil
+hamap_Pelobacter_carbinolicus__(19) gramneg deltaproteobacterium intertwin sever
+hamap_Mycoplasma_capricolum__(2095) pathogen goat cow goat highli destruct caus mortal morbid sever arthriti polyarthr parenter
+microbewiki_Anabaena_variabilis__(1172) bluegreen photosynthesi nitrogen hydrogen hydrogen sun popular labor
+hamap_Rhodopseudomonas_palustris__(1076) soil carbon dioxid nitrogen hydrogen degrad divers aromat anaerob heterotroph
+hamap_Chlamydophila_pecorum__(85991) polyarthr urogenit tract infect conjunct mastiti encephalomyel pleuriti pericard caus conjunct infertil pneumon
+
+TOPIC 84 ; WORDS: nonpathogen blight fire shoot motil synthesi commerci devast biocontrol antagonist
+PMCArticles_Erwinia_tasmaniensis__(338565) circular epiphyt fire blight asian shoot
+hamap_Erwinia_Ejp617__(215689) pathogen nonpathogen japan caus shoot blight highli fire blight caus
+hamap_Pantoea_vagans__(470934) gramneg enterobacteri epiphyt jonathan biocontrol regist canada blight commerci
+hamap_Corynebacterium_variabile__(1727) nonpathogen chees salttoler nacl valu chees appenzel limburg munster
+hamap_Bartonella_australis__(388640) nonpathogen eastern grei kangaroo australia earliest diverg
+hamap_Corynebacterium_efficiens__(152794) soil veget
+hamap_Treponema_succinifaciens__(167) nonpathogen anaerob
+microbewiki_Bacillus_amyloliquefaciens__(1390) soil separ commerci
+hamap_Pectobacterium_atrosepticum__(29471) pathogen nonpathogen commerci pathogen temper caus blackleg rot
+hamap_Listeria_seeligeri_serovar_1_2b__(1640) gramposit motil anaerob nonpathogen soil
+hamap_Erwinia_billingiae__(182337) epiphyt epiphyt antagonist fire blight devast
+PMCArticles_Erwinia_Ejp617__(215689) pathogen caus shoot blight japan japan valuabl
+hamap_Erwinia_tasmaniensis__(338565) pathogen nonpathogen nonpathogen australia circular
+hamap_Bartonella_vinsonii_berkhoffii__(33047) nonpathogen dog dog household infect blood
+hamap_Listeria_welshimeri_serovar_6b__(1643) gramposit motil anaerob nonpathogen pathogen decai
+
+TOPIC 85 ; WORDS: virul pathogen highli econom motil rearrang uniqu immun t3ss freeliv
+wikipedia_Borrelia_bissettii__(64897) pathogen borreliosi
+hamap_Erwinia_pyrifoliae__(79967) newli pathogen caus fire blight asian eastern asia caus fire blight essenti indistinguish infect shoot
+hamap_Erwinia_pyrifoliae_Ep1_96__(79967) pathogen asian korea pathogen pathogen
+wikipedia_Lawsonia_intracellularis__(29546) intestin prolif enteropathi pathogen pathogen highli pathogen
+wikipedia_Rickettsia_massiliae__(35791) tickborn pathogen
+hamap_Burkholderia_gladioli__(28095) opportunist pathogen pathogen cystic fibrosi patient sheath south korea
+hamap_Acidovorax_avenae__(80867) pathogen pathogen corn pathogen
+wikipedia_Pectobacterium_atrosepticum__(29471) pathogen caus blackleg
+hamap_Erwinia_billingiae__(182337) epiphyt epiphyt antagonist fire blight devast
+hamap_Listeria_innocua_serovar_6a__(1642) gramposit motil anaerob pathogen
+hamap_Burkholderia_thailandensis__(57975) thailand soil saprophyt pathogen virul
+hamap_Wolinella_succinogenes__(844) bovin rumen pathogen virul
+hamap_Francisella_noatunensis_orientalis__(657445) nonmotil rodshap gramneg pathogen uncertain pathogen
+microbewiki_Desulfomonile_tiedjei_1__(2358) circular symbiosi biogeochem virul patient
+microbewiki_Desulfomonile_tiedjei__(2358) anaerob capabl autotroph sulfat thiosulf acceptor pyruv sulfat benzoat sulfat
+
+TOPIC 86 ; WORDS: denitrif nitrat nitrit reductas nitrou nitric subsurfac monophosph ribulos seawat
+PMCArticles_Rhodanobacter_denitrificans__(666685) contamin terrestri subsurfac denitrifi nitratereduc sewag sludg capabl denitrif
+microbewiki_Rhodanobacter_denitrificans__(666685) yellowpig gramneg nonsporul motil slowgrow anaerob rodshap denitrif denitrif
+microbewiki_Thiomargarita_namibiensis__(90373) pure coloni agar plate thousand gigant appreci abund
+PMCArticles_Methylophaga_frappieri__(754477) denitrif denitrifi
+microbewiki_Sulfurimonas_denitrificans__(39766) larger metabol versatil
+microbewiki_Thioploca_araucae__(40752) sulfuroxid usual bundl sheath largest
+pubmedSearch_Methylophaga frappieri__(754477) denitrif seawat
+PMCArticles_Methylophaga_nitratireducenticrescens__(754476) denitrif denitrifi
+microbewiki_Shewanella_denitrificans__(192073) vigor denitrifi nitrat nitrit gaseou nitrogen denitrifi uniqu denitrif
+microbewiki_Anaeromyxobacter_dehalogenans__(161493) slender gramneg rodshap sporeform soil capabl glide motil sporelik capabl anaerob respir
+PMCArticles_Hyphomicrobium_denitrificans_1NES1__(53399) denitrifi nitrat uraniumcontamin subsurfac ridg
+pubmedSearch_Methylophaga nitratireducenticrescens__(754476) denitrif seawat
+microbewiki_Chlorobium_chlorochromatii__(337090) symbiot usual fresh lake lowtemperatur anaerob aquat sulfid light colorless rod shape
+microbewiki_Thiobacillus_denitrificans__(36861) short rodshap gramneg chemolithoautotroph chemolithotroph sulfuroxid strict
+pubmedSearch_Pseudogulbenkiania NH8B__(748280) denitrifi engin hokkaido hokkaido japan agricultur strong denitrif
+
+TOPIC 87 ; WORDS: cellulos cellulosom cellulolyt xylan cellulas biomass ferment degrad biofuel crystallin
+PMCArticles_Cellulosilyticum_lentocellum__(29360) anaerob endosporeform estuarin sediment river receiv
+PMCArticles_Gluconacetobacter_medellinensis_NBRC_3288__(1177712) industri cellulos clarifi
+pubmedSearch_Clostridium_cellulovorans__(1493) corn cocultur butanol industri commod gasolin ethanol renew attent solvent aceton butanol ethanol renew
+PMCArticles_Ruminiclostridium_thermocellum_DSM_1313__(1515) thermophil anaerob highest cellulos hydrolysi suit divers
+PMCArticles_Ruminococcus_albus__(1264) highli cellulolyt rumin rumen cellulosom biofuel
+PMCArticles_Lacinutrix_5H_3_7_4__(983544) subseafloor sediment artifici seawat cellulos xylan chitin carbon
+PMCArticles_Caldicellulosiruptor_hydrothermalis__(413888) thermophil
+PMCArticles_Spirochaeta_thermophila_DSM_6192__(154) thermophil freeliv anaerob degrad sugar polym cellulos
+PMCArticles_Glaciecola_4H_3_7+YE_5__(983545) subseafloor sediment japan capabl effici hydrolyz cellulos xylan sever glycosid
+PMCArticles_Caldicellulosiruptor_owensensis__(55205) thermophil cellulolyt
+microbewiki_Clostridium_cellulovorans__(1493) pathogen
+pubmedSearch_Clostridium_lentocellum__(29360) 
+PMCArticles_Caldicellulosiruptor_bescii__(31899) anaerob optim varieti polysaccharid crystallin cellulos untreat biomass biomass
+PMCArticles_Dokdonia_4H_3_7_5__(983548) subseafloor sediment artifici seawat cellulos xylan chitin carbon
+pubmedSearch_Cytophaga_hutchinsonii__(985) kei china kei
+
+TOPIC 88 ; WORDS: psychrophil cold sediment inhabit irregular nonmotil ocean permafrost antarct diamet
+wikipedia_Glaciecola nitratireducens__(300231) psychrophil gramneg rodshap motil
+pubmedSearch_Methanogenium frigidum__(62970) 
+microbewiki_Pseudoalteromonas_haloplanktis__(228) curv rod shape psychrophil reclassifi assai
+wikipedia_Psychroflexus torquis__(57029) psychrophil synthes polyunsatur fatti acid eicosapentaeno acid arachidon acid
+wikipedia_Psychrobacter luti__(198481) antarct psychrophil oxidaseposit halotoler gramneg nonmotil coccobacillu
+microbewiki_Limnohabitans_planktonicus__(540060) kei freshwat abund neutral aquat high
+wikipedia_Cenarchaeum_symbiosum__(46770) newli psychrophil inhabit
+pubmedSearch_Psychrobacter luti__(198481) sever antarct psychrophil
+microbewiki_Psychromonas_ingrahamii__(357794) gramneg rodshap nonmotil respiratori ferment metabol moder salt salt
+microbewiki_Cenarchaeum_symbiosum__(46770) inhabit temper cost barbara symbiosi
+wikipedia_Methanogenium frigidum__(62970) psychrophil lake psychrophil irregular slightli nonmotil diamet
+pubmedSearch_Psychroflexus torquis__(57029) psychrophil ecosystem food agricultur australia highli
+pubmedSearch_Psychromonas_ingrahamii__(357794) driven phosphat psychrophil serin hydroxymethyltransferas itali serin hydroxymethyltransferas phosphat
+wikipedia_Shewanella_sediminis__(271097) hexahydro1 sediment psychrophil rodshap
+wikipedia_Polaromonas vacuolata__(37448) psychrophil coloni
+
+TOPIC 89 ; WORDS: subord stalk mother swarmer high averag highli secondari shed appendag
+wikipedia_Mycobacterium chubuense__(1800) gramposit high guanin cytosin
+wikipedia_Actinobacillus_succinogenes__(67854) succin acidproduc bovin rumen anaerob pleomorph gramneg rod
+wikipedia_Corynebacterium_efficiens__(152794) glutam acidproduc dextrin soil veget
+PMCArticles_Corallococcus_coralloides__(184914) culmin distinct
+wikipedia_Nocardia_farcinica__(37329) pathogen caus
+wikipedia_Mycobacterium intracellulare__(1767) gramposit high guanin cytosin pathogenesi
+wikipedia_Kineococcus_radiotolerans__(131568) radiationresist motil coccusshap gramposit
+wikipedia_Microbacterium hatanonis__(404366) hair sprai
+wikipedia_Mycobacterium_gilvum__(1804) gramposit high guanin cytosin latin pale pathogenesi
+wikipedia_Nocardia asteroides__(1824) caus nocardiosi sever pulmonari infect immunocompromis
+microbewiki_Mariprofundus_ferrooxydans__(314344) ironoxid motil neg exud stalk excret iron hydrotherm vent
+wikipedia_Nocardia brasiliensis__(37326) high guanin cytosin caus nocardiosi
+wikipedia_Rhodococcus_opacus__(37919) moder chemolithotroph
+wikipedia_Haliangium_ochraceum__(80816) moder sever sessil dens pack
+PMCArticles_Myxococcus_stipitatus__(83455) starvat synthesi secondari metabolit highli distinct
+
+TOPIC 90 ; WORDS: hypha gramposit aerial antibiot spore antifung fungal biocontrol nocardiosi antibacteri
+wikipedia_Streptomyces_coelicolor__(1902) soildwel gramposit usag
+wikipedia_Streptomyces venezuelae__(54571) soildwel gramposit hypha perfus ground aerial hypha soil
+hamap_Geodermatophilus_obscurus__(1861) gramposit desert soil rock monument caus damag
+wikipedia_Saccharopolyspora spinosa__(60894) sugar mill pale yellowish aerial hypha spore encas spore sheath
+wikipedia_Streptomyces neyagawaensis__(42238) antibiot isoflavon antifung antibiot
+hamap_Halobacteroides_halobius__(42422) anaerob gramposit dead sediment israel gold
+hamap_Leifsonia_xyli__(1575) gramposit caus ratoon stunt
+hamap_Beutenbergia_cavernae__(84757) microaerophil gramposit cave soil china nonmotil nonspor
+hamap_Tropheryma_whipplei__(2039) gramposit soil dwell caus whippl multisystem disord intestin tract
+hamap_Listeria_seeligeri_serovar_1_2b__(1640) gramposit motil anaerob nonpathogen soil
+hamap_Listeria_innocua_serovar_6a__(1642) gramposit motil anaerob pathogen
+hamap_Propionibacterium_propionicum__(1750) gramposit
+wikipedia_Bacillus_weihenstephanensis__(86662) soildwel gramposit rodshap hemolyt psychrotoler
+hamap_Thermobispora_bispora__(2006) thermophil gramposit decai manur optimum
+hamap_Solibacillus_silvestris__(76853) rodshap peritrich flagel gramposit
+
+TOPIC 91 ; WORDS: relaps tickborn lous transmit epidem recurr zoonot infect patient endem
+wikipedia_Borrelia duttoni__(40834) relaps
+hamap_Borrelia_hermsii__(140) forest colorado oregon idaho washington
+hamap_Borrelia_turicatae__(142) pathogen dog florida evad mammalian immun
+pubmedSearch_Borrelia_duttonii__(40834) averag ident
+wikipedia_Borrelia crocidurae__(29520) bergei
+PMCArticles_Rickettsia_prowazekii_Madrid_E__(782) parasit caus epidem mitochondri
+PMCArticles_Borrelia_crocidurae__(29520) 
+hamap_Borrelia_crocidurae__(29520) 
+PMCArticles_Rickettsia_prowazekii_Breinl__(782) pathogen epidem
+PMCArticles_Candidatus_Riesia_pediculicola__(401619) lous smallest parasit basal
+wikipedia_Borrelia_recurrentis__(44449) relaps usual transmit lous lous
+PMCArticles_Rickettsia_prowazekii_Rp22__(782) poli
+wikipedia_Borrelia_hermsii__(140) relaps infect
+hamap_Borrelia_duttonii__(40834) endem western caus caus relaps mortal advers perinat yearold girl tanzania caus
+hamap_Borrelia_recurrentis__(44449) transmit lous ethiopia endem tickborn relaps zoonot transmit caus distinct
+
+TOPIC 92 ; WORDS: spring hot arsen optim arsenit cellulolyt chemolithoautotroph acidophil iceland slightli
+hamap_Sphaerobacter_thermophilus__(2057) thermophil gramposit thermophil sewag sludg
+pubmedSearch_Thiomonas arsenitoxydans__(426114) arsen arsenit oxidas operon
+wikipedia_Thermoanaerobacter_mathranii__(583357) thermophil anaerob sporeform iceland hot spring optim stain gramvari
+hamap_Methanococcus_vannielii__(2187) mud flat tend thermophil
+wikipedia_Caldicellulosiruptor_saccharolyticus__(44001) thermophil anaerob cellulolyt piec float freshwat spring zealand tent
+wikipedia_Hydrogenobacter_thermophilus__(940) chemolithoautotroph thermophil hydrogenoxid optim hot spring
+hamap_Meiothermus_ruber__(277) thermophil gramposit hot spring
+hamap_Dictyoglomus_thermophilum__(14) gramneg anaerob thermophil slightli alkalin hot spring hot spring prefectur japan optimum
+hamap_Thermodesulfobacterium_geofontis__(1295609) anaerob thermophil gramneg hot spring yellowston gold
+hamap_Thermoanaerobacter_mathranii__(583357) anaerob thermophil gramposit hot spring iceland optimum
+wikipedia_Thermoanaerobacter_italicus__(108150) hot spring north itali optim stain gramneg gramposit
+hamap_Acidothermus_cellulolyticus__(28049) moder thermophil cellulolyt acid hot spring northern yellowston wyom
+hamap_Acidimicrobium_ferrooxidans__(53635) moder thermophil acidophil gramposit hot spring runoff iceland ferrou iron ferric iron optim
+wikipedia_Picrophilus_torridus__(82076) soil hot spring hokkaido japan soil
+pubmedSearch_Alkalilimnicola_ehrlichii__(351052) arsenit oxidas haloalkaliphil operon strongli
+
+TOPIC 93 ; WORDS: periodont gingiv bone dental plaqu patient subgingiv pathogen resorpt diabet
+pubmedSearch_Treponema_denticola__(158) mutant defect antigen dentistri japan gramneg
+hamap_Brucella_melitensis_biotype_2__(29459) blood bone marrow
+hamap_Aggregatibacter_actinomycetemcomitans_serotype_C__(714) gramneg aggress periodont typic resid caviti caus etiolog
+microbewiki_Treponema_denticola__(158) gramneg motil slender helic shape flexibl periplasm flagella proton motiv forc caus rotat flagellum wound
+hamap_Corynebacterium_aurimucosum_ATCC_700975__(169292) healthi femal urogenit tract blood infect bone
+microbewiki_Actinomyces_naeslundii__(1655) gramposit rodshap nonsporeform nonacidfast anaerob caviti nonmotil gramposit
+pubmedSearch_Aggregatibacter_actinomycetemcomitans__(714) evapor bone marrow high glucos chosen mimic diabet periodont western blot periodont
+hamap_Brucella_melitensis__(29459) pathogen caus goat undul transmit consumpt nonpasteur milk milk infect carcass
+microbewiki_Actinobacillus_actinomycetemcomitans__(714) periodont stai periodont pocket caviti damag tooth neg
+microbewiki_Mitsuokella dentalis__(52227) gramneg rod nonmotil nonsporeform anaerob blood agar blood place liquid
+microbewiki_Tannerella forsythia__(28112) gramneg anaerob reclassifi difficulti pathogen learn overwhelm
+microbewiki_Prevotella_intermedia__(28131) gramneg blackpig periodont pathogen pigment reason rodshap strict anaerob short oxygen exposur
+hamap_Treponema_denticola__(158) caviti periodont inflamm gum preced bone resorpt tooth
+pubmedSearch_Odoribacter splanchnicus__(28118) sig
+hamap_Arcanobacterium_haemolyticum__(28264) patient suffer sore throat parasit pharynx farm caus ill pharyng
+
+TOPIC 94 ; WORDS: halotoler salt mesophil pictur iran wetland industri suspend matur island
+microbewiki_Lactococcus_lactis__(1358) sphericalshap gramposit industri ferment dairi milk chees yogurt food suppli peopl metabol
+PMCArticles_Ruegeria_pomeroyi__(89184) essenti ocean food catalyst biogeochem heterotroph
+PMCArticles_Myxococcus_fulvus__(33) halotoler social behavior seawat adopt ocean
+microbewiki_Streptococcus_thermophilus__(1308) essenti lactic acid commerci purpos milk chees dairi thermophil gramposit optim capabl
+PMCArticles_Synechococcus_CC9311__(64471) coastal coastal aquat typic highli ocean
+PMCArticles_Oceanobacillus_iheyensis__(182710) iheya ridg unexpect capabl alkaliphil halotoler deepsea sediment
+PMCArticles_Thermus_thermophilus_JL_18__(274) circular megaplasmid nitrat nitrou
+PMCArticles_Oceanimonas_GK1__(511062) halotoler circular
+microbewiki_Microbacterium_hatanonis__(404366) gramposit rodshap multipl brand evolutionarili distinct
+pubmedSearch_Psychrobacter luti__(198481) sever antarct psychrophil
+PMCArticles_Glaciecola_nitratireducens__(300231) seawat
+microbewiki_Brevibacterium_linens__(1703) soil uniqu skin caus foot odor uniqu chees chees
+PMCArticles_Thermus_thermophilus_HB27__(274) thermophil halotoler japan thermost
+pubmedSearch_Oceanimonas GK1__(511062) wetland iran iran circular
+PMCArticles_Pelagibacterium_halotolerans__(531813) halotoler seawat east china
+
+TOPIC 95 ; WORDS: gut diet glycan obes reduc patient dietari vitamin ecosystem nutrient
+PMCArticles_Zobellia_galactanivorans__(63186) algin lyas strongli algin carbon
+hamap_Wigglesworthia_glossinidia_brevipalpis__(51229) gut bloodsuck symbiosi synthesi vitamin vitamin steril
+microbewiki_Methanobrevibacter_Smithii__(2173) anaerob healthi adult gut ecosystem gut obes lean
+hamap_Eubacterium_eligens__(39485) gut
+hamap_Bacteroides_vulgatus__(821) gut gut
+hamap_Bacteroides_thetaiotaomicron__(818) gramneg anaerob intestin
+hamap_Bifidobacterium_adolescentis__(1680) gut
+wikipedia_Treponema primitia__(88058) gut
+wikipedia_Treponema azotonutricium__(150829) gut
+wikipedia_Methanobrevibacter_smithii__(2173) predomin gut plai effici polysaccharid sugar consum ferment singlecel
+hamap_Parabacteroides_distasonis__(823) gut gut
+pubmedSearch_Treponema_azotonutricium__(150829) acetogen hydrogenproduc free intermedi breakdown gut reach exceed
+PMCArticles_Pseudomonas_mendocina_NK_01__(300) synthes polyhydroxyalkano algin oligosaccharid simultan glucos nitrogen
+hamap_Nocardiopsis_alba__(53437) gramposit gut healthi inhibitori indigen pathogen
+hamap_Bifidobacterium_asteroides__(1684) gut believ anaerob compart gut strict anaerob microaerophil metabol
+
+TOPIC 96 ; WORDS: gramposit motil sporeform whippl multisystem rodshap disord antibiot peritrich high
+PMCArticles_Tropheryma_whipplei_TW08_27__(2039) whippl multisystem chronic infect intestin tract caus gramposit
+hamap_Deinococcus_radiodurans__(1299) gramposit redpig nonmotil ioniz radiat hydrogen peroxid radiationresist
+hamap_Geodermatophilus_obscurus__(1861) gramposit desert soil rock monument caus damag
+hamap_Deinococcus_proteolyticus__(55148) nonmotil gramposit spheric coloni mrad radiat
+wikipedia_Desulfitobacterium_hafniense__(49338) anaerob sporeform capabl dechlorin chlorophenol rodshap
+PMCArticles_Tropheryma_whipplei_Twist__(2039) twist pathogen reduc pathogen reduc high gramposit circular
+wikipedia_Desulfitobacterium dehalogenans__(36854) dechlorin chlorophenol anaerob motil gramposit rodshap
+hamap_Leifsonia_xyli__(1575) gramposit caus ratoon stunt
+wikipedia_Thermacetogenium phaeum__(85874) anaerob thermophil syntroph acetateoxid gramposit sporeform rodshap
+hamap_Tropheryma_whipplei__(2039) gramposit soil dwell caus whippl multisystem disord intestin tract
+wikipedia_Clostridium stercorarium__(1510) cellulolyt thermophil anaerob sporeform rodshap
+hamap_Listeria_innocua_serovar_6a__(1642) gramposit motil anaerob pathogen
+wikipedia_Bifidobacterium asteroides__(1684) gramposit rodshap hindgut
+hamap_Propionibacterium_propionicum__(1750) gramposit
+hamap_Solibacillus_silvestris__(76853) rodshap peritrich flagel gramposit
+
+TOPIC 97 ; WORDS: infect patient pathogen virul opportunist antibiot lesion chronic abscess liver
+wikipedia_Borrelia_bissettii__(64897) pathogen borreliosi
+hamap_Erwinia_pyrifoliae__(79967) newli pathogen caus fire blight asian eastern asia caus fire blight essenti indistinguish infect shoot
+hamap_Erwinia_pyrifoliae_Ep1_96__(79967) pathogen asian korea pathogen pathogen
+wikipedia_Staphylococcus_pseudintermedius__(283734) pathogen
+wikipedia_Lawsonia_intracellularis__(29546) intestin prolif enteropathi pathogen pathogen highli pathogen
+wikipedia_Rickettsia_massiliae__(35791) tickborn pathogen
+hamap_Acidovorax_avenae__(80867) pathogen pathogen corn pathogen
+wikipedia_Pectobacterium_atrosepticum__(29471) pathogen caus blackleg
+hamap_Erwinia_billingiae__(182337) epiphyt epiphyt antagonist fire blight devast
+hamap_Listeria_innocua_serovar_6a__(1642) gramposit motil anaerob pathogen
+hamap_Burkholderia_thailandensis__(57975) thailand soil saprophyt pathogen virul
+hamap_Wolinella_succinogenes__(844) bovin rumen pathogen virul
+hamap_Francisella_noatunensis_orientalis__(657445) nonmotil rodshap gramneg pathogen uncertain pathogen
+microbewiki_Desulfomonile_tiedjei_1__(2358) circular symbiosi biogeochem virul patient
+microbewiki_Desulfomonile_tiedjei__(2358) anaerob capabl autotroph sulfat thiosulf acceptor pyruv sulfat benzoat sulfat
+
+TOPIC 98 ; WORDS: thermophil spring hot cellulolyt optimum optim acidophil zealand iceland geotherm
+wikipedia_Legionella nagasakiensis__(535290) gramneg catalaseposit rodshap polar flagella hot spring japan lung
+hamap_Sulfolobus_acidocaldarius__(2285) thermoacidophil crenarchaeon optim terrestri solfatar spring conjug intercellular
+hamap_Desulfurococcus_mucosus__(2275) thermophil anaerob hot solfatar spring iceland high dose ioniz radiat
+wikipedia_Hydrogenobacter_thermophilus__(940) chemolithoautotroph thermophil hydrogenoxid optim hot spring
+hamap_Meiothermus_ruber__(277) thermophil gramposit hot spring
+hamap_Dictyoglomus_thermophilum__(14) gramneg anaerob thermophil slightli alkalin hot spring hot spring prefectur japan optimum
+hamap_Thermodesulfobacterium_geofontis__(1295609) anaerob thermophil gramneg hot spring yellowston gold
+hamap_Thermoanaerobacter_mathranii__(583357) anaerob thermophil gramposit hot spring iceland optimum
+hamap_Hydrogenobaculum_Y04AAS1__(380749) terrestri thermoacidophil chemolithoautotroph obsidian pool yellowston terrestri hot spring optim hydrogen
+wikipedia_Thermoanaerobacter_italicus__(108150) hot spring north itali optim stain gramneg gramposit
+hamap_Caldivirga_maquilingensis__(76887) hyperthermophil rodshap acid hot spring philippin optim optim
+hamap_Acidothermus_cellulolyticus__(28049) moder thermophil cellulolyt acid hot spring northern yellowston wyom
+hamap_Acidimicrobium_ferrooxidans__(53635) moder thermophil acidophil gramposit hot spring runoff iceland ferrou iron ferric iron optim
+wikipedia_Picrophilus_torridus__(82076) soil hot spring hokkaido japan soil
+wikipedia_Tenacibaculum amylolyticum__(104269) coast japan palau
+
+TOPIC 99 ; WORDS: nitrit ammoniaoxid nitrif ammonium nitrat cycl nitrifi chemolithoautotroph carbon ocean
+microbewiki_Nitrobacter_hamburgensis__(912) nitriteoxid capabl metabol nitrogen nitrit soil freshwat
+hamap_Nitrobacter_winogradskyi__(913) soil fresh inorgan nitrit nitrit nitrat
+hamap_Nitrososphaera_gargensis__(497727) outflow pond terrestri hot spring occupi fundament optim
+hamap_Rahnella_Y9602__(741091) anaerob nitrogenfix gramneg usual fresh intestin microflora
+hamap_Ruegeria_pomeroyi__(89184) coastal ocean lithoheterotroph inorgan heterotrophi harbor
+pubmedSearch_Thermocrinis_albus__(136094) nitrogenfix diazotroph bioavail pool geochem transcriptom sediment microcosm
+hamap_Nitrobacter_hamburgensis__(912) rodshap motil lithoautotroph nitrit nitrat nitrif ubiquit
+hamap_Nitrosomonas_europaea__(915) gramneg chemolithoautotroph nitrit biogeochem cycl nitrif
+hamap_Nitrosopumilus_maritimus__(338192) autotroph ammoniaoxid saltwat aquarium carbon ammonium nitrit
+microbewiki_Nitrobacter_winogradskyi__(913) soil stone fresh salt rod shape divid polar swell flagella
+hamap_Nitrosospira_multiformis__(1231) 
+microbewiki_Nitrosomonas_eutropha__(916) anaerob nitrit acceptor
+hamap_Nitrosomonas_eutropha__(916) autotroph nitrifi ammoniaoxid catalyz meet nitrat
+pubmedSearch_Nitrosococcus_oceani__(1229) ammoniaoxid canada
+pubmedSearch_Candidatus Nitrososphaera gargensis__(497727) manur compost gel electrophoresi cattl manur compost compost divers cattl manur compost abund
+
+TOPIC 100 ; WORDS: cytochrom fe heme ctype dissimilatori metal electr donor reduc acceptor
+wikipedia_Geothrix fermentans__(44676) rodshap anaerob diamet singli aquat sediment aquif anaerob chemoorganotroph
+pubmedSearch_Shewanella_frigidimarina__(56812) warm antarct hospit
+wikipedia_Leptothrix_cholodnii__(34029) fe
+microbewiki_Desulfuromonas_acetoxidans__(891) rodshap neg predominantli sediment surviv fresh strict anaerob varieti donor acet ethanol propanol butanol
+pubmedSearch_Pyrobaculum oguniense__(99007) sig engin hyperthermophil crenarchaeon
+wikipedia_Shewanella_frigidimarina__(56812) antarct eicosapentaeno acid anaerob dissimilatori fe motil rod shape
+pubmedSearch_Candidatus_Blochmannia_floridanus__(203907) individu accord
+pubmedSearch_Nitrobacter_winogradskyi__(913) unexpect divers dismutas catalyt effici dimer max
+wikipedia_Geobacter_metallireducens__(28232) gramneg metalreduc strict anaerob sever shortchain fatti acid alcohol monoaromat fe acceptor
+wikipedia_Geobacter_bemidjiensis__(225194) fe reduc gramneg slightli curv rodshap motil monotrich flagella
+microbewiki_Pelobacter_carbinolicus__(19) rod shape mesophil flagella movement aquat mesophil moder hot cold usual iron
+pubmedSearch_Thermincola_potens__(863643) ctype cytochrom respiratori metal gramposit tran coat berkelei
+pubmedSearch_Desulfuromonas acetoxidans__(891) transit metal superoxid dismutas reduc superoxid dismutas antioxid defens catalyz superoxid h2o2 transit metal
+wikipedia_Shewanella_putrefaciens__(24) gramneg anaerob sandston mexico anaerob reduc iron manganes metabol
+wikipedia_Ralstonia_eutropha__(106590) gramneg soil metabol hydrogenas regulatori hydrogenas membranebound hydrogenas solubl hydrogenas solubl hydrogenas typic anaerob nif
+
+TOPIC 101 ; WORDS: fe acceptor dissimilatori metal donor carbon nitrat anod reduc sulfit
+microbewiki_Ferroglobus_placidus__(54261) hyperthermophil anaerob aromat benzoat phenol ferric iron fe ferrou iron
+wikipedia_Geothrix fermentans__(44676) rodshap anaerob diamet singli aquat sediment aquif anaerob chemoorganotroph
+microbewiki_Rhodoferax_ferrireducens__(192843) anaerob ferment ferment
+microbewiki_Geobacter_metallireducens__(28232) rod shape gramneg anaerob flagella pili freshwat sediment dissimilatori iron
+wikipedia_Leptothrix_cholodnii__(34029) fe
+PMCArticles_Desulfosporosinus_orientis__(1563) sulfatereduc
+PMCArticles_Desulfosporosinus_acidiphilus__(885581) sulfatereduc sulfat reduc typic thrive terrestri degrad
+wikipedia_Shewanella_frigidimarina__(56812) antarct eicosapentaeno acid anaerob dissimilatori fe motil rod shape
+wikipedia_Shewanella_putrefaciens__(24) gramneg anaerob sandston mexico anaerob reduc iron manganes metabol
+PMCArticles_Desulfosporosinus_meridiei__(79209) sulfatereduc sulfat reduc typic thrive
+wikipedia_Geobacter_metallireducens__(28232) gramneg metalreduc strict anaerob sever shortchain fatti acid alcohol monoaromat fe acceptor
+wikipedia_Geobacter_bemidjiensis__(225194) fe reduc gramneg slightli curv rodshap motil monotrich flagella
+pubmedSearch_Desulfuromonas acetoxidans__(891) transit metal superoxid dismutas reduc superoxid dismutas antioxid defens catalyz superoxid h2o2 transit metal
+microbewiki_Shewanella_baltica__(62322) gramneg shape short straight rod motil polar flagel catalas neg oxidas metabol respiratori reduc sever acceptor
+wikipedia_Ralstonia_eutropha__(106590) gramneg soil metabol hydrogenas regulatori hydrogenas membranebound hydrogenas solubl hydrogenas solubl hydrogenas typic anaerob nif
+
+TOPIC 102 ; WORDS: magnetosom magnetit magnetotaxi crystal synthes motil orient ferrou vesicl flagella
+wikipedia_Syntrophobacter_fumaroxidans__(119484) syntroph propionatedegrad sulfatereduc
+microbewiki_Magnetospirillum_magneticum__(84159) gramneg spiral shape aquat mesophil microaerophil oxygen
+wikipedia_Desulfovibrio piezophilus__(879567) sulfatereduc piezophil
+wikipedia_Desulfomonile tiedjei__(2358) anaerob dehalogen sulfatereduc gramneg nonmotil nonsporeform rodshap
+wikipedia_Desulfonatronovibrio hydrogenovorans__(53245) alkaliphil sulfatereduc motil sodiumdepend
+pubmedSearch_Magnetospirillum_magneticum__(84159) fulllength trka engin tokyo agricultur
+PMCArticles_Magnetospirillum_magneticum__(84159) gramneg synthes magnetit magnetosom intracellularli
+wikipedia_Desulfovibrio_vulgaris__(881) gramneg sulfatereduc sulfurreduc
+wikipedia_Desulfohalobium_retbaense__(45663) sulfatereduc motil nonsporul rodshap polar flagella
+wikipedia_Desulfobulbus_propionicus__(894) sulfatereduc ellipsoid lemonshap decompos fatti acid propion
+wikipedia_Desulfobacterium_autotrophicum__(2296) mesophil sulfatereduc
+microbewiki_Magnetospirillum_magnetotacticum__(188) neg helic microaerophil oxic anox transit typic interfac freshwat
+wikipedia_Desulfovibrio_magneticus__(184917) sulfatereduc magnetit
+PMCArticles_Desulfovibrio_magneticus__(184917) ubiquit synthes magnetit magnetosom accumul fe ion aquat
+pubmedSearch_Magnetospirillum magnetotacticum__(188) singledomain biogen magnetit fe colloid solvent disord nanoparticl aggreg
+
+TOPIC 103 ; WORDS: hyperthermophil archaeal hydrotherm vent heterotroph hydrogenas optim deepsea metabol optimum
+wikipedia_Thermotoga_naphthophila__(93930) hyperthermophil anaerob nonsporeform rodshap ferment heterotroph
+hamap_Aquifex_aeolicus__(63363) hyperthermophil reduc oxygen hydrogen thiosulf donor
+PMCArticles_Nitratiruptor_SB155_2__(387092) deepsea vent highli ecosystem driven chemolithoautotroph pathogen deepsea vent
+PMCArticles_Candidatus_Ruthia_magnifica__Calyptogena_magnifica__(386487) sulfuroxid suit metabol capabl chemoautotroph biosynthesi vitamin acid
+wikipedia_Pyrodictium abyssi__(54256) heterotroph archaeal hyperthermophil
+wikipedia_Thermococcus_barophilus__(55802) hyperthermophil deepsea hydrotherm vent anaerob
+pubmedSearch_Thermoproteus_neutrophilus__(70771) aldolas phosphatas thermophil conjunct mutagenesi pinpoint
+pubmedSearch_Thermogladius cellulolyticus__(1200300) hyperthermophil cellulolyt crenarchaeon bioengin russian moscow russia freshwat
+PMCArticles_Sulfurovum_NBC37_1__(387093) deepsea vent highli ecosystem driven chemolithoautotroph pathogen deepsea vent
+PMCArticles_Thermococcus_4557__(1042877) hyperthermophil anaerob deepsea hydrotherm vent guayma basin gulf depth circular
+hamap_Pyrobaculum_islandicum__(2277) hyperthermophil geotherm iceland autotroph heterotroph lithotroph organotroph mixotroph
+pubmedSearch_Pyrobaculum_neutrophilum__(70771) reclassif stetter comb engin high hyperthermophil crenarchaeon
+wikipedia_Thermotoga_petrophila__(93929) hyperthermophil anaerob nonsporeform rodshap ferment heterotroph
+wikipedia_Thermotoga_neapolitana__(2337) hyperthermophil
+wikipedia_Pyrococcus_horikoshii__(53953) hyperthermophil anaerob hydrotherm fluid okinawa trough vent depth heterotroph irregular tuft flagella optim
+
+TOPIC 104 ; WORDS: dehalogen ethen dehalogenas dechlorin halogen chlorin pollut trichloroethen vinyl bioremedi
+microbewiki_Dehalococcoides_ethenogenes_1__(61435) specialist strict organohalid respir dehalogen chlorin acceptor depend hydrogen donor ferment metabol anaerob nonmotil discshap diamet thick flat disc
+PMCArticles_Dehalococcoides_mccartyi_CBDB1__(61435) anaerob catabol toxic chlorin aromat aliphat dechlorin situ bioremedi contamin
+PMCArticles_Nocardioides_JS614__(196162) 
+pubmedSearch_Dehalococcoides_CBDB1__(61435) dechlorin multipl chlorin phenol pentachlorophenol harbor civil engin york pentachlorophenol chlorin phenol highli toxic ubiquit pollut
+microbewiki_Dehalococcoides_ethenogenes__(61435) gramposit thick wall layer perspect irregular spheric shape motil spontan
+pubmedSearch_Dehalococcoides_BAV1__(61435) intens quantiti amplifi purifi groundwat
+microbewiki_Dehalococcoides_mccartyi__(61435) specialist strict organohalid respir dehalogen chlorin acceptor depend hydrogen donor
+pubmedSearch_Dehalococcoides_ethenogenes__(61435) 
+PMCArticles_Dehalococcoides_mccartyi_DCMB5__(61435) heavili
+PMCArticles_Dehalococcoides_mccartyi_195__(61435) dechlorin groundwat pollut tetrachloroethen trichloroethen ethen duplic
+pubmedSearch_Desulfomonile tiedjei__(2358) resid carrier abund signifi weight matur
+pubmedSearch_Dehalogenimonas_lykanthroporepellens__(552810) simultan transcrib organohalid respir acceptor
+pubmedSearch_Dehalococcoides_GT__(61435) dechlorin multipl chlorin phenol pentachlorophenol harbor civil engin york pentachlorophenol chlorin phenol highli toxic ubiquit pollut
+PMCArticles_Dehalococcoides_mccartyi_BAV1__(61435) vinyl chlorid carcinogen widespread prioriti pollut respir reductas
+pubmedSearch_Dehalococcoides_VS__(61435) biomark hall biomark bioremedi quantifi anaerob syntroph respir biomark organohalid reduc hydrogenotroph quantifi multipl peptid
+
+TOPIC 105 ; WORDS: kimchi ferment korean ingredi season tradit chines veget powder lactic
+hamap_Tetragenococcus_halophilus__(51669) lactic acid gramposit sugar thick juic ferment soi sauc sauc salt sauc
+PMCArticles_Leuconostoc_gelidum__(1244) kimchi kimchi korean tradit ferment food
+PMCArticles_Leuconostoc_citreum__(33964) lactic acid kimchi korean tradit dish
+hamap_Leuconostoc_kimchii__(136609) gramposit kimchi tradit korean ferment food antimicrobi lactic acid probiot dextran sucros
+PMCArticles_Leuconostoc_C2__(979982) ferment kimchi korea
+hamap_Dyadobacter_fermentans__(94254) endophyt nitrogenlimit nitrogen
+hamap_Halalkalicoccus_jeotgali__(413810) nonmotil gramvari jeotgal tradit korean ferment seafood
+PMCArticles_Leuconostoc_carnosum__(1252) kimchi kimchi tradit korean ferment food circular
+hamap_Leuconostoc_C2__(979982) kimchi tradit ferment food korean ferment varieti veget season ingredi powder salt kimchi healthpromot
+hamap_Leuconostoc_citreum__(33964) kimchi ferment kimchi tradit korean dish ferment cabbag veget spice kimchi ferment
+hamap_Weissella_koreensis__(165096) anaerob nonsporeform heterofer gramposit chines cabbag kimchi short rod taper shape singli
+PMCArticles_Weissella_koreensis__(165096) kimchi kimchi tradit korean ferment food
+pubmedSearch_Leuconostoc C2__(979982) kimchi republ korea ferment kimchi korea carbohydr oligosaccharid donor acceptor acceptor catalyz oligosaccharid
+hamap_Leuconostoc_carnosum__(1252) kimchi gramposit chines cabbag kimchi
+pubmedSearch_Leuconostoc_citreum__(33964) 
+
+TOPIC 106 ; WORDS: sheath south coast korea hole diesel seawat industri depth nosocomi
+hamap_Campylobacter_jejuni_doylei__(197) caus bacteremia south children hospit cape town south blood
+hamap_Campylobacter_jejuni__(197) anteced neuromuscular paralysi healthi cattl asymptomat handl poultri
+hamap_Glaciecola_nitratireducens__(300231) rodshap motil gramneg seawat island south korea optimum salt
+hamap_Campylobacter_jejuni_serotype_HS_41__(197) follow town northern china sever yearold girl patient ventil motor axon neuropathi clonal
+hamap_Haloferax_mediterranei__(2252) poli seawat evapor pond alicant metabol effici
+hamap_Marivirga_tractuosa__(1006) gramneg beach sand south coast vietnam optimum
+hamap_Burkholderia_gladioli__(28095) opportunist pathogen pathogen cystic fibrosi patient sheath south korea
+PMCArticles_Burkholderia_gladioli__(28095) sheath south korea sheath south korea
+hamap_Methylobacterium_extorquens__(408) gramneg methanol metabol pectin wall synthesi
+pubmedSearch_Thioploca araucae__(40752) chile sheath bundl sheath bundl kei charact place sulfuroxid
+hamap_Pyrobaculum_aerophilum__(13773) nitratereduc hyperthermophil crenarchaeon boil hole maronti beach itali
+pubmedSearch_Leptothrix_cholodnii__(34029) sheath elong manganes chemic engin engin japan
+hamap_Campylobacter_jejuni_serotype_O_6__(197) waterborn routin stabl attract
+hamap_Campylobacter_jejuni_serotype_HS21__(197) diarrheic stool visit poultri ident flock
+hamap_Campylobacter_jejuni_serotype_O_23_3__(197) fece yearold girl diarrhea campylobacteriosi consumpt raw milk dairi farm minnesota grade
+
+TOPIC 107 ; WORDS: vent hydrotherm deepsea chemolithoautotroph sulfuroxid pacif ridg optimum autotroph heterotroph
+wikipedia_Deferribacter_desulfuricans__(197162) nitrat arsenatereduc thermophil deepsea hydrotherm vent anaerob heterotroph thermophil
+wikipedia_Thiomicrospira_crunogena__(39765) colorless sulfuroxid deepsea hydrotherm vent chemolithoautotroph optim thiosulf
+pubmedSearch_Desulfurobacterium_thermolithotrophum__(64160) 
+wikipedia_Methanothermococcus okinawensis__(155863) thermophil methaneproduc deepsea hydrotherm vent western pacif ocean highli motil irregular polar bundl flagella
+wikipedia_Pyrococcus_abyssi__(29292) hyperthermophil deepsea hydrotherm vent north fiji basin anaerob gramneg coccusshap highli motil optimum
+PMCArticles_Nitratiruptor_SB155_2__(387092) deepsea vent highli ecosystem driven chemolithoautotroph pathogen deepsea vent
+PMCArticles_Candidatus_Ruthia_magnifica__Calyptogena_magnifica__(386487) sulfuroxid suit metabol capabl chemoautotroph biosynthesi vitamin acid
+wikipedia_Persephonella_marina__(309805) thermophil hydrogenoxid microaerophil deepsea hydrotherm vent chemolithoautotroph microaerophil motil rodshap gramneg nonsporul
+wikipedia_Thermococcus_barophilus__(55802) hyperthermophil deepsea hydrotherm vent anaerob
+pubmedSearch_Nitratiruptor_SB155_2__(387092) extremophil deepsea vent coevolut subsurfac advanc sugar team japan kanagawa japan predomin deepsea hydrotherm vent ecosystem infect deepsea vent
+PMCArticles_Sulfurovum_NBC37_1__(387093) deepsea vent highli ecosystem driven chemolithoautotroph pathogen deepsea vent
+PMCArticles_Thermococcus_4557__(1042877) hyperthermophil anaerob deepsea hydrotherm vent guayma basin gulf depth circular
+wikipedia_Desulfurobacterium_thermolithotrophum__(64160) autotroph sulphurreduc deepsea hydrotherm vent thermophil anaerob gramneg motil rodshap
+pubmedSearch_Thermococcus 4557__(1042877) hyperthermophil heterotroph deepsea hydrotherm vent korea atom republ korea republ korea heterotroph hyperthermophil hydrotherm vent chimnei northeast
+wikipedia_Pyrolobus fumarii__(54252) surviv high kill smoker hydrotherm vent midatlant ridg threshold
+
+TOPIC 108 ; WORDS: syntroph acetateoxid acet isobutyr fatti thermotoler hydrogenotroph methanogenesi mesophil ammonium
+hamap_Methanosaeta_concilii__(2223) acet methanogenesi
+hamap_Methanohalophilus_mahii__(2176) sediment salt lake coloni cream pale circular trap gase anaerob sediment wit
+wikipedia_Thermacetogenium phaeum__(85874) anaerob thermophil syntroph acetateoxid gramposit sporeform rodshap
+wikipedia_Syntrophobacter_fumaroxidans__(119484) syntroph propionatedegrad sulfatereduc
+hamap_Methanoculleus_marisnigri__(2198) anaerob sediment freshwat sediment
+pubmedSearch_Tepidanaerobacter acetatoxydans__(499229) syntroph acetateoxid breed swedish agricultur uppsala syntroph acetateoxid
+wikipedia_Syntrophomonas_wolfei__(863) anaerob syntroph fatti acidoxid multilay wall gramneg
+wikipedia_Pelotomaculum_thermopropionicum__(110500) anaerob thermophil syntroph propionateoxid
+pubmedSearch_Syntrophomonas_wolfei__(863) satur fatti syntroph oligonucleotid probe
+wikipedia_Syntrophus_aciditrophicus__(316277) degrad fatti acid benzoat syntroph anaerob gramneg nonmotil nonsporeform rodshap
+pubmedSearch_Thermacetogenium phaeum__(85874) degrad syntroph acet highli suppress excess usag
+PMCArticles_Tepidanaerobacter_acetatoxydans_Re1__(499229) syntroph acetateoxid kei effici
+PMCArticles_Syntrophomonas_wolfei__(863) specialist evolutionarili syntroph hydrogen slowgrow anaerob operon
+hamap_Methanosaeta_harundinacea__(301375) anaerob sludg reactor wastewat beij china rodshap nonmotil singli high
+wikipedia_Syntrophothermus_lipocalidus__(86170) thermophil syntroph anaerob utilis isobutyr tgbc1t
+
+TOPIC 109 ; WORDS: beer spoilag spoil lactic beverag ferment exopolysaccharid food gramposit glucan
+microbewiki_Lactobacillus_casei__(1582) mesophil rod shape nonspor nonmotil anaerob cytochrom raw ferment
+wikipedia_Pediococcus damnosus__(51663) gramposit wine beer overproduc glucan spoil viscos
+PMCArticles_Lactobacillus_rhamnosus_LOCK900__(47715) fulfil probiot
+PMCArticles_Pediococcus_claussenii__(187452) breweri contamin ropi chosen beer
+wikipedia_Pediococcus claussenii__(187452) gramposit spoilag ferment beverag diacetyl spoil beer
+PMCArticles_Lactobacillus_rhamnosus_GG__(47715) shorter
+wikipedia_Shewanella_baltica__(62322) gramneg spoilag
+wikipedia_Oenococcus_oeni__(1247) gramposit
+pubmedSearch_Pediococcus claussenii__(187452) transcriptom breweri beer medicin canada lactic acid beer spoil
+microbewiki_Lactobacillus_brevis__(1580) lactic acid gramposit spore metabol ferment hexos sugar lactic acid lactic acid todai
+PMCArticles_Lactobacillus_rhamnosus_Lc_705__(47715) probiot adjunct starter reduc mucu high
+PMCArticles_Lactobacillus_rhamnosus_ATCC_8530__(47715) gastrointestin tract probiot beer spoilag
+microbewiki_Lactobacillus_acidophilus__(1579) commerci probiot health probiot adequ health benefit
+PMCArticles_Lactobacillus_rhamnosus_LOCK908__(47715) patent probiot patent fece healthi yearold girl biosynthesi exopolysaccharid
+microbewiki_Pediococcus_pentosaceus__(1255) industri starter ferment food meat veget chees antimicrobi bacteriocin
+
+TOPIC 110 ; WORDS: lous nymph relaps patient adult endosymbiot ancient diet infect erad
+wikipedia_Borrelia duttoni__(40834) relaps
+PMCArticles_Candidatus_Riesia_pediculicola__(401619) lous smallest parasit basal
+wikipedia_Borrelia_turicatae__(142) relaps understudi tickborn relaps transmit
+wikipedia_Borrelia crocidurae__(29520) bergei
+PMCArticles_Rickettsia_prowazekii_Madrid_E__(782) parasit caus epidem mitochondri
+pubmedSearch_Candidatus_Riesia_pediculicola__(401619) pole migrat lous
+PMCArticles_Vibrio_cholerae_MJ_1236__(666) alter
+PMCArticles_Rickettsia_prowazekii_Breinl__(782) pathogen epidem
+PMCArticles_Vibrio_cholerae_O1_2010EL_1786__(666) absent island centuri began fall pulsedfield gel electrophoresi return
+PMCArticles_Rickettsia_prowazekii_Rp22__(782) poli
+PMCArticles_Vibrio_cholerae_O1_biovar_El_Tor_N16961__(666) neg circular vast
+PMCArticles_Vibrio_cholerae_LMA3984_4__(666) multipl displac polymeras amplifi sever prove cultureindepend manner
+wikipedia_Borrelia_hermsii__(140) relaps infect
+PMCArticles_Vibrio_cholerae_IEC224__(666) fail ferment sucros amazon defect sucros marker latin epidem
+wikipedia_Borrelia_recurrentis__(44449) relaps usual transmit lous lous
+
+TOPIC 111 ; WORDS: faec nonsporeform nonmotil gramneg rodshap rod menaquinon ferment saccharolyt fatti
+wikipedia_Thermotoga_naphthophila__(93930) hyperthermophil anaerob nonsporeform rodshap ferment heterotroph
+wikipedia_Anaerolinea_thermophila__(167964) thermophil gramneg nonsporeform
+microbewiki_Parabacteroides_distasonis__(823) faec anaerob sporeform nonmotil gramneg rod
+wikipedia_Sphingomonas aromaticivorans__(48935) aromat compounddegrad gramneg nonsporeform nonmotil rodshap sediment
+wikipedia_Desulfomonile tiedjei__(2358) anaerob dehalogen sulfatereduc gramneg nonmotil nonsporeform rodshap
+wikipedia_Thermotoga_lettingae__(177758) thermophil anaerob nonsporeform motil gramneg
+wikipedia_Pelobacter_carbinolicus__(19) ferment butanediol acetoin gramneg anaerob nonsporeform
+wikipedia_Thermotoga_petrophila__(93929) hyperthermophil anaerob nonsporeform rodshap ferment heterotroph
+wikipedia_Pelobacter_propionicus__(29543) ferment butanediol acetoin gramneg anaerob nonsporeform ott
+wikipedia_Cupriavidus pinatubonensis__(248026) gramneg nonsporeform motil volcan philippin
+wikipedia_Caldilinea aerophila__(133453) thermophil gramneg nonsporeform
+wikipedia_Methanococcus_maripaludis__(39152) anaerob weakli motil nonsporeform gramneg pleomorph averag
+pubmedSearch_Slackia_heliotrinireducens__(84110) fatti acid dimethyl acet
+wikipedia_Brucella_microti__(444163) vole gramneg nonmotil nonsporeform pathogen
+wikipedia_Alcanivorax dieselolei__(285091) alkanedegrad gramneg nonsporeform catalas oxidaseposit motil rodshap
+
+

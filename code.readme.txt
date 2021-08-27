@@ -1,0 +1,151 @@
+******* Overview and general notes *******
+
+The code of the experiments and the coverage measures can be found in the topic_coverage package, 
+and the pytopia package contains the framework upon which the experiments are based.
+The packages gtar_context and phenotype_context contain the basic resources of the news and the biological dataset
+- the bag-of-words corpora, dictionaries, and reference topics - packaged as pytopia contexts.
+The rest of the packages contain the supporting or legacy functionality.
+ (legacy packages: corpus, gensim_mod, experiments, models, preprocessing, resources, utils, pymedialab_settings)
+This (root) folder containing the python packages must be a part of PYTHONPATH.
+
+The code is written in Python 2.7 and the details of the Python environment can be found in pip.freeze.txt
+The docker image of the preconfigured environment is available at: https://puh.srce.hr/s/P7FsbssS9nkLyTH
+If you opt to use the docker image, folders with both the code and the resources must be made available.
+This can be done either by linking the folders when running the docker container, 
+or by building a derived image containing all the resources. 
+The scripts in the docker/ folder can be used as a guide, especially the run_experiment.sh and build_run_image.sh scripts.
+
+Throughout the code, several synonyms are used for news and biological resources, these are:
+biological dataset: pheno, phenotype
+news dataset: uspol (us politics), gtar (getting the agenda right) 
+
+
+******* Caching and resource setup *******
+ 
+Due to the large scale of the experiments, that require building of many topic models
+and calculation of numerous functions on both topic and model levels, the results are 
+cache in order to avoid re-building and re-calculation.
+Caching also enables reproducibilty, and we make available all the calculated function
+values and all the intermediate resources used in building topic models.
+The cached resources are based on the topic models used in the experiments, 
+which we also make available (see data.readme.txt).
+If you decide to build your own set of topic models, then all the intermediate resources
+and function will have to be rebuild and recalculated.
+
+In any case, the cache folder (and files and folders with other resources) 
+have to exist and the variables in the topic_coverage.settings module must point to them.
+Not all resources are required for all experiments, as is documented below.
+The topic_coverage.settings_template contains all the setup variables, which are
+intended to be copied to topic_coverage.settings module, which is not git-tracked
+since it will contain configuration-specific folder and file locations.
+ 
+- ResourceBuilder Cache
+This folder contains intermediate resources used, inter alia, in building topic models.
+These resources include corpora in bag-of-words-matrix format and various indices.
+The cache of our experiments can be downloaded from https://puh.srce.hr/s/nwDXZbLrsicsaSo , 
+ and settings.resource_builder_cache must point to its (absolute) path.
+ 
+- Function cache
+This folder contains the calculated topic and model functions (coverage, coherence, stability, ...).
+It can be downloaded from: https://puh.srce.hr/s/NwZd4iaWy957DRH ,
+ and settings.function_cache_folder must point to its location.
+  
+ 
+******** Supervised Topic Matching ********
+
+-- Topic Pairs Dataset
+Code for creation and balancing of topic pairs is in the topic_coverage.topicmatch.distance_sampling module
+Code creating the final pair dataset for the news and bio datasets:
+topic_coverage.topicmatch.labeling_iter1_uspolfinal.generateUspolFinalLabelingSet
+topic_coverage.topicmatch.labeling_iter1_pheno_schemedevel.generatePhenoSchemedevelSet
+ 
+-- Annotation of Topic Pairs
+The code used for the annotation process is in the topic_coverage.topicmatch package
+The IAA calculation methods are in the topic_coverage.topicmatch.labeling_iter1_analysis.py module, 
+ in the methods phenoFinalAnalysis(), uspolFinalAnalysis()
+
+-- Supervised Matching Model
+Model selection via nested five-fold CV (Table 2) is in: topic_coverage.topicmatch.supervised_iter2.py
+Creating/saving/loading of the final (best) supervised matcher is in: topic_coverage.experiments.measure_factory.supervisedTopicMatcher
+The final supervised models are saved to the location pointed by: settings.supervised_models_folder, 
+ and you can reuse models used in our experiments: https://puh.srce.hr/s/wgSRKJG2dwK7eXW
+
+Topic model instances used for creating training topic pairs are separate from 
+the main set of topic models to which the supervised matcher is later applied
+(they are built using the exact same procedure but different random seeds).
+Topics in annotated topic pairs point to topics of these models, that can be downloaded here: https://puh.srce.hr/s/2gE3KwoiQMApMTe
+The variable settings.topicpairs_sample_models should point to the folder containing these models.
+
+
+********  !!!!!!!!  ********
+To run all the following experiments, the location of the topic models must be configured (see data.readme.txt),
+and the supervised matching models must be built/dowloaded and pointed to by settings.supervised_models_folder
+
+
+******** Coverage-Distance Curve ********
+The correlations between the AuCDC and the Supervised coverage (Table 3) are calculated in:
+ topic_coverage.experiments.correlation.experiment_runner.supCovVsCdcCorrelationsBootstrap
+The implementation of the AuCDC measure is in: 
+    topic_coverage.topicmatch.ctc_matcher.CtcModelCoverage
+Plotting of the CDC graphs is in: topic_coverage.experiments.coverage.[experiment_runner, coverage_plots]
+
+
+******** Coverage-based Model Evaluation ********
+Code running the experiments (Table 4) is in: topic_coverage.experiments.coverage.experiment_runner
+
+******** Coverage of Topics Divided into Size Categories ********
+Code of the experiments is in: topic_coverage.experiments.concept_types.topic_size_coverage
+Calculation of quartile sizes (Table 5) is in: topicsetSizes()
+Coverage measuring experiment (Table 6) is in: measureCovsBySize()
+The implementation of the measuring LDA models is in the pyldazen package, 
+ while the code for building the measuring models is in: topic_coverage.experiments.ref_topics.measuring_models.py
+In order to use the measuring models, the settings.topicsize_measure_models must point to the folder containing them
+The pre-built models used in the paper experiments can be downloaded: https://puh.srce.hr/s/H7oeKBb2xtJtmpp
+
+
+******** Coverage of Semantic Categories ********
+Code of the experiments is in: topic_coverage.experiments.concept_types.uspol_types
+Coverage calculations (Table 7) are in: calculateCoverages()
+Before running the experiments, point the settings.news_semantic_annot variable to the absolute
+ path of the data/news_semantic_annot folder containing the annotated news reference topics
+
+
+******** Coverage and Topic Coherence ********
+
+The creation of the coherence measures is in the topic_coverage.experiments.coherence.coherence_factory module
+The correlations between coverage and coherence (Table 8) are in:
+ topic_coverage.experiments.correlation.experiment_runner.coverageVsWordcohCorrelationsBootstrap
+
+The calculation of coherence measures relies on the Palmetto java package 
+and the Python package jcc used for calling Java code from python.
+The details of the configuration process can be found here: 
+ https://github.com/dkorenci/doc-topic-coherence/tree/master/palmetto
+Palmetto relies on pre-built Lucene indices, which are available here: https://puh.srce.hr/s/7sgYmLzm7oTrMW5
+ settings.palmetto_indices must point to the path of the folder containing indices
+ 
+Alternatively, you can use the cached values of the coherence functions 
+ applied to our set of topic models, used in our experiments.
+They are available by setting up the function cache, which is described at the start of this readme.
+
+
+******** Coverage and Model Stability ********
+
+The code of the stability experiments is in: topic_coverage.experiments.stability
+The calculation of correlations between coverage, stability and the number of topics (Table 9), 
+ are in: topic_coverage.experiments.stability.experiment_runner.covStabilNumtCorrelations
+Correlations between coverage-based stability measures and the standard stability measure (Table 10)
+ are in: topic_coverage.experiments.stability.experiment_runner.stabilStabilCorrelations
+
+The extended set of topic models used in stability experiments can be downloaded from: https://puh.srce.hr/s/azeQPAi3wB4cggz
+ and settings.topic_models_extended should point to this location
+However, this dataset is large and its processing requires a lot of RAM.
+For this reason, we created a matching set of "mock" topic models, i.e., 
+ empty models that have the same IDs as the original models.
+Since the values of the stability functions are cached using the model IDs, 
+ the experiments can be run using the mock dataset and the function cache.
+The mock models can be downloaded here: https://puh.srce.hr/s/rEzeEsYQwddsxpA
+ and settings.stability_mock_models must point to the abs. path of the folder
+The function cache used in stability experiment is separate from the main
+ function cache and it covers the extended model set, it can be downloaded here: https://puh.srce.hr/s/PwicEx3RLzoqWfz, 
+ and the settings.stability_function_cache must point to its location.
+ 

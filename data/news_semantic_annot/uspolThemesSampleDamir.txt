@@ -1,0 +1,933 @@
+THEME 100; label: animals; dominant: docs
+  topic 0: ~uspolM2.13, paper georg anim richard dog pledg era noth sometim cooper particularli notabl gone nixon none mostli break becam old ever
+    label: mix: hillary clinton email , animals et al ; description: ima jos dosta potpuno nevezanih tema
+  topic 1: ~uspolM10.2, goal resourc anim practic institut societi risk togeth adopt ensur valu model advoc experi improv prevent exist dog achiev task
+    label: animals ; description: 
+[A][I]
+WORDS: anim peta pet shelter dog hors endang test cat slaughter virginia aspca cruelti amtrak train lifesav norfolk steal agricultur welfar
+DOCUMENTS: 
+Animal Experimentation In US Labs Shoots Up 72 Percent Since 1997, PETA Study Finds
+Fueling Extinction: Obama Budget Is Killer for Endangered Species
+No Kill No Problem: The Story of Austin Pets Alive! Part 5
+PETA Will Be Fined All of $500 For Killing a Little Girl's Dog
+The Dream Of Dogs Riding On Amtrak Is Tantalizingly Close
+Nevada Marijuana Bill Would Allow Owners To Use The Weed For Sick Pets
+Alaska bill aims to protect pets in divorce, violence cases
+GovBeat: Horse slaughter ban fails in New Mexico
+Tomorrow Virginia Decides Whether PETA Gets to Continue Killing Pets
+PETA Hires Lobbyist to Squash Bill That Would Restrain Their Pet Killing
+While PETA's Kill Rate Rises, VA Senate Bill Aims to Stop It From Slaughtering More Pets
+New Study Finds Alarming Rise in Animals Used in Experiments
+Breaking News: Bill in Congress Proposes End to Farm Animal Torture at Federal Labs
+WHISTLEBLOWER: PETA Ex-Employee Alleges She Was Encouraged to Steal and Kill Pets, and to Falsify Records
+It's Time to Get Tough(er) on Dog Fighting
+Alleged Theft and Killing of Dog by PETA Employees Moves Virginia Attorney General to Create New Legal Unit
+Dog Fighting Is A Huge Problem, And Many Cops Agree We Need To Do More About It
+In the Loop: GOP House and White House agree on something — Amtrak funding (and pets on a train)
+Dogs and Cats Are Being Slaughtered in Maryland. This Law Would Protect Them. PETA is Trying to Kill It.
+PETA's Killing Machine Loses in Landslide 95-2 Vote in Virginia
+Bill to Prevent PETA From Killing Dogs and Cats Passes in the Virginia Senate, 33-5
+
+THEME 95; label: religion in politics; dominant: None
+  topic 0: uspolM10.67, christian muslim faith religion god religi hate church moral belief prayer love freedom valu jesu violenc cultur victim jew crusad
+    label: religion in politics ; description: 
+  topic 1: uspolM11.14, christian faith church god religion religi belief evangel cathol prayer bless jesu christ bibl spiritu flower atheist holi sin teach
+    label: religion in politics ; description: cross-cutting topics
+[A]
+WORDS: muslim faith christian religion christ religi islam crusad violenc justifi prayer god hate church hatr evangel jesu jew chapel mohammad
+DOCUMENTS: 
+Mike Huckabee Distorts Obama's Comments On Religion
+At Prayer Breakfast, Obama Decries 'Distortions' of Faith to Justify Violence
+Breaking Down President Obama's Point About Christian Crusades and Islamic Extremism
+UNC Chapel Hill Shooting: Campus Vigil Draws Thousands For Slain Students
+Palestinian officials want in on U.S. Chapel Hill probe
+Je Suis Charlie, but Can We Have a World of Respect?
+Obama: Religious Acceptance Key to Combating Extremism
+Huckabee hits Prez for Christianity-radical Islam comparison
+Christian, or Feminist?
+ISIS, Islam, Jesus, and Practicing Theology Without a License
+FBI Updates Hate Crime Guidelines; Will Track Violence Against Sikhs, Hindus, Arabs
+OBEL WORKING ... Muslim Activists Cite Growing Islamophobia After Texas Anti-Islam Protest
+The Fix: Mitt Romney still has a Mormon problem
+GOP targets Obama for Kosher deli 'random' comments
+Scott Walker Was Too Nice. It’s Incredibly Obvious That Barack Obama Isn’t a Christian.
+Patriotism, Religion, Obama
+Obama denounces 'outrageous murders' of three U.S. Muslims
+Introducing the Alert Silk System to Warn Businesses of the Gay Threat to Their Religious Liberties
+Crusades comparison draws fire
+We Have a Religious Right to Be a Bigot
+The Fix: The lead singer of the Killers says Romney wasn’t a good ambassador for Mormons. Here’s why.
+At prayer breakfast, Obama condemns use of religion as "a weapon"
+Why It Might Help Some Lawmakers To Focus On The Religiously Unaffiliated
+Jews as ‘Some Folks Chosen at Random’ and Obama’s Muslim Problem
+President Obama Hints at Disappointment With Christians at Easter Breakfast
+
+THEME 82; label: bill de blasio; dominant: docs
+  topic 0: ~uspolM11.44, de mayor blasio mexico squar central tortur mexican detent spanish yorker rent el apart detain hall migrant chafe border thousand
+    label: mix: immigration, de blasio ; description: immigrant, border control, NYC mayor bill de blasio
+[C]
+WORDS: blasio de mayor yorker rent landlord cuomo nypd sharpton frisk storm wage heads-up meteorologist forecast safe minimum hike snow wrong
+DOCUMENTS: 
+NYC Mayor: 'Better safe than sorry'
+NYC mayor eyes 'moneyed interests' as new allies
+De Blasio plays down late notice on MTA shutdown
+NY GOP poster shows de Blasio, Sharpton as '50 Shades' stars
+New York Mayor Bill de Blasio focuses on housing in state of the city speech
+De Blasio exaggerates NYPD stop-and-frisk reforms
+De Blasio tells grandma's story, push for affordable housing
+De Blasio's Hot-and-Cold Relationship With the Clintons Continues
+New budget lessens state threat to take over failing schools
+De Blasio proposes city ferry system to connect 5 boroughs
+
+THEME 92; label: common core; dominant: None
+  topic 0: uspolM0.14, christi test jersey standard common core teacher jindal chri louisiana district board score pension student annual learn charter grade bobbi
+    label: mix: common core, chris christie ; description: 
+  topic 1: uspolM11.17, common standard illeg core adopt appli deport applic statu undocu parent enforc grant defer citizenship perman resid expand elig advoc
+    label: mix: immigrants, common core ; description: 
+[A][I]
+WORDS: core common standard childhood jindal test repeal math adopt student dakota parent louisiana bobbi overreach curriculum classroom oz mu english
+DOCUMENTS: 
+Common Core fight a larger battle over the size of government
+Education Committee Sends No Child Left Behind Update To House
+Will Common Core cause a Republican civil war in 2016?
+Jindal unveils national plan to repeal Common Core
+Is Obama Trying to Get Around a Big Common Core Complaint?
+Jindal rails against Common Core
+Another State on the Verge of Ditching Common Core
+Will Bobby Jindal's kids take Common Core test?
+Why Common Core will be a prez race punching bag
+Bobby Jindal Betting The House on Common Core
+
+THEME 52; label: trade pact; dominant: docs
+  topic 0: uspolM10.98, trade free recommend agreement promot partnership export currenc commerc pacif tpp fast advisori manipul track partner disput appoint global market
+    label: trade pact ; description: 
+  topic 1: ~uspolM0.6, trade intellig surveil document cia reveal privaci track comput leak nsa spi agreement tortur phone detail collect access free partnership
+    label: mix: surveillance, trade pact ; description: 
+[A][I]
+WORDS: trade tpp pacif trans-pacif pact partnership export fast-track nafta free fast track tran hatch agreement wyden currenc orrin manipul financ
+DOCUMENTS: 
+How Our 'Free Trade' Policies Kill Jobs
+Critical of Obama’s past actions, GOP now wants to give him more power on trade
+Despite Leak Of TPP Text, Obama Officials Say Trade Deal Will Not Let Companies Overturn US Laws
+Senate's Hatch says making headway on fast track trade talks
+Senate committee postpones hearing on trade
+Will the United States End Up Like Greece? The Risks of the Trans-Pacific Partnership
+Fact Checker: Public Citizen’s misleading math on the Korea Free Trade Agreement
+Currency Fight Hinders Talks on Trade Deal
+Top U.S. trade official urges Congress to back trade agenda
+Secret Treaties: Why I'm Against the TPP
+Trans-Pacific Partnership: Fast Track to Job Losses
+Trans-Pacific Partnership: House Representatives Concerned About US Trade Deficit, Opportunities And Challenges In Asia
+U.S. talks on fast track trade bill 'stuck': senator
+Elizabeth Warren challenges Obama (and Clinton) on trade
+U.S. must target currency manipulation in trade deals: senator
+Fact Checker: The Obama administration’s illusionary job gains from the Trans-Pacific Partnership
+10 Questions for President Obama’s Trade Negotiator
+U.S. expects Congress to pass fast-track trade bill within next month
+Obama faces left-right opposition on trade, military force
+Unions to make trade pacts an issue in U.S. 2016 campaigns
+Senator Charles E. Schumer Weighs in On the Trans-Pacific Partnership Trade Agreement to a Constituent
+The need to address currency manipulation in TPP, and why U.S. monetary policy is not at risk
+Trade Deals Would Open New Channels for Small Business Growth
+No Time to Waste in Letting Public, Lawmakers Know About Fast Track
+Why the Trans-Pacific Partnership Is Bad for Workers, and for Democracy
+Democrat Says Obama Administration Dodging Request To Read Trade Deals Without Restrictions
+Here's The Digital Privacy Battle At The Center Of Obama's Big Trade Deal
+Obama highlights benefits of trade on small businesses
+Obama steps up pitch for trade, exports, targets Democrats
+U.S. Senate leader says fast-track trade bill still top priority
+A Currency Chapter in the TPP Will Not Diminish our Fed's Independence
+Bernie Sanders Calls Out Media For Not Covering Obama's Trade Deal
+
+THEME 81; label: north korea; dominant: None
+  topic 0: uspolM11.34, north korea blue paint museum exercis dress pictur korean kim portrait carolina art missil un ambassador exhibit shadow lewinski fashion
+    label: mix: north korea et al ; description: od ostalih tema najzastupljenija je: portret bila clintona
+  topic 1: uspolM10.60, north korea exercis kim korean forev un ambassador venu notori routin seemingli latter stir klein assail thin mark david react
+    label: north korea ; description: bilo bi bolje samo korea
+[C]
+WORDS: korea north korean pyongyang kim jong missil un il provoc dictat isol ego notori dictatorship totalitarian seoul kcna drill nuclear
+DOCUMENTS: 
+Cambodia Bans Release Of 'The Interview' To Preserve Good Relations With North Korea
+Lawmakers Push For More Sanctions Against North Korea
+South Korea, US To Hold High-Level Talks On Ways To Counter North Korea Threat
+Solve North Korea Problem by Addressing China's Interests
+Kim Jong Il's kidnapping of South Korean film-star lovers
+US sanctions bill on NKorea passes legislative hurdle
+North Korea Calls Knife Attack On US Ambassador To South Korea A 'Just Punishment'
+North Korea Says Detained 2 South Korean 'Spies'
+North Korea fires 2 missiles into sea, warns of strikes
+General warns North Korean missiles pose 'physical threat' to U.S.
+North Korea Media Calls Attack On U.S. Ambassador 'Deserved Punishment'
+North Korea: Nuclear Weapons Are Not A Monopoly Of The U.S.
+North Korea Says US Rejects Invitation To Pyongyang For Top Diplomat
+Why Putin's hosting Kim Jong Un
+Kim Jong Un demands 'pleasure troupe' of women
+North Korea Deports American Woman Named As Suh Sandra
+Number two U.S. diplomat to discuss North Korea on inaugural Asia trip
+North Korea Launches 2 Missiles Into Sea to Protest U.S. War Games With South
+North Korea Test-Fires ‘Ultra-Precision’ Anti-Ship Rocket Set To be Deployed Across Its Navy
+North Korea Slams US Human Rights Meeting, Calls It A 'Hostile Act'
+South Korean to send 10K 'Interview' copies in North Korea
+
+THEME 68; label: keystone pipeline; dominant: None
+  topic 0: uspolM10.14, project veto pipelin keyston construct oil xl canada overrid paint desk canadian portrait sand reject rail review levin crude pa
+    label: keystone pipeline ; description: 
+  topic 1: ~uspolM1.40, foundat schock project pipelin veto keyston donat ethic congressman review expens canada construct travel xl illinoi accept flight oil dakota
+    label: mixture: aaron schock, keystone pipeline et al ; description: 
+[C][I]
+WORDS: pipelin keyston veto oil tar canada refineri construct project transcanada environment crude republican-control energi canadian transport passag environmentalist petroleum ecolog
+DOCUMENTS: 
+Keystone XL bill passes in Senate, faces Obama veto
+Congress passes Keystone XL bill, setting up veto showdown with Obama
+Senate Fails to Override Obama's Keystone XL Veto
+Obama to veto GOP-backed bill approving Keystone oil pipeline
+Senate Approves Keystone Pipeline
+Keystone Pipeline Vote Results Live Stream: Where To Watch The Senate Tally Online
+A Bad Deal: TransCanada Can't Change the Facts About Keystone XL
+Keystone XL Pipeline Bill House Vote Eyed For Next Week
+Obama expected to get Keystone bill on Tuesday
+Key issues and updates on the Keystone XL oil pipeline
+Congress to postpone sending Keystone-pipeline bill to Obama
+Why Obama's Keystone Decision Could Ride on a Single Footnote
+Democrats stall Keystone bill in Senate, dealing blow to GOP
+Congress gives final approval to Keystone XL pipeline bill, setting up veto showdown
+Fact-checker calls out Obama for saying Keystone ‘bypasses’ US
+Senate Poised to Approve Keystone Pipeline
+Keystone bill clears Senate hurdle
+Why Vetoing Keystone XL Isn't Nearly Enough
+Obama Vetoes Keystone Pipeline, Only 3rd in Presidency
+FACT CHECK: Both sides in Keystone XL debate bend facts
+What About Keystone South?
+Congress sends Keystone bill to Obama, who plans to veto it
+Know Right Now: Pipeline Bill Sets Up Obama Veto Showdown
+Keystone XL Pipeline Bill Clears Congress, But Obama Is Vowing To Veto
+Keystone pipeline: oil price drop will worsen climate impact, EPA warns
+
+THEME 17; label: oil and gas; dominant: None
+  topic 0: ~uspolM2.29, oil energi industri ga product price fuel produc land renew regul natur drill mine safeti electr wind manufactur design util
+    label: mix: oil and gas, environment ; description: mozda ne treba environment?
+  topic 1: ~uspolM11.39, water land park area drill design alaska disabl coast librari river monument natur arctic ginsburg tribe fish nativ visitor interior
+    label: mix: oil and gas et al ; description: pretezno o drillingu, od ostalog tu su: environmental issues, obama, ...
+[A][I]
+WORDS: drill oil ga frack offshor alaska energi regul arctic spill coast natur suppli alaskan crude fossil fuel extract pipelin dakota
+DOCUMENTS: 
+ANWR Revisited
+Obama Administration Outlines Tougher Standards For Oil And Gas Production On Federal Lands
+California Has Been Letting Oil Companies Dump In Protected Water Sources, And Conservationists Are Livid
+Obama Administration To Propose Offshore Drilling Rules Designed To Prevent Future BP Oil Spill Disasters
+New Sea Drilling Rule Planned, 5 Years After BP Oil Spill
+Pennsylvania Gov. Tom Wolf Bans New Oil And Gas Leases On State Land
+Fracking Industry Distorts Science To Deceive Public And Policymakers, Says Watchdog Group
+Federal fracking regulations to requires chemical disclosure
+North Dakota's New Oil Train Safety Checks Miss Risks, Experts Warn
+Critics blast new Obama regs for fracking on federal lands
+Growing U.S. oil export debate has now spread to geopolitics
+5 things about Obama's move to protect refuge from drilling
+Department Of Interior Issues New Rules For Fracking On Public Lands
+West Virginia Oil Train Derailment Sends Crude Tanker Into River
+Obama to propose oil drilling off Atlantic Coast
+Obama Plan Calls for Oil and Gas Drilling in the Atlantic
+Obama administration to propose new Atlantic coast oil drilling, report says
+US unveils new rules to govern fracking on federal lands
+Obama Administration Moves to Ban Drilling in Arctic Refuge
+Obama Administration Unveils First Federal Safety Mandates For Oil And Gas Fracking On Federal Lands
+Loose Regulations Allowed California Oil Industry To Endanger Protected Aquifers
+Keystone XL, Cold War 2.0, and the GOP Vision for 2016
+Al Franken Brings The 'You Didn't Build That' To Fracking Boomers
+U.S. To Impose Offshore Drilling Rule: Report
+Peak Oil Revisited
+White House Tells Alaskan Senator to Chill Out on ANWR
+
+THEME 132; label: pope francis; dominant: None
+  topic 0: ~uspolM11.64, break gone tom hurt missouri joint sept pope franci schweich bulli blunt jay matt funer novemb pizza suburban mysteri appar
+    label: mix: tom schweich, pope francis et al ; description: 
+  topic 1: ~uspolM10.43, william nbc brian click yesterday pope cathol franci write matthew et mistak check mitchel pledg latest stupid easter todd norquist
+    label: mix: radio and television, pope francis ; description: 
+[C]
+WORDS: pope franci visit vatican pontiff cathol church septemb argentina jesuit moder joint sept boehner earnest trip roman philadelphia session environ
+DOCUMENTS: 
+Pope Francis Will Visit the White House
+Pope Francis To Give A Speech To Congress In September
+Pope Francis Turning Into a Headache for Catholic Presidential Hopefuls
+Pope Francis to visit White House Sept. 23
+Pope Francis Says Pallium Ceremony Will Be Held At Home, Not Rome
+Pope says he does not plan to rule for life
+The Catholic Vote in America is More Complicated Than It Seems
+American Public Has Hugely Positive Views of Pope Francis
+Obamas to host Pope Francis on his first US visit
+Pope Francis Will Visit the White House in September
+Pope Puts Climate Heat on GOP
+The Pope gives his blessing to campaign finance reform
+Pope Francis To Address United Nations On September 25, 2015
+Boehner: Pope Francis to address Congress on Sept. 24
+First Draft: Obama and Pope Francis to Meet at White House
+Boehner says Pope Francis to address U.S. Congress on September 24
+Pope Francis Child Sex Abuse Letter: Pontiff Orders Bishops To Cooperate With New Church Commission
+Pope Francis To Speak To Congress In September
+Pope Francis to Address Congress on September 24
+Obamas to host Pope Francis at White House Sept. 23
+Pope Francis to visit White House
+Obama, Pope Francis meeting: Looking for common ground at the White House
+
+THEME 58; label: court; dominant: docs
+  topic 0: uspolM10.58, constitut argument suprem amend lawsuit kennedi violat appeal lawyer file judg interpret section professor languag suit robert brief establish opinion
+    label: court ; description: 
+[C]
+WORDS: scalia suprem kennedi ginsburg constitut anthoni appeal judg judici antonin argument dissent exchang alito insur robert ruth subsidi interpret bader
+DOCUMENTS: 
+For Obamacare challengers, a Supreme Court case built for speed
+Justice slams SCOTUS for "signal" on gay marriage in Alabama case
+Ruth Bader Ginsburg given funny T-shirt at Brooklyn court
+The Supreme Cult of Personality
+In death row case, Supreme Court looks for narrow ruling
+Chief justice could again swing Obamacare case in government's favor
+Supreme Court Justice Antonin Scalia: 'Don't Paint Me As Anti-Gay'
+Obamacare Arguments Center on Chief Justice
+GovBeat: Supreme Court takes up highly political Arizona redistricting case
+The False Analogy of Territorial Exchanges in King v. Burwell
+Warren: Obamacare's fate rests with 2 Supreme Court justices
+Will 'Avoidance' Lead the Supreme Court to Uphold Obamacare?
+Ruth Bader Ginsburg Admits She Wasn't '100 Percent Sober' During State Of The Union
+Supreme Court Sides With Amtrak, With Some Distaste
+U.S. Supreme Court split over Obamacare challenge
+A Word to Justice Kennedy: In Obamacare Lawsuit, "Congress Can Fix It" Can Cut Either Way
+Supreme Court sides with Idaho in Medicaid pay dispute
+Obamacare case divides Supreme Court
+Unicorns and Gerrymanders at the Supreme Court
+This Supreme Court Decision Could Encourage One Of The Worst Forms Of Racism
+Sidebar: Supreme Court Asked to Look Abroad for Guidance on Same-Sex Marriage
+Justice Kennedy Gave Us a Window Into His Thinking at the King v. Burwell Argument This Morning-- and It Appears to Be Good News for the Government
+Split Supreme Court sides with fisherman in grouper-tossing case
+Key Premise Of Obamacare Lawsuit Contradicted By Email Senate Aide Sent In 2010
+Supreme Court leaves intact Wisconsin voter identification law
+Supreme Court hears lots of interpretations of what it just said
+Supreme Court refuses to hold back Alabama same-sex marriages
+
+THEME 1; label: greek economy; dominant: None
+  topic 0: ~uspolM0.1, crisi economi european solut europ democraci germani global greec german emerg central greek demand focu integr peac franc domin promot
+    label: mix: greek economy et al ; description: 
+  topic 1: ~uspolM10.47, daili smith stewart greec greek memo jon clip episod segment comedi auster central gross eu oliv dea cartel comedian euro
+    label: mix: greek economy, jon stewart ; description: ne vidim vezu (mozda exit)
+[C]
+WORDS: greec greek debt bailout eurozon auster tsipra syriza euro troika varoufaki merkel europ germani alexi eu central yani depress european
+DOCUMENTS: 
+The Fate of Europe and the World May Rest in Greece
+Greece Seeks To Reassure Europe As Tensions Rise
+Merkel: Greece must offer sustainable way to pay debt
+Greece and Europe on the Edge
+Are the European Authorities Destroying the Greek Economy in Order to "Save" It?
+Will Spain, Italy and France Follow the Greek Revolt Against Austerity?
+Austerity for the Other Guy
+Greece Strikes a Blow to Austerity. What Happens Now?
+Greece Confident Of Agreement Ahead Of Eurozone Negotiations
+Read The Daily Blog Of Greece's 'Erratic Marxist' Finance Minister Yanis Varoufakis
+Greece: ECB Kicks Syriza in the Face; Syriza Turns the Other Cheek
+13 Questions: About Greece, Europe, Austerity - And Us
+Greek Bailout Update: Greece, Eurozone Strike Debt Deal
+Greece's New Finance Minister: 'You Have To Be Prepared To Blow The Whole Thing Up'
+Why a Referendum on a 'Greek Plan' for Reform Is Now the Best Way Forward
+Invisible Invasion of Greece
+Socialism or Barbarism? Syriza, Economics, and Democracy
+The Greeks Have Taken Responsibility
+A Break in the Greek Tragedy
+Greece's New PM Sets Up EU Clash With Bailout Rejection, Austerity Rollback
+'Weimar Greece' and the Future of Europe
+
+THEME 15; label: police brutality; dominant: None
+  topic 0: uspolM11.46, polic black ferguson shoot shot brown arrest enforc racial michael protest scott video wilson garner st camera municip african-american loui
+    label: police shootings ; description: 
+  topic 1: uspolM0.28, polic black ferguson protest civil shoot racial shot death brown selma st african-american missouri enforc arrest jackson martin michael wilson
+    label: police brutality ; description: 
+[A][I]
+WORDS: polic ferguson shoot unarm black brown wilson shot michael enforc protest scott walter racial eric arrest garner cop jackson demonstr
+DOCUMENTS: 
+Ferguson police chief resigns in wake of Justice Dept. report
+In North Charleston, urgent promises of change to avoid ‘another Ferguson’
+Over 100 People Were Killed by Police in March. How Many More Will It Take?
+Walter Scott Shooting: Funeral, Prayer Vigil Set Amid Discussion That Police Should Pay For Family's Expenses
+Police Under Surveillance: Learning To Work Under Watchful Eye Of Camera Phones
+Walter Scott Shooting: Why Do Black And White People Think Differently About Police-Involved Deaths?
+Federal civil rights officials to return to Ferguson to hold talks
+Ferguson Lawsuit: Justice Department Ready To Sue Police For Racial Discrimination, Report Says
+Ferguson Update: ‘Sunshine Law’ Pricey As City Fills Records Requests in Michael Brown Case
+Second Autopsy Shows Pasco Police Shot Mexican Migrant From Behind
+Walter Scott's Killing Is a Direct Result of the State of Policing in America Today
+Ferguson, Mo., police begin testing new ‘less-lethal’ attachment for guns
+Police Shooting Of Tony Robinson Forces Discussion Of Madison's Racial Divide
+DOJ will not prosecute former Ferguson police officer Darren Wilson
+Fact Checker: ‘Hands up, don’t shoot’ did not happen in Ferguson
+Obama: 'Now is the moment' for police to make changes
+Walter Scott's Mother, Father React To South Carolina Officer Michael Slager Shooting Video
+What can the Justice Department do to improve local policing?
+How America's Police Forces Are Solving The Crisis Of Mistrust
+John Crawford III: Only When Black Life Is Valued Will Black Life Flourish
+Ferguson Mayor: Governor Refused National Guard Deployment Amid Unrest
+​DoJ heads to Ferguson with a sense of urgency and optimism
+The Fix: FBI Director James Comey gave a bold speech on race and police. Now what?
+Walter Scott Shooting Rekindles Body Camera Debate
+‘Hands Up, Don’t Shoot’ Was Built On A Lie - The Washington Post
+U.S. Finds Racial Bias in Ferguson Police, Courts
+Officials Release Video Of Boston Cop Shooting
+Michael Brown Family Announces Darren Wilson Lawsuit After DOJ Report Clears Teen's Killer
+Tony Robinson Police Shooting Update: Wisconsin Man Suffered Anxiety, ADHD, Court Documents Reveal
+What is the Conservative Remedy for Abuses in Ferguson?
+
+THEME 69; label: student debt; dominant: docs
+  topic 0: uspolM11.84, colleg student debt loan degre borrow graduat treasuri owe credit financi tuition jack payment higher ceil brook default repay forgiv
+    label: student debt ; description: 
+  topic 1: uspolM10.16, debt loan dollar contract fee payment taxpay borrow treasuri consum credit owe financi collect amount incent cash detroit paid mortgag
+    label: student debt ; description: 
+[A][I]
+WORDS: loan student debt repay borrow colleg graduat corinthian degre bachelor financi tuition owe higher credit enrol expens four-year undergradu scholarship
+DOCUMENTS: 
+Obama aims to clamp down on federal student loan servicers
+State AGs Urge Federal Forgiveness Of Student Loans Tied To Dodgy For-Profit Chain
+Obama aims to clamp down on federal student loan servicers
+Corinthian 15 Student Loan Debt Strike Admirable, But Unrealistic Protest Against For-Profit Colleges, Experts Say
+Why You Should Really Go To College, In 2 Charts
+College for All: Democratic Safeguard, Economic Necessity
+The 'Student Debt' Bill of Rights
+Student Aid Bill Of Rights: Obama Talks College Affordability, No Child Left Behind At Georgia Tech
+Student loan recipients go on repayment strike
+Obama Administration Exaggerates Enrollment In Critical Student Loan Plan As Borrowers Suffer
+Starbucks Expands College Tuition Aid To Cover Entire Cost Of Bachelor's Degree
+What Obama's plan means for student loan borrowers
+Obama unveils plan to protect student loan borrowers
+Obama to announce changes for student loan repayment
+Obama aims to clamp down on federal student loan servicers
+Obama Announces Changes To Make Repaying Student Loans Easier
+New Federal Data Show Student Loan Borrowers Suffering More Than Previously Believed
+Student Loan Victims Pay the Price of DOE Inaction
+Marco Rubio on Student Loans: Innovative or Ineffective?
+'Corinthian 15' Becomes 'Corinthian 100' As Federal Student Debt Strike Grows
+
+THEME 43; label: intelligence; dominant: docs
+  topic 0: uspolM10.36, intellig sourc document reportedli fbi cia suspect reveal leak alleg spi tortur classifi materi detail allegedli evid petraeu plot beck
+    label: intelligence ; description: 
+[A]
+WORDS: petraeu cia intellig classifi spi tortur kiriak fbi intercept leak espionag nsa analyst broadwel paula plea guilti biograph plead document
+DOCUMENTS: 
+No Backlash Against Torture
+In Condemning Human Rights Abuses, CIA Director Stirs Up Old Agency Wounds
+The CIA Lawyer Who Led a Secret Effort to Spy on the Senate
+Former Senate Intel Chair Strikes Back At CIA For Spying
+NSA reportedly collaborated with Britain to steal cell phone codes
+Former CIA chief Petraeus pleads guilty to charge
+Senate Intel Chair Closes Doors More Tightly On Public Oversight
+Exclusive: Freed CIA Whistleblower John Kiriakou Says "I Would Do It All Again" to Expose Torture
+Edward Snowden Leak: US And British Spies Accused Of Stealing SIM Encryption Keys
+General Petraeus could avoid jail time over scandal
+Petraeus to Plead Guilty to Misdemeanor
+Feinstein Vindicated In Intelligence Committee Spat
+David Petraeus reaches plea deal with Justice Department
+Senate torture report: An exception in CIA oversight
+David Petraeus Mistress Scandal: Former CIA Director To Plead Guilty, Avoid Trial For Leaking Information
+Petraeus Reaches Plea Deal Over Giving Classified Data to Lover
+Former C.I.A. Officer Released After Nearly Two Years in Prison for Leak Case
+Why the alleged Russian spy ring matters
+Feds Accuse Three of Being Russian Spies in New York City
+NYC Russian Spy Ring Charged: Banker Evgeny Buryakov, 2 Others Gathered Intel For Russia, Tried To Recruit Sources
+Israel Spied On Iran Nuclear Deal Talks, Planned Campaign To Reshape Or Kill It: Report
+Former Church Committee Staffers Urge Overhaul Of Spy Agency Oversight
+Convicted leaker Petraeus still advising White House
+David Petraeus to be sentenced on April 23
+Former Gen. David Petraeus still White House, NSC adviser
+Petraeus Escapes
+Israel Spying Denial Contradicted By NSA Documents: Intercept Report
+Whistleblower: Government Lacks The 'Guts' To Charge U.S. Leaders With Torture
+Major Overhaul Set for C.I.A., With Thousands to Be Reassigned
+David Petraeus To Plead Guilty In Connection With Disclosing Classified Information To Mistress
+Espionage, by Any Other Name
+It's Been A Year Since Senators Voted To Reveal CIA Torture. What Do We Have To Show For It?
+
+THEME 102; label: elizabeth warren; dominant: docs
+  topic 0: uspolM2.4, liber street warren progress wall journal mr elizabeth readi massachusett activist sander wing agenda movement champion draft oppon candidaci populist
+    label: Elizabeth Warren ; description: Hillary Clinton, stopwords: liber, street
+  topic 1: ~uspolM10.95, warren liber progress malley elizabeth readi martin sander maryland webb axelrod massachusett jim agenda activist draft vermont populist berni champion
+    label: mix: elizabeth warren, martin o'malley ; description: 
+[C]
+WORDS: warren elizabeth massachusett wall populist liber candidaci politician street moveon repeatedli org progress anti-wal bank meyer malley democraci iowa urg
+DOCUMENTS: 
+Elizabeth Warren 2016: Thousands Urge Democratic Senator To Run For President
+The Fix: This is the end of the road for Elizabeth Warren
+Liberal Dems, GOP cling to hope Warren runs for president
+Dem Lawmakers in Early States Crank Up the Pressure for Elizabeth Warren for 2016
+Boston Globe Urges Elizabeth Warren To Run For President
+Round 1: Hillary Clinton vs. Liberal Ideas
+Mass. liberals to Warren: Don't run for president
+The Fix: Elizabeth Warren says she’s not running for president. But is she running for president?
+The Fix: It’s Hillary Clinton vs Elizabeth Warren (in a new conservative ad)!
+The Fix: Elizabeth Warren’s answer on Hillary Clinton’s liberal credentials wasn’t convincing at all
+Elizabeth Warren ducking Hillary questions—No, make that all questions
+Elizabeth Warren: Why the media won’t take no for an answer
+Elizabeth Warren's Loved By Progressives. But They're Torn On Convincing Her To Run For President.
+Sorry, but she’s not running. (Elizabeth Warren, that is.)
+Karl Rove: Elizabeth Warren Could Give Hillary Clinton A 'Scare' In 2016
+Tensions with Warren camp could loom over Clinton campaign
+First Draft: Hillary Clinton, Privately, Seeks the Favor of Elizabeth Warren
+What Warren's Backers Think About Her Meeting With Hillary Clinton
+Run Warren Run Gets a Reboot
+Elizabeth Warren For President Poll Claims She Could Beat Hillary Clinton In Iowa, New Hampshire
+Hillary Clinton, Elizabeth Warren met in December
+Buffett: Elizabeth Warren Is Too 'Angry and Demonizing'
+
+THEME 90; label: fundraising; dominant: None
+  topic 0: uspolM1.22, trade pac donor firm contribut commiss corpor financ super board donat fundrais koch lobbi partner network nonprofit influenc invest spent
+    label: fundraising ; description: 
+  topic 1: uspolM2.27, foundat donor pac donat contribut fundrais super koch financ com trump huffpost launch gave spent dollar billionair network brother accept
+    label: fundraising ; description: 
+[A][I]
+WORDS: donor koch donat pac foundat contribut financ influenc billionair fundrais corpor disclosur contributor lobbi sum fund-rais industri favor grant dinner
+DOCUMENTS: 
+Ted Cruz super PACs: A new era of political fundraising
+Jeb Bush Returns to the Washington Fund-Raising Well
+GOP donors appear in no hurry to commit to 2016 candidate
+Trail to the Chief: What's In A Name ~ PAC Edition
+Big-Bank Bad Guys Bully Democracy - And Blow It
+How the Koch brothers' $889 million pledge helps Democratic fundraising
+Clinton Foundation received millions from foreign governments while Hillary was secretary of state, report says
+Democrats Say Billionaire Koch Brothers Launch 2016 'Electoral Arms Race'
+Bill Clinton Defends Foreign Donations to Foundation
+‘Super PACs’ Network Quickly Raises $31 Million for Ted Cruz
+The Erosion of Democracy
+An Executive Order the Left and Right Can Agree On
+Kochs Plan to Spend $900 Million on 2016 Campaign
+Republican hopefuls appear at billionaire Koch retreat
+Chinese company pledged $2 million to Clinton Foundation in 2013
+Thanks to Obama, the New World of Campaign Finance Is Unlimited and Undisclosed
+The Fix: Koch-backed groups intend to spend $889 million in 2016. Here’s how massive that is.
+Justice Department ramps up scrutiny of candidates and independent groups
+The Political Kingmaker Nobody Knows
+Nobody Wants Sewer Money Stinking up Congress... Except Congress
+Hillary Clinton's ties to corporate donors, lobbyists while Secretary of State scrutinized
+Chris Christie Officials Sent Pension Money To Subsidiary of Donor’s Foreign Firm
+The Fix: The remarkable universe of politicians and their PACS, charted
+Cruz, Paul and Rubio Defend Outside Spending in Koch Brothers Forum
+Clinton-tied firm accused of illegal 'scheme' to boost Dem groups, candidates
+Clinton foundation’s global network overlaps with family’s political base
+
+THEME 84; label: net neutrality; dominant: None
+  topic 0: uspolM10.10, internet onlin regul neutral net commiss fcc googl titl user network cabl content lane digit search advertis innov commission access
+    label: net neutrality ; description: 
+  topic 1: uspolM11.31, internet commiss net neutral fcc onlin regul titl web cabl user commission lane advertis content wheeler appoint recommend broadband network
+    label: net neutrality ; description: ima drugih clanaka o IT-u, ali malo
+[A][I]
+WORDS: fcc internet neutral broadband net wheeler speed regul access content comcast free isp consum connect web download block slow commerc
+DOCUMENTS: 
+As Republicans Concede, F.C.C. Is Expected to Enforce Net Neutrality
+Net Neutrality Prevails In Historic FCC Vote
+Grumpy Cat Grounded By Blizzard
+An Open Internet That Works for Everyone
+How John Oliver Transformed the Net Neutrality Debate Once and for All
+Five 2016 Republicans Oppose Net Neutrality
+Net Neutrality Stance Presents Silicon Valley Challenge For Rand Paul
+FCC votes to change the definition of broadband speeds
+Hillary Backs Strongest Net Neutrality Rules
+Net neutrality: what's the latest controversy? Your questions answered
+GovBeat: Map: The state of broadband in the states
+Bits Blog: Congress Scrutinizes F.C.C. Following Release of New Internet Rules
+The New FCC Definition of Broadband Could Change Everything for Comcast
+Conservatives Join the Viral Net Neutrality Video Wars
+Net neutrality: Republicans to strike back against Obama's 'internet grab'
+Here Are The Obama Administration's Net Neutrality Rules
+Why 2016 Republicans Oppose Net Neutrality
+Jeb Bush: Net Neutrality Decision is ‘Crazy’
+The Other Reason Cable Companies Are Sad Today
+Marco Rubio attacks FCC's net neutrality regulation
+
+THEME 50; label: kissinger protests; dominant: docs
+  topic 0: ~uspolM1.8, solut strategi mccain peac conflict approach rhetor achiev vietnam mine demonstr engag situat goal realiti leadership cours vision increasingli inde
+    label: mixture: foreign policy topics ; description: kissinger protests, israel, vietnam, ...
+  topic 1: ~uspolM11.48, georg protest demonstr jame baker vietnam rice disrupt henri ford legaci interrupt slogan predecessor slate magic michael spark shout kissing
+    label: mix: kissinger protests et al ; description: other: various political topics, some history
+[C]
+WORDS: kissing mccain henri protest pink code handcuff scum low-lif disgrac arrest outrag arm shultz anti-war despic albright demonstr madelein escort
+DOCUMENTS: 
+McCain boots 'low-life scum' from hearing
+John McCain doesn't regret calling anti-war protesters "low-life scum"
+Anti-Kissinger Protester And Target Of John McCain's Rage Thankful For Tirade
+John McCain scolds "low-life scum" protesters
+McCain rips protesters during Kissinger hearing, calls them ‘low-life scum’
+McCain: ‘I’m still outraged’ by Kissinger protesters at hearing
+Watch John McCain Call Kissinger Protesters ‘Low-Life Scum’
+McCain defends 'low-life scum' remark
+John McCain Slams Anti-Henry Kissinger Protester As 'Low-Life Scum'
+McCain: ‘Get out of here, you low-life scum’
+John McCain tells protesters at hearing: 'Get out of here, you lowlife scum'
+McCain rips protesters during Kissinger hearing, calls them ‘low-life scum’
+McCain Stands By Calling Protesters 'Low-Life Scum': 'I Think They're Terrible People'
+John McCain calls protesters 'scum,' tells them to 'shut up'
+Sen. John McCain loses his cool with anti-war protesters
+McCain to protesters: 'Get out of here, you low-life scum'
+From Henry David Thoreau to Henry Kissinger and Code Pink, civil disobedience has a history in US politics
+
+THEME 125; label: sexual assaults; dominant: None
+  topic 0: uspolM11.25, men sexual girl assault femal campu gender rape student sex male victim colleg boy podesta harass violenc parad accus abus
+    label: sexual assaults ; description: 
+  topic 1: ~uspolM0.29, student abort sexual victim men assault femal campu violenc rape arizona sex virginia gender male girl oklahoma chapter fratern studi
+    label: mix: UO fraternity scandal, sexual assaults ; description: 
+[A][I]
+WORDS: assault sexual campu rape colleg student victim violenc consent crime sex gang expel safe abus assail ix alleg fratern survivor
+DOCUMENTS: 
+Fewer Than Half The Students Accused Of Sexual Assault Are Judged Responsible
+How To Tell If Your Experience Of Sexual Assault Is Valid In One Chart
+Jameis Winston Sexual Assault Case: FSU Asks Federal Judge To Dismiss Lawsuit Filed By Accuser
+Cuomo unveils campaign to fight sexual assault at colleges
+College Presidents Are Still In Denial About Sexual Assault On Campus, Survey Finds
+Study Shows When The Feds Leave, Colleges Go Back To Underreporting Sex Assaults
+It's Time to Change the Narrative on Sexual Assault in Our High Schools
+106 Colleges Are Under Federal Investigation For Sexual Assault Cases
+Fraternities Consider Lobbying Congress To Thwart College Rape Investigations
+In 5 Minutes, This Student Destroys Our Double Standards For Men And Women
+Harvard Sued For Allegedly Retaliating Against Professor Who Defended Sexual Assault Survivors
+Scott Walker Budget Deletes College Rape Reporting Requirements
+UVA President Promises To Be A Leader In Campus Safety
+University Of Oregon Says Sexual Assault Survivor's Lawsuit Will Deter Victims From Reporting
+JMU Sued For Punishing Sexual Assault With 'Expulsion After Graduation'
+Charlottesville Police Find No Evidence To Support Alleged UVA Gang Rape
+Connecticut lawmaker under fire for sex assault 'party' joke
+ReThink Review: <i>The Hunting Ground</i> -- Sexual Assault and the Colleges That Won't Stop It
+Campus Sexual Assault
+Fraternities Might Be 'Scared' Enough To Address Sexual Assault
+California lawmakers push for 'yes means yes' consent law at high schools
+
+THEME 104; label: environment; dominant: None
+  topic 0: uspolM0.39, climat energi oil water food ga environment global industri pipelin warm project fuel emiss product plant price natur keyston clean
+    label: environment ; description: 
+  topic 1: uspolM2.47, climat water global project pipelin environment warm scienc keyston emiss scientist plant impact environ clean pollut epa carbon reduc rise
+    label: environment ; description: 
+[A][I]
+WORDS: climat emiss environment energi greenhous carbon epa water coal oil pipelin global plant pollut clean environ industri arctic drought reduc
+DOCUMENTS: 
+Climate Oscillations and the Global Warming Faux Pause
+Will the US ever pass a new chemical safety law?
+Lindsey Graham Blames Republicans (and Al Gore) for Climate Change Inaction
+U.S. to include offshore Atlantic in new drilling plan: WSJ
+Bill Nye Has Changed His Tune About The Safety Of GMOs
+An American Plate That Is Palatable for Human and Planetary Health
+A Key to the Keystone Problem
+E.P.A. Review of Keystone Pipeline Notes Potential Rise in Greenhouse Gases
+The Senate, a Snowball and a Climate Change Skeptic
+Bloomberg, Sierra Club Direct $60 Million To Closing Half Of U.S. Coal Plants By 2017
+California Orders Unprecedented Water Restrictions Amid Drought
+The Fix: Obama’s most at-risk legacy isn’t Obamacare. It’s climate change.
+Carbon Emissions Stabilized In 2014; Shows Efforts To Combat Climate Change May Be Working
+John Kerry Calls Out Florida's Ban On Saying 'Climate Change'
+Kentucky Officials Wary Of Mitch McConnell's EPA Warning
+Why Gina McCarthy Should Not Trust the Airline Industry When it Comes to Regulating Aviation Emissions
+Mandatory Questions for the 2016 Election
+California drought: governor tells climate-change deniers to wake up
+Bills in Washington State Seek to End Use of Coal
+Our Addiction to Fossil Fuel Is Taking Us on the Road to Nowhere
+Right Here In The U.S., Over 1 Million Rural Residents Don't Have Clean Water. Here's Who's Helping
+Obama to Offer Major Blueprint on Climate Change
+Obama announces order to cut greenhouse gas output by 40 percent
+Obama's National Security Strategy Lists Climate Change Among 'Top Strategic Risks' To U.S.
+Bilateral Cooperation Is Key to Protecting Cuba's Natural Heritage
+Keystone pipeline: oil price drop will worsen climate impact, EPA warns
+
+THEME 117; label: marco rubio; dominant: docs
+  topic 0: uspolM1.29, rubio advis team launch marco georg field bid miami jeb staff rival competit talent skill brother experi formal dream terri
+    label: marco rubio ; description: tema je malo mixture, trebalo bi je mozda procistiti
+[C]
+WORDS: rubio marco floridian cuban miami bid conant tampa r-fla cuban-american tower launch april reclaim undisclos merril seiz mediterranean-styl castro hampshir
+DOCUMENTS: 
+Hillary Clinton is stepping all over Marco Rubio’s announcement — or is she?
+Rubio nabs key former Romney aide
+Rubio willing to defy European allies on possible Iran deal
+Rubio confirms April 13 announcement in Miami
+Rubio looks to find his opening in the 2016 Republican field
+Marco Rubio, set to launch 2016 campaign, gets a super PAC
+Marco Rubio, Horatio Alger, and the GOP-Donor Version of Class Warfare
+The Fix: Marco Rubio’s fundraising chops are more impressive than you think
+For Marco Rubio, Venezuela matters in 2016
+US Senator Rubio Could Announce White House Bid April 13: Report
+Expected Presidential Bid Puts Marco Rubio at Odds With a Mentor, Jeb Bush
+U.S. Senator Rubio could announce White House bid April 13: report
+Rubio launches 2016 campaign
+6 things to know about Marco Rubio
+Five things to know about Marco Rubio
+
+THEME 48; label: hillary clinton email; dominant: docs
+  topic 0: uspolM11.23, email e-mail server benghazi review correspond archiv sent conduct transpar gowdi document tenur preserv rodham delet practic exclus libya subpoena
+    label: hillary clinton email ; description: 
+  topic 1: uspolM10.75, email server review benghazi transpar correspond document archiv conduct sent tenur preserv delet rodham practic spokesman exclus page select subpoena
+    label: hillary clinton email ; description: 
+[C][I]
+WORDS: email server clintonemail e-mail rodham wipe gowdi benghazi review work-rel archiv delet trey sent preserv libya tenur document retain subpoena
+DOCUMENTS: 
+Clinton Reportedly Routed E-mails Through a 'Homebrew' Server
+Virtually impossible for top White House, State Department officials to miss Clinton’s private email address: security expert
+State Department challenges Clinton claim that emails to officials ‘immediately’ saved
+Gowdy: Clinton wiped email server clean, deleted all emails
+White House counsel reportedly kept in dark on Clinton’s personal email use
+Benghazi Committee Chair: Clinton wiped email server "clean"
+Hillary Clinton to Take Questions on Email Scandal, Report Says
+Email issue revives old questions about Clintons
+White House grumbling over Clinton damage control
+Hillary Clinton Asks State Dept. to Review Emails for Public Release
+Hillary Clinton to respond to email controversy Tuesday
+Hillary Clinton used only personal email at State Dept.
+Gowdy asks Clinton to turn over email server for review
+Hillary Clinton may have broken federal record-keeping laws: NY Times
+Hillary Clinton: Democratic support declines over email controversy
+Benghazi panel head not happy with Clinton's email response
+Clinton created multiple email addresses on private server, data show
+Hillary Clinton Email Scandal Update: Former Secretary Of State Expected To Answer Questions For First Time On Tuesday
+Hillary Clinton's use of private email address while Secretary of State draws scrutiny
+Democrats struggle to defend Hillary Clinton's emails
+Hillary Clinton's Office Makes Inaccurate Claim About Privacy Privilege For Government Officials
+Clinton email dustup latest in 'delete, erase' era of gov't
+Business Owner Behind Viral Sign Outside Hillary Clinton’s NY Home Tells TheBlaze Why the Email Scandal ‘Matters’
+Even Chris Matthews Couldn’t Believe a Hillary Clinton Supporter’s Answer on the Email Question
+Obama weighs in on Hillary Clinton's private emails
+Clinton’s personal email use – despite clear rules – raises double-standard questions
+As House panel issues subpoenas, questions mount over Clinton e-mails
+Hillary meets the press: Defensive, deflecting, but out of the bunker
+Gowdy sets May 1 deadline for Clinton interview on emails
+Hillary Clinton, Emails and Her 'Trust Me' Defense
+Five burning questions for Hillary Clinton about those private emails
+Hillary ​Clinton still silent on emails
+Bush finds Hillary Clinton’s e-mail practice ‘baffling’
+How Hillary Clinton Could Be Targeted Under The Espionage Act
+
+THEME 79; label: south; dominant: None
+  topic 0: uspolM11.45, southern free lee driver flag lincoln symbol mississippi drive davi slaveri battl bu licens slave heritag plate tennesse vehicl marshal
+    label: south ; description: confederate flag license plate case, lot of history, slavery, lincoln, ...
+[A][I]
+WORDS: confeder confederaci licens lee flag civil slaveri southern battl symbol heritag slave lincoln declar driver mississippi assassin booth negro ku
+DOCUMENTS: 
+Supreme Court skeptical of specialty license plate case
+War Memorial Separates Dead By Race And Divides Southern City
+John Wilkes Booth and the Higher Law
+Civil War at 150: Appomattox Was Not the End
+Proof That The Civil War Was Fought Over Slavery
+Censorship vs. free speech on specialized license plates in Texas
+Confederate Flag License Plate Battle Reaches US Supreme Court
+Justices Look for Reasoning Behind Texas Ban on Confederate License Plate
+150 Years Ago, the Confederate Constitution Used Mike Pence's View of 'Religious Freedom' to Justify Slavery
+Civil War Battles Timeline 1861-65: 35 Facts On 150th Anniversary Of Robert E. Lee's Confederate Surrender
+Court to weigh in on confederate flag license plates
+Arkansas panel rejects removing Lee from King holiday
+
+THEME 88; label: chicago mayor elections; dominant: None
+  topic 0: uspolM1.0, worker chicago wage employe labor mayor emanuel employ minimum garcia hour council illinoi pension cook contract runoff rahm rauner hire
+    label: chicago mayor elections ; description: 
+  topic 1: uspolM11.87, chicago mayor emanuel garcia illinoi neighborhood cook rauner runoff rahm tribun counti incumb chuy resid downtown commission bruce staff endors
+    label: chicago mayor elections ; description: 
+[C]
+WORDS: emanuel garcia chicago runoff mayor rahm jesu alderman chicagoan latino re-elect chuy teacher commission cook neighborhood counti pullman april staff
+DOCUMENTS: 
+Who Is Jesus 'Chuy' Garcia, The Man Who Forced Rahm Emanuel Into A Runoff Election For Chicago Mayor
+Rahm Emanuel Survives Runoff Election And Wins Second Term As Chicago Mayor
+Rahm Emanuel Seeks To Avoid Second Embarrassment In Runoff Election
+Chicago Mayor’s Race Reverberates Nationally
+In Chicago, Obama Endorses Rahm Emanuel and Honors Pullman Workers
+Chicago's Mayor Emanuel hopes to avoid run-off in election
+Chicago voters go to polls in first ever mayoral runoff
+Emanuel forced into runoff against Garcia for Chicago mayor
+Emanuel faces runoff in Chicago to stay mayor
+Chicago Mayor Election 2015 Poll: Rahm Emanuel, 'Chuy' Garcia 'Dead Even' In New Survey
+Chicago Mayoral Candidate Denies He Said 'Whiteys,' Demands Apology
+The Fix: Here’s shirtless Rahm Emanuel protesting neo-Nazis when he was 18
+Chicago Heads To The Polls As Rahm Emanuel Seeks Second Term
+Rahm Emanuel: Teachers Union Helps Push Chicago Mayor Rahm Emanuel To Runoff In Re-election Bid
+Chicago Voters Head to Polls in Mayoral Runoff Election
+Rahm Emanuel aims to defend lead in final mayoral debate
+Obama heads to Chicago to designate monument, boost Emanuel
+Chicago mayoral runoff: Rahm Emanuel fights to keep African American support
+Obama Rallies Votes For Chicago Mayor Rahm Emanuel Ahead Of Election
+Chicago mayoral debate gets testy over city's finances and public schools
+How Rahm Emanuel flipped the script on liberal rebels in the Chicago runoff
+Chicago Mayoral Race Isn't Over Yet, As Rahm Emanuel Falls Short Of Votes Needed To Avoid Runoff
+
+THEME 97; label: veteran affairs; dominant: docs
+  topic 0: uspolM11.2, veteran william nbc va affair apolog palin mcdonald brian sarah fire wait anchor special suicid scandal iraq hunt vet mitchel
+    label: veteran affairs ; description: 
+  topic 1: uspolM10.6, veteran special affair va wait miller mcdonald vietnam suicid appoint vet robert nd cheney phoenix hospit stress delay bonu scandal
+    label: veteran affairs ; description: 
+[A][I]
+WORDS: veteran va mcdonald affair robert suicid ranger ptsd vet vietnam phoenix airborn special misstat hospit nd homeless shinseki apolog medic
+DOCUMENTS: 
+Vets not impressed with VA reforms
+VA says it will relax 40-mile rule for private medical care
+Combat veterans face ‘cruel’ struggle to prove their service to VA, amid missing records
+At VA health facilities, whistleblowers still fear retaliation
+VA Secretary Apologizes for Misstating Military Record
+Senate backs bill to address veterans' suicide
+Head of the V.A. Receives Support After Apologizing
+VA Chief Bob McDonald: 'I Have No Excuse' For False Special Forces Claim
+Slow start for program to reduce vets' waits at Veterans Affairs facilities, offer private medical care
+Obama to visit scandal-plagued Phoenix VA hospital
+Obama to visit Phoenix VA hospital that sparked scandal
+VA Secretary McDonald apologizes for misstating military record
+Federal Eye: White House Budget: Over-strapped Department of Veterans Affairs gets a proposed 7.8 percent budget boost
+VA chief backs outside care as 'choice' program falters
+Obama visits Phoenix VA facility at heart of scandal
+VA secretary to GOP lawmaker who served in Iraq: "What have you done?"
+Keeping Our Pledge to Veterans
+House backs bill to force VA execs to give back bonuses
+Senate takes up bill to lower suicide rate among veterans
+VA Secretary McDonald says he lied about military service
+Veterans Affairs secretary apologizes for false claims of special forces service
+VA Secretary Robert McDonald announces new committee to improve VA services
+Federal Eye: VA reaches out to sexual trauma survivors via Facebook
+Why Are We Denying Purple Hearts to Veterans With PTSD?
+
+THEME 38; label: budget; dominant: docs
+  topic 0: uspolM10.99, billion cost save fiscal medicar deficit revenu trillion fix reduc balanc dollar cap elimin domest price invest payment annual bipartisan
+    label: budget ; description: 
+  topic 1: uspolM1.12, billion domest fiscal balanc deficit medicar repeal prioriti ryan trillion fix cap infrastructur oversea add bipartisan boost hawk capitol price
+    label: budget ; description: 
+[A][I]
+WORDS: trillion billion deficit fiscal cap sequestr balanc slash revenu cost repeal medicar save offset off-budget sequest price domest unveil blueprint
+DOCUMENTS: 
+Rand Paul Proposes Boosting Defense Spending
+Illinois Governor Proposes $6 Billion in Cuts and Reducing Pension Benefits
+U.S. congressional budget leaders haggle during recess
+Sequestration still haunting Washington
+Christie's budget proposes pension overhaul, benefit cuts
+House Republicans pass blueprint for deep spending cuts
+Republican budget aims to end deficits in 2024 with deep cuts
+The GOP Budget: More War on Women
+Boehner tries to stop budget meltdown
+House Republican Budget Could Double The Number Of Uninsured
+In All-Night Session, Senate Approves a Budget of Republican Wishes
+Senate up next after House passes bold budget
+Statement of Robert Greenstein on the President's 2016 Budget
+House GOP Unveils Budget That Cuts Spending by $5.5 Trillion
+Analysis: Obama challenges GOP again, this time with budget
+Federal Diary: GOP budget plan has a surprise among list of cuts for federal employees
+House GOP Pass Budget: Small Victory For Boehner After Dramatic Prelude For Republicans
+House Roll Call: Republicans approve conservative budget
+Put the Pentagon on a Real Budget
+Here's What's Behind Rand Paul's New Defense Spending Proposal
+Federal Eye: Error in House budget plan understated spending cuts by $900 million
+Obama Budget 2015: President Warns Of Consequences For Not Adopting Spending Proposal
+Republican Budget Could Kick 11 Million Off Food Stamps
+As New Leadership Takes Over in Washington, Old Fiscal Battles Are Resurfacing
+The sequester that everyone hates is hard to replace
+GOP moves ahead on budget plans; eyes Obamacare repeal bill
+Obama Pitches Corporate Tax to Fix Roads and Bridges
+Budget Calculus: Why Spending Is Back in Season in Washington
+The Real Audience for Obama’s Latest Budget Plan
+Senate up next after House passes bold conservative budget
+The week that could break the House: Balanced budget and the Medicare 'doc fix'
+In the Loop: 5 of 10 lawmakers who talked most about budgets no longer in Congress
+Republican budget advances in the House, but GOP divides remain
+Obama’s Budget: Beyond the Boldness, Nuggets With G.O.P. Appeal
+Obama to rally Democrats in Philly to kill sequester in budget
+
+THEME 57; label: jon stewart; dominant: docs
+  topic 0: ~uspolM10.47, daili smith stewart greec greek memo jon clip episod segment comedi auster central gross eu oliv dea cartel comedian euro
+    label: mix: greek economy, jon stewart ; description: ne vidim vezu (mozda exit)
+  topic 1: ~uspolM11.59, malley maryland mr martin stewart webb jim jon vermont segment inevit daili comedi rodham larri baltimor host bid comedian noah
+    label: mix: martin o'malley, jon stewart ; description: 
+[C]
+WORDS: stewart comedi jon colbert comedian daili host stephen noah comic comed hbo humor parodi satir central viewer cabl oliv film
+DOCUMENTS: 
+The Next Daily Show</em> Host Should Forget Fox News
+'Daily Show' disaster: How Trevor Noah picks on the powerless
+Trevor Noah To Replace Jon Stewart As The New 'Daily Show' Host
+See Jon Stewart In His First Episode Of 'The Daily Show'
+Jon Stewart Leaving 'The Daily Show'
+Jon Stewart: comedian, satirist, newsman
+Jon Stewart Finds The Most Ridiculous Blizzard Coverage
+Jon Stewart's greatest hits on Texas
+The Infuriating Thing About Jon Stewart Is Also Why He'll Be Missed
+Rush Limbaugh Thinks He Knows The Real Reason Jon Stewart Is Leaving 'The Daily Show'
+How Jon Stewart changed politics
+The Fix: The politics of picking the new ‘Daily Show’ host
+Trevor Noah Daily Show: Black Comedians Debate Diversity On Late Night TV, Jon Stewart Replacement
+Jon Stewart Had Been Telegraphing His Comedy Central Exit for Some Time
+Fake news rules: The real impact of Jon Stewart
+Advice for the Next Daily Show</em> Host: Forget About Fox News
+Rachel Maddow and Chris Hayes on What Jon Stewart Wrought
+Jon Stewart, Steve Carrell And Stephen Colbert Bring Sexy Back With Shirtless #TBT Video
+Trevor Noah, From Progressive Icon to Villain in 24 Hours
+Liberalism After Jon Stewart
+Jon Stewart's departure is only shocking to those who weren't paying attention
+How Celebrities Reacted To Jon Stewart Leaving 'The Daily Show'
+
+THEME 131; label: ben carson; dominant: None
+  topic 0: uspolM10.13, choic carson convers ben choos sort obvious apolog someon absolut mistak straight fit probabl politician sometim anyon mayb perhap certainli
+    label: ben carson ; description: 
+  topic 1: ~uspolM11.36, form carson ben pennsylvania formal resist retir rid neurosurgeon row stumbl plagu prove eight inconsist doubl exploratori commut pit lawrenc
+    label: mix: ben carson et al ; description: ostalo: izbori, medicinske teme, druge politicke teme
+[C]
+WORDS: carson ben neurosurgeon apolog choic homophob politician exploratori gay prison gile pediatr formal homosexu bid straight cnn retir terri marriag
+DOCUMENTS: 
+Election 2016: GOP Contender Ben Carson Praises Conservative Values At Al Sharpton Civil Rights Convention
+Is Ben Carson the Most Popular Man at CPAC?
+Ben Carson Gets Confused On Foreign Policy Question, But Doesn't Want To Get Bogged Down In Details
+Ben Carson likens Obama to psychopath
+Black conservatives end up on "watch list," Ben Carson jokes
+Southern Poverty Law Center apologizes to Ben Carson, takes him off 'extremist’ list
+Ben Carson Lays Out Timeline For Deciding On A 2016 Presidential Run
+Physician Ben Carson eyes May announcement of presidential bid
+Ben Carson’s ‘Not Ready for Hillary’ — but Is He Ready to Run Himself?
+Ben Carson apologizes for "hurtful" comments on gays
+Joe Biden Mocks Ben Carson: ‘Hard To Fathom’ Doctor’s Views On Gays
+Ben Carson: Prison turns "a lot" of straight people gay
+What We Learned Talking to Ben Carson’s Director of Campaign Culture
+Ben Carson Launches 2016 Exploratory Committee
+Ben Carson: Being Gay Is 'Absolutely' a Choice
+Ben Carson’s Rise Fueled By Massive Direct Marketing Success
+In Wake Of Ben Carson Comments, Don Lemon Asks CNN Panel If Being Gay Is A Choice
+Ben Carson apologizes for remarks on homosexuality
+Ben Carson Apologizes for Comments on Gay Prisoners
+Carson launches 2016 exploratory committee
+Ben Carson Launches Presidential Exploratory Committee
+Ben Carson forms presidential exploratory committee
+Ben Carson mulls running for President in 2016
+
+THEME 112; label: venezuela; dominant: docs
+  topic 0: ~uspolM1.35, cuba list summit assembl cuban cuomo island silver castro speaker travel diplomat remov tie venezuela normal sponsor albani terror panama
+    label: mix: cuba, venezuela ; description: ima nesto malo o venezueli
+[C][I]
+WORDS: venezuela maduro venezuelan caraca chavez latin oil inflat sanction opposit nicola coup ledezma cuba accus seven rodriguez nicol colombia region
+DOCUMENTS: 
+Obama Could Face Another Disastrous Summit Due to Sanctions Against Venezuela
+White House Seeks to Soothe Relations With Venezuela
+Obama Freezes Assets of Seven Venezuelan Officials
+Venezuela Sanctions: Obama Executive Order Freezes Venezuelan Officials' Assets, Demands Release Of Political Prisoners
+1+2=3
+Rubio calls Venezuela ban 'a badge of honor'
+Mind your manners, Venezuela tells U.S. official Jacobson
+Venezuela's President Nicolas Maduro Seeks Increased Powers To Face U.S. 'Imperialism'
+Venezuela Touts Signature Collection Campaign To Repeal US Sanctions
+Energy aid, new diplomacy mark Obama visit to Americas
+In a Surprise, a Top Kerry Adviser Visits Venezuela
+
+THEME 86; label: harry reid; dominant: None
+  topic 0: uspolM2.48, reid seat minor harri retir nevada maryland schumer edward eye van la barbara morn re-elect lost mikulski leadership hollen chuck
+    label: harry reid ; description: ovdje bih stavio i elections kao opcu temu ali je vec definirana kao elections u svijetu i izraelu, sto uciniti?
+  topic 1: ~uspolM11.29, reid seat harri minor nevada schumer la india retir indian eye durbin re-elect leadership vega caucu lost reelect whip chuck
+    label: mix: Harry Reid et al ; description: other political topics
+[C]
+WORDS: reid nevada harri surgeri eye minor bone retir d-nev injuri whip leadership vega senatori accid exercis vision rib injur blood
+DOCUMENTS: 
+Harry Reid Endorses a Successor in Nevada
+Reid says he will seek sixth term in Senate
+Harry Reid is not looking back
+Sen. Harry Reid speaks on Senate floor week after surgery
+Obama praises Reid as a fighter upon retirement announcement
+Sen. Harry Reid speaks on Senate floor week after surgery
+The Fix: 21 highlights from Harry Reid’s political career
+Nevada Becomes Hot 2016 Senate Contest
+Harry Reid puts on sunglasses. ‘Deal with it,’ responds Internet.
+Reid's exit sets off Senate leadership scramble
+Sen. Harry Reid to undergo additional surgery on right eye
+Reid 'cracking jokes' after eye surgery
+Mitt Romney Is Glad Harry Reid Is Retiring
+Reid recovering from follow-up eye surgery
+Popular Nevada governor looms over fight for Reid seat
+We Wanted To Know What Makes Harry Reid Tick. So We Boozed Up His Former Aides
+This Brothel Offered to Host Harry Reid’s Retirement Party
+Reid Won't Condemn Democrats Boycotting Netanyahu Speech
+Harry Reid Says He Will Retire at the End of 2016
+VIDEO: Sen. Harry Reid Won't Seek Reelection In 2016
+Harry Reid Undergoes Eye Surgery
+Hospital Hosting Reid's Surgery Is Used to Leaders as Patients
+Reid endorses Van Hollen in Md. Senate race
+Harry Reid’s Early Retirement Announcement Shows How Much He Likes to Plan Ahead

@@ -1,0 +1,4 @@
+deb http://old-releases.ubuntu.com/ubuntu/ wily main restricted
+deb http://old-releases.ubuntu.com/ubuntu/ wily-updates main restricted
+deb http://old-releases.ubuntu.com/ubuntu/ wily universe
+deb http://old-releases.ubuntu.com/ubuntu/ wily-updates universe

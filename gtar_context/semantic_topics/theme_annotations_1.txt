@@ -1,0 +1,626 @@
+**********
+THEME: abortion
+TOPICS: uspolM10.91 uspolM11.81
+WORDS: abortion trafficking bill 
+birth ban rape pregnanc doctor clinic pregnant pro-lif fetu anti-abort mother pro-choic
+amend traffick birth ban pregnanc prevent anti-abort rape parenthood reproduct pro-lif fetu clinic
+DOCS:
+95567 182637 111809 196287 211028 209877 213693 169007 211946 65196 195579 102827
+181118 97982 163612 182637 166147 130118 119211 152020 166583 62134 145557 184085 
+
+**********
+THEME: greek economy
+TOPICS: ~uspolM0.1 ~uspolM10.47
+WORDS: debt greece bailout syriza germany Yanis Varoufakis Alexis Tsipras
+europ greek merkel auster depress euro
+auster central eu euro bailout eurozon troika
+DOCS:
+52772 104774 99713 107243 211764 65352 53782 82271 53507 84003
+64665 159830 68512 64401 156332 76740 76743 96398 66282 54596 104237
+
+**********
+THEME: jeb bush
+TOPICS: uspolM10.4 ~uspolM11.21
+WORDS: bush jeb campaign florida Ethan Czahor
+georg fundrais candidaci
+
+DOCS:
+76805 150989 119928 61204 140650 99969 66560 117519 61916 165850
+87829 86426 87513 87448 87671 87458 88449 87491 87402 84476 84799
+
+**********
+THEME: secret service
+TOPICS: uspolM1.25 uspolM2.9
+WORDS: Joseph Clancy secret service
+secret agent crash joseph 
+agent
+DOCS:
+102437 217617 213473 62508 160096 150480 149443 102242 159289 158018
+201421 160638 177789 151115 160668 84198 159610 158255 102142 148282 102267 149901 150498
+
+**********
+THEME: rick perry
+TOPICS: ~uspolM1.5 ~uspolM10.32
+WORDS: rick perry prosecutor abuse power grand jury abuse-of-power cpac presidenti campaign primary
+perri austin
+
+DOCS:
+79894 94636 56633 59343 61028 58709 64410 57228 77546 57364 95534
+77936 95534 121323 133968 94665 129768 121849 59292 59190 57228 64197 121485 121248 121480
+
+**********
+THEME: DHS shutdown
+TOPICS: uspolM11.50 uspolM0.11
+WORDS: DHS shutdown obama republican vote department homeland security immigration
+boehner homeland block shutdown veto impass illeg
+boehner homeland veto speaker block shutdown filibust vote
+DOCS:
+110475 77337 60818 121308 86934 96349 124327 127475 121509 128503 116147 109501
+73385 120835 96583 99939 120591 88756 184109 113837 122429 101382 116292 75119
+
+**********
+THEME: lawsuit
+TOPICS: uspolM11.72 ~uspolM2.23
+WORDS: lawsuit court lawyer judge rule
+file lawsuit complaint suit damag settl accus settlement
+file lawsuit complaint attorney
+DOCS:
+163476 144498 156291 127533 130042
+163490 214803 215674 54604 181325
+words
+**********
+THEME: education
+TOPICS: uspolM11.38 ~uspolM10.66
+WORDS: education school test
+student teacher learn score class teach charter evalu academ parent grade math kid classroom exam curriculum lesson cours elementari academi knowledg studi
+student colleg teacher degre graduat learn parent class teach charter academ skill tuition classroom studi exam harvard institut professor curriculum scienc scholarship
+DOCS:
+56507 142160 119018 110183 156549 111063 166310 62254 218158 197193 106553 102461 145555 111890 206575 218255 150322 212354 160044 111550 99893
+151894 163952 115998 71224 104447 209176 209218 97077 141021 210557 172340 171707 183566 172409 90486 112460 187344 94617 195223
+
+**********
+THEME: koch brothers
+TOPICS: ~uspolM11.6
+WORDS: koch brothers republican
+david brother koch network charl billionair spent influenc
+DOCS:
+52364 54567 54671 58662 62124 52067 59646 54611 54546 52622 57647 55166 57442 58959 190108 84279 54786 52268 59762 54843 54717 128142 54705
+
+**********
+THEME: radio and television
+TOPICS: uspolM11.13 ~uspolM10.43
+WORDS: radio television glenn beck host nbc cnn 
+hour watch radio minut tv episod slam televis host season hammer co-host
+william nbc brian limbaugh msnbc abc
+DOCS:
+170016 183458 193332 78007 89535 107331 174113 201639 190631
+79988 87384 90287 81297 87676 89669 78539 81546 87484 87404
+
+**********
+THEME: senate elections
+TOPICS: uspolM0.24 uspolM10.22
+WORDS: senate elections barbara mikulski
+seat maryland
+seat district endors hollen reelect
+DOCS:
+149011 132710 173060 141568 142835 186021 107077 99899 174096 153851 132335 146659 94213 157722 143554 152481 165854 128119 143507
+165854 132759 184918 184219 217582 74679 132409 126393 131447 215240 137352 173021 185664 185663 125998 137380
+docs
+**********
+THEME: martin o'malley
+TOPICS: ~uspolM11.59 ~uspolM10.95
+WORDS: presidential candidate
+malley maryland martin
+liber progress
+DOCS:
+192115 197944 190392 139864 188231 123830 188644 188235 185157 188318 149815 148651 146936 175119 123507 170492 205040 128179
+188235 188262 185157 190105 180881 188525 188360 145929 123814 159959 146936 193322 188644 174091 148766 171310
+docs
+**********
+THEME: selma
+TOPICS: uspolM1.20 uspolM11.37
+WORDS: selma march bridge bloody sunday
+black anniversari african racial african-american racism alabama lewi histor racist
+johnson alabama bloodi commemor
+DOCS:
+89031 141630 135716 160208 138719 139731 138997 138625 144517 138818 129510 126443 138769 138666 69761
+136484 138660 138718 137405 138746 136778 138584 138666 141396 139491 138875 139935 138291
+
+**********
+THEME: obama immigration
+TOPICS: ~uspolM11.68 ~uspolM10.48
+WORDS: obama immigration texas judge doj texas
+judg
+illeg deport undocu
+DOCS:
+116559 98658 98647 150092 117950 99176 149785 116411 111229 143684
+98759 99711 111229 149837 99598 56597 176818 112327 122408 112294 210118 142487 101432 72553
+docs
+**********
+THEME: ted cruz
+TOPICS: uspolM10.15 ~uspolM11.20
+WORDS:
+cruz ted liberti evangel
+
+DOCS:
+175120 173079 171368 181006 169308 172768 187457 155852 171755 183515 172516 171070 169451 171064 173862 177716 185249
+201122 187294 155852 213342 175120 169308 199558 156072 186738 157197 173568 175085 188797 174516
+docs
+**********
+THEME: police brutality
+TOPICS: uspolM11.46 uspolM0.28
+WORDS: police brutality shooting cop 
+polic ferguson shoot shot brown arrest enforc racial protest scott cop unarm walter chokehold
+polic black ferguson protest shoot shot brown arrest jackson martin michael wilson garner cop unarm demonstr eric racist
+DOCS:
+218978 216903 213710 103329 120169 167436 99111 215349 210941 211349 215054 131553 143281 134351 196204 90086 167436 99111 211349 215054 212727 63579
+131553 91054 72967 143506 164409 141673 129469 91764 147974 147995 157458 126358 162647
+
+**********
+THEME: andrew cuomo
+TOPICS: uspolM10.49
+WORDS: andrew cuomo new york governor corruption
+ethic disclos lobbyist
+DOCS:
+187587 131342 160955 218685 86893 166650 188974 112606 84956 185291 70430 155632 178077 116918
+
+**********
+THEME: oil and gas
+TOPICS: ~uspolM2.29 ~uspolM11.39
+WORDS: oil gas fracking drilling pipeline 
+energi fuel renew regul natur drill dakota suppli crude frack arctic spill fossil shell offshor gallon extract tank gasolin
+drill alaska coast arctic spill shell alaskan
+DOCS:
+168436 62253 164649 168798 108168 146047 192643 169600 91153 98216 61630 222256 84167 162605
+169878 218318 56172 54414 98216 54638 56003 64669 72527 218480 56742 162605 168530 52568 168798
+
+**********
+THEME: menendez
+TOPICS: uspolM0.44 ~uspolM11.83
+WORDS: bob menendez corruption trial plead jersey
+
+
+DOCS:
+196895 200119 137003 137119 200037 196437 195916 139368 196868 198740 196459 196481
+197101 196401 198740 137119 137249 196481 197047 200453 137088 196590 137109 137260 196572 208661
+docs
+**********
+THEME: medicare
+TOPICS: ~uspolM11.80
+WORDS: medicare insurance health medicaid patient budget
+doctor
+DOCS:
+182392 155853 184117 161493 172187 72586 217778 158902 168206 171210 166407 53972 182662 156434 182473
+docs
+**********
+THEME: CPAC
+TOPICS: uspolM11.85 ~uspolM10.32
+WORDS: conservative conference cpac 
+
+crowd
+DOCS:
+118113 122075 122711 122350 121856 122656 123560 121738 120181 121323 122319 121554 122202 119377 117604 122099 112764 123728 122544 119229 118078
+122895 107147 121323 104605 123630 122711 119229 122337 117604 123288 123606 123538 106854 123728 121554 121485 121248
+docs
+**********
+THEME: labor issues
+TOPICS: uspolM2.15 uspolM10.8
+WORDS: labor worker union wage salary 
+employe fire employ contract worker paid workforc workplac salari overtim
+worker employe wage employ labor paid minimum hire workforc earn salari workplac full-tim part-tim factori low-wag
+DOCS:
+106599 142519 78276 188724 84457 154271 165702 158175 210091 84867 86892 53495 175667 182202 87301 159427 114796
+173623 106768 198844 197796 199052 134198 72270 104873 206022 202533 62054 113915 197998 111653 107893 54503 111756 84867 67933 147035 193431 189701
+
+**********
+THEME: david axelrod
+TOPICS: ~uspolM11.93
+WORDS: david axelrod
+advis book advisor
+DOCS:
+88581 85971 86114 86101 75025 89377 129205 85957 86276 85414 81864 86255 86797 85629 85079
+docs
+**********
+THEME: conflict in middle east
+TOPICS: uspolM2.5
+WORDS:
+iraq isi islam syria troop afghanistan saudi milit fighter iraqi afghan strike arab syrian taliban sunni terrorist jordan alli airstrik qaeda isil egypt bomb turkey assad libya tikrit abdullah terror jordanian egyptian baghdad mosul kurdish
+DOCS:
+156334 109858 85653 153921 108011 127578 107792 65912 210712 171867 88406 62388 166911 179247 88267 174863 87139 105795 88362 101008 177417 71227 177333
+
+**********
+THEME: yemen
+TOPICS: uspolM10.20
+WORDS:
+strike yemen houthi rebel shiit target villag hadi yemeni proxi iranian airstrik aden peninsula revolutionari qaeda arabian saudi-l
+DOCS:
+171040 170363 183831 87646 218159 180991 213097 89401 188062 181191 183552 188306 95093 63300 180710 213283 192792 92098 88898 184011 181917
+
+**********
+THEME: benghazi investigation
+TOPICS: ~uspolM11.89 ~uspolM0.3
+WORDS:
+testifi testimoni benghazi
+panel ambassador libya
+DOCS:
+57689 55174 148319 58771 62488 57156 57363 59232 153698 55054 56832 57713 55461 57447 59322 79238 55131
+59322 57447 154871 148354 137239 56832 193215 57156 132624 62488 186057 193267
+docs
+**********
+THEME: bombing
+TOPICS: ~uspolM10.0
+WORDS: boston marathon bombing trial jury sentence
+boston tsarnaev bomb marathon dzhokhar
+DOCS:
+188460 209529 191370 68024 205453 131004 142644 141932 150894 201681 131294 190451 212009 217818 133869 201294
+docs?
+**********
+THEME: traffic
+TOPICS: ~uspolM2.16 ~uspolM10.88
+WORDS: traffic car train boat pedestrian 
+road train mile driver station transport car ship airport travel drive port river truck passeng transit vehicl highway traffic railroad
+driver car drive train cross bu vehicl truck transport accid commut ride transit speed ferri cab rider bike rail road pedestrian traffic
+DOCS:
+67268 55890 95261 54604 174513 157932 197154 166309 100199 125184 59159 157269 78447 106397 147527 94210
+75177 135381 78037 123823 205452 75580 153257 105763 88677 125184 82808 98108 187299 54604 193861 106397 67268 187510
+words
+**********
+THEME: bowe bergdahl
+TOPICS: uspolM10.30 ~uspolM11.10
+WORDS: bowe bergdahl taliban swap prisoner soldier
+bowe bergdahl
+
+DOCS:
+180484 179884 56775 180154 62688 55886 181414 188476 180394 179968 180175 180383 77154 56309 181806 180289 181122 62437 183496
+181122 180289 57874 196269 180383 179943 179864 196569 179902 56309 181414 182518 180484 184186 180175 56640 180223
+docs
+**********
+THEME: prince charles visit US
+TOPICS: ~uspolM1.37
+WORDS: charles camilla united kingdom
+british princ charl britain royal england
+DOCS:
+106492 166330 166269 167233 108104 166034 106385 165981 165955 166040 159601 163057 158435 106380
+docs?
+**********
+THEME: fed
+TOPICS: ~uspolM10.94
+WORDS: federal bank interest rate
+fed reserv central audit stimulu
+DOCS:
+144620 163665 76143 110252 59359 125102 100327 207147 147729 79788 147348 163065 102487 178589 111574 211022 84415 132872 86248 143147
+docs
+**********
+THEME: muslim extremism
+TOPICS: uspolM11.30 ~uspolM10.41
+WORDS:
+islam isi terrorist terror muslim radic extrem milit extremist violent islamist ideolog violenc qaeda brutal jihadist arab bomb brotherhood jihad muhammad mosqu prophet quran caliph jihadi sharia
+islam terror terrorist isi radic extrem extremist milit muslim recruit qaeda bomb islamist fighter counterterror jihadist laden isil moham jihad al-qaida osama cleric tunisia jihadi copenhagen hebdo
+DOCS:
+76933 106682 86227 121457 61727 100779 98381 123165 83713 103527 105396 99166 64901 57394 105977 89344 83634 104771 104262 76943 94110 94662 64948 64907 78092 104353 103080 163804 101133
+100358 116872 104026 99665 102907 116920 105977 103080 107942 101623 77911 205498 99770 101145 187978 124191 102921 104571
+
+**********
+THEME: showbusiness
+TOPICS: uspolM1.7
+WORDS: stewart brian williams nbc abc snl fox news oscar
+video watch film daili journalist star tv movi stewart televis radio charact audienc editor network featur broadcast magazin episod award anchor actor hollywood comedi celebr newspap oscar comedian camera glenn
+DOCS:
+173641 77105 84278 84043 124647 118509 56869 75586 151079 139337 122219 89669 87484 122666 79165 145544 149840 126049 77523 89639 83758 126256 84433 197513 89740 106395 76503 111678 74295 98065 111528 108658
+
+**********
+THEME: gay rights
+TOPICS: uspolM1.24 uspolM0.15
+WORDS:
+religi gay marriag indiana freedom discrimin same-sex alabama lgbt arkansa religion lesbian marri wed sexual rfra liberti homosexu transgend bisexu anti-gay anti-discrimin
+gay marriag religi indiana discrimin same-sex coupl alabama arkansa lgbt lesbian suprem judg transgend marri rfra wed liberti sexual homosexu gender religion bisexu discriminatori anti-gay anti-discrimin sex
+DOCS:
+198857 193762 134743 201943 90925 199774 194189 192995 204479 191798 87432 202994 209767 197748 102776 148964 183286 137855 193232 200684 195842 193598 148232 195445 189822 182023 93676 199429
+190607 93676 198279 106821 179857 130137 199407 195408 182431 96378 104899 62802 191389 83482 56721 195406 199030 195599 190957 142161 201019 187778 158186 166641 130036 195832 193233 196781 69606
+
+**********
+THEME: vaccination
+TOPICS: uspolM11.55 uspolM0.13
+WORDS:
+vaccin parent diseas measl kid outbreak immun spread prevent infect viru voluntari anti-vaccin polio
+vaccin parent scienc kid measl immun outbreak medic autism anti-vaccin
+DOCS:
+121831 72375 69017 69849 72388 71980 68935 72012 124676 93429 72811 116154 73560 72196 72698 72106 69122
+75718 124676 72768 75112 64818 80133 91199 72904 69894 72987 76447 72772 68759 72012 72630 69660 72375 72289 98189 72704
+
+**********
+THEME: loretta lynch
+TOPICS: uspolM0.32 uspolM10.96
+WORDS: loretta lynch attorney general confirmation
+confirm attorney lynch nomine loretta
+
+DOCS:
+75347 77076 145213 158967 159760 118871 134751 59776 144567 134506 144938 159595 134529 145166 59147 118894 157036
+155139 155135 156119 144551 168522 134200 170187 57852 145213 134529 158131 168879 58817 198871 92458 58301
+docs
+**********
+THEME: ISIS war authorization
+TOPICS: uspolM11.32 ~uspolM0.34
+WORDS: war powers aumf 
+resolut three-year
+
+DOCS:
+147133 88754 94820 96428 88267 89324 115410 92535 94933 90320 78290 87224 84897 94923 147346 194871 144932 88520
+87224 58264 88406 149336 78290 91733 84897 96441
+docs
+**********
+THEME: opinion polls
+TOPICS: uspolM2.49 uspolM10.86
+WORDS:
+data rate survey favor compar popul research percentag margin studi conduct opinion averag overal figur error trend gallup highest demograph statist tend turnout factor pollster popular total rank censu signific lowest
+favor survey opinion margin conduct independ error percentag rate sampl pew half gallup pollster disapprov data
+DOCS:
+173999 128427 158016 129201 79099 71152 119604 93086 92574 156906 156647 114945 142359 199307 97332 216760 188083 142371
+134450 189568 133651 72052 195110 143462 86932 183285 83297 91469 103000 85584 92103 157409 192458 109205 220021 86804
+words
+**********
+THEME: budget
+TOPICS: uspolM10.99 uspolM1.12
+WORDS: budget tax spending cut 
+billion cost fiscal deficit revenu trillion balanc slash
+billion fiscal balanc deficit trillion cap sequestr
+DOCS:
+69093 180678 184193 169048 60166 182649 188724 180777 68303 114792 69271 177250 159153 166071 69803 181635 103167 58527
+158566 174761 194170 69542 159055 60822 181291 165531 180777 62719 163009 180711 69161 171210 68303 160429 68302 65140 181230
+docs
+**********
+THEME: prisons
+TOPICS: uspolM11.98 ~uspolM10.40
+WORDS: confinement
+prison convict correct jail inmat facil cell guard solitari
+prison convict jail inmat correct imprison bar cell solitari
+DOCS:
+62466 193566 109974 147424 193592 169376 185698 89765 113044 177592 122513 116555 91613 111889 199444 201384 115601
+201832 198564 122513 183543 185698
+docs
+**********
+THEME: chris christie
+TOPICS: uspolM10.81 ~uspolM2.20
+WORDS: chris christie
+
+
+DOCS:
+111887 165783 105879 168758 98495 66726 138346 119534 140398 70339 209652 113035 128972 76094 67377 66706 72492 77007 189746 209664 106157
+53379 189746 87353 69526 201310 119373 71349 119311 101236 144697 209652 114780 189656 111643 67114 68480 99349 166806
+docs
+**********
+THEME: food
+TOPICS: uspolM10.73 ~uspolM2.45
+WORDS: food nutrition regulation fda meat vegetarian vegetables 
+food agricultur eat farm label store farmer lunch healthi produc meat nutrit egg feed fruit diet meal drink supplement milk healthier fat crop recip pizza corn seafood junk steak
+food eat lunch restaur meat drink healthi nutrit egg coffe diet meal sugar agricultur veget
+DOCS:
+115573 149489 54054 144802 132141 178316 69156 104776 168924 214420 121455 179606 119743 168256 107845 169054 182942 69375 177079 192516 182778 89170 87403 208856
+182942 182778 119743 196365 206553 111840 141961 77335 120434 121455 174948 69156
+
+**********
+THEME: india
+TOPICS: ~uspolM10.46
+WORDS: india modi 
+india indian modi delhi narendra
+DOCS:
+88924 54340 53007 54128 52151 56200 56351 52986 85658 55337 53164 52066 147467 52579 53445 54419
+
+**********
+THEME: intelligence
+TOPICS: uspolM10.36
+WORDS: kiriakou fbi nsa intercept
+intellig cia leak spi tortur classifi petraeu analyst espionag
+DOCS:
+84988 128715 83637 72872 129700 129025 128642 153860 54612 140343 100662 131090 153007 141656 157594 57452 180661 114115 128686 127399 128647 56591 128980 54544 200349 84988 175412 105881 105865 136927 78687 184084 83151
+docs
+**********
+THEME: violent crimes
+TOPICS: ~uspolM11.18 ~uspolM10.40
+WORDS: knife inflict
+die murder suspect shot bodi injuri victim killer hospit gunshot bullet autopsi
+crime murder victim offend sex
+DOCS:
+186808 170838 103493 196202 82711 202368 170901 217969 169023 215758 126569
+198564 193643 122513 185260 144003 154043 89765 95008 82711 65540 110162 185943
+docs
+**********
+THEME: scott walker
+TOPICS: uspolM10.59 uspolM2.0
+WORDS: union
+walker wisconsin scott
+
+DOCS:
+63391 139458 142716 111246 200888 56914 210521 146453 120235 110579 168585 165847 124765 72368 144618 175916 123334 130118 116556 108876 121021 153873 71656
+183838 98477 90260 72368 120094 141148 64678 165307 217601 154947 124656 153647 63391 216820 76685 89587 59504 218598 119905 121551 130158 129630 183071 142259 98920
+docs
+**********
+THEME: iran letter
+TOPICS: uspolM1.1 uspolM11.54
+WORDS: signed sign
+letter tom cotton undermin signatur schweich interfer
+signatori
+DOCS:
+145553 147265 150464 140739 155267 151874 158966 141903 154660 143228 146911 141933 154429 145173 142832 145399 149933 147173
+150509 147207 143939 143646 146933 141992 142918 155309 146610 143417 154948 149687 146238 141241 141746 155012 158043 150355
+docs
+**********
+THEME: yemen
+TOPICS: ~uspolM0.41
+WORDS:
+saudi strike yemen arabia houthi rebel yemeni sanaa
+DOCS:
+181149 125840 181767 186539 180773 188389 204067 102615 181165 161308 170287 79559 188502 221523 175627 203773 182840 79599 92244 192792 181917 219464 181191 182641 83177 183455 196798 191289 87646 171024
+docs
+**********
+THEME: hillary clinton email
+TOPICS: uspolM11.23 uspolM10.75
+WORDS: hillary clinton email wipe
+email e-mail server rodham clintonemail
+
+DOCS:
+168670 187180 189202 186014 130814 141927 138851 193134 130388 143408 145154 129203 144004 153313 145697 149583 132794 127747 135364
+164989 136371 133075 134564 127476 153223 148022 146412 143739 137675 136719 164683 133815 133989 144613
+docs
+**********
+THEME: cybersecurity
+TOPICS: uspolM10.63 ~uspolM11.76
+WORDS: cybersecurity malware
+network cyber hack vulner breach hacker cyberattack kasperski penetr malici
+cybersecur
+DOCS:
+166278 78198 184299 93225 92635 126762 177165 160403 118868 209678 92896 176504 94120 92397 182939 98201 86288 85531 94486 102352
+86352 171872 94120 209791 110039 150164 94128 210616 98232 69278 85914 156309 92386 221242 69825 94797 85531 85798 195696
+docs
+**********
+THEME: kissinger protests
+TOPICS: ~uspolM1.8 ~uspolM11.48
+WORDS: henry kissinger mccain code pink protest handcuffs
+
+
+DOCS:
+64404 64138 61755 61644 67504 62103 62614 62713 61753 67103 61757 67147 67118
+67103 67147 66461 63171 64138 67118 61644 61755 62713 62103 61406 61545 62614 67504 61753
+docs
+**********
+THEME: sarah palin
+TOPICS: uspolM10.3
+WORDS: sarah palin
+
+DOCS:
+52218 119939 89476 174501 140861 52770 59901 61289 62616 55588 54391 58764
+docs
+**********
+THEME: trade pact
+TOPICS: uspolM10.98 ~uspolM0.6
+WORDS: trade pact deal trans pacific partnership fast track
+free export tpp trans-pacif nafta
+fast-track
+DOCS:
+180557 55936 151318 157696 151899 55815 129820 52570 148012 79508 84916 119767 182498 129844 94328 72263 63351 119808 177272 144555
+63023 177272 144038 80063 53619 124660 142299 65298 194696 207380 61628 117071 112609
+docs
+**********
+THEME: iran nuclear negotiations
+TOPICS: uspolM1.26 uspolM2.8
+WORDS:
+nuclear agreement sanction iranian tehran deadlin corker enrich uranium zarif switzerland centrifug lausann khamenei ayatollah iaea mcdonough
+nuclear letter sanction iranian kerri framework alli zarif lausann
+DOCS:
+130511 145399 204032 184129 56667 128229 201690 198649 127972 164994 126921 125483 218516 202176 151629
+197921 145399 142598 170829 221279 140566 141039 116908 143417 218516 155964 163240 204265 202029 126921 198836 148527 166941 128882
+
+**********
+THEME: nigeria
+TOPICS: ~uspolM10.7 ~uspolM11.3
+WORDS: boko haram nigeria goodluck
+nigerian
+jonathan buhari niger
+DOCS:
+186754 170596 108426 93114 104259 221976 88249 95160 194230 197121 188559 52153 78949 123278 124417 81818 148840 173581 196839 163432 53308 91517 188020
+104259 188020 53308 197121 100733 95160 101829 124417 91517 52153 93114 88249 102928 148840 221976 194230 195492 78949 108426 81818 123278 170596 173581 186754 196839
+docs
+**********
+THEME: political trivialities
+TOPICS: ~uspolM2.45
+WORDS:
+ladi award michel daughter roll egg patrick
+DOCS:
+157237 170653 206274 175034 211126 206555 122283 201415 95171 206636 152216 206126 157384 205893 206975 86393 157858 101132 152880
+docs
+**********
+THEME: politics: senate and congress
+TOPICS: uspolM1.27 ~uspolM11.80
+WORDS: senate congress senator
+reid harri schumer pelosi sander floor seat bipartisan durbin mikulski caucu murray chair mcconnel whip cornyn congressman partisan
+
+DOCS:
+145563 198864 188270 165599 160286 185942 159471 195834 155037 176800 137389 126012 166682 143553 184424 212383 160653 197163 211358 116286 185660 189332
+
+
+**********
+THEME: jon stewart
+TOPICS: ~uspolM10.47 ~uspolM11.59
+WORDS: jon stewart daily show
+daili comedi comedian colbert stephen comic hbo comed
+host noah humor parodi
+DOCS:
+89639 88075 87309 79010 88402 88254 88252 87375 88678 89155 92837 58263 87593 87216 88425 189745
+88252 197513 196333 89740 88254 191122 87216 88777 87375 88678 91473 89155 87309
+docs
+**********
+THEME: court
+TOPICS: uspolM10.58
+WORDS:
+constitut suprem kennedi appeal judg judici scalia ginsburg anthoni
+DOCS:
+147187 86481 204479 105797 99279 211909 131848 94401 173364 83490 137181 93872 132939 84524 112496 191444 125930 157933 93389 132760 192896 116451 132264 182231 141796 132102 204988
+docs
+**********
+THEME: health topics
+TOPICS: ~uspolM11.12
+WORDS:
+medic drug treatment patient hospit doctor mental treat ill cancer research medicin prevent physician diseas hiv fda symptom
+DOCS:
+101878 118563 118775 196632 106896 132972 74324 216699 183591 63586 111749 72285 77751 206447 111230 144949 183177 209427
+docs
+**********
+THEME: drone
+TOPICS: uspolM0.47 ~uspolM11.96
+WORDS: drone lawn secret service regulation
+
+quadcopt
+DOCS:
+97123 57255 96234 57082 53124 96443 163243 190952 163045 75648 54921 54235 59876 56526 143359
+143359 178101 96934 142945 75783 53124 56538 56635 76782 62202 144150 56690 171884 163141 96425 68867 55513 56819 56350 142983 162867 55913 75648
+docs
+**********
+THEME: death penalty
+TOPICS: uspolM10.51 ~uspolM0.0
+WORDS:
+death fire penalti die inject punish row lethal squad inmat
+inmat lethal
+DOCS:
+52575 94593 129935 175376 191857 136368 94104 57109 166791 54811 167676 100509 166909 148118 151905 194271 145920 59605 196010
+174926 95304 148202 214709 130015 94593 63143 142743 145920 55012 100759 135291 62657 146149 105270
+docs
+**********
+THEME: civil rights
+TOPICS: uspolM2.10 ~uspolM11.67
+WORDS: gay
+civil black movement societi king selma equal histor democraci freedom african liberti slaveri luther african-american
+
+DOCS:
+138769 131920 66978 137301 146177 137013 97844 144887 137482 138291 138461 137085 156329 138550 138587 217600 138719 138701 138666 138530 86888 89919 138129 55947 137492 156252 135649
+90049 146177 209882 114733 202071 107832 159653 138237 138686 83752 138817 173460 138660 138701 159563 201181 138948 124297 125226 138718
+docs
+**********
+THEME: presidential elections
+TOPICS: uspolM10.50 uspolM11.65
+WORDS: presidential elections primaries hillary democrats republican 
+caucu activist swing candidaci leadership crowd ralli endors super-pac
+iowa carolina elector summit fundrais moder frontrunn politician
+DOCS:
+191208 221753 205040 180881 163001 153898 138494 101307 150425 151916 221671 167438 121272 138509 222195 94298 142189 191506 165242 84334 140346 138345 209987 82009 96576 125631 138993 137509 151151 56593 137843 221240 52567 206574
+153902 87913 117972 167437 64782 67189 132428 139770 87097 138345 67279 108475 162171 82143 154119 95314 145728 172164 222069 102034 121863 138595 137788 200888 220127 140747 207769 152302 96119 82334 112286 88170
+docs
+**********
+THEME: cuba
+TOPICS: uspolM1.35 uspolM2.21
+WORDS: cuba castro fidel embassy sanctions 
+cuba cuban castro diplomat tie panama embargo havana sanction
+cuba cuban castro travel diplomat fidel cuban-american
+DOCS:
+216102 168040 218427 84800 78197 214676 76948 77958 220052 218455 127420 219398 214373 105686 62898 193222 216448 210427 208561 99763 62097 197496 176443
+76948 152478 214812 218377 73418 209546 128407 69395 215972 78197 221588 176330 100208 61898 72994 99582 208310 72010 84816 215740 219386 205601 62926 220050 105686 218400 220540 219398 122706 56743 105598 69831
+docs
+**********
+THEME: sport
+TOPICS: uspolM11.33 uspolM10.97
+WORDS: sport football basketball nfl nba ncaa
+team game player fan sport leagu footbal bowl season basketbal nfl duke athlet coach ncaa field basebal ball nba bracket stadium tournament match student-athlet championship giant ucla seahawk
+team game player season sport leagu fan footbal bowl nfl basketbal athlet coach basebal ball nba stadium ring tournament arena seahawk soccer hockey champion
+DOCS:
+128823 165305 89921 192171 204551 191290 94729 165867 195112 150275 159926 180752 72984 64660 63887 59001 222495 53618 185321 57545 162437 175188 67689 181983
+170653 58999 94491 88247 169418 162516 64999 78946 94729 170408 163384 162437 165867 143508 185321 113917 205504 59481 119745 70294 62654 181983 60916 183330 211202 170763 162477 150275
+
