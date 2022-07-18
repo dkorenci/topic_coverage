@@ -54,7 +54,7 @@ def topicTextQuery(builder, opts):
 def testCorpusTopicIndexSmall1(tmpdir):
     '''Test build on small corpus, using dict and txt2tokens from the model. '''
     createLogger(testCorpusTopicIndexSmall1.__name__).info(' ')
-    buildOpts = {'corpus': 'us_politics_dedup_[:100]_seed[1]',
+    buildOpts = {'corpus': 'us_politics_dedup_[100]_seed[1]',
          'model': 'model1', 'dictionary': None, 'txt2tokens': None}
     builder = Builder()
     ctiBuildSaveLoadCompare(builder, buildOpts, str(tmpdir))
@@ -62,7 +62,7 @@ def testCorpusTopicIndexSmall1(tmpdir):
 def testCorpusTopicIndexSmall2(tmpdir):
     '''Test build on small corpus, explicitly setting dict and txt2tokens. '''
     createLogger(testCorpusTopicIndexSmall2.__name__).info(' ')
-    buildOpts = {'corpus': 'us_politics_dedup_[:100]_seed[1]', 'model': 'model1',
+    buildOpts = {'corpus': 'us_politics_dedup_[100]_seed[1]', 'model': 'model1',
                  'dictionary': 'us_politics_dict', 'txt2tokens': 'english_alphanum_tokenizer'}
     builder = Builder()
     ctiBuildSaveLoadCompare(builder, buildOpts, str(tmpdir))
@@ -70,7 +70,7 @@ def testCorpusTopicIndexSmall2(tmpdir):
 def testCorpusTopicIndexBig(tmpdir):
     '''Test build on big corpus, using dict and txt2tokens from the model. '''
     createLogger(testCorpusTopicIndexBig.__name__).info(' ')
-    buildOpts = {'corpus': 'us_politics_dedup_[:2500]_seed[3]',
+    buildOpts = {'corpus': 'us_politics_dedup_[2500]_seed[3]',
                  'model': 'model1', 'dictionary': None, 'txt2tokens': None}
     builder = Builder()
     ctiBuildSaveLoadCompare(builder, buildOpts, str(tmpdir))
@@ -78,7 +78,7 @@ def testCorpusTopicIndexBig(tmpdir):
 def testTopicTextQuerySmall():
     '''Test topicTexts query on small corpus. '''
     createLogger(testTopicTextQuerySmall.__name__).info(' ')
-    buildOpts = {'corpus': 'us_politics_dedup_[:100]_seed[1]',
+    buildOpts = {'corpus': 'us_politics_dedup_[100]_seed[1]',
                  'model': 'model1', 'dictionary': None, 'txt2tokens': None}
     builder = Builder()
     topicTextQuery(builder, buildOpts)
@@ -89,7 +89,7 @@ def testTopicTextQueryBig():
     buildOpts = [
                  # {'corpus': 'us_politics_dedup_[:2500]_seed[3]',
                  # 'model': 'model1', 'dictionary': None, 'txt2tokens': None},
-                 {'corpus': 'us_politics_dedup_[:2500]_seed[3]',
+                 {'corpus': 'us_politics_dedup_[2500]_seed[3]',
                   'model': 'nmf_model1', 'dictionary': None, 'txt2tokens': None},
                  ]
     builder = Builder()
@@ -98,7 +98,7 @@ def testTopicTextQueryBig():
 
 def testCrossCorpus(tmpdir):
     '''Test inference of corpus-topic vectors on corpora not used to build the models'''
-    ctiBuildOpts = [ {'corpus':  'us_politics_dedup_[:100]_seed[1]', 'dictionary': None,
+    ctiBuildOpts = [ {'corpus':  'us_politics_dedup_[100]_seed[1]', 'dictionary': None,
                         'txt2tokens': None}, ]
     models = ['model1', 'nmf_model1']
     builder = Builder()

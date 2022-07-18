@@ -18,7 +18,7 @@ def tfidfBuildSaveLoadCompare(builder, opts, dir):
 def testCorpusTfidfIndexSmall(tmpdir):
     '''Test build on a small corpus. '''
     createLogger(testCorpusTfidfIndexSmall.__name__).info('STARTING TEST METHOD')
-    buildOpts = {'corpus': 'us_politics_dedup_[:100]_seed[1]',
+    buildOpts = {'corpus': 'us_politics_dedup_[100]_seed[1]',
                  'dictionary': 'us_politics_dict', 'text2tokens': 'english_alphanum_tokenizer'}
     builder = Builder()
     tfidfBuildSaveLoadCompare(builder, buildOpts, str(tmpdir))
@@ -26,7 +26,7 @@ def testCorpusTfidfIndexSmall(tmpdir):
 def testCorpusTfidfIndexLarge(tmpdir):
     '''Test build on large corpus. '''
     createLogger(testCorpusTfidfIndexLarge.__name__).info('STARTING TEST METHOD')
-    buildOpts = {'corpus': 'us_politics_dedup_[:2500]_seed[3]',
+    buildOpts = {'corpus': 'us_politics_dedup_[2500]_seed[3]',
                  'dictionary': 'us_politics_dict', 'text2tokens': 'english_alphanum_tokenizer'}
     builder = Builder()
     tfidfBuildSaveLoadCompare(builder, buildOpts, str(tmpdir))

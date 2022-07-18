@@ -6,11 +6,11 @@ import pytest
 
 @pytest.fixture(scope="session")
 def corpus_uspol_small():
-    return 'us_politics_dedup_[:100]_seed[1]'
+    return 'us_politics_dedup_[100]_seed[1]'
 
 @pytest.fixture(scope="session")
 def corpus_uspol_medium():
-    return 'us_politics_dedup_[:2500]_seed[3]'
+    return 'us_politics_dedup_[2500]_seed[3]'
 
 def toyCorpusUsPolitics(verbose=False):
     '''

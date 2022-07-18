@@ -18,7 +18,7 @@ def wdiBuildSaveLoadCompare(builder, opts, dir):
 def testWordDocIndexSmall(tmpdir):
     '''Test build on a small corpus. '''
     createLogger(testWordDocIndexSmall.__name__).info('STARTING TEST METHOD')
-    buildOpts = {'corpus': 'us_politics_dedup_[:100]_seed[1]',
+    buildOpts = {'corpus': 'us_politics_dedup_[100]_seed[1]',
                  'dictionary': 'us_politics_dict', 'text2tokens': 'english_alphanum_tokenizer'}
     builder = Builder()
     wdiBuildSaveLoadCompare(builder, buildOpts, str(tmpdir))
@@ -26,7 +26,7 @@ def testWordDocIndexSmall(tmpdir):
 def testWordDocIndexLarge(tmpdir):
     '''Test build on large corpus. '''
     createLogger(testWordDocIndexLarge.__name__).info('STARTING TEST METHOD')
-    buildOpts = {'corpus': 'us_politics_dedup_[:2500]_seed[3]',
+    buildOpts = {'corpus': 'us_politics_dedup_[2500]_seed[3]',
                  'dictionary': 'us_politics_dict', 'text2tokens': 'english_alphanum_tokenizer'}
     builder = Builder()
     wdiBuildSaveLoadCompare(builder, buildOpts, str(tmpdir))
